@@ -38,7 +38,7 @@ public class TodayStatus extends AppCompatActivity implements View.OnClickListen
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_status);
+        setContentView(R.layout.activity_status_new);
 
         appManager = new AppManager(getApplicationContext());
 

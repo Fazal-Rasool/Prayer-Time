@@ -1452,8 +1452,11 @@ drawable bg
 drawable bg1
 drawable bg_crunt_namaz_time
 drawable bg_toolbar
+drawable bismillah
 drawable blue
 drawable box
+drawable box_iftar
+drawable box_sehar
 drawable btn_cab_done_arbitheme
 drawable btn_cab_done_default_arbitheme
 drawable btn_cab_done_focused_arbitheme
@@ -1542,6 +1545,7 @@ drawable listview_selector_pressed
 drawable maghrib
 drawable maghrib_hover
 drawable maghrib_icon_selector
+drawable main_page_dua
 drawable menu_dropdown_panel_arbitheme
 drawable moreapps
 drawable navbar_bg_md
@@ -1761,6 +1765,7 @@ id img2
 id info
 id italic
 id item_touch_helper_previous_elevation
+id ivBis
 id juristicHanafiLayout
 id juristicHanbaliLayout
 id juristicMalakiLayout
@@ -2002,6 +2007,7 @@ layout activity_qibla_directiona
 layout activity_settings
 layout activity_splash
 layout activity_status
+layout activity_status_new
 layout app_bar_main
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

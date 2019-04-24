@@ -31,8 +31,13 @@
             android:id="@+id/prayerIcon"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:src="@drawable/fajar_icon_selector" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="0.5"/>
 
         <TextView
             android:id="@+id/prayerTimeTextView"
