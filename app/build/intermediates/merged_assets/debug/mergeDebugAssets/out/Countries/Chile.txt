@@ -1,0 +1,101 @@
+﻿
+Chile#Ancud#-41.869722#-73.8202744#1#-4
+Chile#Angol#-37.8#-72.7166672#79#-4
+Chile#Antofagasta#-23.65#-70.4000015#276#-4
+Chile#Arauco#-37.246301#-73.3175201#2#-4
+Chile#Arica#-18.483333#-70.3333359#12#-4
+Chile#Buin#-33.733333#-70.75#457#-4
+Chile#Bulnes#-36.733333#-72.3000031#92#-4
+Chile#Cabrero#-37.033333#-72.4000015#111#-4
+Chile#Calama#-22.466667#-68.9333344#2248#-4
+Chile#Calbuco#-41.766667#-73.1333313#-9999#-4
+Chile#Canete#-37.8#-73.4000015#144#-4
+Chile#Carahue#-38.7#-73.1666641#3#-4
+Chile#Castro#-42.472097#-73.7731934#14#-4
+Chile#Cauquenes#-35.966667#-72.3499985#136#-4
+Chile#Chiguayante#-36.916667#-73.0166702#184#-4
+Chile#Chillan#-36.6#-72.1166687#127#-4
+Chile#Chimbarongo#-34.7#-71.0500031#305#-4
+Chile#Coihaique#-45.57524#-72.0661926#355#-4
+Chile#Collipulli#-37.95#-72.4333344#242#-4
+Chile#Concepcion#-36.826995#-73.0497665#136#-4
+Chile#Constitucion#-35.333333#-72.4166641#57#-4
+Chile#Copiapo#-27.366667#-70.3333359#381#-4
+Chile#Coquimbo#-29.953333#-71.3436127#87#-4
+Chile#Coronel#-37.016667#-73.1333313#84#-4
+Chile#Curanilahue#-37.466667#-73.3499985#195#-4
+Chile#Curico#-34.983333#-71.2333298#218#-4
+Chile#Diego de Almagro#-26.366667#-70.0500031#923#-4
+Chile#El Monte#-33.683333#-71.0166702#232#-4
+Chile#Graneros#-34.066667#-70.7333298#456#-4
+Chile#Hacienda La Calera#-32.783333#-71.2166672#202#-4
+Chile#Illapel#-31.630833#-71.1652756#320#-4
+Chile#Iquique#-20.216667#-70.1666641#-9999#-4
+Chile#La Laja#-37.266667#-72.6999969#50#-4
+Chile#La Ligua#-32.452418#-71.2310562#127#-4
+Chile#La Serena#-29.907778#-71.2541656#30#-4
+Chile#La Union#-40.283333#-73.0833359#67#-4
+Chile#Lampa#-33.283333#-70.9000015#623#-4
+Chile#Las Animas#-39.808668#-73.2182083#8#-4
+Chile#Lautaro#-38.516667#-72.4499969#235#-4
+Chile#Lebu#-37.616667#-73.6500015#75#-4
+Chile#Limache#-33.016667#-71.2666702#146#-4
+Chile#Linares#-35.85#-71.5999985#165#-4
+Chile#Llaillay#-32.85#-70.9666672#365#-4
+Chile#Loncoche#-39.366667#-72.6333313#136#-4
+Chile#Los Andes#-32.833686#-70.5982742#834#-4
+Chile#Los Angeles#-37.466667#-72.3499985#137#-4
+Chile#Lota#-37.083333#-73.1666641#71#-4
+Chile#Machali#-34.183333#-70.6666641#555#-4
+Chile#Melipilla#-33.7#-71.2166672#237#-4
+Chile#Molina#-35.116667#-71.2833328#274#-4
+Chile#Monte Patria#-30.691944#-70.9466629#524#-4
+Chile#Mulchen#-37.716667#-72.2333298#117#-4
+Chile#Nacimiento#-37.5#-72.6666641#90#-4
+Chile#Nueva Imperial#-38.733333#-72.9499969#50#-4
+Chile#Osorno#-40.566667#-73.1500015#87#-4
+Chile#Ovalle#-30.598333#-71.2002792#269#-4
+Chile#Paine#-33.816667#-70.75#354#-4
+Chile#Panguipulli#-39.633333#-72.3333359#268#-4
+Chile#Parral#-36.15#-71.8333359#163#-4
+Chile#Penaflor#-33.616667#-70.9166641#342#-4
+Chile#Penco#-36.733333#-72.9833298#84#-4
+Chile#Pitrufquen#-38.983333#-72.6500015#81#-4
+Chile#Puerto Montt#-41.471667#-72.9369431#20#-4
+Chile#Puerto Natales#-51.723626#-72.4874496#41#-4
+Chile#Puerto Varas#-41.316667#-72.9833298#88#-4
+Chile#Punta Arenas#-53.15#-70.9166641#54#-4
+Chile#Purranque#-40.916667#-73.1666641#236#-4
+Chile#Quillota#-32.883333#-71.2666702#133#-4
+Chile#Quilpue#-33.045#-71.4494476#129#-4
+Chile#Rancagua#-34.166667#-70.75#518#-4
+Chile#Rengo#-34.416667#-70.8666687#288#-4
+Chile#Rio Bueno#-40.316667#-72.9666672#40#-4
+Chile#Salamanca#-31.775#-70.9722214#467#-4
+Chile#San Antonio#-33.593333#-71.621666#5#-4
+Chile#San Bernardo#-33.6#-70.7166672#629#-4
+Chile#San Carlos#-36.416667#-71.9666672#160#-4
+Chile#San Clemente#-35.55#-71.4833298#241#-4
+Chile#San Felipe#-32.75#-70.7333298#637#-4
+Chile#San Javier#-35.6#-71.75#53#-4
+Chile#San Vicente#-34.433333#-71.0833359#217#-4
+Chile#Santa Cruz#-34.633333#-71.3666687#165#-4
+Chile#Santiago#-33.45#-70.6666641#513#-4
+Chile#Talagante#-33.666667#-70.9333344#313#-4
+Chile#Talca#-35.433333#-71.6666641#102#-4
+Chile#Talcahuano#-36.716667#-73.1166687#1#-4
+Chile#Taltal#-25.4#-70.4833298#34#-4
+Chile#Temuco#-38.733333#-72.5999985#128#-4
+Chile#Tocopilla#-22.083333#-70.1999969#67#-4
+Chile#Tome#-36.616667#-72.9499969#120#-4
+Chile#Traiguen#-38.25#-72.6833344#179#-4
+Chile#Valdivia#-39.814223#-73.2458954#10#-4
+Chile#Vallenar#-28.570833#-70.7580566#442#-4
+Chile#Valparaiso#-33.03932#-71.6272583#24#-4
+Chile#Victoria#-38.216667#-72.3333359#335#-4
+Chile#Vicuna#-30.031944#-70.7080536#769#-4
+Chile#Villa Alemana#-33.042222#-71.3733368#155#-4
+Chile#Villarrica#-39.285686#-72.2278976#224#-4
+Chile#vina causino#-33.616667#-70.5833359#673#-4
+Chile#Vina del Mar#-33.022914#-71.552536#33#-4
+Chile#Yumbel#-37.083333#-72.5666656#94#-4

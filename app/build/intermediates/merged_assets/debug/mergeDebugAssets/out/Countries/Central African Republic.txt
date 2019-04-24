@@ -1,0 +1,37 @@
+﻿
+Central African Republic#Alindao#5.0333333#21.2166672#482#1
+Central African Republic#Bambari#5.7619444#20.667223#465#1
+Central African Republic#Bangassou#4.7333333#22.8166676#458#1
+Central African Republic#Bangui#4.3666667#18.583334#373#1
+Central African Republic#Baoro#5.6666667#15.9666672#729#1
+Central African Republic#Batangafo#7.3#18.2999992#432#1
+Central African Republic#Berberati#4.2666667#15.7833328#577#1
+Central African Republic#Bimbo#4.3#18.5499992#339#1
+Central African Republic#Birao#10.283333#22.7833328#472#1
+Central African Republic#Boali#4.8#18.1166668#450#1
+Central African Republic#Boda#4.3166667#17.4666672#565#1
+Central African Republic#Bossangoa#6.4833333#17.4500008#466#1
+Central African Republic#Bouar#5.95#15.6000004#1047#1
+Central African Republic#Bouca#6.5#18.2833328#420#1
+Central African Republic#Bozoum#6.3166667#16.3833332#702#1
+Central African Republic#Bria#6.5333333#21.9833336#558#1
+Central African Republic#Carnot#4.9333333#15.8666668#486#1
+Central African Republic#Damara#4.9666667#18.7000008#404#1
+Central African Republic#Gambo#4.65#22.2666664#500#1
+Central African Republic#Gamboula#4.1333333#15.1499996#609#1
+Central African Republic#Ippy#6.25#21.2000008#556#1
+Central African Republic#Kabo#7.65#18.6166668#398#1
+Central African Republic#Kaga Bandoro#6.9833333#19.1833324#412#1
+Central African Republic#Kembe#4.6#21.8999996#457#1
+Central African Republic#Kouango#4.9666667#19.9833336#415#1
+Central African Republic#Mbaiki#3.8833333#18#515#1
+Central African Republic#Mobaye#4.3166667#21.1833324#434#1
+Central African Republic#Mongoumba#3.6333333#18.6000004#338#1
+Central African Republic#Ndele#8.4091667#20.6530552#587#1
+Central African Republic#Nola#3.5333333#16.0666676#443#1
+Central African Republic#Obo#5.4#26.5#615#1
+Central African Republic#Ouadda#8.0666667#22.3999996#682#1
+Central African Republic#Ouango#4.3166667#22.5499992#454#1
+Central African Republic#Paoua#7.25#16.4333324#604#1
+Central African Republic#Rafai#4.95#23.916666#526#1
+Central African Republic#Sibut#5.7333333#19.083334#400#1

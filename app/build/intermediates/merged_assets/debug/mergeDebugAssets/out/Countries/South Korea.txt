@@ -1,0 +1,184 @@
+﻿
+South Korea#An-san (Kangwon-do)#38.1461#128.3236#0#9
+South Korea#An-san (Kyongsang-namdo)#34.8422#128.4122#0#9
+South Korea#An-san (Soul-t ukpyolsi)#37.5667#126.95#0#9
+South Korea#An-san (Kyonggi-do)#37.1089#126.3842#0#9
+South Korea#Ansan#35.4667#126.5333#0#9
+South Korea#Ansan (Kyonggi-do)#37.3236#126.8219#0#9
+South Korea#Ansan-yok#37.3272#126.7892#0#9
+South Korea#Asan#36.35#126.9167#0#9
+South Korea#Boryeong gun#36.3333#126.5#0#9
+South Korea#Bucheon#37.4989#126.7831#0#9
+South Korea#Carles Island#34.5517#126.0686#0#9
+South Korea#Ch onan-yok#36.8103#127.1475#0#9
+South Korea#Changwon (Cholla-bukto)#35.9247#126.63#0#9
+South Korea#Changwon (Kyongsang-namdo)#35.2572#128.6069#0#9
+South Korea#Cheonan#36.8333#127.15#0#9
+South Korea#Cheonan (Ch ungch ong-namdo)#36.8064#127.1522#0#9
+South Korea#Cheonan gun#36.8333#127.25#0#9
+South Korea#Cheongju#36.6372#127.4897#0#9
+South Korea#Chungbuk#36.2667#128.5667#0#9
+South Korea#Coray#37#127.5#0#9
+South Korea#Dae Gu-eulbi Do#34.5786#128.5506#0#9
+South Korea#Daegu#35.8#128.55#0#9
+South Korea#Daejeon#36.3333#127.4167#0#9
+South Korea#Dong Cheon#34.9589#127.6011#0#9
+South Korea#Faa To#34.9508#126.1619#0#9
+South Korea#Frederick Rock#35.1061#128.68#0#9
+South Korea#Fuan#35.7281#126.7319#0#9
+South Korea#Fuhyo-ri#38#128.1167#0#9
+South Korea#Fuji-to#34.3736#127.1997#0#9
+South Korea#Fuken-zan#36.1606#128.9719#0#9
+South Korea#Fukitsu-ri#34.4667#126.5#0#9
+South Korea#Fuko-ri#36.5333#127.3667#0#9
+South Korea#Fuko-to#34.5333#126.5167#0#9
+South Korea#Fukoku-san#34.4922#126.8614#0#9
+South Korea#Fuku-seki#33.4167#126.2167#0#9
+South Korea#Fukugan#35.05#127.0833#0#9
+South Korea#Fukuhyo-ri#34.5756#126.5531#0#9
+South Korea#Fumuki-to#34.7575#126.2247#0#9
+South Korea#Fundo-ri#34.5167#126.2833#0#9
+South Korea#Fungo-wan#37.0167#126.8333#0#9
+South Korea#Funhai#36.1125#129.3522#0#9
+South Korea#Funsen-ri#36.9333#129.05#0#9
+South Korea#Funyan#34.6094#127.2858#0#9
+South Korea#Furumu Somu#36.3058#126.3494#0#9
+South Korea#Fusshi To#37.4981#126.5892#0#9
+South Korea#Futo-suido#35.0939#128.6342#0#9
+South Korea#Futozan#35.1244#127.0092#0#9
+South Korea#Fuyo-san#34.5933#126.8739#0#9
+South Korea#Ganggyeong#36.1586#127.0164#0#9
+South Korea#Gangneung#37.75#128.9#0#9
+South Korea#Geoje Do#34.8547#128.6392#0#9
+South Korea#Geoje gun#34.8333#128.6667#0#9
+South Korea#Gimcheon#36.1167#128.1#0#9
+South Korea#Gimhae gun#35.25#128.8667#0#9
+South Korea#Gochang gun#35.4167#126.5833#0#9
+South Korea#Gwangju#35.1667#126.9167#0#9
+South Korea#Gyeongju#35.8333#129.25#0#9
+South Korea#Gyeongju (Kyongsang-bukto)#35.8428#129.2117#0#9
+South Korea#Gyeongsan#35.8233#128.7378#0#9
+South Korea#Gyeongsang Bugdo#36.3333#128.75#0#9
+South Korea#Inch on#35.0667#126.7#0#9
+South Korea#Incheon#37.45#126.4161#0#9
+South Korea#Incheon Hang#37.4158#126.5686#0#9
+South Korea#Iubu Somu#35.9939#126.6036#0#9
+South Korea#Ium-ni#34.9667#127.2833#0#9
+South Korea#Ium-ni (Cholla-namdo)#34.9711#127.2614#0#9
+South Korea#Iun-dong#37.3567#127.785#0#9
+South Korea#Jeju#33.5097#126.5219#0#9
+South Korea#Jeju Do#33.4167#126.5#0#9
+South Korea#Jeju Island#33.4017#126.5461#0#9
+South Korea#Jeju Si#33.4667#126.5333#0#9
+South Korea#Jeju Strait#33.6706#126.4975#0#9
+South Korea#Jeonju#35.8333#127.15#0#9
+South Korea#Jeonju (Cholla-bukto)#35.8219#127.1489#0#9
+South Korea#Jinju (Kyongsang-namdo)#35.1928#128.0847#0#9
+South Korea#Jinju#35.1833#128.0833#0#9
+South Korea#Jinju Man#34.9431#127.9597#0#9
+South Korea#Jinyang gun#35.2#128.1667#0#9
+South Korea#Kimhae#35.2342#128.8811#0#9
+South Korea#Kimpo#37.6667#126.6667#0#9
+South Korea#Kkokkal-som#34.5719#125.8864#0#9
+South Korea#Kumi#36.525#128.7672#0#9
+South Korea#Kumi-si#36.1333#128.3333#0#9
+South Korea#Kwangju (Kyonggi-do)#37.4092#127.2592#0#9
+South Korea#Kwangju#35.1667#126.75#0#9
+South Korea#Lagraviore Peak#34.3906#126.2297#0#9
+South Korea#lcty o#35.0144#126.5425#0#9
+South Korea#Liancourt Rocks#37.25#131.8667#0#9
+South Korea#Lindsay Island#36.4983#126.3569#0#9
+South Korea#Lodol#37.2667#127.8333#0#9
+South Korea#Loney bluff#33.1989#126.2908#0#9
+South Korea#Lptong-ni#36.5#126.95#0#9
+South Korea#Lyne Sound#34.55#126.1667#0#9
+South Korea#Masan (Cholla-namdo)#34.7792#127.5972#0#9
+South Korea#Masan (Kyongsang-namdo)#35.2081#128.5725#0#9
+South Korea#Masan (Kyonggi-do)#37.95#127.3167#0#9
+South Korea#Masan (Ch ungch ong-namdo)#36.1167#127.1167#0#9
+South Korea#Masan (Kwangju-gwangyoksi)#35.2242#126.9025#0#9
+South Korea#Masan (Kyongsang-bukto)#36.5667#128.3333#0#9
+South Korea#Masan (Kangwon-do)#38.0833#128.0167#0#9
+South Korea#Masan#34.9667#127.5667#0#9
+South Korea#Masan-hang#35.1614#128.5953#0#9
+South Korea#Masan-si#35.2#128.5667#0#9
+South Korea#Masang-dong#34.4269#126.1842#0#9
+South Korea#Masanp o#37.2383#126.6694#0#9
+South Korea#Ok-p o#34.8842#128.7067#0#9
+South Korea#Okp o-dong#34.8875#128.7#0#9
+South Korea#Ooejang#35.4833#127.8333#0#9
+South Korea#Osan#34.9667#127.0167#0#9
+South Korea#Osan (Kyongsang-namdo)#35.2753#127.99#0#9
+South Korea#Osan (Cholla-namdo)#34.6333#126.8#0#9
+South Korea#Osan (Ch ungch ong-bukto)#36.6603#127.3778#0#9
+South Korea#Osan (Kangwon-do)#37.3572#128.7853#0#9
+South Korea#Osan (Kyonggi-do)#37.145#127.0694#0#9
+South Korea#Osan (Kyongsang-bukto)#36.8831#129.4161#0#9
+South Korea#Oye-ch on#35.2667#126.95#0#9
+South Korea#Pohang#36.0833#129.3667#0#9
+South Korea#Pusan (Pusan-gwangyoksi)#35.1028#129.0403#0#9
+South Korea#Pusan (Kyongsang-namdo)#35.7#128.0333#0#9
+South Korea#Pusan-daegyo#35.0964#129.0389#0#9
+South Korea#Pusan-hang#35.1092#129.0606#0#9
+South Korea#Pusan-man#35.0792#129.1081#0#9
+South Korea#Pusan-ni#36.8#126.4833#0#9
+South Korea#Pusan-si#35.1333#129.05#0#9
+South Korea#Pusan-yok#35.1158#129.0408#0#9
+South Korea#Pusang#34.1297#126.6636#0#9
+South Korea#Pusang-dong#36.0692#128.2655#0#9
+South Korea#Pusanjin-gu#35.1667#129.0833#0#9
+South Korea#Pusansiso-gu#35.0844#129.0136#0#9
+South Korea#Quoti To#36.3828#126.3625#0#9
+South Korea#Ro-sho#34.1167#126.6333#0#9
+South Korea#Rokichi-ri#35.7833#126.7167#0#9
+South Korea#Rosho-ri#34.6167#126.5167#0#9
+South Korea#Seoul#37.5664#126.9997#0#9
+South Korea#Seoul City#37.5833#127#0#9
+South Korea#Seoul River#37.7492#126.1831#0#9
+South Korea#Sindorim#37.5122#126.8994#0#9
+South Korea#Suwon (Cheju-do)#33.4264#126.2661#0#9
+South Korea#Suwon (Kyonggi-do)#37.2842#127.0192#0#9
+South Korea#Suwon (Ch ungch ong-namdo)#36.45#127.1333#0#9
+South Korea#Suwon-gun#37.25#126.9167#0#9
+South Korea#Suwon-san#37.8508#127.2589#0#9
+South Korea#Suwon-si#37.3333#127#0#9
+South Korea#Suwon-yok#37.2689#126.9972#0#9
+South Korea#Taegu#34.8889#128.0728#0#9
+South Korea#Taejon (Cholla-namdo)#34.71#127.2669#0#9
+South Korea#Taejon (Kyongsang-bukto)#36.3433#129.0625#0#9
+South Korea#Taejon#34.9833#127.15#0#9
+South Korea#Taejon (Kyongsang-namdo)#35.5067#128.7244#0#9
+South Korea#Taejon (Taejon-gwangyoksi)#36.3214#127.4197#0#9
+South Korea#Taejon-ch on#36.3736#127.4003#0#9
+South Korea#Taejon-dong (Kyonggi-do)#37.2425#126.8325#0#9
+South Korea#Taejon-dong (Kangwon-do)#37.1806#128.7086#0#9
+South Korea#Taejon-ni (Cholla-namdo)#35.2833#126.4#0#9
+South Korea#Taejon-ni (Kyonggi-do)#38.0106#127.0833#0#9
+South Korea#Taejon-ni (Ch ungch ong-namdo)#36.7833#126.75#0#9
+South Korea#Taejon-ni (Kyongsang-bukto)#36.4833#128.0333#0#9
+South Korea#Taejon-ni#37.1333#128.3333#0#9
+South Korea#Taejon-yok#36.3331#127.4325#0#9
+South Korea#Taejong#33.225#126.2511#0#9
+South Korea#Taejong-ni (Kyongsang-namdo)#35.1244#128.3736#0#9
+South Korea#Taejong-ni (Cholla-namdo)#34.4833#126.6#0#9
+South Korea#Taejong-ni (Inch on-gwangyoksi)#37.495#126.7369#0#9
+South Korea#Taejong-ni (Cholla-bukto)#35.4186#127.6242#0#9
+South Korea#Taejong-ni (Ch ungch ong-namdo)#36.7667#126.85#0#9
+South Korea#Taejong-san#36.2#128.9333#0#9
+South Korea#Taejongwon-do#34.2653#126.4269#0#9
+South Korea#Tjyen-la#34.75#127#0#9
+South Korea#Tongyeong gun#34.75#128.3333#0#9
+South Korea#Ulsan#35.5372#129.3167#0#9
+South Korea#Ulsan-gwangyoksi#35.5667#129.2667#0#9
+South Korea#Vashon Cape#35.0586#129.0964#0#9
+South Korea#Vashon Rock#35.0372#129.0928#0#9
+South Korea#Venancourt Rock#34.5203#125.3439#0#9
+South Korea#Vijongbu#37.7486#127.0389#0#9
+South Korea#Vimiri#33.2758#126.6611#0#9
+South Korea#Visong#36.3506#128.6997#0#9
+South Korea#Yesan-gun#36.6667#126.75#0#9
+South Korea#Zenbonsan#36.0075#126.6642#0#9
+South Korea#Zenra#35.75#127.25#0#9
+South Korea#Ziga-kai#34.7#126.2167#0#9
+South Korea#Zuiki-san#34.6333#126.7#0#9
+South Korea#Zyo-ba To#34.4556#126.4192#0#9

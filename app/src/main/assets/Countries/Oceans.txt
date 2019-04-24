@@ -1,0 +1,115 @@
+﻿
+Oceans#Adriatisches Meer#43#16#0#1
+Oceans#Aigaion Pelagos#39#25#0#2
+Oceans#Ak Deniz#35#20#0#-10
+Oceans#Alboran Sea#35.6667#-3#0#0
+Oceans#Arabian Gulf#27#51#0#-10
+Oceans#Arabian Sea#20#65#0#-10
+Oceans#Aral skoye More#45#60#0#-10
+Oceans#Asowsches Meer#46#36#0#-10
+Oceans#Barents Hav#74#36#0#-10
+Oceans#Bass Strait#-39.3333#145.5#0#-10
+Oceans#Bay of Fundy#45#-66#0#-4
+Oceans#Beaufort Sea#70#-135#0#-10
+Oceans#Bellingshausen Sea#-71#-85#0#-10
+Oceans#Beloye More#65.5#38#0#-10
+Oceans#Belt Sea#55.5#11#0#1
+Oceans#Bien Dong#15#115#0#-10
+Oceans#Bingala Aw#15#90#0#-10
+Oceans#Bismarck Sea#-4#148#0#10
+Oceans#Black Sea#43#35#0#2
+Oceans#Bouches de Bonifacio#41.3#9.25#0#1
+Oceans#Bristol Channel#51.3333#-4.5#0#0
+Oceans#Celebes Zee#3#122#0#8
+Oceans#Chukotskoye More#69#-174#0#-10
+Oceans#Danmerkursund#65#-28#0#-10
+Oceans#Dardanelles#40.25#26.4167#0#2
+Oceans#Davisstraedet#64#-57#0#-4
+Oceans#Der Kanal#50#-1#0#0
+Oceans#Dogdo Island#37.25#131.8667#0#9
+Oceans#Dover Strait#51#1.5#0#0
+Oceans#East Siberian Sea#74#166#0#-10
+Oceans#Estrecho de Gibraltar#35.95#-5.6#0#0
+Oceans#Faeroe Channel#61#-4#0#0
+Oceans#Finskiy Zaliv#60#27#0#2
+Oceans#Flores Sea#-8#121#0#8
+Oceans#Franklin D. Roosevelt Sea#-72.5#-111.9167#0#-10
+Oceans#Golfo de Panama#8#-79.5#0#-10
+Oceans#Gronland See#75#-10#0#-10
+Oceans#Gulf of Aqaba#29#34.6667#0#2
+Oceans#Gulf of California#28#-112#0#-10
+Oceans#Gulf of Mexico#25#-90#0#-10
+Oceans#Gulf of Oman#25#58#0#-10
+Oceans#Higashi-suido#34#129.5#0#9
+Oceans#Iberian Sea#40#2#0#0
+Oceans#Inland Sea#34.3333#133.5#0#9
+Oceans#Inner Sound#57.4167#-5.9333#0#-10
+Oceans#Inside Passage#48#-122.4#0#-10
+Oceans#Ionian Sea#39#19#0#1
+Oceans#Itameri#56#18#0#1
+Oceans#Jawa Sea#-5#110#0#-10
+Oceans#Jolo See#9#120#0#8
+Oceans#Joseph Bonaparte Gulf#-14.25#128.5#0#9
+Oceans#Kamchatka Sea#60#-175#0#-10
+Oceans#Kane Basin#79.5#-69#0#-10
+Oceans#Karskoye More#76#80#0#-10
+Oceans#Kaspiy Tengizi#42#50#0#3
+Oceans#Kattegat#57#11#0#1
+Oceans#Khalij as Suways#28.1667#33.45#0#-10
+Oceans#Khawr al Kafka#29.6667#48.8333#0#3
+Oceans#Khor al Amaya#29.75#48.8333#0#3
+Oceans#Kiel Bay#54.5833#10.5833#0#1
+Oceans#Koreyskiy Zaliv#39#124#0#8
+Oceans#Kuroshio Current#40#150#0#10
+Oceans#Kuroshio-hanryu#30#139#0#9
+Oceans#Kwang Sea#36#124#0#8
+Oceans#Labrador Meer#57#-55#0#-10
+Oceans#Lakshadweep Sea#8#75#0#5
+Oceans#Laptev Sea#76#126#0#-10
+Oceans#Laut Andaman#10#95#0#-10
+Oceans#Laut Arafuru#-9#133#0#9
+Oceans#Laut Bali#-7.75#115.5#0#8
+Oceans#Laut Banda#-3.4539#122.7247#0#8
+Oceans#Laut Sawu#-9.6667#122#0#8
+Oceans#Le Golfe de Gascogne#44#-4#0#0
+Oceans#Liman Reki Amura#52.8333#141.5#0#-10
+Oceans#Lincoln Hav#83#-58#0#-10
+Oceans#Macassar#0#118.5#0#8
+Oceans#Molucca Sea#0#125#0#8
+Oceans#Ocean Atlantique#10#-25#0#-10
+Oceans#Ocean Pacifique Sud#-45#-130#0#-10
+Oceans#Oceano Indiano#-10#70#0#-10
+Oceans#Okhotsk Current#50#157#0#-10
+Oceans#Old Strait#1.4667#103.8#0#7
+Oceans#Pasaje de Hoces#-60#-60#0#-10
+Oceans#Philippine Sea#20#135#0#9
+Oceans#Pitt Passage#-2.5#128#0#-10
+Oceans#Plata River#-35#-57#0#-4
+Oceans#Po Hai#38.5#120#0#8
+Oceans#Pohjanlahti#63#20#0#-10
+Oceans#Polar Sea#85#0#0#-10
+Oceans#Pomeranian Bay#54#14.25#0#1
+Oceans#Propontis#40.6667#28.25#0#2
+Oceans#Riga-bukten#57.5#23.5833#0#2
+Oceans#Ross Sea#-75#-175#0#-10
+Oceans#Sea of Japan#43.5#135.75#0#9
+Oceans#Taiwan Haixia#24#119#0#8
+Oceans#Tasman Sea#-40#160#0#-10
+Oceans#Tatar Strait#50#141#0#9
+Oceans#Teluk Bone#-4#120.6667#0#8
+Oceans#Teluk Tomini#-0.5975#121.0947#0#8
+Oceans#The Straits#37.3333#11.3333#0#1
+Oceans#Tikhiy Okean#0#0#0#-10
+Oceans#Timor-zee#-10.5#126#0#-10
+Oceans#Torres Strait#-10.4167#142.1667#0#10
+Oceans#Tsushima Kaikyo#34#129#0#9
+Oceans#Tung Hai#29#125#0#8
+Oceans#Tungunski#55#150#0#-10
+Oceans#Tyosen Kaikyo#34.6667#129#0#9
+Oceans#Tyrrhenian Sea#40#12#0#1
+Oceans#Venetia#45.25#13#0#1
+Oceans#Versterhavet#55.3333#3#0#0
+Oceans#Vinh Ba Bo#20#108#0#-10
+Oceans#Vinh Thai Lan#10#102#0#7
+Oceans#Zaliv Shelikhova#59.75#158#0#-10
+Oceans#Zee van Halmahera#-1#129#0#9

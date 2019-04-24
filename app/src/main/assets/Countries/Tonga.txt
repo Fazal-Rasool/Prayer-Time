@@ -1,0 +1,8 @@
+﻿
+Tonga#`Ohonua#-21.3333#-174.95#11#13
+Tonga#Havelu#-21.15#-175.217#1#13
+Tonga#Hihifo#-15.95#-173.75#1#13
+Tonga#Neiafu#-18.65#-173.983#1#13
+Tonga#Nuku`alofa#-21.1333#-175.2#-9999#13
+Tonga#Pangai#-19.8#-174.35#-9999#13
+Tonga#Vaini#-21.2#-175.2#1#13

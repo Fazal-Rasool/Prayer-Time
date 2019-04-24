@@ -1,0 +1,7 @@
+#Tue Apr 23 13:37:29 PKT 2019
+base.0=C\:\\Users\\fazal\\Desktop\\Fazal's Work\\Old Projects\\World prayers And qibla direction\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\fazal\\Desktop\\Fazal's Work\\Old Projects\\World prayers And qibla direction\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out

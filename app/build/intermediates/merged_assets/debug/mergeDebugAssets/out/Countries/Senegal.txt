@@ -1,0 +1,47 @@
+﻿
+Senegal#Bignona#12.81028#-16.2264#29#0
+Senegal#Dakar#14.69511#-17.4439#14#0
+Senegal#Dara#15.34845#-15.4799#62#0
+Senegal#Diawara#15.03333#-12.55#14#0
+Senegal#Diofior#14.18333#-16.6667#7#0
+Senegal#Foundiougne#14.13333#-16.4667#1#0
+Senegal#Gandiaye#14.23333#-16.2667#24#0
+Senegal#Golere#16.25#-14.1#12#0
+Senegal#Grand Dakar#14.70889#-17.4553#33#0
+Senegal#Guinguineo#14.26667#-15.95#23#0
+Senegal#Joal-Fadiout#14.16667#-16.8333#1#0
+Senegal#Kanel#15.48333#-13.1667#15#0
+Senegal#Kayar#14.91917#-17.1211#1#0
+Senegal#Kedougou#12.55#-12.1833#100#0
+Senegal#Khombole#14.76667#-16.7#14#0
+Senegal#Kolda#12.88333#-14.95#1#0
+Senegal#Koungheul#13.98333#-14.8#21#0
+Senegal#Marsassoum#12.8275#-15.9806#11#0
+Senegal#Mbake#14.79032#-15.908#43#0
+Senegal#Mekhe#15.11667#-16.6333#43#0
+Senegal#Ndibene Dahra#15.33333#-15.4833#61#0
+Senegal#Ndioum#16.51667#-14.65#12#0
+Senegal#Ndofane#13.91667#-15.9333#28#0
+Senegal#Nguekokh#14.51278#-17.005#24#0
+Senegal#Nioro du Rip#13.75#-15.8#29#0
+Senegal#Ouaounde#15.26667#-12.8667#25#0
+Senegal#Ouro Sogui#15.6#-13.3167#27#0
+Senegal#Oussouye#12.485#-16.5469#38#0
+Senegal#Passi#13.98333#-16.2667#25#0
+Senegal#Polel Diaoube-http://polel-diaoube.info#15.26667#-13#33#0
+Senegal#Pourham#14.35#-16.4167#14#0
+Senegal#Pout#14.77389#-17.0603#17#0
+Senegal#Ranerou#15.3#-13.9667#36#0
+Senegal#Richard Toll#16.46667#-15.6833#11#0
+Senegal#Rosso#16.5#-15.8167#46#0
+Senegal#Saint-Louis#16.01793#-16.4896#24#0
+Senegal#Sedhiou#12.70806#-15.5569#34#0
+Senegal#Semme#15.2#-12.95#41#0
+Senegal#Sokone#13.88333#-16.3667#19#0
+Senegal#Thies Nones#14.78333#-16.9667#101#0
+Senegal#Tiadiaye#14.41667#-16.7#29#0
+Senegal#Tiebo#14.63333#-16.2333#15#0
+Senegal#Tionk Essil#12.78556#-16.5217#21#0
+Senegal#Velingara#13.15#-14.1167#42#0
+Senegal#Warang#14.3735#-16.9437#1#0
+Senegal#Ziguinchor#12.58333#-16.2719#16#0

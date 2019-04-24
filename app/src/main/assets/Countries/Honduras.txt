@@ -1,0 +1,100 @@
+﻿
+Honduras#Agua Blanca Sur#15.25#-87.8833#64#-6
+Honduras#Agua Fria#13.46889#-87.5511#7#-6
+Honduras#Ajuterique#14.38333#-87.7#655#-6
+Honduras#Arizona#15.63333#-87.3167#99#-6
+Honduras#Azacualpa#15.34333#-88.5514#267#-6
+Honduras#Baracoa#15.76667#-87.85#13#-6
+Honduras#Bonito Oriental#15.73333#-85.7333#116#-6
+Honduras#Brus Laguna#15.75#-84.4833#15#-6
+Honduras#Campamento#14.55#-86.65#718#-6
+Honduras#Choloma#15.61444#-87.953#40#-6
+Honduras#Ciudad Choluteca#13.30028#-87.1908#44#-6
+Honduras#Cofradia#15.4#-88.15#155#-6
+Honduras#Comayagua#14.45#-87.6333#594#-6
+Honduras#Copan#14.83333#-89.15#638#-6
+Honduras#Corquin#14.56667#-88.8667#858#-6
+Honduras#Cuyamel#15.66667#-88.2#6#-6
+Honduras#Danli#14.03333#-86.5833#815#-6
+Honduras#Dulce Nombre#14.85#-88.8333#1090#-6
+Honduras#El Negrito#15.31667#-87.7#241#-6
+Honduras#El Paraiso#13.86667#-86.55#820#-6
+Honduras#El Progreso#15.4#-87.8#45#-6
+Honduras#El Triunfo#13.11667#-87#100#-6
+Honduras#Florida#15.03333#-88.8333#476#-6
+Honduras#Gracias#14.58333#-88.5833#803#-6
+Honduras#Guaimaca#14.53333#-86.8167#829#-6
+Honduras#Gualaco#15.05#-86.05#667#-6
+Honduras#Intibuca#14.31667#-88.1667#1705#-6
+Honduras#Jesus de Otoro#14.48333#-87.9833#638#-6
+Honduras#Juticalpa#14.65#-86.2#411#-6
+Honduras#Jutiquile#14.71667#-86.0833#425#-6
+Honduras#La Ceiba#15.78333#-86.8#8#-6
+Honduras#La Entrada#15.05#-88.7333#496#-6
+Honduras#La Esperanza#14.3#-88.1833#1721#-6
+Honduras#La Jutosa#15.63333#-88#192#-6
+Honduras#La Libertad#14.75#-87.6167#484#-6
+Honduras#La Lima#15.43333#-87.9167#35#-6
+Honduras#La Masica#15.61667#-87.1167#77#-6
+Honduras#La Paz#14.31667#-87.6833#680#-6
+Honduras#Langue#13.62083#-87.6525#138#-6
+Honduras#Las Trojes#14.06667#-85.9833#763#-6
+Honduras#Las Vegas#14.86667#-88.0667#832#-6
+Honduras#Lejamani#14.36667#-87.7#668#-6
+Honduras#Marcala#14.15#-88.0333#1288#-6
+Honduras#Mezapa#15.58333#-87.65#164#-6
+Honduras#Minas de Oro#14.8#-87.35#971#-6
+Honduras#Monjaras#13.20056#-87.3742#6#-6
+Honduras#Morazan#15.31667#-87.6#207#-6
+Honduras#Nacaome#13.53611#-87.4875#37#-6
+Honduras#Naco#15.38333#-88.1833#163#-6
+Honduras#Naranjito#14.95#-88.6833#931#-6
+Honduras#Nueva Ocotepeque#14.43333#-89.1833#820#-6
+Honduras#Olanchito#15.5#-86.5667#148#-6
+Honduras#Omoa#15.76667#-88.0333#26#-6
+Honduras#Pena Blanca#15.53333#-88.05#137#-6
+Honduras#Pimienta Vieja#15.23333#-87.9667#96#-6
+Honduras#Pinalejo#15.38333#-88.4#260#-6
+Honduras#Potrerillos#15.23333#-87.9667#96#-6
+Honduras#Pueblo Nuevo#15.28333#-88.0167#146#-6
+Honduras#Puerto Cortez#15.83333#-87.95#-9999#-6
+Honduras#Puerto Lempira#15.26667#-83.7667#1#-6
+Honduras#Quimistan#15.35#-88.4#183#-6
+Honduras#Rio Lindo#15.03333#-87.9833#153#-6
+Honduras#Roatan#16.3#-86.55#-9999#-6
+Honduras#Saba#15.46667#-86.25#329#-6
+Honduras#San Antonio de Cortes#15.11667#-88.0333#542#-6
+Honduras#San Esteban#15.2#-85.75#455#-6
+Honduras#San Francisco de la Paz#14.9#-86.2#685#-6
+Honduras#San Jose de Colinas#15.03333#-88.3#287#-6
+Honduras#San Juan de Flores#14.26667#-87.0333#717#-6
+Honduras#San Juan Pueblo#15.58333#-87.2333#149#-6
+Honduras#San Lorenzo#13.42417#-87.4472#5#-6
+Honduras#San Luis#15.08333#-88.3833#1037#-6
+Honduras#San Manuel#15.33333#-87.9167#43#-6
+Honduras#San Marcos#14.4#-88.95#990#-6
+Honduras#San Marcos de Colon#13.43333#-86.8#1020#-6
+Honduras#San Nicolas#14.93333#-88.3167#486#-6
+Honduras#San Pedro Sula#15.5#-88.0333#84#-6
+Honduras#Santa Ana#15.65#-87.0667#70#-6
+Honduras#Santa Barbara#14.91667#-88.2333#264#-6
+Honduras#Santa Cruz de Yojoa#14.98333#-87.9#487#-6
+Honduras#Santa Maria del Real#14.76667#-85.95#327#-6
+Honduras#Santa Rita#15.16667#-87.2833#776#-6
+Honduras#Santa Rosa de Copan#14.76667#-88.7833#1123#-6
+Honduras#Siguatepeque#14.6#-87.8333#1067#-6
+Honduras#Talanga#14.4#-87.0833#838#-6
+Honduras#Taulabe#14.7#-87.9667#570#-6
+Honduras#Tegucigalpa#14.1#-87.2167#997#-6
+Honduras#Tela#15.78333#-87.45#3#-6
+Honduras#Teupasenti#14.21667#-86.7#602#-6
+Honduras#Tocoa#15.68333#-86#54#-6
+Honduras#Tras Cerros#15.3#-88.6667#628#-6
+Honduras#Trinidad#15.13333#-88.2333#292#-6
+Honduras#Trujillo#15.91667#-86#-9999#-6
+Honduras#Valle de Angeles#14.15#-87.0333#1290#-6
+Honduras#Villa de San Antonio#14.31667#-87.6167#597#-6
+Honduras#Villa de San Francisco#14.16667#-86.9667#834#-6
+Honduras#Villanueva#15.31667#-88#101#-6
+Honduras#Yoro#15.13333#-87.1333#661#-6
+Honduras#Zambrano#14.26667#-87.4#1373#-6

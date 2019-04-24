@@ -1,0 +1,100 @@
+﻿
+Romania#Aiud#46.3#23.71667#228#2
+Romania#Alba Iulia#46.06667#23.58333#203#2
+Romania#Alexandria#43.98333#25.33333#34#2
+Romania#Arad#46.18333#21.31667#109#2
+Romania#Bacau#46.56667#26.9#160#2
+Romania#Baia Mare#47.65331#23.57949#233#2
+Romania#Baia Mare#47.65729#23.56808#228#2
+Romania#Baicoi#45.03333#25.85#284#2
+Romania#Bals#44.35#24.1#136#2
+Romania#Birlad#46.23333#27.66667#69#2
+Romania#Bistrita#47.13333#24.48333#329#2
+Romania#Blaj#46.18333#23.91667#256#2
+Romania#Borsa#47.65#24.66667#761#2
+Romania#Botosani#47.75#26.66667#163#2
+Romania#Braila#45.26667#27.98333#4#2
+Romania#Brasov#45.64861#25.60613#629#2
+Romania#Bucharest#44.43333#26.1#71#2
+Romania#Buftea#44.56139#25.94889#90#2
+Romania#Buzau#45.15#26.83333#83#2
+Romania#Calarasi#44.2#27.33333#14#2
+Romania#Caracal#44.11667#24.35#106#2
+Romania#Caransebes#45.41667#22.21667#198#2
+Romania#Carei#47.68333#22.46667#130#2
+Romania#Cimpia Turzii#46.55#23.88333#287#2
+Romania#Cluj-Napoca#46.76667#23.6#335#2
+Romania#Codlea#45.7#25.45#546#2
+Romania#Comanesti#46.41667#26.43333#402#2
+Romania#Constanta#44.18333#28.65#1#2
+Romania#Corabia#43.78333#24.5#54#2
+Romania#Craiova#44.31667#23.8#108#2
+Romania#Cugir#45.83333#23.36667#439#2
+Romania#Curtea de Arges#45.13333#24.68333#543#2
+Romania#Dej#47.15#23.86667#217#2
+Romania#Deva#45.88333#22.9#202#2
+Romania#Dorohoi#47.95#26.4#165#2
+Romania#Dragasani#44.65#24.26667#158#2
+Romania#Drobeta-Turnu Severin#44.63194#22.65611#61#2
+Romania#Fagaras#45.85#24.96667#416#2
+Romania#Falticeni#47.45#26.3#309#2
+Romania#Fetesti#44.38333#27.83333#25#2
+Romania#Focsani#45.7#27.18333#49#2
+Romania#Galati#45.45#28.05#2#2
+Romania#Gherla#47.03333#23.91667#257#2
+Romania#Giurgiu#43.88333#25.96667#11#2
+Romania#Hunedoara#45.75#22.9#287#2
+Romania#Husi#46.67361#28.05944#71#2
+Romania#Iasi#47.16667#27.6#84#2
+Romania#Lugoj#45.68861#21.90306#120#2
+Romania#Lupeni#45.35#23.23333#823#2
+Romania#Mangalia#43.8#28.58333#1#2
+Romania#Medgidia#44.25#28.28333#9#2
+Romania#Medias#46.16667#24.35#268#2
+Romania#Miercurea-Ciuc#46.35#25.8#664#2
+Romania#Mioveni#44.95#24.95#418#2
+Romania#Moinesti#46.46667#26.48333#493#2
+Romania#Moreni#44.98333#25.65#317#2
+Romania#Motru#44.80333#22.97194#192#2
+Romania#Navodari#44.31667#28.6#31#2
+Romania#Odorheiu Secuiesc#46.3#25.3#521#2
+Romania#Oltenita#44.08333#26.63333#7#2
+Romania#Oradea#47.06667#21.93333#148#2
+Romania#Orastie#45.83333#23.2#246#2
+Romania#Pascani#47.25#26.73333#190#2
+Romania#Petrila#45.45#23.41667#717#2
+Romania#Petrosani#45.41667#23.36667#689#2
+Romania#Piatra Neamt#46.91667#26.33333#522#2
+Romania#Pitesti#44.85#24.86667#290#2
+Romania#Ploiesti#44.95#26.01667#161#2
+Romania#Radauti#47.85#25.91667#368#2
+Romania#Ramnicu Valcea#45.1#24.36667#179#2
+Romania#Reghin-Sat#46.78333#24.71667#366#2
+Romania#Resita#45.30083#21.88917#258#2
+Romania#Rimnicu Sarat#45.38333#27.05#107#2
+Romania#Roman#46.91667#26.91667#199#2
+Romania#Rosiori de Vede#44.11667#24.98333#77#2
+Romania#Sacele#45.6174#25.69427#634#2
+Romania#Satu Mare#47.8#22.88333#98#2
+Romania#Sebes#45.96667#23.56667#258#2
+Romania#Sfantu-Gheorghe#45.86667#25.78333#537#2
+Romania#Sibiu#45.8#24.15#401#2
+Romania#Sighetu Marmatiei#47.93333#23.88333#269#2
+Romania#Sighisoara#46.21667#24.8#385#2
+Romania#Slatina#44.43333#24.36667#165#2
+Romania#Slobozia#44.56667#27.36667#27#2
+Romania#Suceava#47.63333#26.25#385#2
+Romania#Targoviste#44.93333#25.45#286#2
+Romania#Targu Jiu#45.05#23.28333#194#2
+Romania#Targu-Mures#46.55#24.56667#368#2
+Romania#Tecuci#45.86667#27.41667#29#2
+Romania#Timisoara#45.74944#21.22722#91#2
+Romania#Tirgu Neamt#47.2#26.36667#338#2
+Romania#Tirgu Secuiesc#46#26.13333#583#2
+Romania#Tulcea#45.16667#28.8#35#2
+Romania#Turda#46.56667#23.78333#318#2
+Romania#Turnu Magurele#43.75#24.86667#30#2
+Romania#Vaslui#46.63333#27.73333#78#2
+Romania#Voluntari#44.46667#26.13333#57#2
+Romania#Vulcan#45.38333#23.26667#637#2
+Romania#Zalau#47.2#23.05#263#2

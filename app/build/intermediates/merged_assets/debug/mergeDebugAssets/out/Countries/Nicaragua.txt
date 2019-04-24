@@ -1,0 +1,101 @@
+﻿
+Nicaragua#Achuapa#13.05#-86.5833#375#-6
+Nicaragua#Acoyapa#11.96667#-85.1667#83#-6
+Nicaragua#Altagracia#11.56667#-85.5833#64#-6
+Nicaragua#Belen#11.5#-85.8833#70#-6
+Nicaragua#Bluefields#12#-83.75#-9999#-6
+Nicaragua#Boaco#12.46667#-85.6667#402#-6
+Nicaragua#Bocana de Paiwas#12.8#-85.1333#259#-6
+Nicaragua#Bonanza#14.01667#-84.5833#187#-6
+Nicaragua#Camoapa#12.38333#-85.5167#541#-6
+Nicaragua#Carlos Fonseca Amador#11.98333#-86.5167#94#-6
+Nicaragua#Chichigalpa#12.56667#-87.0333#76#-6
+Nicaragua#Chinandega#12.61667#-87.15#50#-6
+Nicaragua#Ciudad Dario#12.73056#-86.125#457#-6
+Nicaragua#Ciudad Sandino#12.15889#-86.3442#101#-6
+Nicaragua#Condega#13.35#-86.4#563#-6
+Nicaragua#Corinto#12.48333#-87.1667#11#-6
+Nicaragua#Corn Island#12.16667#-83.0333#-9999#-6
+Nicaragua#Cuapa#12.26667#-85.3833#309#-6
+Nicaragua#Diria#11.88333#-86.05#345#-6
+Nicaragua#Diriamba#11.85#-86.2333#533#-6
+Nicaragua#Diriomo#11.86667#-86.05#325#-6
+Nicaragua#Dolores#11.85#-86.2167#550#-6
+Nicaragua#El Almendro#11.68333#-84.7#187#-6
+Nicaragua#El Ayote#12.18333#-85.2833#610#-6
+Nicaragua#El Crucero#11.98333#-86.3167#763#-6
+Nicaragua#El Realejo#12.53333#-87.1667#9#-6
+Nicaragua#El Rosario#11.78333#-86.3667#107#-6
+Nicaragua#El Sauce#12.88694#-86.5381#171#-6
+Nicaragua#El Viejo#12.66667#-87.1667#50#-6
+Nicaragua#Esteli#13.08333#-86.35#857#-6
+Nicaragua#Granada#11.93333#-85.95#47#-6
+Nicaragua#Jalapa#13.91667#-86.1333#694#-6
+Nicaragua#Jinotega#13.1#-86#1040#-6
+Nicaragua#Jinotepe#11.85#-86.2#551#-6
+Nicaragua#Juigalpa#12.08333#-85.4#84#-6
+Nicaragua#La Concepcion#11.93333#-86.1833#471#-6
+Nicaragua#La Libertad#12.21667#-85.1667#447#-6
+Nicaragua#La Paz Centro#12.34#-86.6753#71#-6
+Nicaragua#La Paz de Oriente#11.81667#-86.1333#387#-6
+Nicaragua#Laguna de Perlas#12.35#-83.6667#1#-6
+Nicaragua#Larreynaga#12.67444#-86.5708#99#-6
+Nicaragua#Leon#12.43556#-86.8794#102#-6
+Nicaragua#Managua#12.15083#-86.2683#59#-6
+Nicaragua#Masatepe#11.91667#-86.15#434#-6
+Nicaragua#Masaya#11.96667#-86.1#242#-6
+Nicaragua#Matagalpa#12.91667#-85.9167#682#-6
+Nicaragua#Matiguas#12.83333#-85.4667#302#-6
+Nicaragua#Moyogalpa#11.53333#-85.7#66#-6
+Nicaragua#Mozonte#13.65#-86.45#647#-6
+Nicaragua#Muelle de los Bueyes#12.06667#-84.5333#85#-6
+Nicaragua#Muy Muy#12.76667#-85.6333#313#-6
+Nicaragua#Nagarote#12.2675#-86.5653#89#-6
+Nicaragua#Nandaime#11.75#-86.05#119#-6
+Nicaragua#Nandasmo#11.93333#-86.1167#390#-6
+Nicaragua#Nindiri#12.00472#-86.1194#222#-6
+Nicaragua#Niquinohomo#11.9#-86.1#448#-6
+Nicaragua#Nueva Guinea#11.68333#-84.45#185#-6
+Nicaragua#Ocotal#13.63333#-86.4833#599#-6
+Nicaragua#Palacaguina#13.45#-86.4#528#-6
+Nicaragua#Posoltega#12.54306#-86.9789#71#-6
+Nicaragua#Potosi#11.5#-85.8833#70#-6
+Nicaragua#Pueblo Nuevo#13.38333#-86.4833#600#-6
+Nicaragua#Puerto Cabezas#14.03333#-83.3833#8#-6
+Nicaragua#Puerto Morazan#12.85#-87.1833#5#-6
+Nicaragua#Quilali#13.56667#-86.0333#419#-6
+Nicaragua#Rama#12.15#-84.2167#26#-6
+Nicaragua#Rio Blanco#12.93333#-85.2167#262#-6
+Nicaragua#Rivas#11.43333#-85.8333#70#-6
+Nicaragua#San Carlos#11.11667#-84.7833#28#-6
+Nicaragua#San Dionisio#12.75#-85.85#467#-6
+Nicaragua#San Fernando#13.68333#-86.3167#742#-6
+Nicaragua#San Jorge#11.45#-85.8#40#-6
+Nicaragua#San Jose de Bocay#13.53333#-85.5333#461#-6
+Nicaragua#San Juan de Limay#13.16667#-86.6167#299#-6
+Nicaragua#San Juan de Rio Coco#13.55#-86.1667#866#-6
+Nicaragua#San Juan del Sur#11.25#-85.8667#69#-6
+Nicaragua#San Lorenzo#12.38333#-85.6667#356#-6
+Nicaragua#San Marcos#11.91667#-86.2#510#-6
+Nicaragua#San Miguelito#11.4#-84.9#41#-6
+Nicaragua#San Rafael del Norte#13.21667#-86.1167#1172#-6
+Nicaragua#San Rafael del Sur#11.85#-86.45#109#-6
+Nicaragua#San Ramon#12.91667#-85.8333#651#-6
+Nicaragua#San Sebastian de Yali#13.3#-86.1833#1019#-6
+Nicaragua#Santa Rosa del Penon#12.80111#-86.3706#199#-6
+Nicaragua#Santa Teresa#11.73333#-86.2167#141#-6
+Nicaragua#Santo Domingo#12.26667#-85.0833#579#-6
+Nicaragua#Santo Tomas#12.06667#-85.0833#367#-6
+Nicaragua#Siuna#13.73333#-84.7667#196#-6
+Nicaragua#Somotillo#13.03333#-86.9167#34#-6
+Nicaragua#Somoto#13.48333#-86.5833#706#-6
+Nicaragua#Telica#12.52056#-86.86#121#-6
+Nicaragua#Teustepe#12.41667#-85.8#155#-6
+Nicaragua#Ticuantepe#12.02333#-86.2006#307#-6
+Nicaragua#Tipitapa#12.20056#-86.0939#53#-6
+Nicaragua#Tisma#12.08389#-86.0175#54#-6
+Nicaragua#Tola#11.43333#-85.9333#39#-6
+Nicaragua#Villa Sandino#12.05#-84.9833#290#-6
+Nicaragua#Waslala#13.23333#-85.3833#330#-6
+Nicaragua#Waspam#14.73333#-83.9667#40#-6
+Nicaragua#Wiwili#13.61667#-85.8333#302#-6

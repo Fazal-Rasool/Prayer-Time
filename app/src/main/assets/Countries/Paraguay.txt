@@ -1,0 +1,100 @@
+﻿
+Paraguay#Abai#-26.0333#-55.9333#136#-4
+Paraguay#Acahay#-25.9167#-57.15#165#-4
+Paraguay#Altos#-25.2333#-57.25#148#-4
+Paraguay#Antequera#-24.1333#-57.0833#56#-4
+Paraguay#Aregua#-25.3#-57.4167#142#-4
+Paraguay#Arquitecto Tomas Romero Pereira#-26.4833#-55.25#346#-4
+Paraguay#Arroyos y Esteros#-25.0667#-57.1#92#-4
+Paraguay#Asuncion#-25.2667#-57.6667#55#-4
+Paraguay#Atyra#-25.25#-57.1667#97#-4
+Paraguay#Ayolas#-27.4#-56.9#46#-4
+Paraguay#Bella Vista#-22.1333#-56.5167#179#-4
+Paraguay#Benjamin Aceval#-24.9667#-57.5667#62#-4
+Paraguay#Caacupe#-25.3833#-57.15#188#-4
+Paraguay#Caaguazu#-25.45#-56.0167#324#-4
+Paraguay#Caapucu#-26.2167#-57.2#106#-4
+Paraguay#Capiata#-25.35#-57.4167#112#-4
+Paraguay#Capiibary#-24.8#-56.0333#329#-4
+Paraguay#Capitan Bado#-23.2667#-55.5333#513#-4
+Paraguay#Capitan Miranda#-27.2#-55.8#197#-4
+Paraguay#Carapegua#-25.8#-57.2333#195#-4
+Paraguay#Carayao#-25.1833#-56.4#131#-4
+Paraguay#Carmen del Parana#-27.2333#-56.2167#99#-4
+Paraguay#Colonia Catuete#-24.1333#-54.6167#338#-4
+Paraguay#Colonia General Alfredo Stroessner#-25.3667#-55.7#306#-4
+Paraguay#Colonia Mariano Roque Alonso#-25.1667#-57.55#56#-4
+Paraguay#Colonia Mauricio Jose Troche#-25.5667#-56.2833#179#-4
+Paraguay#Colonia Menno#-22.3667#-59.8167#119#-4
+Paraguay#Colonia Neuland#-22.6667#-60.1167#126#-4
+Paraguay#Colonia Yguazu#-25.45#-55#259#-4
+Paraguay#Concepcion#-23.4064#-57.4344#44#-4
+Paraguay#Coronel Oviedo#-25.4167#-56.45#171#-4
+Paraguay#Doctor Juan Leon Mallorquin#-25.4#-55.2667#264#-4
+Paraguay#Doctor Juan Manuel Frutos#-25.3667#-55.8#261#-4
+Paraguay#Emboscada#-25.15#-57.35#131#-4
+Paraguay#Encarnacion#-27.3333#-55.9#60#-4
+Paraguay#Eusebio Ayala#-25.4#-56.9667#131#-4
+Paraguay#Fernando de la Mora#-25.3167#-57.6#144#-4
+Paraguay#Filadelfia#-22.35#-60.0333#129#-4
+Paraguay#Fram#-26.9833#-55.8833#230#-4
+Paraguay#Fuerte Olimpo#-21.0415#-57.8738#65#-4
+Paraguay#General Artigas#-26.9333#-56.2167#118#-4
+Paraguay#General Elizardo Aquino#-24.4333#-56.7#154#-4
+Paraguay#Guarambare#-25.4833#-57.4667#115#-4
+Paraguay#Guayaybi#-24.5333#-56.4333#275#-4
+Paraguay#Hohenau#-27.0833#-55.75#147#-4
+Paraguay#Horqueta#-23.3428#-57.0597#83#-4
+Paraguay#Ita#-25.4833#-57.35#131#-4
+Paraguay#Itacurubi de la Cordillera#-25.45#-56.85#127#-4
+Paraguay#Itacurubi del Rosario#-24.5#-56.6833#166#-4
+Paraguay#Itaquyry#-24.9333#-55.2167#237#-4
+Paraguay#Itaugua#-25.3833#-57.3333#120#-4
+Paraguay#Iturbe#-26.05#-56.4833#92#-4
+Paraguay#Jesus#-27.05#-55.7833#167#-4
+Paraguay#La Colmena#-25.8833#-56.8167#156#-4
+Paraguay#Lambare#-25.35#-57.65#48#-4
+Paraguay#Las Palomas#-24.0833#-54.5167#276#-4
+Paraguay#Limpio#-25.1833#-57.5333#71#-4
+Paraguay#Los Cedrales#-25.65#-54.7#222#-4
+Paraguay#Mbocayaty#-25.7#-56.4#118#-4
+Paraguay#Mbuyapey#-26.2#-56.75#89#-4
+Paraguay#Nanawa#-25.2667#-57.6667#55#-4
+Paraguay#Naranjal#-25.9667#-55.1833#269#-4
+Paraguay#Natalio#-26.7167#-55.0833#227#-4
+Paraguay#Nemby#-25.3667#-57.6#131#-4
+Paraguay#Nueva Italia#-25.6167#-57.5#130#-4
+Paraguay#Obligado#-27.0333#-55.6333#172#-4
+Paraguay#Paraguari#-25.6333#-57.15#90#-4
+Paraguay#Pirayu#-25.4833#-57.2333#82#-4
+Paraguay#Piribebuy#-25.4833#-57.05#271#-4
+Paraguay#Presidente Franco#-25.5333#-54.6167#201#-4
+Paraguay#Puerto Mayor Otano#-26.4#-54.7#76#-4
+Paraguay#Puerto Rosario#-24.45#-57.0833#62#-4
+Paraguay#Quiindy#-25.9667#-57.2667#109#-4
+Paraguay#Repatriacion#-25.5333#-55.95#288#-4
+Paraguay#Salto del Guaira#-24.05#-54.35#233#-4
+Paraguay#San Alberto#-24.9667#-54.9#346#-4
+Paraguay#San Antonio#-25.3833#-57.6333#48#-4
+Paraguay#San Bernardino#-25.2667#-57.3167#59#-4
+Paraguay#San Cosme y Damian#-27.3167#-56.35#78#-4
+Paraguay#San Isidro de Curuguaty#-24.5167#-55.7#186#-4
+Paraguay#San Jose#-25.5333#-56.7333#125#-4
+Paraguay#San Juan Nepomuceno#-26.1#-55.9667#113#-4
+Paraguay#San Lorenzo#-25.3333#-57.5333#146#-4
+Paraguay#San Pedro de Ycuamandiyu#-24.1#-57.0833#65#-4
+Paraguay#San Pedro del Parana#-26.8333#-56.2#133#-4
+Paraguay#Santa Rita#-25.7833#-55.0667#269#-4
+Paraguay#Santa Rosa#-26.8667#-56.85#143#-4
+Paraguay#Santiago#-27.15#-56.7833#70#-4
+Paraguay#Tacuati#-23.45#-56.5833#103#-4
+Paraguay#Tobati#-25.25#-57.0667#96#-4
+Paraguay#Trinidad#-27.1167#-55.7833#152#-4
+Paraguay#Villa Elisa#-25.3667#-57.6167#97#-4
+Paraguay#Villa Florida#-26.3833#-57.15#64#-4
+Paraguay#Villarrica#-25.75#-56.4333#126#-4
+Paraguay#Yaguaron#-25.6#-57.3#62#-4
+Paraguay#Ybycui#-26.0167#-57.05#122#-4
+Paraguay#Ygatimi#-24.0833#-55.5#154#-4
+Paraguay#Ypacarai#-25.3833#-57.2667#56#-4
+Paraguay#Yuty#-26.6#-56.25#113#-4

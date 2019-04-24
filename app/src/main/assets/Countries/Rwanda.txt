@@ -1,0 +1,170 @@
+﻿
+Rwanda#Agasasa#-2.3903#29.9522#0#2
+Rwanda#Agatare#-2.7497#29.8#0#2
+Rwanda#Agatete#-2.3658#30.2478#0#2
+Rwanda#Agatobwe#-2.6511#29.5817#0#2
+Rwanda#Agatwi#-1.8847#30.0686#0#2
+Rwanda#Akagogo#-2.6667#29.6167#0#2
+Rwanda#Akanyaru#-2.0756#30.0178#0#2
+Rwanda#Akayanza#-2.7439#29.6706#0#2
+Rwanda#Akummba#-1.98#29.8247#0#2
+Rwanda#Aubanda#-2.0167#29.6167#0#2
+Rwanda#Butare#-2.2636#29.8075#0#2
+Rwanda#Butare#-2.5967#29.7381#0#2
+Rwanda#Byimana#-2.175#29.7325#0#2
+Rwanda#Byumba#-1.5775#30.0625#0#2
+Rwanda#Dahwe#-2.6164#29.8564#0#2
+Rwanda#Dendezi#-2.4472#29.0636#0#2
+Rwanda#Djambwe#-2.605#29.0139#0#2
+Rwanda#Donde#-1.7167#30.4#0#2
+Rwanda#Ducundura#-2.3081#29.2881#0#2
+Rwanda#Duha#-1.885#30.3486#0#2
+Rwanda#Dusego#-2.1614#29.6844#0#2
+Rwanda#Falinkanda#-2.3144#30.1453#0#2
+Rwanda#Foret Naturale de Mukura#-1.99#29.5269#0#2
+Rwanda#Foret Naturelle de Gishwati#-1.7842#29.4278#0#2
+Rwanda#Foret Naturelle de Nyungwe#-2.4903#29.1811#0#2
+Rwanda#Fumbwe#-1.8667#30.2783#0#2
+Rwanda#Funda#-1.7025#29.3056#0#2
+Rwanda#Hakasiru#-1.4833#29.9#0#2
+Rwanda#Hanika (Gitarama)#-2.3378#29.7531#0#2
+Rwanda#Hanika (Cyangugu)#-2.3008#29.1847#0#2
+Rwanda#Higiro#-2.7889#29.7417#0#2
+Rwanda#Hindiro#-1.8181#29.6392#0#2
+Rwanda#Hubingo#-1.8567#30.0081#0#2
+Rwanda#Humule#-1.68#30.3108#0#2
+Rwanda#Hunga#-1.5089#30.1536#0#2
+Rwanda#Huye#-2.5808#29.7117#0#2
+Rwanda#Ibanda#-2.4333#29.1833#0#2
+Rwanda#Ile Gihaya#-2.4431#28.8886#0#2
+Rwanda#Ile Ikibiti#-1.9839#29.2978#0#2
+Rwanda#Ile Munanira#-1.4333#29.7833#0#2
+Rwanda#Ile Murgwa#-2.3333#29.0667#0#2
+Rwanda#Ile Murumbi#-2.2283#29.18#0#2
+Rwanda#Ile Mushinye#-1.9419#29.3167#0#2
+Rwanda#Ile Muzira#-2.2503#29.185#0#2
+Rwanda#Ile Nkombo#-2.3922#28.9097#0#2
+Rwanda#Ile Nyamirundi#-1.825#29.2753#0#2
+Rwanda#Ile Nyankira#-2.0872#29.2647#0#2
+Rwanda#Ile Ruzi#-2.2847#29.1344#0#2
+Rwanda#Ile Sasa#-2.3303#29.005#0#2
+Rwanda#Ile Shangwe#-2.3797#29.0592#0#2
+Rwanda#Ile Tembabagoyi#-2.0139#29.3075#0#2
+Rwanda#Ile Udushivire#-2.0833#29.2667#0#2
+Rwanda#Ilembe#-1.65#29.4#0#2
+Rwanda#Isumo (Kigali)#-2.0714#30.2122#0#2
+Rwanda#Isumo (Butare)#-2.3936#29.9533#0#2
+Rwanda#Isumu#-1.95#30.2333#0#2
+Rwanda#Jari#-1.9136#30.0286#0#2
+Rwanda#Jimbu#-2.2861#29.4481#0#2
+Rwanda#Joma#-2.7667#29.8167#0#2
+Rwanda#Jomba (Ruhengeri)#-1.5833#29.7167#0#2
+Rwanda#Jomba (Gisenyi)#-1.9272#29.6192#0#2
+Rwanda#Juru#-2.0958#30.2164#0#2
+Rwanda#Jurwe (Butare)#-2.5131#29.8439#0#2
+Rwanda#Jurwe (Kigali)#-1.9022#30.1847#0#2
+Rwanda#Kigali (Butare)#-2.3#29.95#0#2
+Rwanda#Kigali#-1.9686#30.1378#0#2
+Rwanda#Leberu#-2.2#30.1#0#2
+Rwanda#Lemera#-2.45#29.55#0#2
+Rwanda#Lemere#-2.3644#29.5994#0#2
+Rwanda#Obiendo#-1.0572#30.4725#0#2
+Rwanda#Parc des Birunga#-1.495#29.4781#0#2
+Rwanda#Parc National de l Akagera#-1.6667#30.6667#0#2
+Rwanda#Pindura#-2.4817#29.2322#0#2
+Rwanda#Plaine Nyaruhuru#-1.8667#30.6333#0#2
+Rwanda#Plaine Urwuya#-1.8#30.65#0#2
+Rwanda#Plateau Chyuru#-1.6411#30.1339#0#2
+Rwanda#Plateau Kaniga#-1.405#30.0647#0#2
+Rwanda#Plateau Ngarama#-1.5042#30.2189#0#2
+Rwanda#Prefecture de Byumba#-1.5#30.1667#0#2
+Rwanda#Prefecture de Gisenyi#-1.75#29.5#0#2
+Rwanda#Prefecture de Gitarama#-2#29.5833#0#2
+Rwanda#Prefecture de Kibungo#-2#30.5833#0#2
+Rwanda#Prefecture de Ruhengeri#-1.5833#29.6667#0#2
+Rwanda#Prefegitura ya Cyangugu#-2.5#29.1667#0#2
+Rwanda#Prefegitura ya Gikongoro#-2.5#29.5#0#2
+Rwanda#Prefegitura ya Kibuye#-2.1667#29.4167#0#2
+Rwanda#Prefegitura ya Kigali#-2#29.6667#0#2
+Rwanda#Sabinskyi#-1.7578#29.6608#0#2
+Rwanda#Sangaza#-2.1658#30.3681#0#2
+Rwanda#Sharr#-2.3572#29.8483#0#2
+Rwanda#Sheke#-2.4833#29.7167#0#2
+Rwanda#Shenga#-1.85#30.2667#0#2
+Rwanda#Shololo#-2.75#29.5#0#2
+Rwanda#Susa#-1.5272#29.6328#0#2
+Rwanda#Taba (Gitarama)#-1.9464#29.8989#0#2
+Rwanda#Taba (Ruhengeri)#-1.6333#29.5833#0#2
+Rwanda#Tabagwe#-1.2858#30.2067#0#2
+Rwanda#Takwe#-2.0333#29.7833#0#2
+Rwanda#Tambwe#-2.2203#29.7992#0#2
+Rwanda#Tanda#-1.7833#30.25#0#2
+Rwanda#Tandalukara#-1.55#29.8667#0#2
+Rwanda#Tangabo#-2.6819#29.4308#0#2
+Rwanda#Tangaro#-2.5644#29.1831#0#2
+Rwanda#Tare (Butare)#-2.5342#29.6978#0#2
+Rwanda#Tare (Kigali)#-1.7156#29.9144#0#2
+Rwanda#Tare (Gikongoro)#-2.5008#29.4872#0#2
+Rwanda#Tema#-2.2192#29.3636#0#2
+Rwanda#Tembero#-1.3667#29.7167#0#2
+Rwanda#Tongati#-2.1833#29.5#0#2
+Rwanda#Tovu#-1.3833#30.1167#0#2
+Rwanda#Tshandjuma#-2.1336#30.6572#0#2
+Rwanda#Tshanzozo#-1.2336#30.3008#0#2
+Rwanda#Tsharubindi#-1.4333#29.55#0#2
+Rwanda#Tshato#-2.55#28.9333#0#2
+Rwanda#Tshatshika#-1.8547#29.8875#0#2
+Rwanda#Tshewazimbuzi#-2.4833#29.3667#0#2
+Rwanda#Tsheya#-1.6#30.1167#0#2
+Rwanda#Tshibumba#-1.45#30.2#0#2
+Rwanda#Tshihoho#-1.6533#29.88#0#2
+Rwanda#Tshimpondwe#-1.8614#29.8139#0#2
+Rwanda#Tshinzinga#-1.1167#30.3333#0#2
+Rwanda#Tshinzovu#-2.0419#30.5594#0#2
+Rwanda#Tshobe#-2.1333#29.8667#0#2
+Rwanda#Tshonyonyo#-1.8222#29.965#0#2
+Rwanda#Tshumba#-1.9833#29.7667#0#2
+Rwanda#Tshungo#-2.0667#29.7833#0#2
+Rwanda#Tshyabariza#-2.0678#29.9947#0#2
+Rwanda#Tshyabyavi#-1.4167#29.6167#0#2
+Rwanda#Tshyondo#-1.45#30.1167#0#2
+Rwanda#Tshyugaro#-2.1167#30.05#0#2
+Rwanda#Tubungo#-1.6639#29.6131#0#2
+Rwanda#Tumba (Byumba)#-1.6944#29.9483#0#2
+Rwanda#Tumba (Butare)#-2.6333#29.7333#0#2
+Rwanda#Tunani#-2.3333#29.5333#0#2
+Rwanda#Tunoluti#-2.2333#30.4833#0#2
+Rwanda#Twinyoni#-2.6833#29.3333#0#2
+Rwanda#Twumba#-2.2433#29.3633#0#2
+Rwanda#Umufu#-2.7167#29.35#0#2
+Rwanda#Umwige#-1.8406#30.4842#0#2
+Rwanda#Unganba#-1.7486#29.71#0#2
+Rwanda#Ungu#-1.4667#29.5333#0#2
+Rwanda#Urufunzo-Akagera#-2.075#30.4378#0#2
+Rwanda#Ururumanza#-2.1583#29.8658#0#2
+Rwanda#Urwanda#-2.3356#30.1489#0#2
+Rwanda#Urwuya#-2.6111#29.7694#0#2
+Rwanda#Uwagahunga#-2.7783#29.3983#0#2
+Rwanda#Uwamabende#-2.4833#29.4167#0#2
+Rwanda#Uwinka#-2.5839#29.4564#0#2
+Rwanda#Uwinkomo#-2.5053#29.4483#0#2
+Rwanda#Vallee Nizanye#-2.0125#30.57#0#2
+Rwanda#Vigaga#-1.35#29.8833#0#2
+Rwanda#Virunga#-1.3833#29.6333#0#2
+Rwanda#Volcan Karisimbi#-1.5078#29.4472#0#2
+Rwanda#Volcan Visoke#-1.4608#29.4817#0#2
+Rwanda#Vumbi (Gisenyi)#-1.8614#29.3111#0#2
+Rwanda#Vumbi (Butare)#-2.625#29.6939#0#2
+Rwanda#Warufu#-1.5028#30.1942#0#2
+Rwanda#Western Rift Valley#0#30#0#2
+Rwanda#Winka#-2.4667#29.2#0#2
+Rwanda#Winteko#-2.5333#28.9#0#2
+Rwanda#Yanga#-1.6769#29.6817#0#2
+Rwanda#Yanxe#-1.9394#30.0328#0#2
+Rwanda#Yaramba#-1.5869#29.9861#0#2
+Rwanda#Yenda#-2.1667#29.95#0#2
+Rwanda#Yonde#-2.3#29.5167#0#2
+Rwanda#Yumwe#-2.1286#30.4894#0#2
+Rwanda#Zanzati#-1.8#30.0833#0#2
+Rwanda#Zivu#-2.5556#29.8008#0#2
+Rwanda#Zoko#-1.7547#30.1078#0#2

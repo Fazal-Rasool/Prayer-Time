@@ -1,0 +1,113 @@
+﻿
+North Korea#Daisanto-do#38.8#125.75#0#9
+North Korea#Dogetsu#37.9006#126.3889#0#9
+North Korea#Donggi Dong#38.0467#125.7869#0#9
+North Korea#East Haeju#38.0333#125.7333#0#9
+North Korea#Eian#41.2556#129.4928#0#9
+North Korea#Eikan-do#42.4261#129.6844#0#9
+North Korea#Eiko#39.5478#127.2433#0#9
+North Korea#Eiko-gun#39.5#127.3333#0#9
+North Korea#Eisanshi#40.1394#124.8158#0#9
+North Korea#Eizyu#39.3067#125.5953#0#9
+North Korea#Embon-do#41.5081#129.6483#0#9
+North Korea#Enan#37.9089#126.1611#0#9
+North Korea#Enbon-ri#40.2644#128.6142#0#9
+North Korea#Endai-ho#41.6172#129.5822#0#9
+North Korea#Engando#41.5694#128.8083#0#9
+North Korea#Enkai-suiri-chosuichi#37.8833#126.05#0#9
+North Korea#Enmokutan#40.3667#126.3167#0#9
+North Korea#Ennan-ri#38.57#127.3142#0#9
+North Korea#Ensen-kaku#39.3111#127.455#0#9
+North Korea#Ensui-do#41.9686#129.0842#0#9
+North Korea#Entaizan#39.7833#124.5667#0#9
+North Korea#Entan#38.1667#125.7333#0#9
+North Korea#Entan-sen#38.1553#125.7281#0#9
+North Korea#Faeyu-dong#40.2981#125.5706#0#9
+North Korea#Fankochi#37.6764#125.3558#0#9
+North Korea#Fontina Point#42.2481#130.4031#0#9
+North Korea#Fu-gan#39.9572#127.9181#0#9
+North Korea#Fu-to#39.2833#127.5667#0#9
+North Korea#Fuho-do#40.4422#124.9453#0#9
+North Korea#Fuho-ri#37.8275#125.595#0#9
+North Korea#Fuindo#42.5117#130.0364#0#9
+North Korea#Fuji-nojo-chosuichi#40.06#124.8383#0#9
+North Korea#Fujindo-san#38.5294#126.2369#0#9
+North Korea#Fujo#38.2#124.8667#0#9
+North Korea#Fujo-ri#38.3789#125.6142#0#9
+North Korea#Fukkei-ri#38.4456#127.2594#0#9
+North Korea#Fuko-sen#39.7167#124.8833#0#9
+North Korea#Fukudai-sen#40.4422#128.9055#0#9
+North Korea#Fukukei#38.4383#127.2639#0#9
+North Korea#Fukyo-do#42.0314#129.955#0#9
+North Korea#Funai-ri#41.3253#127.7478#0#9
+North Korea#Funei#42.0664#129.7042#0#9
+North Korea#Fusei-ri#40.3333#127.2833#0#9
+North Korea#Fusen Reservoir#40.6114#127.5417#0#9
+North Korea#Fusen-ko#41.1278#127.5178#0#9
+North Korea#Fusenkohan#40.55#127.5667#0#9
+North Korea#Fusenrei#40.4#127.5667#0#9
+North Korea#Fushitsugan-tan#42.2611#130.6083#0#9
+North Korea#Fusho-ri#40.0758#128.2203#0#9
+North Korea#Futempo#41.5192#128.2994#0#9
+North Korea#Futo-ri#41.3058#128.455#0#9
+North Korea#Futoku-ri#39.6475#127.4886#0#9
+North Korea#Futsu-ko#39.0019#125.7011#0#9
+North Korea#Futsuryu-ko#39.2411#126.0386#0#9
+North Korea#Fuzan-do#41.4958#127.1897#0#9
+North Korea#Hamhung#39.9119#127.5408#0#9
+North Korea#Hungnam#39.8333#127.6333#0#9
+North Korea#Hungnam (Hamgyong-namdo)#39.8317#127.6186#0#9
+North Korea#Hungnam-hang#39.8314#127.6239#0#9
+North Korea#Hungnam-kuyok#39.8333#127.6667#0#9
+North Korea#Hungnam-ni#39.9167#127.4667#0#9
+North Korea#Hungnam-ni (Hwanghae-namdo)#38.3569#125.1192#0#9
+North Korea#Hungnam-ni (Hamgyong-namdo)#39.8522#127.4939#0#9
+North Korea#Hungnam-son#39.9006#127.535#0#9
+North Korea#Jimmujo#41.9694#128.3117#0#9
+North Korea#Joba-do#38.1458#126.8578#0#9
+North Korea#Josohei#41.4564#128.5125#0#9
+North Korea#Kaesong#37.9703#126.5164#0#9
+North Korea#l-kol#40.1622#128.5114#0#9
+North Korea#llgon-dong#42.2244#130.093#0#9
+North Korea#Lo-ri#38.2075#126.4158#0#9
+North Korea#Lpsok-tong#38.7472#126.7586#0#9
+North Korea#Lundy Island#37.7636#125.9019#0#9
+North Korea#Pyongyang#39.0194#125.7547#0#9
+North Korea#Seoul River#37.75#126.1833#0#9
+North Korea#Sinuiju#40.0836#124.4078#0#9
+North Korea#Sinuiju-pu#40.1#124.4167#0#9
+North Korea#Wonsan (Kaesong-si)#37.9328#126.5347#0#9
+North Korea#Wonsan (Kangwon-do)#39.1633#127.4839#0#9
+North Korea#Wonsan#39.9167#124.55#0#9
+North Korea#Wonsan-bu#39.1667#127.3833#0#9
+North Korea#Wonsan-dong (P yongan-bukto)#39.6906#125.3767#0#9
+North Korea#Wonsan-dong (Hwanghae-bukto)#38.3203#125.9433#0#9
+North Korea#Wonsan-dong#39.75#124.8667#0#9
+North Korea#Wonsan-dong (Hamgyong-bukto)#42.4244#129.8755#0#9
+North Korea#Wonsan-dong (P yongan-namdo)#39.2494#126.0086#0#9
+North Korea#Wonsan-hang#39.1658#127.4589#0#9
+North Korea#Wonsan-ni#39.8667#127.5333#0#9
+North Korea#Wonsan-ni (Kangwon-do)#39.0161#127.1656#0#9
+North Korea#Wonsan-ni (P yongan-namdo)#38.8442#125.2336#0#9
+North Korea#Wonsan-ni (Hwanghae-namdo)#38.0861#126.3739#0#9
+North Korea#Wonsan-yok#39.1622#127.4131#0#9
+North Korea#Wonsandok-san#40.5369#129.0697#0#9
+North Korea#Wonsang (P yongan-bukto)#39.6433#125.1786#0#9
+North Korea#Wonsang#40.2667#127.65#0#9
+North Korea#Wonsang-ni (Hamgyong-namdo)#40.3803#128.4444#0#9
+North Korea#Wonsang-ni#39.8833#127.45#0#9
+North Korea#Zaigu-son#40.6167#129.1667#0#9
+North Korea#Zaiin-ri#40.25#127.2833#0#9
+North Korea#Zenseki-ne#40.9861#129.7347#0#9
+North Korea#Zensen#40.6858#126.4592#0#9
+North Korea#Zenshin#40.0167#127.9667#0#9
+North Korea#Zensyo To#39.9458#127.8961#0#9
+North Korea#Zizyo#41.4608#126.6414#0#9
+North Korea#Zokkoji#40.1361#128.4561#0#9
+North Korea#Zui#40.8033#127.9467#0#9
+North Korea#Zuiko#38.45#126.15#0#9
+North Korea#Zuiko-gun#38.5#126.1667#0#9
+North Korea#Zuiko-ko#38.4439#125.7044#0#9
+North Korea#Zyo-suira To#38.7203#125.1139#0#9
+North Korea#Zyokan San#40.1#128.3833#0#9
+North Korea#Zyosin#40.75#129.1667#0#9

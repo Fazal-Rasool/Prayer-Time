@@ -1,0 +1,99 @@
+﻿
+Greece#Agrinion#38.62139#21.40778#80#2
+Greece#Aigaleo#37.98333#23.68333#47#2
+Greece#Aigion#38.24861#22.08194#42#2
+Greece#Akharnai#38.08333#23.73333#170#2
+Greece#Alexandreia#40.62667#22.44417#3#2
+Greece#Alexandroupolis#40.8475#25.87445#-9999#2
+Greece#Alimos#37.91667#23.71667#79#2
+Greece#Amalias#37.8#21.35#76#2
+Greece#Amarousion#38.05#23.8#199#2
+Greece#Ano Liosia#38.08333#23.7#156#2
+Greece#Argos#37.63333#22.73333#20#2
+Greece#Arta#39.16056#20.98528#38#2
+Greece#Aspropirgos#38.06667#23.58333#37#2
+Greece#Athens#37.98333#23.73333#110#2
+Greece#Ayia Paraskevi#38.01667#23.83333#196#2
+Greece#Ayia Varvara#37.98333#23.66667#13#2
+Greece#Chania#35.51222#24.01556#5#2
+Greece#Chios#38.36778#26.13583#1#2
+Greece#Corinth#37.93778#22.93222#29#2
+Greece#Drama#41.15444#24.13944#91#2
+Greece#Edessa#40.80056#22.04722#302#2
+Greece#Elefsis#38.03333#23.53333#-9999#2
+Greece#Ellinikon#37.88333#23.73333#-9999#2
+Greece#Galatsion#38.01667#23.75#158#2
+Greece#Giannitsa#40.79194#22.4075#61#2
+Greece#Ioannina#39.6675#20.85083#468#2
+Greece#Irakleion#35.325#25.13056#70#2
+Greece#Iraklion#38.06667#23.76667#197#2
+Greece#Kaisariani#37.96667#23.8#578#2
+Greece#Kalamakion#37.91667#23.71667#79#2
+Greece#Kalamaria#40.5825#22.95028#-9999#2
+Greece#Kalamata#37.03889#22.11417#32#2
+Greece#Kalivia Thorikou#37.83333#23.91667#150#2
+Greece#Kallithea#37.95#23.7#74#2
+Greece#Karditsa#39.36556#21.92167#127#2
+Greece#Kastoria#40.51667#21.26667#705#2
+Greece#Katerini#40.27194#22.5025#17#2
+Greece#Kavala#40.93972#24.40195#-9999#2
+Greece#Keratsinion#37.9625#23.61972#31#2
+Greece#Kerkyra#39.62#19.91972#68#2
+Greece#Khalandrion#38.03058#23.79793#187#2
+Greece#Kholargos#38#23.8#266#2
+Greece#Kifisia#38.06667#23.81667#320#2
+Greece#Kilkis#40.99194#22.87083#257#2
+Greece#Komotini#41.12278#25.39639#19#2
+Greece#Koropion#37.9#23.88333#111#2
+Greece#Kos#36.89333#27.28889#1#2
+Greece#Kozani#40.30111#21.78639#717#2
+Greece#Lamia#38.9#22.43333#75#2
+Greece#Larisa#39.63722#22.42028#77#2
+Greece#Megara#38#23.34556#89#2
+Greece#Melissia#38.05#23.83333#242#2
+Greece#Menemeni#40.65694#22.9#10#2
+Greece#Moskhaton#37.95#23.66667#-9999#2
+Greece#Mytilini#39.11#26.55472#1#2
+Greece#Nafplio#37.56361#22.8075#208#2
+Greece#Naousa#40.62944#22.06806#240#2
+Greece#Nea Erithraia#38.1#23.81667#309#2
+Greece#Nea Filadhelfia#38.03333#23.73333#89#2
+Greece#Nea Ionia#38.03333#23.75#155#2
+Greece#Nea Liosia#38.03333#23.7#67#2
+Greece#Nea Makri#38.08333#23.98333#14#2
+Greece#Nea Smirni#37.95#23.71667#108#2
+Greece#Nikaia#37.96667#23.65#71#2
+Greece#Oraiokastron#40.73083#22.91722#241#2
+Greece#Orestias#41.50306#26.52972#29#2
+Greece#Paiania#37.95#23.85#271#2
+Greece#Palaion Faliron#37.93333#23.7#50#2
+Greece#Pallini#38#23.88333#188#2
+Greece#Panorama#40.58333#23.03333#263#2
+Greece#Patrai#38.24444#21.73444#52#2
+Greece#Peraia#40.50028#22.925#11#2
+Greece#Perama#37.96806#23.565#208#2
+Greece#Peristerion#38.01667#23.7#67#2
+Greece#Petroupolis#38.05#23.68333#158#2
+Greece#Piraeus#37.94745#23.63709#-9999#2
+Greece#Polichni#40.66671#22.94881#69#2
+Greece#Preveza#38.95#20.75#-9999#2
+Greece#Ptolemais#40.51472#21.67861#594#2
+Greece#Pylaia#40.60056#22.9875#81#2
+Greece#Pyrgos#37.67513#21.44102#18#2
+Greece#Rethymnon#35.36472#24.47139#40#2
+Greece#Rodos#36.44083#28.2225#22#2
+Greece#Salamis#37.96667#23.48333#81#2
+Greece#Serres#41.08556#23.54972#61#2
+Greece#Sparta#37.07333#22.42972#210#2
+Greece#Sykeai#40.64944#22.95083#170#2
+Greece#Thermi#40.55#23.01667#56#2
+Greece#Thessaloniki#40.64028#22.94389#-9999#2
+Greece#Thivai#38.325#23.31889#202#2
+Greece#Trikala#39.55528#21.7675#123#2
+Greece#Tripolis#37.50889#22.37944#681#2
+Greece#Veroia#40.52333#22.20361#79#2
+Greece#Viron#37.96667#23.75#155#2
+Greece#Volos#39.36667#22.94583#52#2
+Greece#Voula#37.85#23.76667#89#2
+Greece#Vrilissia#38.03381#23.82962#237#2
+Greece#Xanthi#41.14139#24.88361#36#2

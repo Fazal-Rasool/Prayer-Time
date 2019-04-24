@@ -1,0 +1,101 @@
+﻿
+Venezuela#Acarigua#9.559722#-69.2019#199#-4.5
+Venezuela#Altagracia de Orituco#9.862222#-66.3806#499#-4.5
+Venezuela#Alto Barinas#8.594444#-70.2222#207#-4.5
+Venezuela#Anaco#9.438889#-64.4728#205#-4.5
+Venezuela#Araure#9.566667#-69.2167#207#-4.5
+Venezuela#Barcelona#10.13333#-64.7#3#-4.5
+Venezuela#Barinitas#8.762222#-70.4111#463#-4.5
+Venezuela#Barquisimeto#10.07389#-69.3228#573#-4.5
+Venezuela#Baruta#10.43333#-66.8833#1179#-4.5
+Venezuela#Cabimas#10.40194#-71.4461#11#-4.5
+Venezuela#Cagua#10.18333#-67.45#576#-4.5
+Venezuela#Calabozo#8.934444#-67.4267#78#-4.5
+Venezuela#Cantaura#9.310556#-64.3594#248#-4.5
+Venezuela#Caraballeda#10.61667#-66.8333#-9999#-4.5
+Venezuela#Caracas#10.5#-66.9167#920#-4.5
+Venezuela#Carora#10.17778#-70.0806#508#-4.5
+Venezuela#Carrizal#10.35#-66.9833#1161#-4.5
+Venezuela#Carupano#10.66972#-63.2492#38#-4.5
+Venezuela#Catia La Mar#10.6#-67.0333#82#-4.5
+Venezuela#Caucaguito#10.48333#-66.7333#570#-4.5
+Venezuela#Chacao#10.5#-66.85#898#-4.5
+Venezuela#Charallave#10.24833#-66.8567#405#-4.5
+Venezuela#Chivacoa#10.16028#-68.895#305#-4.5
+Venezuela#Ciudad Bolivar#8.122222#-63.5497#73#-4.5
+Venezuela#Ciudad Guayana#8.353333#-62.6528#7#-4.5
+Venezuela#Coro#11.40917#-69.6672#28#-4.5
+Venezuela#Cua#10.16222#-66.8853#246#-4.5
+Venezuela#Cumana#10.46667#-64.1667#4#-4.5
+Venezuela#Ejido#8.551389#-71.2375#1163#-4.5
+Venezuela#El Cafetal#10.46667#-66.8278#874#-4.5
+Venezuela#El Diario de Yaracuy#10.34169#-68.7328#207#-4.5
+Venezuela#El Hatillo#10.43333#-66.8167#1211#-4.5
+Venezuela#El Limon#10.30917#-67.6325#597#-4.5
+Venezuela#El Tigre#8.8925#-64.2528#276#-4.5
+Venezuela#El Tocuyo#9.786111#-69.7894#690#-4.5
+Venezuela#El Vigia#8.621944#-71.6506#152#-4.5
+Venezuela#Guacara#10.22972#-67.8739#581#-4.5
+Venezuela#Guanare#9.05#-69.75#173#-4.5
+Venezuela#Guarenas#10.46667#-66.6167#523#-4.5
+Venezuela#Guasdalito#7.247222#-70.7294#125#-4.5
+Venezuela#Guatire#10.46667#-66.5333#408#-4.5
+Venezuela#Guigue#10.08528#-67.7792#590#-4.5
+Venezuela#La Asuncion#11.03333#-63.8628#67#-4.5
+Venezuela#La Dolorita#10.49056#-66.7833#973#-4.5
+Venezuela#La Fria#8.218889#-72.2483#152#-4.5
+Venezuela#La Guaira#10.59901#-66.9346#150#-4.5
+Venezuela#La Victoria#10.23333#-67.3333#612#-4.5
+Venezuela#Lagunillas#10.14083#-71.2614#1#-4.5
+Venezuela#Las Tejerias#10.25#-67.1667#496#-4.5
+Venezuela#Los Dos Caminos#10.51667#-66.8333#1466#-4.5
+Venezuela#Los Rastrojos#10.02278#-69.2444#467#-4.5
+Venezuela#Machiques#10.06444#-72.545#130#-4.5
+Venezuela#Maiquetia#10.6#-66.95#105#-4.5
+Venezuela#Maracaibo#10.63167#-71.6406#3#-4.5
+Venezuela#Mariara#10.29833#-67.7161#608#-4.5
+Venezuela#Maturin#9.75#-63.1767#55#-4.5
+Venezuela#Merida#8.598333#-71.145#1473#-4.5
+Venezuela#Moron#10.48889#-68.2003#19#-4.5
+Venezuela#Mucumpiz#8.416667#-71.1333#2163#-4.5
+Venezuela#Nirgua#10.155#-68.5631#874#-4.5
+Venezuela#Ocumare del Tuy#10.12167#-66.7717#178#-4.5
+Venezuela#Palo Negro#10.17389#-67.5419#593#-4.5
+Venezuela#Petare#10.48333#-66.8167#867#-4.5
+Venezuela#Porlamar#10.95#-63.85#-9999#-4.5
+Venezuela#Puerto Ayacucho#5.663889#-67.6236#69#-4.5
+Venezuela#Puerto Cabello#10.47306#-68.0125#49#-4.5
+Venezuela#Puerto La Cruz#10.21667#-64.6167#64#-4.5
+Venezuela#Punta Cardon#11.65806#-70.215#4#-4.5
+Venezuela#Punto Fijo#11.69972#-70.1992#4#-4.5
+Venezuela#Quibor#9.925556#-69.6203#799#-4.5
+Venezuela#Rosario#10.31667#-72.3167#101#-4.5
+Venezuela#Rubio#7.707222#-72.3539#869#-4.5
+Venezuela#San Antonio de Los Altos#10.36667#-66.9333#1220#-4.5
+Venezuela#San Antonio del Tachira#7.817778#-72.4425#610#-4.5
+Venezuela#San Carlos#9.666667#-68.6#138#-4.5
+Venezuela#San Carlos del Zulia#9.004167#-71.9164#6#-4.5
+Venezuela#San Cristobal#7.766944#-72.225#881#-4.5
+Venezuela#San Felipe#10.34056#-68.7372#207#-4.5
+Venezuela#San Fernando Apure#7.896667#-67.4672#27#-4.5
+Venezuela#San Joaquin#10.2625#-67.7922#533#-4.5
+Venezuela#San Jose de Guanipa#8.893333#-64.1592#248#-4.5
+Venezuela#San Juan de Colon#8.037778#-72.2519#809#-4.5
+Venezuela#San Juan de los Morros#9.911111#-67.3583#512#-4.5
+Venezuela#San Mateo#10.21667#-67.4167#620#-4.5
+Venezuela#Santa Rita#10.53806#-71.5169#1#-4.5
+Venezuela#Santa Teresa#10.23139#-66.6636#135#-4.5
+Venezuela#Tacarigua#10.09#-67.9197#596#-4.5
+Venezuela#Tariba#7.823611#-72.2214#910#-4.5
+Venezuela#Tinaquillo#9.918611#-68.3047#510#-4.5
+Venezuela#Trujillo#9.366667#-70.4333#1170#-4.5
+Venezuela#Tucupita#9.068611#-62.0492#1#-4.5
+Venezuela#Turmero#10.23333#-67.4833#602#-4.5
+Venezuela#Upata#8.008611#-62.3989#326#-4.5
+Venezuela#Valencia#10.18056#-68.0039#558#-4.5
+Venezuela#Valera#9.317778#-70.6036#537#-4.5
+Venezuela#Valle de La Pascua#9.216667#-66#154#-4.5
+Venezuela#Villa Bruzual#9.332778#-69.1208#122#-4.5
+Venezuela#Villa de Cura#10.03333#-67.4833#556#-4.5
+Venezuela#Yaritagua#10.08#-69.1261#506#-4.5
+Venezuela#Zaraza#9.35#-65.3167#52#-4.5

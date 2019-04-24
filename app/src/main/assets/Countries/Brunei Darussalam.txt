@@ -1,0 +1,49 @@
+﻿
+Brunei Darussalam#Abana Rock#5.1#115.0667#0#8
+Brunei Darussalam#Anak Sungai Babi#4.55#115.2333#0#8
+Brunei Darussalam#Anduki Airport#4.6333#114.3833#0#8
+Brunei Darussalam#Arur Birau#4.6833#115.1833#0#8
+Brunei Darussalam#Arur Lepaku#4.65#115.2333#0#8
+Brunei Darussalam#Aur Labai#4.7#115.1833#0#8
+Brunei Darussalam#Aur Payong#4.6667#115.2#0#8
+Brunei Darussalam#Bandar Seri Begawan#4.8833#114.9333#0#8
+Brunei Darussalam#Belait District#4.4167#114.5833#0#8
+Brunei Darussalam#Berakas Forest Reserve#4.9833#114.9167#0#8
+Brunei Darussalam#Brunei#4.95#114.95#0#8
+Brunei Darussalam#Brunei and Muara District#4.8333#114.9167#0#8
+Brunei Darussalam#Brunei Bay#5.0833#115.3#0#8
+Brunei Darussalam#Brunei Darussalam#4.5#114.6667#0#8
+Brunei Darussalam#China Sea#15#115#0#8
+Brunei Darussalam#Cowie Hill#5.0333#115.05#0#8
+Brunei Darussalam#Danau#4.7667#114.5833#0#8
+Brunei Darussalam#Dangar#4.6667#114.5833#0#8
+Brunei Darussalam#Gadong Estate#4.9167#114.9#0#8
+Brunei Darussalam#Gunong Suang#4.65#115.25#0#8
+Brunei Darussalam#Istana Darul Hana#4.8833#114.9167#0#8
+Brunei Darussalam#Jaja Ridge#4.9167#115#0#8
+Brunei Darussalam#Jerudong#4.95#114.85#0#8
+Brunei Darussalam#Kampong Lumapas#4.85#114.9167#0#8
+Brunei Darussalam#Kuala Balai#4.45#114.3167#0#8
+Brunei Darussalam#Kuala Belait#4.5833#114.1833#0#8
+Brunei Darussalam#Lambak#4.9667#114.95#0#8
+Brunei Darussalam#Lubok Sukang#4.4167#114.6#0#8
+Brunei Darussalam#Lugu#4.8833#114.8#0#8
+Brunei Darussalam#Malasia#0#120#0#8
+Brunei Darussalam#Melilas#4.2333#114.6667#0#8
+Brunei Darussalam#Muara#5.0333#115.0667#0#8
+Brunei Darussalam#Muara Spit#5.05#115.1333#0#8
+Brunei Darussalam#Nong Kelulau#4.7333#114.65#0#8
+Brunei Darussalam#Panaga#4.6#114.2833#0#8
+Brunei Darussalam#Pulo Burbunot#4.8833#115.0333#0#8
+Brunei Darussalam#Pulo Kitana#4.8833#115.1#0#8
+Brunei Darussalam#Rambai#4.6333#114.65#0#8
+Brunei Darussalam#Rampayoh#4.3833#114.45#0#8
+Brunei Darussalam#Rasau#4.55#114.2167#0#8
+Brunei Darussalam#Relalong River#4.55#115.1333#0#8
+Brunei Darussalam#Rumah Supon#4.4833#114.7833#0#8
+Brunei Darussalam#Sengkurong#4.8833#114.8333#0#8
+Brunei Darussalam#Seria#4.6167#114.3167#0#8
+Brunei Darussalam#Sungai Mau#4.55#114.4833#0#8
+Brunei Darussalam#Tutong#4.8#114.65#0#8
+Brunei Darussalam#Tutong District#4.5833#114.6667#0#8
+Brunei Darussalam#Ukong#4.6667#114.6333#0#8

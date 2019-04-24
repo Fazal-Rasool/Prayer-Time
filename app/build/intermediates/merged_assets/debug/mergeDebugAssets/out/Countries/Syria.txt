@@ -1,0 +1,77 @@
+﻿
+Syria#`Afrin#36.51667#36.86666#223#2
+Syria#`Irbin#33.53333#36.36666#671#2
+Syria#Abu Kamal#34.45#40.91861#175#2
+Syria#Ad Dana#36.21667#36.76667#383#2
+Syria#Al Bab#36.3725#37.51778#472#2
+Syria#Al Harak#32.73333#36.30028#650#2
+Syria#Al Hasakah#36.48333#40.75#314#2
+Syria#Al Kiswah#33.35#36.23333#728#2
+Syria#Al Mayadin#35.01667#40.45#193#2
+Syria#Al Qaryatayn#34.23333#37.23333#752#2
+Syria#Al Qunaytirah#33.12528#35.82361#928#2
+Syria#Al Qusayr#34.51667#36.58333#544#2
+Syria#Al Qutayfah#33.75#36.6#927#2
+Syria#Aleppo#36.20278#37.15861#380#2
+Syria#An Nabk#34.01667#36.73333#1266#2
+Syria#Ar Raqqah#35.95#39.01667#226#2
+Syria#Ar Rastan#34.91667#36.73333#394#2
+Syria#As Safirah#36.06667#37.36666#341#2
+Syria#As Sanamayn#33.08333#36.16667#641#2
+Syria#At Tall#33.6#36.3#914#2
+Syria#Ath Thawrah#35.83667#38.54805#343#2
+Syria#Az Zabadani#33.71667#36.08333#1234#2
+Syria#Baniyas#35.18333#35.95#10#2
+Syria#Binnish#35.93333#36.71667#352#2
+Syria#Busra ash Sham#32.51667#36.48333#827#2
+Syria#Damascus#33.5#36.3#692#2
+Syria#Darayya#33.45#36.25#690#2
+Syria#Darbasiyah#37.07#40.6525#478#2
+Syria#Dayr az Zawr#35.33333#40.15#194#2
+Syria#Dayr Hafir#36.15361#37.70667#355#2
+Syria#Duma#33.58333#36.4#661#2
+Syria#Duraykish#34.88333#36.13334#339#2
+Syria#Hajin#34.68972#40.83#169#2
+Syria#Halfaya#35.26667#36.6#226#2
+Syria#Hamah#35.13333#36.75#264#2
+Syria#Harasta al Basal#33.56667#36.36666#686#2
+Syria#Hims#34.73333#36.71667#510#2
+Syria#Idlib#35.92972#36.63167#449#2
+Syria#Inkhil#33#36.11666#629#2
+Syria#Izra`#32.85778#36.25444#599#2
+Syria#Jablah#35.35#35.91667#-9999#2
+Syria#Jarabulus#36.8175#38.01111#356#2
+Syria#Jayrud#33.81667#36.73333#804#2
+Syria#Jisr ash Shughur#35.81556#36.3175#129#2
+Syria#Kafr Lahah#34.88333#36.5#378#2
+Syria#Kafr Nabl#35.6#36.56667#637#2
+Syria#Kafr Takharim#36.11667#36.51667#587#2
+Syria#Kafr Zayta#35.36667#36.58333#289#2
+Syria#Khan Shaykhun#35.43333#36.63334#350#2
+Syria#Latakia#35.51667#35.78333#-9999#2
+Syria#Ma`arrat Misrin#36.01667#36.66667#322#2
+Syria#Ma`lula#33.83333#36.55#1296#2
+Syria#Manbij#36.52667#37.95639#472#2
+Syria#Masyaf#35.05#36.35#432#2
+Syria#Mukharram al Fawqani#34.81667#37.08333#602#2
+Syria#Nubl#36.36667#36.98333#457#2
+Syria#Qarah#34.15#36.73333#1294#2
+Syria#Qasim#32.98333#36.08333#650#2
+Syria#Qatana#33.43333#36.08333#875#2
+Syria#Safita#34.81667#36.11666#349#2
+Syria#Salakhid#32.86667#36.56667#875#2
+Syria#Salamiyah#35.01667#37.05#463#2
+Syria#Salqin#36.13722#36.45417#448#2
+Syria#Saraqib#35.86361#36.80056#371#2
+Syria#Shaykh Miskin#32.81667#36.15#529#2
+Syria#Subaykhan#34.85444#40.60833#167#2
+Syria#Suran#35.28333#36.75#351#2
+Syria#Tadif#36.33333#37.53333#438#2
+Syria#Tadmur#34.55#38.28333#411#2
+Syria#Tafas#32.73806#36.06861#493#2
+Syria#Talbisah#34.83333#36.73333#462#2
+Syria#Tall Kalakh#34.66667#36.25#313#2
+Syria#Tall Rif`at#36.46667#37.1#446#2
+Syria#Tartus#34.88333#35.88334#-9999#2
+Syria#Tayyibat al Imam#35.26667#36.71667#329#2
+Syria#Yabrud#33.96667#36.66667#1367#2

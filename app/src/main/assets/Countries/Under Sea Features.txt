@@ -1,0 +1,66 @@
+﻿
+Under Sea Features#110 Miles Holes#59.1794#-0.8547#0#13
+Under Sea Features#28 Fathom Bank#27.9167#-93.45#0#13
+Under Sea Features#California Seamount#17.8333#-124#0#13
+Under Sea Features#Crough Seamount#-24.75#-121.75#0#13
+Under Sea Features#Flocco Seamount#-41.4167#-158.25#0#13
+Under Sea Features#Gyre Basin#27.3333#-94.1833#0#13
+Under Sea Features#Hsi-wei T an#7.8833#110#0#13
+Under Sea Features#Jyllands Banke#56.8333#7.3333#0#13
+Under Sea Features#Kyuquot Canyon#49.6667#-127.8#0#13
+Under Sea Features#Quatsino Canyon#50.1667#-128.1667#0#13
+Under Sea Features#Quereau Bank#44.5#-58.5#0#13
+Under Sea Features#Quimbaya Basin#14.0333#-80.3833#0#13
+Under Sea Features#Quinault Canyon#47.35#-125.1333#0#13
+Under Sea Features#Quinn Guyot#56.25#-145.25#0#13
+Under Sea Features#Quintero Knoll#24#-72.85#0#13
+Under Sea Features#Quionga Canyon#-10.5333#40.6667#0#13
+Under Sea Features#Quiros Seamount#10#-108.8333#0#13
+Under Sea Features#Rakiura Gap#-46.8333#168.3#0#13
+Under Sea Features#Rangiauria Spur#-45.4167#-175.3333#0#13
+Under Sea Features#Ravel Seamount#27.2667#-161.6667#0#13
+Under Sea Features#Razlom Klarion#18#-122#0#13
+Under Sea Features#Razlom Pioner#38.5#-135#0#13
+Under Sea Features#Theta Passage#43.5#-12.6667#0#13
+Under Sea Features#Ubate Seamount#15.1667#-79.5333#0#13
+Under Sea Features#Ulloa Knoll#22.5833#-108.9167#0#13
+Under Sea Features#Ulloa Reef#7.0333#144.2#0#13
+Under Sea Features#Umnak Canyon#53.75#-170#0#13
+Under Sea Features#Unarang Rock#4.0167#118.0833#0#13
+Under Sea Features#Uncle Sam Bank#25.6333#-113.4#0#13
+Under Sea Features#Union Seamount#49.5833#-132.75#0#13
+Under Sea Features#Usof Canyon#53.0833#-166.6667#0#13
+Under Sea Features#Xauen Bank#35.3833#-4.3#0#13
+Under Sea Features#Yacopi Valley#15.15#-80.3#0#13
+Under Sea Features#Yaghan Basin#-56#-61#0#13
+Under Sea Features#Yakobi Valley#58#-137#0#13
+Under Sea Features#Yakutat Canyon#59.5#-140#0#13
+Under Sea Features#Yalata Canyon#-34.7667#131.7#0#13
+Under Sea Features#Yamato Bank#39.3333#135#0#13
+Under Sea Features#Yamato Basin#38.5#136#0#13
+Under Sea Features#Yamato Rise#39.5#134#0#13
+Under Sea Features#Yamato Trough#39.4167#134.25#0#13
+Under Sea Features#Yana Valley#76#133#0#13
+Under Sea Features#Yang-ming Chiao#10.8#116.85#0#13
+Under Sea Features#Yanjii Shu#5.8833#145.65#0#13
+Under Sea Features#Yap Ridge#9#138#0#13
+Under Sea Features#Yap Trench#8.5#138#0#13
+Under Sea Features#Yaquina Ridge#45.7667#-125.3333#0#13
+Under Sea Features#Yaquina Trough#3#-80#0#13
+Under Sea Features#Yasawa Trough#-16.6667#176.6667#0#13
+Under Sea Features#Yermak Plateau#82#5#0#13
+Under Sea Features#Yin-chi T an#16.0167#114.9333#0#13
+Under Sea Features#Yin-li T an#16.7667#112.2167#0#13
+Under Sea Features#Yinqing Qunjiao#8.85#112.5333#0#13
+Under Sea Features#Yomei Seamount#42.3#170.4#0#13
+Under Sea Features#York Breakers#9.9#118.1667#0#13
+Under Sea Features#Yoro Seamount#27.65#130.8#0#13
+Under Sea Features#Yu-ya An-sha#8.15#114.7333#0#13
+Under Sea Features#Yucatan Bank#22#-90#0#13
+Under Sea Features#Yucatan Basin#20#-84#0#13
+Under Sea Features#Yuma Trough#18.0833#-68.25#0#13
+Under Sea Features#Yunaska Canyon#53.25#-170.8333#0#13
+Under Sea Features#Yupanqui Basin#-19#-101#0#13
+Under Sea Features#Yuryaku Guyot#32.6667#172.25#0#13
+Under Sea Features#Yusuf Ridge#35.9667#-2#0#13
+Under Sea Features#Yuwan Seamount#27.9256#133#0#13

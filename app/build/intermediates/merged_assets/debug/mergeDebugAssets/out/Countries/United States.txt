@@ -1,0 +1,101 @@
+﻿
+United States#Akron#41.081445#-81.5190048#290#-5
+United States#Albuquerque#35.084491#-106.651138#1510#-7
+United States#Anaheim#33.835293#-117.914505#40#-8
+United States#Anchorage#61.218056#-149.900284#0#-9
+United States#Arlington#32.735687#-97.1080627#184#-6
+United States#Atlanta#33.748995#-84.3879852#305#-5
+United States#Aurora#39.729432#-104.831917#1647#-7
+United States#Austin#30.267153#-97.7430573#163#-6
+United States#Bakersfield#35.373292#-119.018715#122#-8
+United States#Baltimore#39.290385#-76.6121902#2#-5
+United States#Baton Rouge#30.450746#-91.1545486#0#-6
+United States#Birmingham#33.520661#-86.8024902#173#-6
+United States#Boston#42.358431#-71.0597763#11#-5
+United States#Buffalo#42.886447#-78.8783722#183#-5
+United States#Chandler#33.306161#-111.841248#380#-7
+United States#Charlotte#35.227087#-80.8431244#229#-5
+United States#Chicago#41.850033#-87.6500549#181#-6
+United States#Chula Vista#32.640054#-117.084198#23#-8
+United States#Cincinnati#39.162004#-84.4568863#203#-5
+United States#Cleveland#41.499495#-81.6954117#185#-5
+United States#Colorado Springs#38.833882#-104.821365#1829#-7
+United States#Columbus#39.961176#-82.9987946#237#-5
+United States#Corpus Christi#27.800583#-97.3963776#6#-6
+United States#Dallas#32.783056#-96.8066635#137#-6
+United States#Denver#39.739154#-104.984703#1598#-7
+United States#Detroit#42.331427#-83.0457535#181#-5
+United States#Durham#35.994033#-78.8986206#122#-5
+United States#El Paso#31.75872#-106.486931#1147#-7
+United States#Fort Wayne#41.130604#-85.1288605#243#-5
+United States#Fort Worth#32.725409#-97.3208466#199#-6
+United States#Fresno#36.747727#-119.772369#91#-8
+United States#Garland#32.912624#-96.6388855#165#-6
+United States#Glendale#33.538652#-112.185989#336#-7
+United States#Greensboro#36.072636#-79.7919769#244#-5
+United States#Henderson#36.039699#-114.981934#580#-8
+United States#Hialeah#25.857596#-80.2781067#2#-5
+United States#Honolulu#21.306944#-157.858337#0#-10
+United States#Houston#29.763284#-95.3632736#15#-6
+United States#Indianapolis#39.768377#-86.1580429#222#-5
+United States#Jacksonville#30.332184#-81.6556473#7#-5
+United States#Jersey City#40.728158#-74.0776443#14#-5
+United States#Kansas City#39.099727#-94.5785675#271#-6
+United States#Laredo#27.506407#-99.5075455#115#-6
+United States#Las Vegas#36.174971#-115.137222#609#-8
+United States#Lexington#37.988689#-84.4777145#298#-5
+United States#Lexington-Fayette#38.0498#-84.4585495#312#-5
+United States#Lincoln#40.800001#-96.6669617#382#-6
+United States#Long Beach#33.766962#-118.189232#1#-8
+United States#Los Angeles#34.052234#-118.243683#115#-8
+United States#Louisville#38.254238#-85.759407#128#-5
+United States#Lubbock#33.577863#-101.855164#976#-6
+United States#Madison#43.073052#-89.4012299#270#-6
+United States#Memphis#35.149534#-90.0489807#75#-6
+United States#Mesa#33.422269#-111.82264#386#-7
+United States#Miami#25.774266#-80.1936569#2#-5
+United States#Milwaukee#43.038903#-87.9064713#195#-6
+United States#Minneapolis#44.979965#-93.2638397#259#-6
+United States#Modesto#37.639097#-120.99688#12#-8
+United States#Nashville#36.16589#-86.7844467#151#-6
+United States#New Orleans#29.954648#-90.0750732#0#-6
+United States#New South Memphis#35.086758#-90.0567551#74#-6
+United States#New York City#40.714269#-74.0059738#2#-5
+United States#Newark#40.735657#-74.1723633#16#-5
+United States#Norfolk#36.846815#-76.2852173#3#-5
+United States#North Glendale#34.160563#-118.264519#174#-8
+United States#North Kansas City#39.130004#-94.5621796#223#-8
+United States#Oakland#37.804372#-122.270805#0#-8
+United States#Oklahoma City#35.46756#-97.5164261#364#-8
+United States#Omaha#41.25861#-95.9377899#0#-6
+United States#Orlando#28.538336#-81.3792343#34#-5
+United States#Paradise#36.097195#-115.146668#626#-8
+United States#Philadelphia#39.952335#-75.1637878#8#-5
+United States#Phoenix#33.448377#-112.074036#0#-7
+United States#Pittsburgh#40.440625#-79.9958878#235#-5
+United States#Plano#33.019843#-96.6988831#200#-6
+United States#Portland#45.523452#-122.676209#61#-8
+United States#Raleigh#35.772096#-78.6386108#91#-5
+United States#Riverside#33.953349#-117.396156#262#-8
+United States#Rochester#43.154785#-77.6155548#155#-5
+United States#Sacramento#38.581572#-121.4944#5#-8
+United States#Saint Louis#38.627273#-90.1978912#135#-6
+United States#Saint Paul#44.94441#-93.093277#235#-6
+United States#Saint Petersburg#27.770861#-82.6792679#14#-5
+United States#San Antonio#29.424122#-98.4936295#196#-6
+United States#San Diego#32.715329#-117.157257#26#-8
+United States#San Francisco#37.77493#-122.419418#60#-8
+United States#San Jose#37.339386#-121.894959#24#-8
+United States#Santa Ana#33.745573#-117.867836#30#-8
+United States#Scottsdale#33.50921#-111.899033#386#-7
+United States#Seattle#47.60621#-122.332069#60#-8
+United States#South Boston#42.333431#-71.0494919#10#-5
+United States#Stockton#37.957702#-121.290779#4#-8
+United States#Tampa#27.947522#-82.4584274#1#-5
+United States#Toledo#41.663938#-83.5552139#191#-5
+United States#Tucson#32.221743#-110.926476#751#-7
+United States#Tulsa#36.153982#-95.992775#213#-6
+United States#Virginia Beach#36.852926#-75.9779816#3#-5
+United States#Washington#38.895112#-77.0363693#11#-5
+United States#West Raleigh#35.786818#-78.6638947#122#-5
+United States#Wichita#37.692236#-97.3375473#402#-6

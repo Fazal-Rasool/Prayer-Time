@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/dashboard"/>
+
+    <item android:title="EMPLOYEE">
+        <menu>
+            <item
+                android:id="@+id/employeeinfo"
+                android:title="Employee Info" />
+            <!-- <item
+                 android:id="@+id/changepassword"
+                 android:icon="@drawable/ic_password"
+                 android:title="Change Password" />
+             <item
+                 android:id="@+id/apraisalform"
+                 android:icon="@drawable/ic_apraisal"
+                 android:title="Apraisal Form" />-->
+        </menu>
+    </item>
+
+    <item android:title="ATTENDANCE"
+        android:id="@+id/atendance_tab">
+        <menu>
+            <item
+                android:id="@+id/todaystatus"
+                android:title="Today's Status" />
+        </menu>
+    </item>
+
+    <!-- <item android:title="ATTENDANCE">
+         <menu>
+             <item
+                 android:id="@+id/todaystatus"
+                 android:icon="@drawable/ic_fingerprint_scan"
+                 android:title="Today's Status" />
+         </menu>
+     </item>-->
+
+    <item android:title="LEAVE MANAGEMENT">
+        <menu>
+            <item
+                android:id="@+id/applyleave"
+                android:title="Apply Leave" />
+            <item
+                android:id="@+id/aplliedleavestatus"
+                android:title="Applied Leave Status" />
+
+            <item
+                android:id="@+id/applyweekend"
+                android:title="Apply Weekend" />
+
+            <item
+                android:id="@+id/leavesummary"
+                android:title="Leave Summary" />
+
+            <item
+                android:id="@+id/leavesforapproval"
+                android:title="Approve Leave for HOD"
+                app:actionViewClass="android.widget.TextView" />
+        </menu>
+    </item>
+
+
+    <item android:title="TIME SHEET">
+        <menu>
+            <item
+                android:id="@+id/addactivities"
+                android:title="Add Activities" />
+
+            <item
+                android:id="@+id/hodviewactivities"
+                android:title="HOD View Activities" />
+
+        </menu>
+    </item>
+
+    <item android:title="FEEDBACK">
+        <menu>
+
+            <item
+                android:id="@+id/feedback"
+                android:title="App Feedback" />
+        </menu>
+    </item>
+
+    <!-- <item android:title="REPORTS">
+         <menu>
+             <item
+                 android:id="@+id/reportuser"
+                 android:icon="@drawable/ic_reports"
+                 android:title="Report User" />
+             <item
+                 android:id="@+id/reportleave"
+                 android:icon="@drawable/ic_reports"
+                 android:title="Leave Reports" />
+         </menu>
+     </item>-->
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/logout"
+            android:title="Log Out"/>
+    </group>
+</menu>

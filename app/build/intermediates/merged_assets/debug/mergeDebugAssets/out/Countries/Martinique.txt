@@ -1,0 +1,138 @@
+﻿
+Martinique#Daubert#14.6667#-60.9833#0#-4
+Martinique#Delivry#14.4833#-60.9167#0#-4
+Martinique#Demare#14.8167#-61.1167#0#-4
+Martinique#Derriere Morne#14.75#-60.9833#0#-4
+Martinique#Derriere-Bois#14.65#-61#0#-4
+Martinique#Desforts#14.7167#-60.9667#0#-4
+Martinique#Desroses#14.6167#-60.9333#0#-4
+Martinique#Deux Choux#14.7333#-61.1#0#-4
+Martinique#Diamant#14.4667#-61.0333#0#-4
+Martinique#Diamond Bank#14.4333#-61.0333#0#-4
+Martinique#Diamond Rock#14.45#-61.0333#0#-4
+Martinique#Dominante#14.7833#-61.0333#0#-4
+Martinique#Dominica Channel#15.1667#-61.25#0#-4
+Martinique#Douane Bank#14.4667#-60.8833#0#-4
+Martinique#Duchesne#14.6333#-60.95#0#-4
+Martinique#Duhaumont#14.8167#-61.0333#0#-4
+Martinique#Dumaine#14.5833#-60.9#0#-4
+Martinique#Duquesne#14.5833#-60.9333#0#-4
+Martinique#Durocher#14.65#-60.9833#0#-4
+Martinique#Duvallon#14.6667#-61.1667#0#-4
+Martinique#Edouard#14.7167#-61.1667#0#-4
+Martinique#Embarcadere Lareinty#14.5833#-61.0167#0#-4
+Martinique#Esperance#14.6167#-60.9#0#-4
+Martinique#Eudorcait#14.75#-61.0167#0#-4
+Martinique#Eyma#14.8667#-61.1167#0#-4
+Martinique#Fort-de-France#14.6#-61.0833#0#-4
+Martinique#Gaalon#14.65#-60.8833#0#-4
+Martinique#Gallochat#14.5167#-61.0667#0#-4
+Martinique#Gerbault#14.6#-61.05#0#-4
+Martinique#Glotin#14.6833#-61#0#-4
+Martinique#Gondeau#14.6167#-61.0333#0#-4
+Martinique#Gondeau-Saint-Joseph#14.6333#-61.0333#0#-4
+Martinique#Grand Fond#14.7167#-60.95#0#-4
+Martinique#Grande Anse#14.7#-61.1833#0#-4
+Martinique#Grande Anse des Salines#14.4#-60.8833#0#-4
+Martinique#Grande Riviere#14.8667#-61.1833#0#-4
+Martinique#Grande-Seche#14.5833#-61.0667#0#-4
+Martinique#Gros Roche#14.65#-60.9#0#-4
+Martinique#Gros-Morne#14.7#-61#0#-4
+Martinique#Guenot#14.4833#-60.9#0#-4
+Martinique#Guinee-Fleury#14.5167#-60.9333#0#-4
+Martinique#Haut Perinelle#14.7833#-61.1667#0#-4
+Martinique#Hauteur de Terreville#14.6333#-61.1#0#-4
+Martinique#Hauteurs Bourdon#14.85#-61.1333#0#-4
+Martinique#Havre de la Trinite#14.7333#-60.95#0#-4
+Martinique#Havre du Robert#14.6667#-60.9167#0#-4
+Martinique#Hospital Cay#14.75#-61.1833#0#-4
+Martinique#Ile Chancel#14.6833#-60.8833#0#-4
+Martinique#Ile Pointe Grenade#14.5667#-60.8333#0#-4
+Martinique#Ilet Aubin#14.6167#-60.8667#0#-4
+Martinique#Ilet aux Rats#14.6833#-60.9#0#-4
+Martinique#Ilet Bouchard#14.6333#-60.8667#0#-4
+Martinique#Ilet Cabrit#14.3833#-60.8667#0#-4
+Martinique#Ilet Fregate#14.6#-60.8667#0#-4
+Martinique#Ilet la Perle#14.8333#-61.2167#0#-4
+Martinique#Ilet Larose#14.6667#-60.8833#0#-4
+Martinique#Ilet Lezards#14.4167#-60.8333#0#-4
+Martinique#Ilet Pele#14.6#-60.85#0#-4
+Martinique#Ilet Petit Vincent#14.6833#-60.9167#0#-4
+Martinique#Ilet Saint-Aubin#14.7667#-60.9667#0#-4
+Martinique#Ilet Thiery#14.6167#-60.85#0#-4
+Martinique#Ilet Tois Roux#14.4#-60.8333#0#-4
+Martinique#Ilets aux Chiens#14.4333#-60.8167#0#-4
+Martinique#Jacob Hill#14.7667#-61.0833#0#-4
+Martinique#Jean-Baptiste#14.45#-60.9#0#-4
+Martinique#Jeanne d Arc#14.6333#-61.0167#0#-4
+Martinique#Jonction#14.6667#-61.0167#0#-4
+Martinique#Josseaud#14.5167#-60.8833#0#-4
+Martinique#Negro Point#14.5833#-61.0833#0#-4
+Martinique#Nord Plage#14.8667#-61.15#0#-4
+Martinique#Nouvelle Cite#14.7667#-61.0167#0#-4
+Martinique#Olbian Reef#14.4667#-61.0167#0#-4
+Martinique#Sagesse#14.5#-60.9833#0#-4
+Martinique#Saingaule#14.5#-60.9167#0#-4
+Martinique#Saint Esprit#14.55#-60.9333#0#-4
+Martinique#Saint Pierre Roadstead#14.7333#-61.1833#0#-4
+Martinique#Saint-Laurent#14.5833#-60.9167#0#-4
+Martinique#Saint-Roch#14.6#-60.95#0#-4
+Martinique#Sainte Catherine#14.6167#-61.1#0#-4
+Martinique#Sainte-Luce#14.4667#-60.9167#0#-4
+Martinique#Saline Lake#14.4#-60.8667#0#-4
+Martinique#Sans Pareil#14.5#-60.9667#0#-4
+Martinique#Sans-Souci Cays#14.5833#-60.8167#0#-4
+Martinique#Sarraut#14.6333#-60.9667#0#-4
+Martinique#Saut Manoel#14.7667#-61.15#0#-4
+Martinique#Savane Petit#14.7667#-61.1167#0#-4
+Martinique#Schoelcher#14.6#-61.1#0#-4
+Martinique#Seche San Justan#14.5667#-61.0333#0#-4
+Martinique#Seguineau#14.8333#-61.0333#0#-4
+Martinique#Serail#14.6833#-61.0333#0#-4
+Martinique#Simson#14.6833#-61.15#0#-4
+Martinique#Sinai#14.7167#-61.0333#0#-4
+Martinique#Soudon-Kerfily#14.6333#-60.9833#0#-4
+Martinique#Source Agathe#14.6667#-61.0833#0#-4
+Martinique#Sugar Loaf Peak#14.8333#-61.1833#0#-4
+Martinique#Sugarloaf Rock#14.8#-61#0#-4
+Martinique#Table du Diable#14.7667#-60.8667#0#-4
+Martinique#Tafard Bay#14.4667#-61.05#0#-4
+Martinique#Tartane#14.75#-60.9167#0#-4
+Martinique#Taupiniere#14.4667#-60.9833#0#-4
+Martinique#Terres d Absalon#14.6833#-61.1#0#-4
+Martinique#Terres Sainville#14.6#-61.0667#0#-4
+Martinique#Terreville#14.65#-61.1#0#-4
+Martinique#Toraille#14.5167#-60.9667#0#-4
+Martinique#Tourtet#14.6333#-61.0667#0#-4
+Martinique#Touza#14.6333#-61.0833#0#-4
+Martinique#Trianon#14.6167#-60.9167#0#-4
+Martinique#Trinite#14.7333#-60.9667#0#-4
+Martinique#Trois Rivieres#14.4667#-60.9667#0#-4
+Martinique#Trois-Ilets#14.5333#-61.0333#0#-4
+Martinique#Trou Chien#14.8333#-61.0667#0#-4
+Martinique#Trou Domingue#14.7833#-60.9833#0#-4
+Martinique#Trou Grec#14.8#-61.0333#0#-4
+Martinique#Trou Jacqueline#14.4667#-61.0833#0#-4
+Martinique#Trou Madame#14.5333#-61.0833#0#-4
+Martinique#Trou Maringouins#14.6#-61#0#-4
+Martinique#Trou Monnerot#14.6167#-60.8833#0#-4
+Martinique#Trou Terre#14.6833#-60.9333#0#-4
+Martinique#Union en Bas#14.7833#-61.0167#0#-4
+Martinique#Union en Haut#14.8#-61.0167#0#-4
+Martinique#Union-Dostaly#14.6#-60.8833#0#-4
+Martinique#Urion#14.7#-61.1333#0#-4
+Martinique#Val d Or#14.4333#-60.8667#0#-4
+Martinique#Vauclin#14.5333#-60.8333#0#-4
+Martinique#Vauclin Cays#14.5667#-60.8167#0#-4
+Martinique#Vauclin Channel#14.5333#-60.8167#0#-4
+Martinique#Verrier#14.6833#-61.1333#0#-4
+Martinique#Viala#14.8167#-61.2167#0#-4
+Martinique#Victoire#14.6#-60.9333#0#-4
+Martinique#Vieille Terre#14.5333#-60.9#0#-4
+Martinique#Vive#14.8333#-61.0833#0#-4
+Martinique#Vivies#14.8333#-61.1167#0#-4
+Martinique#Voltaire#14.6833#-60.95#0#-4
+Martinique#Watel#14.7167#-60.9833#0#-4
+Martinique#Zabeth#14.6833#-60.9667#0#-4
+Martinique#Zobeide#14.75#-61.1333#0#-4
+Martinique#Zombis Rock#14.4833#-60.8833#0#-4

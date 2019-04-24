@@ -1,0 +1,101 @@
+﻿
+Ecuador#Alausi#-2.2#-78.8333359#3324#-5
+Ecuador#Alfredo Baquerizo Moreno#-1.9166667#-79.5166702#45#-5
+Ecuador#Ambato#-1.2490809#-78.616745#2438#-5
+Ecuador#Archidona#-0.9166667#-77.8000031#605#-5
+Ecuador#Atuntaqui#0.3333333#-78.2166672#2391#-5
+Ecuador#Azogues#-2.7333333#-78.8333359#2966#-5
+Ecuador#Babahoyo#-1.8166667#-79.5166702#55#-5
+Ecuador#Bahia de Caraquez#-0.6#-80.4166641#-9999#-5
+Ecuador#Balao#-2.9166667#-79.8166656#14#-5
+Ecuador#Balzar#-1.3666667#-79.9000015#60#-5
+Ecuador#Banos#-1.4#-78.4166641#4124#-5
+Ecuador#Boca Suno#-0.7166667#-77.1333313#302#-5
+Ecuador#Calceta#-0.85#-80.1666641#114#-5
+Ecuador#Canar#-2.55#-78.9333344#3097#-5
+Ecuador#Cariamanga#-4.3333333#-79.5500031#2189#-5
+Ecuador#Catacocha#-4.0666667#-79.6333313#1887#-5
+Ecuador#Catamayo#-3.9833333#-79.3499985#1513#-5
+Ecuador#Catarama#-1.5833333#-79.4666672#231#-5
+Ecuador#Cayambe#0.05#-78.1333313#3011#-5
+Ecuador#Chone#-0.6833333#-80.0999985#127#-5
+Ecuador#Colimes#-1.55#-80.0166702#44#-5
+Ecuador#Coronel Marcelino Mariduena#-2.2#-79.4166641#193#-5
+Ecuador#Cotacachi#0.3#-78.2666702#2405#-5
+Ecuador#Cuenca#-2.8833333#-78.9833298#2461#-5
+Ecuador#Duran#-2.2#-79.8333359#1#-5
+Ecuador#El Triunfo#-1.9333333#-79.9666672#20#-5
+Ecuador#Gualaceo#-2.9#-78.7833328#2430#-5
+Ecuador#Guano#-1.5833333#-78.6333313#3068#-5
+Ecuador#Guaranda#-1.6#-79#2739#-5
+Ecuador#Guayaquil#-2.1666667#-79.9000015#47#-5
+Ecuador#Huaquillas#-3.4833333#-80.2333298#16#-5
+Ecuador#Ibarra#0.35#-78.1166687#2192#-5
+Ecuador#Jipijapa#-1.3333333#-80.5833359#327#-5
+Ecuador#Junin#-0.9333333#-80.2166672#172#-5
+Ecuador#La Libertad#-2.2333333#-80.9000015#3#-5
+Ecuador#La Mana#-0.9333333#-79.2166672#818#-5
+Ecuador#La Troncal#-2.4#-79.3333359#465#-5
+Ecuador#Latacunga#-0.9333333#-78.6166687#2759#-5
+Ecuador#Loja#-3.9931262#-79.204216#2119#-5
+Ecuador#Lomas de Sargentillo#-1.8833333#-80.0833359#54#-5
+Ecuador#Macara#-4.3833333#-79.9499969#549#-5
+Ecuador#Macas#-2.3166667#-78.1166687#1217#-5
+Ecuador#Machachi#-0.5#-78.5666656#2886#-5
+Ecuador#Machala#-3.2666667#-79.9666672#12#-5
+Ecuador#Manta#-0.95#-80.7333298#18#-5
+Ecuador#Montalvo#-1.8#-79.3333359#144#-5
+Ecuador#Montecristi#-1.05#-80.6666641#358#-5
+Ecuador#Muisne#0.6#-80.0333328#1#-5
+Ecuador#Naranjal#-2.6666667#-79.6166687#54#-5
+Ecuador#Naranjito#-2.2166667#-79.4833298#161#-5
+Ecuador#Nueva Loja#0.0847222#-76.8827744#406#-5
+Ecuador#Otavalo#0.2333333#-78.2666702#2666#-5
+Ecuador#Pajan#-1.5666667#-80.4166641#150#-5
+Ecuador#Palenque#-1.45#-79.7333298#40#-5
+Ecuador#Palestina#-1.9333333#-79.7333298#20#-5
+Ecuador#Palora#-1.7#-77.9333344#1358#-5
+Ecuador#Pasaje#-3.3333333#-79.8166656#100#-5
+Ecuador#Pedernales#0.0833333#-80.0500031#33#-5
+Ecuador#Pedro Carbo#-1.8333333#-80.2333298#98#-5
+Ecuador#Pelileo#-1.3166667#-78.5333328#2192#-5
+Ecuador#Pillaro#-1.1666667#-78.5333328#3003#-5
+Ecuador#Pimampiro#0.4#-77.9666672#2139#-5
+Ecuador#Pinas#-3.6666667#-79.6500015#877#-5
+Ecuador#Playas#-2.6333333#-80.3833313#14#-5
+Ecuador#Portovelo#-3.7166667#-79.6166687#936#-5
+Ecuador#Portoviejo#-1.05#-80.4499969#118#-5
+Ecuador#Propicia#0.9333333#-79.6833344#9#-5
+Ecuador#Puerto Ayora#-0.75#-90.3166656#10#-5
+Ecuador#Puerto Bolivar#-3.2666667#-79.9833298#9#-5
+Ecuador#Pujili#-0.95#-78.6833344#2848#-5
+Ecuador#Puyo#-1.4666667#-77.9833298#981#-5
+Ecuador#Quevedo#-1.0333333#-79.4499969#113#-5
+Ecuador#Quito#-0.2166667#-78.5#2764#-5
+Ecuador#Riobamba#-1.6666667#-78.6333313#2757#-5
+Ecuador#Rocafuerte#-0.9166667#-80.4333344#145#-5
+Ecuador#Rosa Zarate#0.3333333#-79.4666672#176#-5
+Ecuador#Salinas#-2.2166667#-80.9666672#1#-5
+Ecuador#Samborondon#-1.95#-79.7333298#18#-5
+Ecuador#San Cristobal#-0.9166667#-89.5666656#148#-5
+Ecuador#San Gabriel#0.6#-77.8166656#2908#-5
+Ecuador#San Lorenzo de Esmeraldas#1.2883333#-78.8369446#1#-5
+Ecuador#San Miguel#-1.7#-79.0333328#2433#-5
+Ecuador#San Miguel de Salcedo#-1.0333333#-78.5666656#2779#-5
+Ecuador#Santa Ana#-1.2166667#-80.3833313#150#-5
+Ecuador#Santa Elena#-2.2333333#-80.8499985#24#-5
+Ecuador#Santa Lucia#-2.1833333#-80#164#-5
+Ecuador#Santa Rosa#-3.45#-79.9666672#78#-5
+Ecuador#Santo Domingo de los Colorados#-0.25#-79.1500015#605#-5
+Ecuador#Sucre#-1.2666667#-80.4333344#155#-5
+Ecuador#Sucua#-2.4666667#-78.1666641#1088#-5
+Ecuador#Tena#-0.9833333#-77.8166656#599#-5
+Ecuador#Tosagua#-0.7833333#-80.25#69#-5
+Ecuador#Valdez#1.2491667#-78.9830551#-9999#-5
+Ecuador#Velasco Ibarra#-1.05#-79.6166687#103#-5
+Ecuador#Ventanas#-1.45#-79.4666672#358#-5
+Ecuador#Vinces#-1.55#-79.7333298#38#-5
+Ecuador#Yaguachi#-2.1166667#-79.6833344#44#-5
+Ecuador#Yantzaza#-3.8277778#-78.7594452#887#-5
+Ecuador#Zamora#-4.0691667#-78.956665#984#-5
+Ecuador#Zaruma#-3.6833333#-79.6166687#1140#-5

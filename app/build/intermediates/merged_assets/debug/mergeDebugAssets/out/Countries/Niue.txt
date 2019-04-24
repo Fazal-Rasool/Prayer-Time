@@ -1,0 +1,37 @@
+﻿
+Niue#Aleuta#-19.05#-169.95#0#-11
+Niue#Alofi#-19.0167#-169.9167#0#-11
+Niue#Alofi Bay#-19.0167#-169.9333#0#-11
+Niue#Ana#-19.0667#-169.8167#0#-11
+Niue#Anaheke#-18.9833#-169.9167#0#-11
+Niue#Avatele#-19.1#-169.9167#0#-11
+Niue#Avatele Bay#-19.0833#-169.9333#0#-11
+Niue#Fagalilika#-19.0667#-169.9167#0#-11
+Niue#Falehavaiki#-19.1#-169.8667#0#-11
+Niue#Fatiau#-19.1167#-169.9#0#-11
+Niue#Fuata#-19.0667#-169.9#0#-11
+Niue#Fugigie#-19#-169.9167#0#-11
+Niue#Fulalatea#-19.1#-169.9#0#-11
+Niue#Fumaila#-18.95#-169.8833#0#-11
+Niue#Grutulili#-18.9667#-169.8167#0#-11
+Niue#Hikutivake#-18.9333#-169.8833#0#-11
+Niue#Huvalu#-19.0667#-169.8#0#-11
+Niue#Iniue#-19.0333#-169.8667#0#-11
+Niue#Kaimite#-19.05#-169.9167#0#-11
+Niue#Kaopa#-19.0167#-169.7833#0#-11
+Niue#Lalole#-18.9667#-169.8#0#-11
+Niue#Liha#-18.95#-169.8#0#-11
+Niue#Makanga#-19#-169.8#0#-11
+Niue#Makatugi#-19.0833#-169.9167#0#-11
+Niue#Mamakula#-18.95#-169.9#0#-11
+Niue#Matalakuti#-18.95#-169.8167#0#-11
+Niue#Motule#-18.9333#-169.8333#0#-11
+Niue#Natuku#-19.0333#-169.7833#0#-11
+Niue#Nukufetau#-19.1#-169.85#0#-11
+Niue#Pikiona#-19.0833#-169.8167#0#-11
+Niue#Takaogo#-19.05#-169.7833#0#-11
+Niue#Taoli#-19.1#-169.8833#0#-11
+Niue#Tialeuta#-18.95#-169.85#0#-11
+Niue#Tomb Point#-19.0333#-169.9167#0#-11
+Niue#Tumea#-18.9833#-169.8#0#-11
+Niue#Vahavaha#-19.1#-169.8333#0#-11

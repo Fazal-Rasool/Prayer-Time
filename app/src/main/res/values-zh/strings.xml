@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">通用祈祷时间</string>
+    <string name="action_settings">设置</string>
+    <string name="prayer_times">祈祷时间</string>
+    <string name="lahore">Alaqehdari Deh-e Shu</string>
+    <string name="pakistan">Afghanistan</string>
+    <string name="qibla_directions">朝拜</string>
+    <string name="clock_wise">261</string>
+    <string name="settings_label">设置</string>
+    <string name="prefs_menu_title">设置</string>
+    <string name="about_menu_title">关于</string>
+    <string name="search_title">搜索</string>
+    <string name="screen_down_text">请横刀您的电话并往上行以便它是罗盘可以工作。 不能确定方向的北方准确现在.</string>
+    <string name="no_location_yet">请稍候。检测 您所在的位置或您可以在设置中选择您所在的城市。</string>
+    <string name="geo_location_info">获得位置数据。</string>
+    <string name="latitude_north">N</string>
+    <string name="latitude_south">S</string>
+    <string name="longitude_east">E</string>
+    <string name="longitude_west">W</string>
+    <string name="gps_status">使用全球定位系统</string>
+    <string name="gps_status_summary">允许使用 全球定位系统 获取您所在的位置。</string>
+    <string name="gps_prompt">使用全球定位系统</string>
+    <string name="gps_summary">允许使用 全球定位系统 获取您所在的位置。</string>
+    <string name="state_location_title">手动设置您所在的位置</string>
+    <string name="state_location_summary">如果你附近他们，选择的伊朗省首都之一。</string>
+    <string name="about_title_text">About Universal Prayer Times</string>
+    <string name="about_text">About Universal Prayer Times</string>
+
+    <!-- Do not translate next two tag, it's used by program for other reasons -->
+    <string name="gps_pref_key">GPS_LOCATION_PREF</string>
+    <string name="state_location_pref_key">state_LOCATION_PREF</string>
+    <string name="release_date">March 30, 2011\n</string>
+    <string name="version">Version 1.22</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prayer_time_now">現在是禱告的時候</string>
+
+    <!-- Messages -->
+    <string name="exit_message">确实，您想要退出吗?</string>
+    <string name="ok_string">是</string>
+    <string name="no_string">无</string>
+    <string name="rate_us_string">对我们估计</string>
+    <string name="on_string">ON</string>
+    <string name="off_string">OFF</string>
+
+    <!-- Prayer Names -->
+    <string name="fajar">黎明</string>
+    <string name="shrooq">日出</string>
+    <string name="zuhur">后面</string>
+    <string name="asar">时代</string>
+    <string name="maghrib">摩洛哥</string>
+    <string name="isha">晚餐</string>
+
+    <!-- Juristics -->
+    <string name="title_select_juristic">选择法学</string>
+    <string name="hanafi">哈纳菲</string>
+    <string name="shafii">沙菲益</string>
+    <string name="malaki">马拉奇</string>
+    <string name="hanbali">汉巴里</string>
+
+    <!-- Calculation Methods -->
+    <string name="title_select_calc_method">选择计算方法</string>
+    <string name="jafari">贾法里</string>
+    <string name="karachi">卡拉奇</string>
+    <string name="isna">ISNA</string>
+    <string name="mwl">穆斯林</string>
+    <string name="makkah">麦加</string>
+    <string name="egypt">埃及</string>
+    <string name="custom">习俗</string>
+    <string name="tehran">德黑兰</string>
+
+    <!-- Settings Screen -->
+    <string name="country_string">国家</string>
+    <string name="city_string">城市</string>
+    <string name="juristics_string">法律的</string>
+    <string name="adhan_audio_string">阿赞音频</string>
+    <string name="calc_method_string">方法</string>
+    <string name="gps_location_string">全球定位系统</string>
+    <string name="daylight_saving_string">夏时制节约</string>
+    <string name="language_string">语</string>
+
+    <!-- ToolTip -->
+    <string name="like_on_facebook">象在Facebook</string>
+
+    <!-- Time -->
+    <string name="hours">小时</string>
+    <string name="minutes">分钟</string>
+    <string name="after">后</string>
+    <string name="its">这</string>
+    <string name="at">在</string>
+    <string name="time">时间</string>
+
+    <!-- Select Language -->
+    <string name="title_select_lannguage">选择语言</string>
+    
+    <!-- Google API -->
+    <string name="google_play_services_version">a152a304f4d20ae</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Azan</item>
+        <item>Kalimas</item>
+        <item>Settings</item>
+        <item>MoreApps</item>
+    </string-array>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <array name="qalma_name_list">
+        <item>1st Kalma Tayyibah</item>
+        <item>2nd Kalma Shahaadat</item>
+        <item>3rd Kalma Tamjeed</item>
+        <item>4th Kalma Tawheed</item>
+        <item>5th Kalma Astaghfar</item>
+        <item>6th Kalma Radd Kufr</item>
+    </array>
+
+    <array name="qalma_list">
+        <item>لَآ اِلٰهَ اِلَّا اللّٰهُ مُحَمَّدٌ رَّسُوْلُ اللّٰهِؕ</item>
+        <item>اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللہُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهٗ وَرَسُوْلُهٗ</item>
+        <item>سُبْحَان اللهِ وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِ الَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</item>
+        <item>لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ</item>
+        <item>اَسْتَغْفِرُ اللهَ رَبِّىْ مِنْ كُلِّ ذَنْۢبٍ اَذْنَبْتُهٗ عَمَدًا اَوْ خَطَا ًٔ سِرًّا اَوْ عَلَانِيَةً وَّاَتُوْبُ اِلَيْهِ مِنَ الذَّنْۢبِ الَّذِیْٓ اَعْلَمُ وَ مِنَ الذَّنْۢبِ الَّذِىْ لَآ اَعْلَمُ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوْبِ وَ سَتَّارُ الْعُيُوْبِ و َغَفَّارُ الذُّنُوْبِ وَ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ الْعَلِىِّ الْعَظِيْمِؕ</item>
+        <item>اَللّٰهُمَّّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ وَ الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ اللهِؕ</item>
+    </array>
+
+    <string-array name="qalma_list_trans">
+        <item>There is none worthy of worship but Allah, Muhammad [peace be upon him] is the messenger of Allah.</item>
+        <item>I bear witness that (there is) no god except Allah; One is He, no partner hath He, and I bear witness that Muhammad (Sall-Allahu Alayhi wa Sallam) is His Servant and Messenger.</item>
+        <item>Flawless is Allah and the Praise is of Allah, and (there is) no god except Allah, and Allah is the Greatest. And (there is) neither might nor power except with Allah, the Sublime, the Tremendous.</item>
+        <item>(There is) no god except Allah - One is He, no partners hath He. His is the Dominion, and His is the Praise. He gives life and causes death, and He is Living, who will not die, never. He of Majesty and Munificence. Within His Hand is (all) good. And He is, upon everything, Able (to exert His Will).</item>
+        <item>"I seek forgiveness from Allah, my Lord, from every sin I committed knowingly or unknowingly, secretly or openly, and I turn towards Him from the sin that I know and from the sin that I do not know. Certainly You, You (are) the knower of the hidden things and the Concealer (of) the mistakes and the Forgiver (of) the sins. And (there is) no power and no strength except from Allah, the Most High, the Most Great".</item>
+        <item>"O Allah! I seek protection in You from that I should not join any partner with You and I have knowledge of it. I seek Your forgiveness from that which I do not know. I repent from it (ignorance) and I reject disbelief (kufr) and joining partners with You (shirk) and of falsehood and slandering (gheebat) and innovation in religion (bid'at) and tell-tales (nameemat) and bad, evil deeds (fawahish) and the blame and the disobedience, all of them. I submit to Your will and I believe and I declare: There is none worthy of worship except Allah and Muhammad( Peace Be Upon On Him) is His Messenger."</item>
+    </string-array>
+
+    <string name="txtSehri">黎明</string>
+    <string name="txtIftar">食品</string>
+
+</resources>

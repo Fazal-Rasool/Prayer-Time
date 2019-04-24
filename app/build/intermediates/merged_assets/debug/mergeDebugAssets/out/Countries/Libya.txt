@@ -1,0 +1,40 @@
+﻿
+Libya#Ajdabiya#30.75917#20.22305#10#1
+Libya#Al `Aquriyah#32.53333#20.56667#31#1
+Libya#Al Abyar#32.18333#20.6#277#1
+Libya#Al Burayqah#30.41667#19.57861#-9999#1
+Libya#Al Jadid#27.05#14.4#423#1
+Libya#Al Khums#32.65#14.26667#23#1
+Libya#Al Marj#32.5#20.83333#334#1
+Libya#Al Qubbah#32.76667#22.25#549#1
+Libya#At Taj#24.21667#23.3#428#1
+Libya#Awbari#26.58333#12.76667#471#1
+Libya#Awjilah#29.10806#21.28695#31#1
+Libya#Az Zuwaytinah#30.95389#20.12167#1#1
+Libya#Banghazi#32.11667#20.06667#15#1
+Libya#Bani Walid#31.76667#13.98333#283#1
+Libya#Bardiyah#31.76667#25.1#-9999#1
+Libya#Birak#27.53333#14.28333#345#1
+Libya#Darnah#32.765#22.63917#76#1
+Libya#Gasr Garian#32.17222#13.02028#694#1
+Libya#Ghat#24.96472#10.17278#658#1
+Libya#Harat az Zawiyah#32.76306#12.715#18#1
+Libya#Hun#29.11667#15.93333#279#1
+Libya#Jadu#31.95#12.01667#644#1
+Libya#Jalu#29.03333#21.55#49#1
+Libya#Masallatah#32.61667#14#298#1
+Libya#Misratah#32.37833#15.09056#29#1
+Libya#Mizdah#31.43333#12.98333#432#1
+Libya#Murzuq#25.90444#13.89722#506#1
+Libya#Nalut#31.86833#10.98278#631#1
+Libya#Sabratah#32.79194#12.48472#7#1
+Libya#Suluq#31.66861#20.25#50#1
+Libya#Surman#32.75639#12.575#16#1
+Libya#Surt#31.20611#16.59472#37#1
+Libya#Tarhunah#32.43333#13.63333#398#1
+Libya#Tobruk#32.08361#23.97639#11#1
+Libya#Tripoli#32.8925#13.18#1#1
+Libya#Waddan#29.16667#16.13333#263#1
+Libya#Yafran#32.06306#12.52694#700#1
+Libya#Zaltan#32.95#11.86667#5#1
+Libya#Zuwarah#32.93444#12.07917#1#1

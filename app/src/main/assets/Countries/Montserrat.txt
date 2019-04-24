@@ -1,0 +1,43 @@
+﻿
+Montserrat#Castle Peak#16.7#-62.1667#0#-3
+Montserrat#Cedar Ghaut#16.7667#-62.1667#0#-3
+Montserrat#Centre Hills#16.7667#-62.1833#0#-3
+Montserrat#Chances Peak#16.7#-62.1833#0#-3
+Montserrat#Collins River#16.7833#-62.2#0#-3
+Montserrat#Coopers Point#16.7667#-62.2167#0#-3
+Montserrat#Cornell#16.7333#-62.1833#0#-3
+Montserrat#Crab Hole Ghaut#16.6667#-62.1667#0#-3
+Montserrat#Dowdie#16.6833#-62.1667#0#-3
+Montserrat#Elberton#16.7167#-62.2167#0#-3
+Montserrat#Hot Water Pond#16.7#-62.2333#0#-3
+Montserrat#Iles Bay#16.7333#-62.2167#0#-3
+Montserrat#Kate Howe#16.7#-62.15#0#-3
+Montserrat#Katy Hill#16.75#-62.1833#0#-3
+Montserrat#Killiecrankie Spring#16.7333#-62.2#0#-3
+Montserrat#Killyhawk Ghaut#16.7167#-62.15#0#-3
+Montserrat#Landing Bay#16.6833#-62.15#0#-3
+Montserrat#Lees Village#16.7167#-62.2#0#-3
+Montserrat#Lime Kiln Bay#16.7333#-62.2333#0#-3
+Montserrat#Little Mile Ghaut#16.7167#-62.1833#0#-3
+Montserrat#Little Redonda#16.8167#-62.1833#0#-3
+Montserrat#Locust Valley#16.75#-62.1667#0#-3
+Montserrat#Margie Ghaut#16.7167#-62.1667#0#-3
+Montserrat#Marguerita Bay#16.7833#-62.1667#0#-3
+Montserrat#Morris#16.6833#-62.1833#0#-3
+Montserrat#Nantes River#16.75#-62.2167#0#-3
+Montserrat#Nixons#16.7667#-62.2#0#-3
+Montserrat#Northwest Bluff#16.8167#-62.2#0#-3
+Montserrat#Old Norwood#16.7833#-62.1833#0#-3
+Montserrat#Parsons#16.7#-62.2#0#-3
+Montserrat#Pea Ghaut#16.75#-62.15#0#-3
+Montserrat#Pinnacle Rock#16.8#-62.1667#0#-3
+Montserrat#Plymouth#16.7#-62.2167#0#-3
+Montserrat#Rendezvous Bay#16.8#-62.2#0#-3
+Montserrat#Shooters Hill#16.6667#-62.1833#0#-3
+Montserrat#Smoky Hill#16.7333#-62.1667#0#-3
+Montserrat#Statue Rock#16.775#-62.1667#0#-3
+Montserrat#Swana Ghaut#16.6667#-62.15#0#-3
+Montserrat#Thatch Valley#16.8#-62.1833#0#-3
+Montserrat#Trants Bay#16.7667#-62.15#0#-3
+Montserrat#Trials#16.6833#-62.2#0#-3
+Montserrat#Underwood#16.75#-62.2#0#-3

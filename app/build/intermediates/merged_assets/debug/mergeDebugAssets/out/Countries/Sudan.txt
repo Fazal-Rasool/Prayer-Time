@@ -1,0 +1,84 @@
+﻿
+Sudan#Abu Jubayhah#11.45#31.23333#564#3
+Sudan#Abu Zabad#12.35#29.25#544#3
+Sudan#Ad Dabbah#18.05#30.95#267#3
+Sudan#Ad Damazin#11.76667#34.35#493#3
+Sudan#Ad Dindar#13.2#34.16667#398#3
+Sudan#Ad Duwaym#14#32.31667#377#3
+Sudan#Ad-Damar#17.59278#33.95917#362#3
+Sudan#Al Bauga#18.26667#33.91667#320#3
+Sudan#Al Fashir#13.63333#25.35#753#3
+Sudan#Al Fulah#11.8#28.4#543#3
+Sudan#Al Hasahisa#14.73333#33.3#402#3
+Sudan#Al Hawatah#13.41667#34.63334#431#3
+Sudan#Al Hilaliyah#14.93333#33.23333#400#3
+Sudan#Al Junaynah#13.45#22.45#757#3
+Sudan#Al Kawah#13.73333#32.5#378#3
+Sudan#Al Kereimet#14.35#32.95#411#3
+Sudan#Al Lagowa#11.4#29.13333#557#3
+Sudan#Al Manaqil#14.25#32.98333#412#3
+Sudan#Al Mijlad#11.03333#27.73333#428#3
+Sudan#Al Musallamiyah#14.56667#33.35#407#3
+Sudan#Al Qutaynah#14.86667#32.35#390#3
+Sudan#Al Ubayyid#13.18333#30.21667#610#3
+Sudan#An Nuhud#12.7#28.43333#570#3
+Sudan#Ar Rahad#12.71667#30.65#490#3
+Sudan#Ar Rusayris#11.85#34.38334#459#3
+Sudan#Argo#19.51667#30.41667#222#3
+Sudan#Aroma#15.81667#36.13334#459#3
+Sudan#As Suki#13.31667#33.88334#399#3
+Sudan#Atbara#17.69722#33.97833#357#3
+Sudan#Barah#13.7#30.36667#614#3
+Sudan#Barbar#18.01667#33.98333#334#3
+Sudan#Bentiu#9.233333#29.83333#345#3
+Sudan#Bor#6.207222#31.55917#407#3
+Sudan#Dilling#12.05#29.65#688#3
+Sudan#Doka#13.51667#35.76667#683#3
+Sudan#El Matama#16.70972#33.35389#379#3
+Sudan#Galgani#12.45#34.18333#430#3
+Sudan#Gebeit#21.06667#36.31667#619#3
+Sudan#Gogrial#8.533333#28.11667#398#3
+Sudan#Kadugli#11.01667#29.71667#493#3
+Sudan#Kapoeta#4.771667#33.59028#642#3
+Sudan#Karmah an Nuzul#19.63333#30.41667#228#3
+Sudan#Kassala#15.45583#36.39889#532#3
+Sudan#Khartoum#15.58806#32.53417#378#3
+Sudan#Kinanah#14.03333#33.16667#433#3
+Sudan#Kuraymah#18.55#31.85#242#3
+Sudan#Kurmuk#10.55#34.28333#651#3
+Sudan#Kusti#13.16667#32.66667#378#3
+Sudan#Kutum#14.2#24.66667#1128#3
+Sudan#Ler#8.3#30.13333#382#3
+Sudan#Maiurno#13.41667#33.66667#399#3
+Sudan#Malakal#9.536944#31.65611#277#3
+Sudan#Marabba#12.35#32.18333#394#3
+Sudan#Marawi#18.48333#31.81667#276#3
+Sudan#Maridi#4.914722#29.47694#699#3
+Sudan#Ombusi#3.889444#30.61056#858#3
+Sudan#Omdurman#15.63611#32.43722#389#3
+Sudan#Port Sudan#19.61583#37.21639#66#3
+Sudan#Rabak#13.15#32.73333#362#3
+Sudan#Raga#8.466667#25.68333#604#3
+Sudan#Rumbek#6.8#29.68333#407#3
+Sudan#Sannar#13.55#33.63334#396#3
+Sudan#Sawakin#19.10389#37.33#64#3
+Sudan#Shendi#16.69139#33.43417#377#3
+Sudan#Sinjah#13.15#33.93333#407#3
+Sudan#Talawdi#10.63639#30.37972#500#3
+Sudan#Tambura#5.6#27.46667#609#3
+Sudan#Tandalti#13.01667#31.86667#409#3
+Sudan#Tawkar#18.43333#37.73333#31#3
+Sudan#Tonj#7.273333#28.68389#428#3
+Sudan#Torit#4.413333#32.56778#830#3
+Sudan#Umm Jarr#13.81667#32.4#362#3
+Sudan#Umm Kaddadah#13.6#26.7#635#3
+Sudan#Umm Ruwabah#12.9#31.21667#447#3
+Sudan#Uwayl#8.766667#27.4#473#3
+Sudan#Wad az Zaki#14.46667#32.21667#379#3
+Sudan#Wad Madani#14.4#33.53333#412#3
+Sudan#Wad Rawah#15.16028#33.13972#394#3
+Sudan#Wagar#16.15278#36.20417#452#3
+Sudan#Waw#7.7#28#430#3
+Sudan#Yambio#4.570556#28.41639#632#3
+Sudan#Yei#4.091389#30.67861#831#3
+Sudan#Zalingei#12.9#23.48333#880#3

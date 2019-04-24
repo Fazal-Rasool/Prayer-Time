@@ -1,0 +1,93 @@
+﻿
+Saint Lucia#Canaries#13.9#-61.0667#0#-4
+Saint Lucia#Castries#14#-61#0#-4
+Saint Lucia#Castries Harbour#14.0167#-61#0#-4
+Saint Lucia#Castries River#14.0167#-60.9833#0#-4
+Saint Lucia#Des Bateaux Islet#13.9#-60.8667#0#-4
+Saint Lucia#Eau Piquant#13.75#-60.9333#0#-4
+Saint Lucia#Epouge Bay#14.0833#-60.9167#0#-4
+Saint Lucia#Esperance Estate#13.8333#-61.0333#0#-4
+Saint Lucia#Esperance River#14.05#-60.9#0#-4
+Saint Lucia#Feree Bay#13.9833#-61.0167#0#-4
+Saint Lucia#Ferrand#13.9667#-60.9833#0#-4
+Saint Lucia#Fond Assor#13.9833#-60.9167#0#-4
+Saint Lucia#Fond Bay#13.8333#-60.8833#0#-4
+Saint Lucia#Fond Blanc#13.6917#-60.925#0#-4
+Saint Lucia#Fond d Or River#13.9167#-60.8833#0#-4
+Saint Lucia#Forestiere#13.9667#-60.95#0#-4
+Saint Lucia#Fort Charlotte#13.9833#-61#0#-4
+Saint Lucia#Foureur Islet#14.0667#-60.9833#0#-4
+Saint Lucia#Fous Islet#14.0667#-60.9#0#-4
+Saint Lucia#Frigate#13.8667#-60.8833#0#-4
+Saint Lucia#Gouti Cove#14.05#-60.9667#0#-4
+Saint Lucia#H Erelle#13.75#-60.9833#0#-4
+Saint Lucia#Hardie Point#14.1#-60.9167#0#-4
+Saint Lucia#Haut Morne#13.9833#-60.9667#0#-4
+Saint Lucia#Hellene#13.7833#-60.9167#0#-4
+Saint Lucia#Hewanorra#13.7167#-60.9333#0#-4
+Saint Lucia#Hope Estate#13.75#-60.95#0#-4
+Saint Lucia#Ile des Ramiers#14.0833#-60.9667#0#-4
+Saint Lucia#Incommode#13.9833#-60.9833#0#-4
+Saint Lucia#Islet du Choc#14.0333#-60.9667#0#-4
+Saint Lucia#Islet Maria#13.7167#-60.9167#0#-4
+Saint Lucia#Ivrogne River#13.7833#-61.0667#0#-4
+Saint Lucia#Jalousie#13.8167#-61.05#0#-4
+Saint Lucia#Jambon Bay#13.8667#-61.0667#0#-4
+Saint Lucia#Jean Baptiste#13.9333#-61#0#-4
+Saint Lucia#L Angere Point#13.8#-60.9#0#-4
+Saint Lucia#La Borne#14.0333#-60.9167#0#-4
+Saint Lucia#La Retraite#13.75#-60.9667#0#-4
+Saint Lucia#La Tourney#13.7333#-60.95#0#-4
+Saint Lucia#Micoud#13.8167#-60.9#0#-4
+Saint Lucia#Morne Doudon#14#-60.9667#0#-4
+Saint Lucia#Noir Bay#13.7333#-60.9833#0#-4
+Saint Lucia#Old Settlement#13.8833#-60.9#0#-4
+Saint Lucia#Orange Point#13.9333#-61.0333#0#-4
+Saint Lucia#Orangerie#13.85#-60.9167#0#-4
+Saint Lucia#Patience#13.85#-60.9#0#-4
+Saint Lucia#Quarter of Dennery#13.9167#-60.9167#0#-4
+Saint Lucia#Ravine Bethel#13.7833#-60.8833#0#-4
+Saint Lucia#Ravine Courtois#13.8333#-60.9167#0#-4
+Saint Lucia#Ravine Languedoc#13.7333#-60.9667#0#-4
+Saint Lucia#Reduit#14.0667#-60.95#0#-4
+Saint Lucia#Resinard#13.9833#-60.9333#0#-4
+Saint Lucia#Reunion#13.7667#-61.0333#0#-4
+Saint Lucia#Riche Fond#13.9333#-60.9167#0#-4
+Saint Lucia#River Doree#13.75#-61.0333#0#-4
+Saint Lucia#Roblot#13.8#-61.0167#0#-4
+Saint Lucia#Rousea#13.95#-61.0333#0#-4
+Saint Lucia#Saint Phillip#13.8333#-61.0167#0#-4
+Saint Lucia#Saint Vincent Passage#13.5#-61#0#-4
+Saint Lucia#Salibus Point#13.75#-60.9#0#-4
+Saint Lucia#Saline Point#14.1#-60.9333#0#-4
+Saint Lucia#Saltibus#13.8#-61#0#-4
+Saint Lucia#Sarot#13.9333#-60.9833#0#-4
+Saint Lucia#Savannes (Vieux-Fort)#13.7667#-60.9333#0#-4
+Saint Lucia#Savannes (Micoud)#13.7667#-60.9167#0#-4
+Saint Lucia#Scorpion Island#13.75#-60.9167#0#-4
+Saint Lucia#Smugglers Cove#14.0833#-60.95#0#-4
+Saint Lucia#Sorciere River#13.9833#-60.8667#0#-4
+Saint Lucia#Soucis#13.9667#-61#0#-4
+Saint Lucia#Soufriere#13.85#-61.05#0#-4
+Saint Lucia#Soufriere Bay#13.85#-61.0667#0#-4
+Saint Lucia#Tapion Shoal#14.0153#-61.0067#0#-4
+Saint Lucia#Tariti Point#14#-60.8833#0#-4
+Saint Lucia#Terrefallee#13.95#-61#0#-4
+Saint Lucia#Theodorine#13.9167#-61.0333#0#-4
+Saint Lucia#Trou Barbet River#13.7833#-61.05#0#-4
+Saint Lucia#Trou Gascon#14.0667#-60.9667#0#-4
+Saint Lucia#Trou Gras Point#13.85#-60.8833#0#-4
+Saint Lucia#Trou Grauval#14.05#-60.8833#0#-4
+Saint Lucia#Trou Halhal#13.95#-60.8667#0#-4
+Saint Lucia#Trou Requin#13.9667#-61.0167#0#-4
+Saint Lucia#Trou Rolland#13.95#-61.0167#0#-4
+Saint Lucia#Trou Zombie#13.8833#-60.8833#0#-4
+Saint Lucia#Troumasse#13.8167#-60.9167#0#-4
+Saint Lucia#Troumassee River#13.8#-60.8833#0#-4
+Saint Lucia#Venus Estate#13.9167#-61.0167#0#-4
+Saint Lucia#Vieille Ville Bay#14.0153#-60.9939#0#-4
+Saint Lucia#Vieux Fort#13.7167#-60.95#0#-4
+Saint Lucia#Vigie#14.0333#-61.0167#0#-4
+Saint Lucia#White Cross#13.9333#-61.05#0#-4
+Saint Lucia#Woodlands Estate#13.8#-60.9667#0#-4
+Saint Lucia#Yvrogne#13.8#-61.0667#0#-4

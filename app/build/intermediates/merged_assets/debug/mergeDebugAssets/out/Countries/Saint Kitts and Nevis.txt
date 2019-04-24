@@ -1,0 +1,9 @@
+﻿
+Saint Kitts and Nevis#Biabou#13.2#-61.1333#-9999#-4
+Saint Kitts and Nevis#Byera Village#13.25#-61.1167#1#-4
+Saint Kitts and Nevis#Chateaubelair#13.28333#-61.25#190#-4
+Saint Kitts and Nevis#Dovers#12.88333#-61.1833#32#-4
+Saint Kitts and Nevis#Georgetown#13.26667#-61.1167#25#-4
+Saint Kitts and Nevis#Kingstown#13.13333#-61.2167#1#-4
+Saint Kitts and Nevis#Kingstown Park#13.15833#-61.235#1#-4
+Saint Kitts and Nevis#Port Elizabeth#13.01667#-61.2333#66#-4

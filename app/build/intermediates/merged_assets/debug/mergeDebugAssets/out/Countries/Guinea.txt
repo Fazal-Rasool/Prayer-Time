@@ -1,0 +1,180 @@
+﻿
+Guinea#Adalamdjaki#11.2167#-10.5#0#0
+Guinea#Adjidougou#8.6667#-8.3167#0#0
+Guinea#Adjinn#12.6#-13.1167#0#0
+Guinea#Afea Kourou#11.7333#-10.1167#0#0
+Guinea#Afia (Mali)#12.2167#-12.5833#0#0
+Guinea#Afia (Dinguiraye)#11.6667#-10.75#0#0
+Guinea#Agbalazou#8.7167#-9.7833#0#0
+Guinea#Ahi Ya#7.6#-9.3667#0#0
+Guinea#Ahie#7.8833#-9.4333#0#0
+Guinea#Akoudetiangui#12.2#-12.2#0#0
+Guinea#Akoutiandi#12.1333#-12.55#0#0
+Guinea#Alahina#11.6#-9.5667#0#0
+Guinea#Alahine#11.6667#-8.9667#0#0
+Guinea#Alana#11.6333#-10.75#0#0
+Guinea#Albaderia#9.55#-10.1#0#0
+Guinea#Alemaniya#9.3825#-13.2225#0#0
+Guinea#Alia#9.2833#-13.0333#0#0
+Guinea#Alianbale#9.7833#-9.8667#0#0
+Guinea#Alifadougou#8.7667#-8.3667#0#0
+Guinea#Alimaya#11.1667#-10.6#0#0
+Guinea#Altou#12.3667#-13.4667#0#0
+Guinea#Amarante Shoals#9.5475#-13.7453#0#0
+Guinea#Amaraya#9.455#-13.4742#0#0
+Guinea#Amdallaye#11.7333#-10.5333#0#0
+Guinea#Ampank#12.4833#-13.1167#0#0
+Guinea#Andalaye#10.85#-12.3667#0#0
+Guinea#Andefo#12.2667#-13.0333#0#0
+Guinea#Angorguire#12.2833#-12.95#0#0
+Guinea#Angoro#12.05#-13.0667#0#0
+Guinea#Anguera#12.1#-13#0#0
+Guinea#Aniana#7.7167#-9.2#0#0
+Guinea#Animagodie#8.5333#-9.2833#0#0
+Guinea#Ankoro#10.25#-9.1833#0#0
+Guinea#Ansagnere#11.35#-10.7667#0#0
+Guinea#Ansagnere Diengueibe#11.4#-11#0#0
+Guinea#Ansangnere#11.8333#-11.8167#0#0
+Guinea#Anse du Dragonnier#9.5053#-13.7189#0#0
+Guinea#Ansoumania#9.7056#-13.5469#0#0
+Guinea#Anssanguere#12.2167#-12.1833#0#0
+Guinea#Anubo#12.3#-12.8833#0#0
+Guinea#Aorola#8.7333#-9.8333#0#0
+Guinea#Aou#8.55#-8.5667#0#0
+Guinea#Aouadia#8.7167#-9.3833#0#0
+Guinea#Aouara#12.2667#-13.4833#0#0
+Guinea#Aouboro#8.5333#-9.3167#0#0
+Guinea#Aounigoua#8.5#-9.4667#0#0
+Guinea#Aouria#8.8953#-9.7811#0#0
+Guinea#Apassi#12.1333#-13.0167#0#0
+Guinea#Arethusa Point#9.5147#-13.8069#0#0
+Guinea#Arfa Moussaia#10.7667#-11.3667#0#0
+Guinea#Ari Ya#7.8333#-9.2667#0#0
+Guinea#Aria#10.5833#-10.6333#0#0
+Guinea#Aribouya#10.7#-14.2333#0#0
+Guinea#Aroumaya#10.5167#-11.7333#0#0
+Guinea#Arpela#9.95#-10.45#0#0
+Guinea#Assaouma#8.6414#-9.7906#0#0
+Guinea#Atiaou#12.2167#-13.2167#0#0
+Guinea#Atiss#12.3833#-13.2#0#0
+Guinea#Auboulazou#8.7833#-9.85#0#0
+Guinea#Avili#8.5217#-9.0783#0#0
+Guinea#Aynde#11.8333#-10.4167#0#0
+Guinea#Conakry#9.5092#-13.7122#0#0
+Guinea#Conakry I#9.5#-13.6667#0#0
+Guinea#Ebak#12.4833#-12.85#0#0
+Guinea#Ederimoude#11.8833#-10.55#0#0
+Guinea#El Bolet#12.4#-13.15#0#0
+Guinea#Eli#11.25#-10.4167#0#0
+Guinea#Elimangol#11.2667#-10.4167#0#0
+Guinea#Embouchure du Rio Nunez#10.6#-14.6667#0#0
+Guinea#Enissian#12.3833#-12.9667#0#0
+Guinea#Epe#12.2833#-12.9833#0#0
+Guinea#Epita#12.3167#-12.9667#0#0
+Guinea#Erabiniare#12.1#-12.6333#0#0
+Guinea#Erako (Kouroussa)#9.7333#-10.3833#0#0
+Guinea#Erako (Faranah)#9.3333#-10.3833#0#0
+Guinea#Erako (Kissidougou)#9.3167#-10.0667#0#0
+Guinea#Erikouo#12.1167#-12.45#0#0
+Guinea#Ermakono#10.3667#-12.5333#0#0
+Guinea#Etang de Beyla#8.6667#-8.65#0#0
+Guinea#Etang de Goungan#10.4333#-9.9333#0#0
+Guinea#Etang de Laine#8.0667#-8.4833#0#0
+Guinea#Haa#7.7622#-9.0794#0#0
+Guinea#Hadigi#7.9656#-8.4428#0#0
+Guinea#Hafia#11.1667#-11.2167#0#0
+Guinea#Hafiya#9.5556#-13.6617#0#0
+Guinea#Halifadougou#8.65#-8.3#0#0
+Guinea#Halire#12.1167#-12.9833#0#0
+Guinea#Hamdalaye (Gaoual)#11.5667#-12.85#0#0
+Guinea#Hamdalaye (or GV26)#11.5667#-10.05#0#0
+Guinea#Hamdallay Yola#11.0667#-14.8#0#0
+Guinea#Hamdallaye#11.3667#-14.35#0#0
+Guinea#Hamidouya#11.1667#-11.25#0#0
+Guinea#Hania Ya#7.7#-9.1167#0#0
+Guinea#Hansegnere#11.1833#-12.4833#0#0
+Guinea#Haute-Guinee#10.5#-9.5#0#0
+Guinea#Herebowal#12.0167#-13.1167#0#0
+Guinea#Heremacono#11.0833#-10.4833#0#0
+Guinea#Heriko (Mamou)#10.7167#-11.8#0#0
+Guinea#Heriko (or GV20)#11.2833#-12.6833#0#0
+Guinea#Hogan#7.85#-9.1#0#0
+Guinea#Hollo#12.0167#-12.3667#0#0
+Guinea#Hon#7.8758#-8.8144#0#0
+Guinea#Hoota#7.7892#-8.7242#0#0
+Guinea#Hore Pare#10.6833#-12.6667#0#0
+Guinea#Hounsire#11.4#-13.9#0#0
+Guinea#Janiye#7.6#-8.9667#0#0
+Guinea#Jili Point#10.0833#-14.1833#0#0
+Guinea#Kankan#10.3833#-9.3#0#0
+Guinea#Labe (or GV20)#11.3167#-12.2833#0#0
+Guinea#Labe (Kouroussa)#11.0833#-10.1167#0#0
+Guinea#Labedazou#8.6167#-9.65#0#0
+Guinea#Labedepere#11.2667#-12.4#0#0
+Guinea#Labekoun#11.7167#-10.9#0#0
+Guinea#Labelinka#8.5764#-9.6036#0#0
+Guinea#Qrebe#8.2833#-9.1#0#0
+Guinea#Quantan#11.5833#-13.25#0#0
+Guinea#Quaran#11.3667#-9.4#0#0
+Guinea#Quimpako#11.1333#-11.25#0#0
+Guinea#Quiyinnin#11.05#-11.2#0#0
+Guinea#Quizia#8.5167#-9.7167#0#0
+Guinea#Siguiri#11.4167#-9.1667#0#0
+Guinea#Siguirine#12.1#-9.05#0#0
+Guinea#Ueye#12.4833#-13.1333#0#0
+Guinea#Unntiti#12.5167#-13.15#0#0
+Guinea#Ussik#12.5833#-13.1167#0#0
+Guinea#Uwenziye Creek#8.0333#-9.4333#0#0
+Guinea#Uyimp#12.55#-13.1333#0#0
+Guinea#Vafindougou#8.7167#-7.9167#0#0
+Guinea#Vagouanata#8.3167#-8.6#0#0
+Guinea#Vahodougou#8.5167#-8.1#0#0
+Guinea#Vaiavaia#7.9167#-9.25#0#0
+Guinea#Valibassou#8.7406#-9.6317#0#0
+Guinea#Valuoou#7.9167#-9.2167#0#0
+Guinea#Vamorodougou#8.3#-8.3833#0#0
+Guinea#Vangueakhor#9.6167#-13.1833#0#0
+Guinea#Vanha#7.6139#-9.3025#0#0
+Guinea#Vasiadougou#8.7833#-8.15#0#0
+Guinea#Vassadougou#8.3333#-8.3167#0#0
+Guinea#Vassala#8.7739#-9.6275#0#0
+Guinea#Vassara#8.7289#-9.7103#0#0
+Guinea#Vassave#7.8667#-9.4#0#0
+Guinea#Vasseredou#8.6936#-9.2203#0#0
+Guinea#Vassezia#8.6761#-9.8942#0#0
+Guinea#Veblo#7.6881#-8.3092#0#0
+Guinea#Vedou#12.0333#-12.6833#0#0
+Guinea#Velassagala#8.805#-9.8258#0#0
+Guinea#Velessou#7.9486#-9.2975#0#0
+Guinea#Veliahinnde#12.2167#-13#0#0
+Guinea#Velingara#11.7667#-10.5#0#0
+Guinea#Velleko#8.8667#-9.9167#0#0
+Guinea#Vendou Boto#11.0667#-12.8#0#0
+Guinea#Vendou Feto#11.1333#-12.85#0#0
+Guinea#Vendou Tiamou#11.6667#-14.1333#0#0
+Guinea#Vendoukanta#11.6167#-13.4167#0#0
+Guinea#Venndou Angara#12.05#-13.1833#0#0
+Guinea#Venndou Batapa#12.1#-13.3167#0#0
+Guinea#Venndou Kevedji#12.1167#-13.1667#0#0
+Guinea#Venndou Mamborou#12.05#-13.4667#0#0
+Guinea#Venndou Sebou#12.2833#-13.5333#0#0
+Guinea#Veouro#8.1622#-9.3461#0#0
+Guinea#Vere#8.3225#-9.0894#0#0
+Guinea#Vereya#10.2333#-14.05#0#0
+Guinea#Verga Ridge#10.2333#-14.5833#0#0
+Guinea#Vesou#8.0994#-9.4092#0#0
+Guinea#Veydeyel#12.5667#-13.1167#0#0
+Guinea#Vezaye#7.9167#-9.4167#0#0
+Guinea#Vilo#8.6667#-9.9#0#0
+Guinea#Vindikadioley#11.2#-10.85#0#0
+Guinea#Vinzie#8.0797#-9.3172#0#0
+Guinea#Vo River#7.2#-9.8167#0#0
+Guinea#Vonnessou#8.7372#-9.7622#0#0
+Guinea#Vopo#8.7667#-9.7833#0#0
+Guinea#Vorezia#8.6931#-9.6108#0#0
+Guinea#Voumou#8.0333#-8.6667#0#0
+Guinea#Vouroua#8.6717#-9.5644#0#0
+Guinea#Voyloube#12.4#-13.4667#0#0
+Guinea#Vuya#8.05#-8.4167#0#0
+Guinea#Zogotta#7.93#-9.1317#0#0
+Guinea#Zougouta#7.8508#-8.4253#0#0

@@ -1,0 +1,78 @@
+﻿
+New Caledonia#Eacho#-20.7833#167.1333#0#11
+New Caledonia#Eath#-20.5833#166.5833#0#11
+New Caledonia#Ekure#-21.3833#167.9667#0#11
+New Caledonia#Ema#-21.5667#165.9#0#11
+New Caledonia#Embouia#-21.5333#165.9833#0#11
+New Caledonia#Empoet#-21.4#165.15#0#11
+New Caledonia#Endjamia#-21.5333#165.9167#0#11
+New Caledonia#Engannene#-20.4#164.6#0#11
+New Caledonia#Eni#-21.6333#167.95#0#11
+New Caledonia#Ennaboura#-21.0167#165.0833#0#11
+New Caledonia#Ennego#-21.9167#165.9667#0#11
+New Caledonia#Ennou#-20.7667#167.15#0#11
+New Caledonia#Eo#-20.45#166.6#0#11
+New Caledonia#Erambere#-22.1#166.4#0#11
+New Caledonia#Escarpe Point#-20.6833#167.2167#0#11
+New Caledonia#Etang Saint-Nicolas#-21.6667#166.15#0#11
+New Caledonia#Etenerene#-21.4667#168.0333#0#11
+New Caledonia#Ethi#-21.5#167.85#0#11
+New Caledonia#Jecoueje#-21.55#166.0333#0#11
+New Caledonia#Jehuten#-20.4511#166.4003#0#11
+New Caledonia#Jeniene#-20.7667#167.1333#0#11
+New Caledonia#Nessadiou#-21.6333#165.5333#0#11
+New Caledonia#Noumea#-22.2667#166.45#0#11
+New Caledonia#Nouvelle-Caledonie#-21.5#165.5#0#11
+New Caledonia#Quai des Americains#-20.4#164.15#0#11
+New Caledonia#Quameni#-21.8#165.9667#0#11
+New Caledonia#Quameo#-22.6#167.4333#0#11
+New Caledonia#Quareme River#-20.6333#164.85#0#11
+New Caledonia#Quiouyou#-21.5333#166#0#11
+New Caledonia#Uagap#-20.8833#165.2667#0#11
+New Caledonia#Uage#-22.5667#-22.5667#0#11
+New Caledonia#Uala#-19.6833#163.65#0#11
+New Caledonia#Uapao Point#-21.6#167.85#0#11
+New Caledonia#Uara#-22.4433#166.8367#0#11
+New Caledonia#Ubatche#-20.4333#164.6333#0#11
+New Caledonia#Udekeu#-21.4833#167.8667#0#11
+New Caledonia#Udie#-21.2333#165.15#0#11
+New Caledonia#Ue#-21.9833#166.6833#0#11
+New Caledonia#Ujeeteetr#-20.625#166.2917#0#11
+New Caledonia#Unda Bay#-20.8667#164.4667#0#11
+New Caledonia#Undejamien#-21.5833#166.0667#0#11
+New Caledonia#Ungue#-22.3#166.9#0#11
+New Caledonia#Unguie#-21.4833#165.8833#0#11
+New Caledonia#Unia#-22.0667#166.8833#0#11
+New Caledonia#Upuaite#-22.6667#167.4833#0#11
+New Caledonia#Ure#-21.6#167.9667#0#11
+New Caledonia#Usine#-20.8333#164.4667#0#11
+New Caledonia#Vahda#-21.1#167.4333#0#11
+New Caledonia#Vahote#-20.7333#165.05#0#11
+New Caledonia#Val de l Hermitage#-22.1833#166.4833#0#11
+New Caledonia#Val Fleuri#-22.1167#166.4333#0#11
+New Caledonia#Vallee#-20.9667#165.35#0#11
+New Caledonia#Vallee de la Rade#-20.4167#164.2833#0#11
+New Caledonia#Vallee de la Roche#-20.4333#164.2667#0#11
+New Caledonia#Vallee des Bambous#-20.75#164.8167#0#11
+New Caledonia#Vallee des Colons#-22.2833#166.45#0#11
+New Caledonia#Vallee des Piquants#-20.4333#164.3333#0#11
+New Caledonia#Vallee Seche#-21.25#165.2333#0#11
+New Caledonia#Vaoyane#-20.8333#164.7833#0#11
+New Caledonia#Vejeu#-21.5#165.9833#0#11
+New Caledonia#Vengen#-20.7667#167.2667#0#11
+New Caledonia#Versailles#-21.0333#167.4333#0#11
+New Caledonia#Vieux-Touho#-20.7667#165.15#0#11
+New Caledonia#Voemea#-22.5583#167.4#0#11
+New Caledonia#Voh#-20.9667#164.7#0#11
+New Caledonia#Vouavouto Cove#-21#164.6667#0#11
+New Caledonia#Vulcain#-21.9167#166.3667#0#11
+New Caledonia#Yahoue#-22.2#166.5#0#11
+New Caledonia#Yamani#-20.8667#164.9333#0#11
+New Caledonia#Yambe#-20.4333#164.6667#0#11
+New Caledonia#Yangaouatch#-20.3333#164.2833#0#11
+New Caledonia#Yaouat#-19.5667#163.5833#0#11
+New Caledonia#Yate#-22.1667#166.95#0#11
+New Caledonia#Yenghebane#-20.1#163.9667#0#11
+New Caledonia#Yethebo#-21.4667#167.9833#0#11
+New Caledonia#Zoangani#-21.0333#167.4167#0#11
+New Caledonia#Zoze#-21.05#167.4333#0#11

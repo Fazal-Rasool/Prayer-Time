@@ -1,0 +1,11 @@
+﻿
+Us Virgin Islands#Anna s Retreat#18.34#-64.89#0#-4
+Us Virgin Islands#Charlotte Amalie#18.35#-64.94#0#-4
+Us Virgin Islands#Charlotte Amalie East#18.34#-64.91#0#-4
+Us Virgin Islands#Charlotte Amalie West#18.34#-64.96#0#-4
+Us Virgin Islands#Christiansted#17.75#-64.71#0#-4
+Us Virgin Islands#Cruz Bay#18.34#-64.8#0#-4
+Us Virgin Islands#Frederiksted#17.72#-64.88#0#-4
+Us Virgin Islands#Frederiksted Southeast#17.71#-64.88#0#-4
+Us Virgin Islands#Grove Place#17.73#-64.83#0#-4
+Us Virgin Islands#Saint Thomas#18.3333#-64.933#0#-4

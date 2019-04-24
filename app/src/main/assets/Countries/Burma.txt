@@ -1,0 +1,234 @@
+﻿
+Burma#Agadaung#21.05#92.8167#0#6.5
+Burma#Agadwin#19.4833#93.6333#0#6.5
+Burma#Agat#16.5667#95.3167#0#6.5
+Burma#Agayan#16.6#95.3333#0#6.5
+Burma#Agetu#27.1833#98.45#0#6.5
+Burma#Agywezidonbweywa#21#92.6333#0#6.5
+Burma#Akyab#20.15#92.9#0#6.5
+Burma#Akyab District#20.5#93#0#6.5
+Burma#Arakan State#19#94.25#0#6.5
+Burma#Bassein#16.7833#94.7333#0#6.5
+Burma#Buthedaung#20.8667#92.5333#0#6.5
+Burma#Campbell Island#13.1167#98.3167#0#6.5
+Burma#Centre Peak#18.8#93.6333#0#6.5
+Burma#Clara Island#10.9#97.9167#0#6.5
+Burma#Clyde Island#12.1333#97.9833#0#6.5
+Burma#Clyde Point#13.0833#98.3167#0#6.5
+Burma#Coco Group#14.0833#93.3#0#6.5
+Burma#Cone Island#12.7833#98.5333#0#6.5
+Burma#Corbin Island#12.4833#98.15#0#6.5
+Burma#Cradle Rocks#14.1667#97.8833#0#6.5
+Burma#Crawford Shoal#16.4833#94.2#0#6.5
+Burma#Creek Point#16.5833#96.2833#0#6.5
+Burma#Criddles Island#12.0167#97.9833#0#6.5
+Burma#Crow Island#16.5#97.6167#0#6.5
+Burma#Cupola Island#9.8#98.1833#0#6.5
+Burma#Cutters Patch#18.4833#93.9167#0#6.5
+Burma#Cypress Point#20.7#92.3833#0#6.5
+Burma#E-mu#20.0167#96.9833#0#6.5
+Burma#East Spur#12.25#97.7833#0#6.5
+Burma#Eastern Sand#16.4333#96.4#0#6.5
+Burma#Egani#14.35#98.1167#0#6.5
+Burma#Egayit (or BM09)#17.4667#96.5833#0#6.5
+Burma#Egayit ( or BM07)#19.55#95.3#0#6.5
+Burma#Egayitpin#17.0667#96.1667#0#6.5
+Burma#Egyi Adet#19.4333#96.2833#0#6.5
+Burma#Ehti Taung#15.5167#98.0833#0#6.5
+Burma#Eintami#16.8167#95.15#0#6.5
+Burma#Eka#20.8333#96.4#0#6.5
+Burma#Emun#16.9706#96.7275#0#6.5
+Burma#Eng-po#22.0667#96.8167#0#6.5
+Burma#Errawaddy#15.8333#95.1#0#6.5
+Burma#Escape Bay#12.3#98.0167#0#6.5
+Burma#Eswa#21.5333#95.9167#0#6.5
+Burma#Et#22.2#97.2#0#6.5
+Burma#Et-et#13.3167#98.5167#0#6.5
+Burma#Et-et Chaung#13.3#98.5#0#6.5
+Burma#Etga#23.9#95.4667#0#6.5
+Burma#Etgyi#23.4#96.8667#0#6.5
+Burma#Etkyi#23.1167#95.3667#0#6.5
+Burma#Ettaw#22.1667#95.1667#0#6.5
+Burma#Falam District#22.9167#93.6833#0#6.5
+Burma#False Peak#12.3667#97.9833#0#6.5
+Burma#False Rock#18.6167#93.8833#0#6.5
+Burma#Fanow#20.4333#94.25#0#6.5
+Burma#Fell Passage#12.3167#98.35#0#6.5
+Burma#Fen-shui-ling-ya K ou#25.8167#98.6667#0#6.5
+Burma#Fengshuipo#24.0333#98.6167#0#6.5
+Burma#Feronica Crossing#16.2667#97.6167#0#6.5
+Burma#Fisher Bay#13.0833#98.3#0#6.5
+Burma#Fitzwilliam Island#19.4167#93.6333#0#6.5
+Burma#Flat Island Spit#20.1667#92.95#0#6.5
+Burma#Flatt Island#18.6167#93.7833#0#6.5
+Burma#Fletcher Island#11.8#97.65#0#6.5
+Burma#Fort Harrison#25.3667#97.8833#0#6.5
+Burma#Fort Morton#25.0333#97.7#0#6.5
+Burma#Fort Stedman#20.5833#96.95#0#6.5
+Burma#Fort White#23.2333#93.7833#0#6.5
+Burma#Foul Island#18.0667#94.0833#0#6.5
+Burma#Foul Point#20.2667#92.75#0#6.5
+Burma#Freak Island#12.6833#97.8833#0#6.5
+Burma#Frederick Island#19.8#93.4#0#6.5
+Burma#French Bay#12.6167#98.4#0#6.5
+Burma#Fytche Point#16.05#94.4#0#6.5
+Burma#Ghura Gomti#18.1#96.6333#0#6.5
+Burma#Gifford Island#12.65#98.2#0#6.5
+Burma#Girah#18.15#96.5833#0#6.5
+Burma#Glohng Kra#9.9667#98.5833#0#6.5
+Burma#Glohng Kum#10.7#98.7833#0#6.5
+Burma#Hmawbi (Yangon)#16.4539#96.1272#0#6.5
+Burma#Hmawbi (Ayeyarwady)#16.35#95.9333#0#6.5
+Burma#Hmawbi (or BM09)#17.1#96.0333#0#6.5
+Burma#Hmawbi (Mon State)#16.6375#97.6122#0#6.5
+Burma#Hmawbi Chaung#16.9833#96.0333#0#6.5
+Burma#Hmawbi Chaung#16.6281#97.6125#0#6.5
+Burma#Hmawbiywathit#16.6558#97.6003#0#6.5
+Burma#Idi Hka#26.4#96.6#0#6.5
+Burma#Imaw Bum#26.1667#98.4667#0#6.5
+Burma#Immi#25.1333#96.9333#0#6.5
+Burma#Immortality Point#13.1#98.3167#0#6.5
+Burma#Impawkon#20.45#96.9#0#6.5
+Burma#Imphal River#22.8667#94.0833#0#6.5
+Burma#Jack Island#11.85#98.3#0#6.5
+Burma#Jagrem#25.3333#94.7333#0#6.5
+Burma#Jagun#26.55#96.4167#0#6.5
+Burma#Jahtung#24.1167#97.6333#0#6.5
+Burma#Jahtungbum#24.5833#97.0167#0#6.5
+Burma#Jaipur#18.55#96.4333#0#6.5
+Burma#Jaiwa Ga#25.9667#96.8833#0#6.5
+Burma#Jakhai#24.3667#97.5667#0#6.5
+Burma#Jaliapara#20.7167#92.35#0#6.5
+Burma#Jamali Chaung#10.5333#98.4833#0#6.5
+Burma#Jamaw#25.4167#96.3#0#6.5
+Burma#James Island#19.5333#93.5333#0#6.5
+Burma#Jamlon Hka#25.6#96.45#0#6.5
+Burma#Jampaw#26.1667#98.2333#0#6.5
+Burma#Jamu Bum#26#96.6667#0#6.5
+Burma#Jane Island#11.3667#98.0167#0#6.5
+Burma#Jangdau#24.1167#97.6167#0#6.5
+Burma#Janhtang#26.2667#96.0333#0#6.5
+Burma#Janhtang Bum#26.25#96.0333#0#6.5
+Burma#Janhtang Ga#26.5333#96.6333#0#6.5
+Burma#Janmai#24.2667#97.65#0#6.5
+Burma#Janmai Pum#25.3333#96.1167#0#6.5
+Burma#Janmaigahtawng#25.55#96.6333#0#6.5
+Burma#Janpan#25.9167#96.9167#0#6.5
+Burma#Japalu#27.1#98.35#0#6.5
+Burma#Jarakawng#25.8167#97.25#0#6.5
+Burma#Jasewala#27.15#98.4333#0#6.5
+Burma#Jat Ga#26.2667#96.6667#0#6.5
+Burma#Jatung Ga#26.4333#96.6833#0#6.5
+Burma#Jawang#25.7#96.2333#0#6.5
+Burma#Jawmaw#24.4833#97.4667#0#6.5
+Burma#Jeang#24.0833#97.25#0#6.5
+Burma#Jeikchaung#19.95#93.8#0#6.5
+Burma#Jekau#24.35#97.6833#0#6.5
+Burma#Jenkins Island#11.0333#98.6667#0#6.5
+Burma#Jergo Island#18.8#93.9667#0#6.5
+Burma#Jiangao Shan#25.5167#98.1333#0#6.5
+Burma#Jichai Hka#26.7833#95.8167#0#6.5
+Burma#Jigawng#27.3#98.5833#0#6.5
+Burma#Jih-tung Ho#27.6833#98.0333#0#6.5
+Burma#Jill Hka#26.6833#95.7667#0#6.5
+Burma#John Island#12.7333#98.5833#0#6.5
+Burma#Johnny Island#12.3667#98.2167#0#6.5
+Burma#Johns Island#19.75#93.45#0#6.5
+Burma#Julia Island#12.3333#98.25#0#6.5
+Burma#Julian Island#11.85#98.4333#0#6.5
+Burma#Jum Ga (Kachin State)#25.8833#97.25#0#6.5
+Burma#Jum Ga (Sagain)#26.7#96.1167#0#6.5
+Burma#Jum Hka#26.3333#97.65#0#6.5
+Burma#Jumgahtawng#25.4833#96.6#0#6.5
+Burma#Jumja#26.7#98.3167#0#6.5
+Burma#Jusai#23.85#97.3#0#6.5
+Burma#Juwa#25.8#97.9333#0#6.5
+Burma#Kawthaung#9.9833#98.55#0#6.5
+Burma#Mandalay#14.1#98.5667#0#6.5
+Burma#Mandalay Canal#21.8333#96.2#0#6.5
+Burma#Mandalay District#22#96#0#6.5
+Burma#Mandalay Division#21#96#0#6.5
+Burma#Mandalay Hill#22.0333#96.1#0#6.5
+Burma#Moulmein#16.4914#97.6256#0#6.5
+Burma#Moulmein River#16.2#97.5667#0#6.5
+Burma#Moulmein South#16.4333#97.6333#0#6.5
+Burma#Moulmeingyun#16.3833#95.2667#0#6.5
+Burma#Pyinmana (Mandalay)#19.7333#96.2167#0#6.5
+Burma#Pyinmana (Shan State)#22.5333#96.5333#0#6.5
+Burma#Pyinmanahaung#19.6833#96.1833#0#6.5
+Burma#Quoin Hill#13.15#98.5667#0#6.5
+Burma#Quoin Hill (Rakhine State)#17.7667#94.5333#0#6.5
+Burma#Quoin Island#10.35#98.0667#0#6.5
+Burma#Rangoon (or BM09)#16.75#96.25#0#6.5
+Burma#Rangoon (Yangon)#16.7833#96.1667#0#6.5
+Burma#Rangoon Ahlone#16.7833#96.1167#0#6.5
+Burma#Rangoon Airport#16.9167#96.1333#0#6.5
+Burma#Rangoon Division#17#96.1667#0#6.5
+Burma#Rangoon River#16.4922#96.3453#0#6.5
+Burma#Sagaing (Sagain)#21.8667#95.9833#0#6.5
+Burma#Sagaing (Shan State)#20.7333#96.8833#0#6.5
+Burma#Sagaing District#22#95.5#0#6.5
+Burma#Sagaing Division#23.5#95.5#0#6.5
+Burma#Sagaingzu (Sagain)#22.4833#95.65#0#6.5
+Burma#Sagaingzu (Yangon)#16.7464#96.6931#0#6.5
+Burma#Taunggyi (Mandalay)#20.3167#95.8#0#6.5
+Burma#Taunggyi#17.0833#97.1667#0#6.5
+Burma#Taunggyi (Sagain)#23.1333#95.5167#0#6.5
+Burma#Taunggyi (Kayin State)#18.75#96.6#0#6.5
+Burma#Taunggyi (Shan State)#20.7833#97.0333#0#6.5
+Burma#Taunggyi (or BM09)#18.2833#96.6667#0#6.5
+Burma#Taunggyi (Ayeyarwady)#17.0667#94.5833#0#6.5
+Burma#Taunggyi Chaung#21.5333#96.9#0#6.5
+Burma#Taunggyi Taung#18.7167#95.3#0#6.5
+Burma#Taunggyigwe#17.2#96.4#0#6.5
+Burma#Taunggyigyaw#18.15#96.9#0#6.5
+Burma#Taunggyizu#18.45#96.6667#0#6.5
+Burma#U-gin Taung#23.2#96.6333#0#6.5
+Burma#U-ri-daw#19.9833#97.2167#0#6.5
+Burma#U-yin (Mandalay)#22.2333#96.1333#0#6.5
+Burma#U-yin (or BM07)#19.2667#95.6667#0#6.5
+Burma#U-yinkwin#18.45#94.4333#0#6.5
+Burma#Ubo#18.9333#96.9333#0#6.5
+Burma#Ubokchaung#18.85#96.7167#0#6.5
+Burma#Ubyetaung#23.6833#95.9667#0#6.5
+Burma#Udakhi#17.9833#97.3833#0#6.5
+Burma#Udo#18.1167#96.2833#0#6.5
+Burma#Upi#21.3667#92.6833#0#6.5
+Burma#Ura#24.6667#97.5333#0#6.5
+Burma#Ura Hka#25.8167#96.3833#0#6.5
+Burma#Urekhi#17.9667#97.3833#0#6.5
+Burma#Uri#25.4667#97.4833#0#6.5
+Burma#Utha#23.15#95.5333#0#6.5
+Burma#Uthai#21.6833#92.85#0#6.5
+Burma#Uyingale#21.8333#96.0167#0#6.5
+Burma#Vaga#21.4667#93.9333#0#6.5
+Burma#Vaivet#23.85#93.4667#0#6.5
+Burma#Vakhawng Va#22.55#93.25#0#6.5
+Burma#Vamkua#22.6#93.2333#0#6.5
+Burma#Vanai Va#22.3#94.1333#0#6.5
+Burma#Vanglai#23.9333#93.5833#0#6.5
+Burma#Vangte#23.25#93.6833#0#6.5
+Burma#Vaniam#22.9333#93.7833#0#6.5
+Burma#Vanklang#22.5333#93.8333#0#6.5
+Burma#Vansaye#20.6125#100.1106#0#6.5
+Burma#Vanzang#22.85#93.35#0#6.5
+Burma#Vapi Va#22.1667#93.8833#0#6.5
+Burma#Vawmpnu Va#22.15#93.35#0#6.5
+Burma#Vawnpayit#26.2667#98.3333#0#6.5
+Burma#Vazang#23.15#93.6833#0#6.5
+Burma#Vinghing#23.4167#98.8667#0#6.5
+Burma#Vingkao#23.15#98.6#0#6.5
+Burma#Vommual#23.4167#93.8333#0#6.5
+Burma#Vownalu Mual#23.2167#93.85#0#6.5
+Burma#Vuangtu#22.4833#93.2667#0#6.5
+Burma#Vuilu#21.2667#93.4833#0#6.5
+Burma#Vutbuak#23.35#93.45#0#6.5
+Burma#Yangon Taung#13.8833#98.3833#0#6.5
+Burma#Yangonbauk#16.7133#96.0578#0#6.5
+Burma#Yangonchaung#13.8667#98.4167#0#6.5
+Burma#Yondaing Chaung#18.0167#96.9#0#6.5
+Burma#Yondaw#16.95#95.0667#0#6.5
+Burma#Yonga#22.0333#95.5167#0#6.5
+Burma#Yudawmu#22.4833#95.5667#0#6.5
+Burma#Yumbya#20.1333#96.7333#0#6.5
+Burma#Zugon#18.3333#95.6167#0#6.5

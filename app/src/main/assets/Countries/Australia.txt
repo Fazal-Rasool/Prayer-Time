@@ -1,0 +1,101 @@
+﻿
+Australia#Adelaide#-34.9333#138.6#65#9.5
+Australia#Albany#-35.0169#117.8917#85#8
+Australia#Albury#-36.0833#146.9167#170#10
+Australia#Alice Springs#-23.7#133.8833#609#9.5
+Australia#Armidale#-30.5167#151.65#1014#10
+Australia#Bacchus Marsh#-37.6833#144.45#129#10
+Australia#Ballarat#-37.5667#143.85#465#10
+Australia#Bentley#-28.8667#153.5667#1#10
+Australia#Bendigo#-36.7667#144.2833#234#10
+Australia#Bongaree#-27.0797#153.1586#1#10
+Australia#Brisbane#-27.4679#153.0281#15#10
+Australia#Broken Hill#-31.95#141.4333#305#9.5
+Australia#Broome#-17.9667#122.2333#-9999#8
+Australia#Brunswick#-37.7667#144.9667#129#10
+Australia#Buderim#-26.6833#153.05#43#10
+Australia#Bunbury#-33.3333#115.6333#1#8
+Australia#Bundaberg#-24.85#152.35#7#10
+Australia#Burnie#-41.0667#145.9167#1#10
+Australia#Caboolture#-27.0833#152.95#66#10
+Australia#Cairns#-16.9167#145.7667#1#10
+Australia#Caloundra#-26.8#153.1333#1#10
+Australia#Canberra#-35.2835#149.1281#609#10
+Australia#Cessnock#-32.8333#151.35#152#10
+Australia#Cleveland#-27.5333#153.2667#1#10
+Australia#Coffs Harbour#-30.3#153.1333#8#10
+Australia#Crafers#-35#138.7#303#10
+Australia#Craigieburn#-37.6#144.95#156#10
+Australia#Cranbourne#-38.1#145.2833#1#10
+Australia#Darwin#-12.4611#130.8418#-9999#9.5
+Australia#Deception Bay#-27.2#153.0333#3#10
+Australia#Devonport#-41.1667#146.35#1#10
+Australia#Dubbo#-32.25#148.6167#304#10
+Australia#Echuca#-36.1333#144.75#73#10
+Australia#Forster#-32.1667#152.5167#-9999#10
+Australia#Gawler#-34.6#138.7333#72#10
+Australia#Geelong#-38.1471#144.3607#-9999#10
+Australia#Geelong West#-38.1333#144.35#-9999#10
+Australia#Geraldton#-28.7667#114.6#2#8
+Australia#Gladstone#-23.85#151.25#1#10
+Australia#Gold Coast#-28#153.4333#1#10
+Australia#Goulburn#-34.75#149.7167#563#10
+Australia#Griffith#-34.2833#146.0333#117#10
+Australia#Hobart#-42.9167#147.3333#151#10
+Australia#Hornsby#-33.7#151.1#163#10
+Australia#Horsham#-36.7167#142.2#116#10
+Australia#Kalgoorlie#-30.75#121.4667#469#8
+Australia#Karratha#-20.7291#116.8547#1#8
+Australia#Katoomba#-33.7#150.3#720#10
+Australia#Kingston#-42.9667#147.3167#23#10
+Australia#Kwinana#-32.25#115.7667#24#8
+Australia#Launceston#-41.45#147.1667#105#10
+Australia#Lismore#-28.8135#153.2773#130#10
+Australia#Mackay#-21.15#149.2#-9999#10
+Australia#Mandurah#-32.55#115.7#1#10
+Australia#Maryborough#-25.5333#152.7#4#10
+Australia#Melbourne#-37.814#144.9633#58#10
+Australia#Melton#-37.6833#144.5833#128#10
+Australia#Mildura#-34.2#142.15#60#10
+Australia#Moe#-38.1667#146.2667#150#10
+Australia#Mooloolaba#-26.6833#153.1167#-9999#10
+Australia#Mornington#-38.2167#145.0333#1#10
+Australia#Mount Gambier#-37.8333#140.7667#82#9.5
+Australia#Mount Isa#-20.7333#139.5#438#10
+Australia#Murray Bridge#-35.1167#139.2667#10#10
+Australia#Nambour#-26.6333#152.95#139#10
+Australia#Nerang#-27.9833#153.3333#49#10
+Australia#Newcastle#-32.9271#151.7765#1#10
+Australia#Nowra#-34.8833#150.6#1#10
+Australia#Orange#-33.2833#149.1#652#10
+Australia#Palmerston#-12.486#130.9833#6#10
+Australia#Perth#-31.9333#115.8333#32#8
+Australia#Port Augusta#-32.5#137.7667#7#9.5
+Australia#Port Hedland#-20.3167#118.5667#-9999#8
+Australia#Port Macquarie#-31.4333#152.9167#-9999#10
+Australia#Queanbeyan#-35.35#149.2333#609#10
+Australia#Raymond Terrace#-32.75#151.75#7#10
+Australia#Rockhampton#-23.3833#150.5#2#10
+Australia#Roebourne#-20.7833#117.1333#11#10
+Australia#Sale#-38.1#147.0667#37#10
+Australia#Sawtell#-30.3833#153.1#-9999#10
+Australia#Shepparton#-36.3833#145.4#132#10
+Australia#Singleton#-32.5667#151.1833#154#10
+Australia#South Brisbane#-27.4833#153.0167#17#10
+Australia#South Grafton#-29.7#152.95#78#10
+Australia#Sunbury#-37.5833#144.7333#197#10
+Australia#Surfers Paradise#-28.0027#153.43#1#10
+Australia#Sydney#-33.8679#151.2073#1#10
+Australia#Tamworth#-31.1#150.9333#545#10
+Australia#Taree#-31.9#152.4667#56#10
+Australia#Toowoomba#-27.55#151.9667#560#10
+Australia#Torquay#-38.3333#144.3167#-9999#10
+Australia#Townsville#-19.25#146.8#1#10
+Australia#Traralgon#-38.1833#146.5333#119#10
+Australia#Wagga Wagga#-35.1167#147.3667#148#10
+Australia#Wangaratta#-36.3667#146.3333#148#10
+Australia#Warrnambool#-38.3833#142.4833#1#10
+Australia#Warwick#-28.2333#152.0167#555#10
+Australia#Whyalla#-33.0333#137.5833#1#9.5
+Australia#Wodonga#-36.1167#146.8833#153#10
+Australia#Wollongong#-34.4333#150.8833#26#10

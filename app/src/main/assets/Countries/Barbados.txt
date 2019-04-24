@@ -1,0 +1,11 @@
+﻿
+Barbados#Bathsheba#13.216667#-59.5166664#-9999#-4
+Barbados#Blackmans#13.183333#-59.5333328#219#-4
+Barbados#Bridgetown#13.1#-59.6166649#1#-4
+Barbados#Crab Hill#13.316667#-59.6333351#39#-4
+Barbados#Greenland#13.25#-59.5666656#45#-4
+Barbados#Hillaby#13.216667#-59.5833321#143#-4
+Barbados#Holetown#13.183333#-59.6500015#1#-4
+Barbados#Oistins#13.066667#-59.5333328#53#-4
+Barbados#Speightstown#13.25#-59.6500015#1#-4
+Barbados#The Crane#13.1#-59.4500008#-9999#-4

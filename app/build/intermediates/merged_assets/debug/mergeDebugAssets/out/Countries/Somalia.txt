@@ -1,0 +1,46 @@
+﻿
+Somalia#Afgooye#2.15#45.11666#78#3
+Somalia#Baardheere#2.35#42.26667#102#3
+Somalia#Baidoa#3.116667#43.65#446#3
+Somalia#Bandarbeyla#9.483333#50.81667#146#3
+Somalia#Bargaal#11.28333#51.08333#1#3
+Somalia#Beledweyne#4.735833#45.20361#174#3
+Somalia#Bender Cassim#11.28472#49.1825#1#3
+Somalia#Berbera#10.43556#45.01639#21#3
+Somalia#Bereeda#11.85#51.05#135#3
+Somalia#Burao#9.516667#45.53333#1039#3
+Somalia#Buulobarde#3.85#45.56667#127#3
+Somalia#Buur Gaabo#-1.21667#41.85#-9999#3
+Somalia#Buurhakaba#2.783333#44.08333#199#3
+Somalia#Cadale#2.75#46.31667#-9999#3
+Somalia#Ceek#8.996944#45.35861#858#3
+Somalia#Ceelbuur#4.683333#46.61666#153#3
+Somalia#Ceeldheere#3.85#47.2#121#3
+Somalia#Chisimayu#-0.36667#42.53333#-9999#3
+Somalia#Dujuuma#1.253333#42.57084#41#3
+Somalia#Dusa Marreb#5.535#46.38611#203#3
+Somalia#Erigavo#10.61806#47.37#1776#3
+Somalia#Eyl#7.983333#49.81667#22#3
+Somalia#Galcaio#6.769722#47.43083#293#3
+Somalia#Garbahaarrey#3.316667#42.21667#235#3
+Somalia#Giohar#2.766667#45.51667#100#3
+Somalia#Hargeysa#9.56#44.065#1247#3
+Somalia#Hobyo#5.351389#48.52555#120#3
+Somalia#Iskushuban#10.28333#50.23333#285#3
+Somalia#Jalalaqsi#3.4#45.58333#121#3
+Somalia#Jamaame#0.072222#42.75056#11#3
+Somalia#Jilib#0.495833#42.77278#17#3
+Somalia#Laascaanood#8.475556#47.35778#722#3
+Somalia#Laasqoray#11.16667#48.21667#4#3
+Somalia#Luuq#3.8#42.55#155#3
+Somalia#Mahadday Weyne#2.966667#45.53333#103#3
+Somalia#Mogadishu#2.066667#45.36666#58#3
+Somalia#Oodweyne#9.408056#45.06222#1029#3
+Somalia#Qandala#11.47111#49.87389#7#3
+Somalia#Qoryooley#1.783333#44.53333#65#3
+Somalia#Saacow#1.633333#42.45#58#3
+Somalia#Tayeeglow#4.033333#44.51667#413#3
+Somalia#Waajid#3.8#43.25#370#3
+Somalia#Wanlaweyn#2.616667#44.9#92#3
+Somalia#Xarardheere#4.654444#47.8575#216#3
+Somalia#Yeed#4.55#43.03333#353#3

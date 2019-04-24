@@ -1,0 +1,95 @@
+﻿
+Argentina#Alta Gracia#-31.6667#-64.4333#516#-3
+Argentina#Azul#-36.7833#-59.85#137#-3
+Argentina#Bahia Blanca#-38.7167#-62.2833#21#-3
+Argentina#Bell Ville#-32.6167#-62.7#123#-3
+Argentina#Buenos Aires#-34.5761#-58.4088#13#-3
+Argentina#Cafayate#-26.0833#-65.9667#1590#-3
+Argentina#Campana#-34.1769#-58.9208#3#-3
+Argentina#Campo Quijano#-24.9167#-65.65#1665#-3
+Argentina#Canada de Gomez#-32.8169#-61.4008#70#-3
+Argentina#Chacabuco#-34.6417#-60.4739#66#-3
+Argentina#Chivilcoy#-34.9083#-60.0306#34#-3
+Argentina#Clorinda#-25.2833#-57.7167#63#-3
+Argentina#Colegiales#-34.5833#-58.45#21#-3
+Argentina#Comodoro Rivadavia#-45.8667#-67.5#18#-3
+Argentina#Concepcion del Uruguay#-32.4833#-58.2283#3#-3
+Argentina#Concordia#-31.4#-58.0333#22#-3
+Argentina#Cordoba#-31.4#-64.1833#384#-3
+Argentina#Coronel Suarez#-37.4667#-61.9167#228#-3
+Argentina#Corrientes#-27.4667#-58.8333#52#-3
+Argentina#Cutral-Co#-38.9333#-69.2333#612#-3
+Argentina#Dolores#-36.3333#-57.6667#9#-3
+Argentina#El Calafate#-50.3408#-72.2768#200#-3
+Argentina#Formosa#-26.1833#-58.1833#55#-3
+Argentina#General Pico#-35.6667#-63.7333#103#-3
+Argentina#General Roca#-39.0333#-67.5833#232#-3
+Argentina#Goya#-29.1333#-59.2667#23#-3
+Argentina#Gualeguay#-33.1444#-59.3292#15#-3
+Argentina#Gualeguaychu#-33.0103#-58.5142#15#-3
+Argentina#Junin#-34.585#-60.9589#77#-3
+Argentina#La Plata#-34.9314#-57.9489#29#-3
+Argentina#La Rioja#-29.4333#-66.85#465#-3
+Argentina#Larroque#-33.0333#-59.0167#58#-3
+Argentina#Libertador General San Martin#-23.8#-64.8#473#-3
+Argentina#Lincoln#-34.865#-61.5319#78#-3
+Argentina#Lujan#-34.5703#-59.105#22#-3
+Argentina#Mar del Plata#-38#-57.55#39#-3
+Argentina#Mendoza#-32.8833#-68.8167#824#-3
+Argentina#Mercedes#-34.6544#-59.4344#40#-3
+Argentina#Necochea#-38.55#-58.75#31#-3
+Argentina#Neuquen#-38.95#-68.0667#255#-3
+Argentina#Nueve de Julio#-35.4542#-60.8914#83#-3
+Argentina#Obera#-27.4833#-55.1333#302#-3
+Argentina#Olavarria#-36.9#-60.2833#163#-3
+Argentina#Parana#-31.7333#-60.5333#68#-3
+Argentina#Pergamino#-33.8925#-60.5725#57#-3
+Argentina#Posadas#-27.3833#-55.8833#54#-3
+Argentina#Presidencia Roque Saenz Pena#-26.7833#-60.45#87#-3
+Argentina#Puerto Iguazu#-25.5991#-54.5736#183#-3
+Argentina#Puerto Madryn#-42.7667#-65.05#18#-3
+Argentina#Punta Alta#-38.8833#-62.0833#3#-3
+Argentina#Purmamarca#-23.7333#-65.4833#2222#-3
+Argentina#Quilmes#-34.7203#-58.2694#19#-3
+Argentina#Rafaela#-31.2667#-61.4833#91#-3
+Argentina#Rawson#-43.3#-65.1#4#-3
+Argentina#Reconquista#-29.15#-59.65#32#-3
+Argentina#Resistencia#-27.45#-58.9833#48#-3
+Argentina#Rio Cuarto#-33.1333#-64.35#422#-3
+Argentina#Rio Gallegos#-51.6333#-69.2167#13#-3
+Argentina#Rio Tercero#-32.1833#-64.1#365#-3
+Argentina#Rosario#-32.9511#-60.6664#11#-3
+Argentina#Salta#-24.7833#-65.4167#1171#-3
+Argentina#San Antonio de los Cobres#-24.1833#-66.35#3932#-3
+Argentina#San Carlos de Bariloche#-41.15#-71.3#894#-3
+Argentina#San Fernando del Valle de Catamarca#-28.4667#-65.7833#520#-3
+Argentina#San Francisco#-31.4333#-62.0833#123#-3
+Argentina#San Juan#-31.5375#-68.5364#650#-3
+Argentina#San Lorenzo#-28.1333#-58.7667#70#-3
+Argentina#San Luis#-33.3#-66.35#709#-3
+Argentina#San Martin#-33.0667#-68.4667#656#-3
+Argentina#San Miguel de Tucuman#-26.8167#-65.2167#437#-3
+Argentina#San Nicolas de los Arroyos#-33.3303#-60.2269#6#-3
+Argentina#San Pedro#-24.2333#-64.8667#563#-3
+Argentina#San Rafael#-34.6#-68.3333#691#-3
+Argentina#San Ramon de la Nueva Oran#-23.1322#-64.326#357#-3
+Argentina#San Salvador de Jujuy#-24.1833#-65.3#1206#-3
+Argentina#Santa Fe#-31.6333#-60.7#20#-3
+Argentina#Santa Rosa#-36.6167#-64.2833#176#-3
+Argentina#Santa Rosa de Tastil#-24.4333#-65.95#3346#-3
+Argentina#Santiago del Estero#-27.7833#-64.2667#180#-3
+Argentina#Tandil#-37.3167#-59.15#189#-3
+Argentina#Tartagal#-22.5333#-63.8167#468#-3
+Argentina#Trelew#-43.249#-65.3051#10#-3
+Argentina#Tres Arroyos#-38.3833#-60.2833#100#-3
+Argentina#Ushuaia#-54.8#-68.3#-9999#-3
+Argentina#Veinticinco de Mayo#-35.4281#-60.1742#59#-3
+Argentina#Venado Tuerto#-33.7497#-61.9669#109#-3
+Argentina#Victoria#-32.6184#-60.1548#36#-3
+Argentina#Viedma#-40.8#-63#12#-3
+Argentina#Villa Carlos Paz#-31.4#-64.5167#686#-3
+Argentina#Villa Catedral#-41.1673#-71.4388#1021#-3
+Argentina#Villa Constitucion#-33.2333#-60.3333#50#-3
+Argentina#Villa Maria#-32.4167#-63.25#187#-3
+Argentina#Villa Santa Rita#-34.6148#-58.4797#21#-3
+Argentina#Zarate#-34.0922#-59.035#27#-3

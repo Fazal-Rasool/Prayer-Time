@@ -1,0 +1,84 @@
+﻿
+Russia#Angarsk#52.53#103.88#431#9
+Russia#Armavir#44.98#41.12#213#4
+Russia#Balakovo#52.02466#47.79411#23#4
+Russia#Barnaul#53.36#83.76#190#7
+Russia#Belgorod#50.61#36.58#189#4
+Russia#Biysk#52.56667#85.25#230#7
+Russia#Blagoveshchensk#50.26667#127.5333#133#10
+Russia#Bratsk#56.1325#101.6142#434#9
+Russia#Bryansk#53.2875#34.38055#151#4
+Russia#Cheboksary#56.13222#47.25195#140#4
+Russia#Chelyabinsk#55.15444#61.42972#237#6
+Russia#Cherepovets#59.13333#37.9#138#4
+Russia#Chita#52.03333#113.55#873#10
+Russia#Dzerzhinsk#56.23889#43.46305#95#4
+Russia#Groznyy#43.30833#45.70028#131#4
+Russia#Irkutsk#52.29778#104.2964#426#8
+Russia#Ivanovo#56.99417#40.98583#119#4
+Russia#Izhevsk#56.85#53.23333#133#4
+Russia#Kaliningrad#54.71#20.5#15#4
+Russia#Kaluga#54.53583#36.27056#214#4
+Russia#Kemerovo#55.33333#86.08334#131#8
+Russia#Khabarovsk#48.48083#135.0928#81#11
+Russia#Khabarovsk Vtoroy#48.44306#135.1356#49#11
+Russia#Kirov#58.59694#49.65833#179#4
+Russia#Kostroma#57.77083#40.93444#112#4
+Russia#Krasnodar#45.03278#38.97694#36#4
+Russia#Krasnoyarsk#56.00972#92.79166#232#8
+Russia#Kurgan#55.45#65.33334#72#6
+Russia#Kursk#51.73028#36.19389#184#4
+Russia#Lipetsk#52.61861#39.56889#178#4
+Russia#Magnitogorsk#53.41861#59.04722#352#6
+Russia#Makhachkala#42.97528#47.50222#-10#4
+Russia#Moscow#55.75222#37.61555#151#4
+Russia#Murmansk#68.97167#33.08194#19#4
+Russia#Naberezhnyye Chelny#55.75611#52.42889#132#4
+Russia#Nizhnekamsk#55.63833#51.81694#121#4
+Russia#Nizhnevartovsk#60.93333#76.56667#45#6
+Russia#Nizhniy Novgorod#56.32867#44.00205#135#4
+Russia#Nizhniy Tagil#57.91944#59.965#207#6
+Russia#Novokuznetsk#53.75#87.1#250#8
+Russia#Novorossiysk#44.72389#37.77083#8#4
+Russia#Novosibirsk#55.04111#82.93444#145#7
+Russia#Omsk#55#73.4#81#7
+Russia#Orel#52.96583#36.08028#182#4
+Russia#Orenburg#51.78472#55.09861#107#6
+Russia#Orsk#51.22528#58.57#200#6
+Russia#Penza#53.19583#45#164#4
+Russia#Petropavlovsk-Kamchatskiy#53.01667#158.65#108#12
+Russia#Petrozavodsk#61.78491#34.34691#73#4
+Russia#Pskov#57.83333#28.33333#39#4
+Russia#Rostov-na-Donu#47.23639#39.71389#86#4
+Russia#Rybinsk#58.05#38.83333#107#4
+Russia#Saint Petersburg#59.89444#30.26417#5#4
+Russia#Samara#53.2#50.15#128#4
+Russia#Saransk#54.18333#45.18333#145#4
+Russia#Saratov#51.56667#46.03333#145#4
+Russia#Severodvinsk#64.57222#39.8475#8#4
+Russia#Shakhty#47.71222#40.20583#126#4
+Russia#Smolensk#54.78167#32.04#243#4
+Russia#Sochi#43.6#39.73028#65#4
+Russia#Staryy Oskol#51.29667#37.84167#137#4
+Russia#Sterlitamak#53.63306#55.94639#148#6
+Russia#Surgut#61.25#73.41666#37#6
+Russia#Syktyvkar#61.66667#50.81222#154#4
+Russia#Taganrog#47.22139#38.90944#29#4
+Russia#Tambov#52.73167#41.43389#132#4
+Russia#Tomsk#56.5#84.96667#115#8
+Russia#Tula#54.20444#37.61111#171#4
+Russia#Ufa#54.775#56.0375#102#6
+Russia#Ulan-Ude#51.83333#107.6167#531#9
+Russia#Velikiy Novgorod#58.51667#31.28333#32#4
+Russia#Vladikavkaz#43.03667#44.66778#681#4
+Russia#Vladimir#56.14278#40.39806#143#4
+Russia#Vladivostok#43.10562#131.8735#5#11
+Russia#Volgograd#48.80472#44.58583#52#4
+Russia#Vologda#59.21667#39.9#108#4
+Russia#Volzhskiy#48.79056#44.77167#23#4
+Russia#Voronezh#51.66639#39.17#155#4
+Russia#Yakutsk#62.03389#129.7331#126#10
+Russia#Yekaterinburg#56.8575#60.6125#278#6
+Russia#Yoshkar-Ola#56.63877#47.89078#99#4
+Russia#Zelenograd#55.9825#37.18139#229#4
+Russia#Zlatoust#55.17111#59.65083#466#6

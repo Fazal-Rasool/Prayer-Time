@@ -1,0 +1,166 @@
+﻿
+Jan Mayen#7 Hollander Bucht#70.9208#-8.91#0#-1
+Jan Mayen#Alkevika#70.9#-8.75#0#-1
+Jan Mayen#Antarcticberget#70.9503#-8.7483#0#-1
+Jan Mayen#Arnethkrateret#70.8592#-9.0414#0#-1
+Jan Mayen#Askheimtoppen#70.9311#-8.7569#0#-1
+Jan Mayen#Austbukta#71.1097#-7.9883#0#-1
+Jan Mayen#Austkapp#71.1453#-7.9331#0#-1
+Jan Mayen#Austre Sorbremorena#71.0025#-8.1944#0#-1
+Jan Mayen#Basissletta#70.9833#-8.4167#0#-1
+Jan Mayen#Batvika#70.9144#-8.7208#0#-1
+Jan Mayen#Cape Rudson#70.9333#-8.8708#0#-1
+Jan Mayen#Carl Stephantoppen#70.9386#-8.7294#0#-1
+Jan Mayen#Charcotbreen#71.08#-8.2828#0#-1
+Jan Mayen#Clandeboy Creek#71.1214#-7.9706#0#-1
+Jan Mayen#Clarkebreen#71.0708#-8.0889#0#-1
+Jan Mayen#Cross Cape#71.0344#-8.4603#0#-1
+Jan Mayen#Danielssenkrateret#70.9869#-8.5286#0#-1
+Jan Mayen#Devolddjupet#70.7667#-7.6667#0#-1
+Jan Mayen#Domen#70.9983#-8.4983#0#-1
+Jan Mayen#Dotten#71.0958#-8.1233#0#-1
+Jan Mayen#Draugen#70.8728#-8.7989#0#-1
+Jan Mayen#Driftwood Bay#70.9539#-8.5519#0#-1
+Jan Mayen#Dufferinbreen#71.1067#-8.0308#0#-1
+Jan Mayen#Dvergane#71.0678#-8.1553#0#-1
+Jan Mayen#Egg Bluff#70.9708#-8.3917#0#-1
+Jan Mayen#Eggoybukta#70.9667#-8.4242#0#-1
+Jan Mayen#Eggoykalven#70.9672#-8.3953#0#-1
+Jan Mayen#Eggoyodden#70.9681#-8.39#0#-1
+Jan Mayen#Ekerolddalen#71.0028#-8.3142#0#-1
+Jan Mayen#Elizabethtoppen#70.8797#-8.88#0#-1
+Jan Mayen#Engelsbukta#70.9572#-8.7583#0#-1
+Jan Mayen#Eskkrateret#70.9947#-8.2953#0#-1
+Jan Mayen#Flykollen#70.8756#-8.8208#0#-1
+Jan Mayen#Fotherbybreen#71.0344#-8.0925#0#-1
+Jan Mayen#Franz Josef Spitze#70.8858#-8.8728#0#-1
+Jan Mayen#Frielebreen#71.1#-8.0333#0#-1
+Jan Mayen#Fyrgangen#70.8619#-8.8153#0#-1
+Jan Mayen#Fyrtaarnet#70.8589#-8.8183#0#-1
+Jan Mayen#Gjuvbreen#71.1158#-8.1642#0#-1
+Jan Mayen#Gjuvtinden#71.0917#-8.1522#0#-1
+Jan Mayen#Gouwernaerbaen#70.9619#-8.3336#0#-1
+Jan Mayen#Greenland Sea#75#-10#0#-1
+Jan Mayen#Griegbreen#71.0781#-8.09#0#-1
+Jan Mayen#Gronberg#71.0017#-8.1606#0#-1
+Jan Mayen#Gronkapp#70.9722#-8.6978#0#-1
+Jan Mayen#Guinea Bucht#70.8814#-9.0131#0#-1
+Jan Mayen#Haakon VII Toppen#71.0808#-8.1797#0#-1
+Jan Mayen#Hakluytoppen#71.0886#-8.1414#0#-1
+Jan Mayen#Hamarbreen#71.1006#-8.2308#0#-1
+Jan Mayen#Hamarskaftet#71.0928#-8.2119#0#-1
+Jan Mayen#Helleryggen#71.0258#-8.1136#0#-1
+Jan Mayen#Himmelstigen#71.0886#-8.0642#0#-1
+Jan Mayen#Hjelmen#70.8342#-8.9506#0#-1
+Jan Mayen#Hoppberget#71.0725#-7.9992#0#-1
+Jan Mayen#Hornbaekbukta#70.8592#-8.8644#0#-1
+Jan Mayen#Hoyberg#70.8597#-9.0719#0#-1
+Jan Mayen#Isbrodden#71.1072#-8.1869#0#-1
+Jan Mayen#Isneset#71.1431#-8.1586#0#-1
+Jan Mayen#Iversengrunnen#70.7211#-8.8194#0#-1
+Jan Mayen#Jameson Bukt#70.9717#-8.3572#0#-1
+Jan Mayen#Jan Mayen#70.9833#-8.5#0#-1
+Jan Mayen#Jan Mayenbanken#70.5#-8.5#0#-1
+Jan Mayen#Jettegryteodden#70.8975#-8.9786#0#-1
+Jan Mayen#Jorisbreen#71.1#-8.2667#0#-1
+Jan Mayen#Jutulen#71.0958#-8.1617#0#-1
+Jan Mayen#Jutulslottet#71.1078#-8.1633#0#-1
+Jan Mayen#Kreklinghaug#70.9906#-8.2469#0#-1
+Jan Mayen#Laguneflya#70.9858#-8.4403#0#-1
+Jan Mayen#Lagunevollen#70.9683#-8.5275#0#-1
+Jan Mayen#Langbakken#71.1833#-9.0333#0#-1
+Jan Mayen#Lavastraumen#70.9206#-8.8414#0#-1
+Jan Mayen#Leina#70.8333#-8.5#0#-1
+Jan Mayen#Lordnuten#71.1092#-8.0569#0#-1
+Jan Mayen#Lunckekjegla#70.9372#-8.7525#0#-1
+Jan Mayen#Lundquistflaket#71.0333#-9#0#-1
+Jan Mayen#Makeskjera#70.8661#-8.8017#0#-1
+Jan Mayen#Margarethhytta#70.9028#-8.9419#0#-1
+Jan Mayen#Mary Muss Bucht#71#-8.5058#0#-1
+Jan Mayen#Merganserskjeret#70.8297#-9.0547#0#-1
+Jan Mayen#Midtfjellet#70.9158#-8.7928#0#-1
+Jan Mayen#Minnarenna#71.1#-8.55#0#-1
+Jan Mayen#Mohnberget#70.9933#-8.4847#0#-1
+Jan Mayen#Mount Hackluyt#71.0833#-8.1667#0#-1
+Jan Mayen#Mount Hann#70.9528#-8.6531#0#-1
+Jan Mayen#Munken#71.0856#-8.0822#0#-1
+Jan Mayen#Nieders Sud Spitze#70.8775#-9.0508#0#-1
+Jan Mayen#Nord Lagune#71.0008#-8.4736#0#-1
+Jan Mayen#Nord-Jan#71.0667#-8.1667#0#-1
+Jan Mayen#Nordahl Grieglia#71.0994#-8.3289#0#-1
+Jan Mayen#Nordkapp#71.1086#-8.3197#0#-1
+Jan Mayen#Nordre Hollendarbaen#70.6911#-8.8558#0#-1
+Jan Mayen#Nordvbakken#71.1833#-8.1167#0#-1
+Jan Mayen#Nova#70.9458#-8.765#0#-1
+Jan Mayen#Oienaksla#71.0453#-8.0044#0#-1
+Jan Mayen#Olsbu#70.9372#-8.8119#0#-1
+Jan Mayen#Ostliche Kreuz Bucht#71.15#-8.1#0#-1
+Jan Mayen#Palfty Krater#71.0264#-8.3108#0#-1
+Jan Mayen#Petersenbreen#71.0528#-8.0397#0#-1
+Jan Mayen#Pockkrateret#70.8772#-8.9631#0#-1
+Jan Mayen#Poolsenboot Klippe#70.9247#-8.6564#0#-1
+Jan Mayen#Presidentsteinen#70.9872#-8.1847#0#-1
+Jan Mayen#Prins Haralds Bre#71.0931#-8.0567#0#-1
+Jan Mayen#Pukkelryggen#70.9761#-8.5575#0#-1
+Jan Mayen#Rasstupet#70.8639#-8.8714#0#-1
+Jan Mayen#Revodden#70.9108#-8.94#0#-1
+Jan Mayen#Richterkrateret#70.8706#-9.0422#0#-1
+Jan Mayen#Ringkollen#70.9086#-8.8508#0#-1
+Jan Mayen#Risen#71.0694#-8.1425#0#-1
+Jan Mayen#Ronden#70.8333#-9.0167#0#-1
+Jan Mayen#Rooberg#70.9208#-8.9006#0#-1
+Jan Mayen#Rorenryggen#71.1333#-8.6#0#-1
+Jan Mayen#Roysflya#70.9833#-8.35#0#-1
+Jan Mayen#Rudolftoppen#70.8908#-8.8725#0#-1
+Jan Mayen#Rylandt Rheydt Krateret#71.0731#-8.3081#0#-1
+Jan Mayen#Sarsbanken#70.8667#-7.5833#0#-1
+Jan Mayen#Sarskrateret#71.1494#-7.9736#0#-1
+Jan Mayen#Scottlia#71.0717#-8.3925#0#-1
+Jan Mayen#Sigurdbreen#71.1178#-8.0131#0#-1
+Jan Mayen#Skjoldkollen#70.8436#-8.9581#0#-1
+Jan Mayen#Skrukkefjell#70.8667#-8.9#0#-1
+Jan Mayen#Slettfjellet#70.9544#-8.6844#0#-1
+Jan Mayen#Snorabben#71.0375#-8.1519#0#-1
+Jan Mayen#Solheimfjell#70.8544#-8.9414#0#-1
+Jan Mayen#Soraustkapp#71.0214#-7.9892#0#-1
+Jan Mayen#Sorbreen#71.0181#-8.1969#0#-1
+Jan Mayen#Sorkappgrunnen#70.8058#-8.9847#0#-1
+Jan Mayen#Sorlaguna#70.9711#-8.5411#0#-1
+Jan Mayen#Soyla#70.9739#-8.5539#0#-1
+Jan Mayen#Stimen#70.8833#-9.2833#0#-1
+Jan Mayen#Stimrenna#70.8833#-9.5#0#-1
+Jan Mayen#Stokkoyra#70.9589#-8.6175#0#-1
+Jan Mayen#Straumflaket#70.7014#-8.9039#0#-1
+Jan Mayen#Straumskallen#70.6247#-8.8025#0#-1
+Jan Mayen#Sud Cap#70.8264#-8.9967#0#-1
+Jan Mayen#Svend Foynbre#71.1314#-8.1117#0#-1
+Jan Mayen#Taggodden#71.1178#-7.9828#0#-1
+Jan Mayen#Takefjellet#70.8692#-8.8878#0#-1
+Jan Mayen#The Seven Rocks#70.8275#-9.0606#0#-1
+Jan Mayen#Titeltbukta#70.9058#-8.9525#0#-1
+Jan Mayen#Tommerbukta#70.9442#-8.7736#0#-1
+Jan Mayen#Tornoebekken#71.0042#-8.4514#0#-1
+Jan Mayen#Tronfjellstupet#70.8808#-8.8022#0#-1
+Jan Mayen#Turn Bucht#70.9761#-8.305#0#-1
+Jan Mayen#Ullerenglaguna#70.9883#-8.2436#0#-1
+Jan Mayen#Ullerengsanden#70.9872#-8.2517#0#-1
+Jan Mayen#Ullringbukta#70.8447#-8.9233#0#-1
+Jan Mayen#Vakta#71.1214#-8.2889#0#-1
+Jan Mayen#Vassbergtjorna#71.0075#-8.0842#0#-1
+Jan Mayen#Vesle Vedbukta#70.9258#-8.7033#0#-1
+Jan Mayen#Vesledjupet#71.1833#-8.7#0#-1
+Jan Mayen#Vestisen#71.0831#-8.2539#0#-1
+Jan Mayen#Vestre Kross Bukt#71.0511#-8.4411#0#-1
+Jan Mayen#Vestre Sorbremorena#71.0028#-8.2203#0#-1
+Jan Mayen#Vogel Saule#70.9133#-8.9453#0#-1
+Jan Mayen#Vogt Crater#71.0075#-8.3325#0#-1
+Jan Mayen#Voringenkrateret#70.8447#-9.0194#0#-1
+Jan Mayen#Vulkanlia#71.0081#-8.2794#0#-1
+Jan Mayen#Wallross Gat#70.9667#-8.7#0#-1
+Jan Mayen#Wardbreen#71.0269#-8.1272#0#-1
+Jan Mayen#West Jan Mayen Ridge#71#-13#0#-1
+Jan Mayen#Wexelskrateret#71.0353#-8.3017#0#-1
+Jan Mayen#Weyprechtbreen#71.1144#-8.1869#0#-1
+Jan Mayen#Wildberget#70.9986#-8.435#0#-1
+Jan Mayen#Willebreen#71.065#-8.0967#0#-1
+Jan Mayen#Youngs Foreland#71.1578#-7.9542#0#-1

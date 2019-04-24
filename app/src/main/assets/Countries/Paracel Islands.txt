@@ -1,0 +1,43 @@
+﻿
+Paracel Islands#Addington Patch#15.6#114.4#0#7
+Paracel Islands#Alida Shoal#0.9833#107.85#0#7
+Paracel Islands#Amphitrite Group#16.9667#112.2833#0#7
+Paracel Islands#Chan-han T an#16.35#112.6667#0#7
+Paracel Islands#Ebeling Reef#0.4667#107.4167#0#7
+Paracel Islands#Egeria Bank#16.0167#114.9333#0#7
+Paracel Islands#Fairie Queen#10.6333#117.6333#0#7
+Paracel Islands#Fancy Wreck Shoal#9.7167#114.6667#0#7
+Paracel Islands#Farquharson Patches#11.4#114.3667#0#7
+Paracel Islands#Gode Shoal#10.2167#118.4167#0#7
+Paracel Islands#Guodian Ansha#15.5167#113.7667#0#7
+Paracel Islands#I-erh-ti-ssu T an#16.7667#112.2167#0#7
+Paracel Islands#Ile a l Arbre#16.9833#112.2667#0#7
+Paracel Islands#Ile du Milieu#16.95#112.3167#0#7
+Paracel Islands#Ile Rocheuse#16.85#112.35#0#7
+Paracel Islands#Iron Duke Shoals#5.0833#114.4833#0#7
+Paracel Islands#K ung-pai An-sha#15.8#113.9#0#7
+Paracel Islands#Kao-chien Shih#16.5667#112.6333#0#7
+Paracel Islands#Kuan-ch a Tao#16.5833#111.7#0#7
+Paracel Islands#Kuang-hua Chiao#16.2333#111.6833#0#7
+Paracel Islands#Lo-hsi An-sha#15.85#114.4167#0#7
+Paracel Islands#Maralle Reef#9.2333#113.6667#0#7
+Paracel Islands#Paibo Ansha#15.4833#113.8333#0#7
+Paracel Islands#Paracel Islands#16.5#112.25#0#7
+Paracel Islands#Recif Antilope#16.4667#111.5833#0#7
+Paracel Islands#Richmond Reef#5.1#112.7#0#7
+Paracel Islands#Royalist Bank#8.1667#105.1667#0#7
+Paracel Islands#Shan-hu Tao#16.5333#111.6#0#7
+Paracel Islands#Silk Rock#5.1167#114.65#0#7
+Paracel Islands#Tancred Shoal#15.6833#113.9#0#7
+Paracel Islands#Tanjung Kring#6.2#115.6#0#7
+Paracel Islands#Tung-sha Tao#20.7#116.7167#0#7
+Paracel Islands#Vuladdore Reef#16.35#112#0#7
+Paracel Islands#White Sand Spit#20.6667#116.7#0#7
+Paracel Islands#Winchester Shoals#5.7167#115.3167#0#7
+Paracel Islands#Xiane Jiao#9.8333#115.3333#0#7
+Paracel Islands#Xinyi Jiao#9.3333#116#0#7
+Paracel Islands#Yunghing#16.8333#112.3333#0#7
+Paracel Islands#Zappe Pass#16.9667#112.3#0#7
+Paracel Islands#Zhongjian Dao#15.7833#111.2#0#7
+Paracel Islands#Zhongye Qunjiao#11.25#114.25#0#7
+Paracel Islands#Zuid-Chineesche Zee#15#115#0#7

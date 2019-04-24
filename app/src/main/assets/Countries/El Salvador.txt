@@ -1,0 +1,101 @@
+﻿
+El Salvador#Acajutla#13.59278#-89.8275#8#-6
+El Salvador#Aguilares#13.95722#-89.1897#300#-6
+El Salvador#Ahuachapan#13.92139#-89.845#770#-6
+El Salvador#Anamoros#13.74056#-87.8736#167#-6
+El Salvador#Antiguo Cuscatlan#13.67306#-89.2408#850#-6
+El Salvador#Apastepeque#13.66667#-88.7833#602#-6
+El Salvador#Apopa#13.80722#-89.1792#405#-6
+El Salvador#Armenia#13.74361#-89.4989#538#-6
+El Salvador#Atiquizaya#13.97694#-89.7525#599#-6
+El Salvador#Ayutuxtepeque#13.74556#-89.2064#647#-6
+El Salvador#Berlin#13.5#-88.5333#1021#-6
+El Salvador#Cacaopera#13.76667#-88.0833#552#-6
+El Salvador#Candelaria de La Frontera#14.11667#-89.65#764#-6
+El Salvador#Chalatenango#14.03333#-88.9333#397#-6
+El Salvador#Chalchuapa#13.98667#-89.6811#678#-6
+El Salvador#Chapeltique#13.63333#-88.2667#180#-6
+El Salvador#Chinameca#13.5#-88.35#753#-6
+El Salvador#Chirilagua#13.22028#-88.1386#343#-6
+El Salvador#Ciudad Arce#13.84028#-89.4472#553#-6
+El Salvador#Ciudad Barrios#13.76667#-88.2667#807#-6
+El Salvador#Coatepeque#13.92861#-89.5042#730#-6
+El Salvador#Cojutepeque#13.71667#-88.9333#836#-6
+El Salvador#Concepcion Batres#13.35#-88.3667#77#-6
+El Salvador#Concepcion de Ataco#13.87028#-89.8486#1196#-6
+El Salvador#Conchagua#13.30778#-87.8647#294#-6
+El Salvador#Corinto#13.81083#-87.9714#841#-6
+El Salvador#Cuscatancingo#13.73611#-89.1814#603#-6
+El Salvador#Delgado#13.72417#-89.1703#599#-6
+El Salvador#El Congo#13.90889#-89.4958#800#-6
+El Salvador#El Paisnal#13.97361#-89.2186#337#-6
+El Salvador#El Rosario#13.49778#-89.0297#92#-6
+El Salvador#El Transito#13.35#-88.35#100#-6
+El Salvador#Guatajiagua#13.66667#-88.2#332#-6
+El Salvador#Guaymango#13.75028#-89.8422#395#-6
+El Salvador#Guazapa#13.87694#-89.1731#406#-6
+El Salvador#Ilopango#13.70167#-89.1094#602#-6
+El Salvador#Intipuca#13.19694#-88.0544#102#-6
+El Salvador#Izalco#13.74472#-89.6731#442#-6
+El Salvador#Jiquilisco#13.31667#-88.5833#38#-6
+El Salvador#Jocoro#13.61667#-88.0167#268#-6
+El Salvador#Juayua#13.84139#-89.7456#1023#-6
+El Salvador#Jucuapa#13.51667#-88.3833#471#-6
+El Salvador#Jucuaran#13.25389#-88.2478#690#-6
+El Salvador#Jujutla#13.78694#-89.8572#566#-6
+El Salvador#La Libertad#13.48833#-89.3222#31#-6
+El Salvador#La Union#13.33694#-87.8439#10#-6
+El Salvador#Lolotique#13.55#-88.35#511#-6
+El Salvador#Mejicanos#13.74028#-89.2131#713#-6
+El Salvador#Metapan#14.33333#-89.45#478#-6
+El Salvador#Moncagua#13.53333#-88.25#231#-6
+El Salvador#Nahuizalco#13.7775#-89.7367#565#-6
+El Salvador#Nueva Concepcion#14.13333#-89.3#339#-6
+El Salvador#Nueva Esparta#13.78361#-87.8386#312#-6
+El Salvador#Nueva Guadalupe#13.53333#-88.35#502#-6
+El Salvador#Nueva San Salvador#13.67694#-89.2797#921#-6
+El Salvador#Nuevo Cuscatlan#13.64861#-89.2653#970#-6
+El Salvador#Olocuilta#13.56972#-89.1172#495#-6
+El Salvador#Ozatlan#13.38333#-88.5#207#-6
+El Salvador#Panchimalco#13.61278#-89.18#600#-6
+El Salvador#Pasaquina#13.58444#-87.8411#51#-6
+El Salvador#Puerto El Triunfo#13.28333#-88.55#20#-6
+El Salvador#Quezaltepeque#13.835#-89.2744#407#-6
+El Salvador#Rosario de Mora#13.57528#-89.2089#509#-6
+El Salvador#San Agustin#13.43333#-88.6#265#-6
+El Salvador#San Alejo#13.43139#-87.9631#190#-6
+El Salvador#San Antonio del Monte#13.71639#-89.7383#213#-6
+El Salvador#San Francisco#13.7#-88.1#302#-6
+El Salvador#San Francisco Menendez#13.84306#-90.0158#252#-6
+El Salvador#San Juan Opico#13.87611#-89.3597#514#-6
+El Salvador#San Marcos#13.65889#-89.1831#809#-6
+El Salvador#San Martin#13.78333#-88.9167#603#-6
+El Salvador#San Miquel#13.48333#-88.1833#130#-6
+El Salvador#San Pablo Tacachico#13.97556#-89.34#303#-6
+El Salvador#San Pedro Masahuat#13.54361#-89.0386#196#-6
+El Salvador#San Rafael Oriente#13.38333#-88.35#199#-6
+El Salvador#San Salvador#13.70861#-89.2031#699#-6
+El Salvador#San Sebastian#13.73333#-88.8333#664#-6
+El Salvador#San Vicente#13.63333#-88.8#574#-6
+El Salvador#Santa Ana#13.99417#-89.5597#655#-6
+El Salvador#Santa Elena#13.38333#-88.4167#170#-6
+El Salvador#Santa Rosa de Lima#13.62472#-87.8936#93#-6
+El Salvador#Santiago de Maria#13.48333#-88.4667#936#-6
+El Salvador#Santiago Nonualco#13.51667#-88.95#137#-6
+El Salvador#Santo Tomas#13.64083#-89.1333#700#-6
+El Salvador#Sensuntepeque#13.86667#-88.6333#704#-6
+El Salvador#Sesori#13.71667#-88.3667#228#-6
+El Salvador#Sociedad#13.7#-88.0167#392#-6
+El Salvador#Sonsonate#13.71889#-89.7242#245#-6
+El Salvador#Sonzacate#13.73417#-89.7147#281#-6
+El Salvador#Soyapango#13.73472#-89.1514#601#-6
+El Salvador#Suchitoto#13.93806#-89.0278#309#-6
+El Salvador#Tacuba#13.90111#-89.9297#611#-6
+El Salvador#Tecoluca#13.78917#-89.0053#744#-6
+El Salvador#Tenancingo#13.83333#-88.9833#598#-6
+El Salvador#Texistepeque#14.13333#-89.5#399#-6
+El Salvador#Tonacatepeque#13.78111#-89.1186#605#-6
+El Salvador#Usulutan#13.35#-88.45#92#-6
+El Salvador#Victoria#13.95#-88.6333#772#-6
+El Salvador#Zacatecoluca#13.5#-88.8667#149#-6
+El Salvador#Zaragoza#13.58944#-89.2889#607#-6

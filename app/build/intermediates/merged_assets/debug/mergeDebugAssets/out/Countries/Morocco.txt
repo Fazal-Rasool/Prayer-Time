@@ -1,0 +1,71 @@
+﻿
+Morocco#Agadir#30.4#-9.6#31#0
+Morocco#Ahfir#34.95#-2.1#269#0
+Morocco#Asilah#35.46#-6.04#32#0
+Morocco#Azemmour#33.28#-8.34#9#0
+Morocco#Azrou#33.43#-5.21#1509#0
+Morocco#Beni Mellal#32.33#-6.35#621#0
+Morocco#Berkane#34.92#-2.32#185#0
+Morocco#Berrechid#33.26#-7.58#214#0
+Morocco#Bouznika#33.78#-7.15#40#0
+Morocco#Casablanca#33.59#-7.61#17#0
+Morocco#Chefchaouene#35.17#-5.26#565#0
+Morocco#El Aioun#34.58#-2.5#643#0
+Morocco#El Hajeb#33.7#-5.36#933#0
+Morocco#El Jadida#33.25#-8.5#1#0
+Morocco#Essaouira#31.51#-9.76#12#0
+Morocco#Fes#34.05#-4.98#448#0
+Morocco#Figuig#32.11#-1.22#879#0
+Morocco#Fkih Ben Salah#32.5#-6.7#430#0
+Morocco#Guelmim#28.98#-10.06#286#0
+Morocco#Guercif#34.23#-3.36#379#0
+Morocco#Ifrane#31.7#-6.35#1498#0
+Morocco#Imzourene#35.15#-3.86#130#0
+Morocco#Jebel Tiskaouine#31.05#-5.15#1184#0
+Morocco#Jerada#34.31#-2.16#1131#0
+Morocco#Kasba Tadla#32.6#-6.26#464#0
+Morocco#Kenitra#34.26#-6.57#31#0
+Morocco#Khemisset#33.81#-6.06#410#0
+Morocco#Khenifra#32.93#-5.66#880#0
+Morocco#Khouribga#32.88#-6.9#787#0
+Morocco#Ksar el Kebir#35#-5.9#25#0
+Morocco#Larache#35.19#-6.15#56#0
+Morocco#Marrakech#31.63#-8#451#0
+Morocco#Martil#35.61#-5.27#1#0
+Morocco#Mechra Belqsiri#34.56#-5.95#16#0
+Morocco#Meknes#33.9#-5.55#548#0
+Morocco#Midelt#32.68#-4.74#1465#0
+Morocco#mohammed boulaich el habate ksar sghir#35.7#-5.7#209#0
+Morocco#Nador#35.17#-2.93#62#0
+Morocco#Ouarzazat#30.92#-6.91#1152#0
+Morocco#Ouazzane#34.8#-5.6#221#0
+Morocco#Oued Zem#32.86#-6.56#779#0
+Morocco#Oujda#34.68#-1.91#557#0
+Morocco#Oulad Teima#30.4#-9.21#131#0
+Morocco#Rabat#34.02#-6.83#54#0
+Morocco#Safi#32.3#-9.23#87#0
+Morocco#Sefrou#33.83#-4.83#801#0
+Morocco#Settat#33#-7.61#403#0
+Morocco#Sidi Bennour#32.65#-8.43#184#0
+Morocco#Sidi Ifni#29.38#-10.16#156#0
+Morocco#Sidi Qacem#34.21#-5.7#195#0
+Morocco#Sidi Slimane#34.26#-5.93#42#0
+Morocco#Sidi Smail#32.83#-8.51#159#0
+Morocco#Sidi Yahia el Gharb#34.3#-6.31#13#0
+Morocco#Skhirat#33.85#-7.03#62#0
+Morocco#Tafraout#29.71#-9#993#0
+Morocco#Tahala#34.05#-4.41#573#0
+Morocco#Tangier#35.78#-5.81#80#0
+Morocco#Tan-Tan#28.43#-11.1#31#0
+Morocco#Taounate#34.55#-4.65#567#0
+Morocco#Taourirt#34.41#-2.89#423#0
+Morocco#Taroudant#30.48#-8.86#239#0
+Morocco#Taza#34.21#-4.01#599#0
+Morocco#Tetouan#35.57#-5.37#167#0
+Morocco#Tiflet#33.9#-6.33#351#0
+Morocco#Tineghir#31.51#-5.53#1257#0
+Morocco#Tirhanimine#35.23#-3.96#362#0
+Morocco#Tiznit#29.71#-9.71#245#0
+Morocco#Youssoufia#32.25#-8.53#299#0
+Morocco#Zagora#30.31#-5.83#725#0
+Morocco#Zaio#34.93#-2.73#156#0

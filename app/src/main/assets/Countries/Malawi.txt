@@ -1,0 +1,31 @@
+﻿
+Malawi#Balaka#-14.9833#34.95#616#2
+Malawi#Blantyre#-15.7833#35#1069#2
+Malawi#Chipoka#-13.9833#34.51667#472#2
+Malawi#Chiradzulu#-15.7#35.18333#1208#2
+Malawi#Chitipa#-9.71667#33.26667#1243#2
+Malawi#Dedza#-14.3667#34.33333#1759#2
+Malawi#Dowa#-13.65#33.93333#1527#2
+Malawi#Karonga#-9.93333#33.93333#482#2
+Malawi#Kasungu#-13.0333#33.48333#1327#2
+Malawi#Lilongwe#-13.9833#33.78333#1025#2
+Malawi#Livingstonia#-10.6#34.11666#1202#2
+Malawi#Liwonde#-15.0667#35.21667#508#2
+Malawi#Luchenza#-16.0167#35.3#668#2
+Malawi#Machinga#-14.9667#35.51667#676#2
+Malawi#Mangochi#-14.4667#35.26667#470#2
+Malawi#Mchinji#-13.8#32.9#1182#2
+Malawi#Monkey Bay#-14.0833#34.91667#484#2
+Malawi#Mponela#-13.5167#33.71667#1208#2
+Malawi#Mulanje#-16.0333#35.5#640#2
+Malawi#Mwanza#-15.6167#34.51667#618#2
+Malawi#Mzimba#-11.9#33.6#1379#2
+Malawi#Nkhata Bay#-11.6#34.3#472#2
+Malawi#Nkhotakota#-12.9167#34.3#472#2
+Malawi#Nsanje#-16.9167#35.26667#15#2
+Malawi#Ntcheu#-14.8167#34.63334#1202#2
+Malawi#Phalombe#-15.8#35.65#757#2
+Malawi#Rumphi#-11.0167#33.86666#1225#2
+Malawi#Salima#-13.7833#34.43333#540#2
+Malawi#Thyolo#-16.0667#35.13334#983#2
+Malawi#Zomba#-15.3833#35.33333#910#2

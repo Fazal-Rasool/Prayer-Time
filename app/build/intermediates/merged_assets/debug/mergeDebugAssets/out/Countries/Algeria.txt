@@ -1,0 +1,99 @@
+﻿
+Algeria#`Ain el Hadjel#35.675833#3.8822222#533#1
+Algeria#Aflou#34.108889#2.1019444#1372#1
+Algeria#Ain Beida#35.796389#7.3927779#1021#1
+Algeria#Ain Fakroun#35.976389#6.8755555#933#1
+Algeria#Ain Oussera#35.451389#2.9058332#694#1
+Algeria#Ain Sefra#32.75#-0.5833333#1082#1
+Algeria#Ain Touta#35.376667#5.896111#894#1
+Algeria#Akbou#36.461111#4.5333333#278#1
+Algeria#Algiers#36.763056#3.0505557#1#1
+Algeria#Annaba#36.9#7.7666669#1#1
+Algeria#Azzaba#36.739444#7.105278#105#1
+Algeria#Bab Ezzouar#36.716667#3.1833334#32#1
+Algeria#Baraki#36.669167#3.0952778#30#1
+Algeria#Barika#35.389722#5.3766665#451#1
+Algeria#Batna#35.555971#6.1741447#1035#1
+Algeria#Bechar#31.616667#-2.2166667#785#1
+Algeria#Bejaia#36.75#5.0833335#1#1
+Algeria#Beni Mered#36.523056#2.8625#149#1
+Algeria#Beni Saf#35.303611#-1.3808333#1#1
+Algeria#Berriane#32.833333#3.7666667#515#1
+Algeria#Berrouaghia#36.136667#2.9130557#913#1
+Algeria#Besbes#36.702222#7.8472223#10#1
+Algeria#Bir el Ater#34.733333#8.0500002#844#1
+Algeria#Bir el Djir#35.72#-0.545#178#1
+Algeria#Birine#35.635#3.2249999#766#1
+Algeria#Birkhadem#36.712778#3.0616667#134#1
+Algeria#Boghni#36.542222#3.9530556#344#1
+Algeria#Bordj el Kiffan#36.7475#3.1930556#33#1
+Algeria#Bou Arfa#36.466667#2.8166666#239#1
+Algeria#Boudouaou#36.730556#3.4102778#1#1
+Algeria#Boufarik#36.570556#2.9108334#65#1
+Algeria#Bougara#36.540556#3.0852778#142#1
+Algeria#Chelghoum el Aid#36.159444#6.165#773#1
+Algeria#Cheria#35.273056#7.7519445#1093#1
+Algeria#Constantine#36.365#6.6147223#501#1
+Algeria#Dar Chioukh#34.9#3.4833333#1114#1
+Algeria#Djamaa#33.533333#6#121#1
+Algeria#Draa el Mizan#36.535#3.833611#444#1
+Algeria#Drean#36.683889#7.7463889#35#1
+Algeria#Ech Chettia#36.195664#1.2584496#168#1
+Algeria#El Achir#36.066667#4.6305556#1003#1
+Algeria#El Affroun#36.466944#2.6252778#89#1
+Algeria#El Attaf#36.224722#1.6727778#141#1
+Algeria#El Eulma#36.15#5.6833334#941#1
+Algeria#El Hadjar#36.804722#7.7383332#3#1
+Algeria#El Khroub#36.263333#6.6936111#597#1
+Algeria#Es Senia#35.651111#-0.6341667#91#1
+Algeria#Frenda#35.061944#1.0422221#1083#1
+Algeria#Guelma#36.466111#7.4338889#257#1
+Algeria#Hamma Bouziane#36.413056#6.5974998#410#1
+Algeria#Hennaya#34.951389#-1.3680556#440#1
+Algeria#I-n-Salah#27.216667#2.4666667#282#1
+Algeria#Kerkera#36.929167#6.5855556#12#1
+Algeria#Khemis el Khechna#36.648611#3.3305557#60#1
+Algeria#Khemis Miliana#36.262222#2.2180555#365#1
+Algeria#Ksar Chellala#35.212222#2.3188889#839#1
+Algeria#Ksar el Boukhari#35.885556#2.7508333#728#1
+Algeria#Laghouat#33.8#2.8833332#776#1
+Algeria#Lakhdaria#36.562222#3.5944445#203#1
+Algeria#Larba#36.566667#3.1500001#109#1
+Algeria#Mansoura#34.865#-1.3466667#835#1
+Algeria#Medea#36.2675#2.75#1005#1
+Algeria#Meftah#36.619444#3.2252779#120#1
+Algeria#Merouana#35.628611#5.9116669#996#1
+Algeria#Messaad#34.166667#3.5#768#1
+Algeria#Metlili Chaamba#32.266667#3.6333332#489#1
+Algeria#Mila#36.450278#6.2644444#488#1
+Algeria#Mostaganem#35.933333#0.0902778#85#1
+Algeria#Oran#35.691111#-0.6416667#101#1
+Algeria#Oued Fodda#36.184167#1.5327778#186#1
+Algeria#Oued Rhiou#35.963333#0.9136111#99#1
+Algeria#Oum el Bouaghi#35.8775#7.1136112#955#1
+Algeria#Ras el Oued#35.946111#5.0327778#1070#1
+Algeria#Reghaia#36.742222#3.3413889#16#1
+Algeria#Reguiba#33.566667#6.7166667#32#1
+Algeria#Remchi#35.061111#-1.4261111#217#1
+Algeria#Rouissat#31.927222#5.3497224#151#1
+Algeria#Saida#34.833333#0.15#869#1
+Algeria#Sebdou#34.6425#-1.3330556#886#1
+Algeria#Sedrata#36.128889#7.5280557#821#1
+Algeria#Sidi Aissa#35.891389#3.771111#672#1
+Algeria#Sidi Bel Abbes#35.193889#-0.6413889#476#1
+Algeria#Sidi Khaled#34.383333#5#251#1
+Algeria#Sidi Moussa#36.604444#3.0902779#57#1
+Algeria#Sig#35.527778#-0.1952778#32#1
+Algeria#Skikda#36.879167#6.9066668#94#1
+Algeria#Sougueur#35.191389#1.4983333#1101#1
+Algeria#Souma#36.518333#2.9052777#135#1
+Algeria#Sour el Ghozlane#36.150278#3.6891668#899#1
+Algeria#Tamanrasset#22.785#5.522778#1319#1
+Algeria#Tazoult-Lambese#35.486389#6.2552776#1184#1
+Algeria#Tebesbest#33.116667#6.0833335#170#1
+Algeria#Telerghma#36.115278#6.3641667#753#1
+Algeria#Timimoun#29.25#0.25#323#1
+Algeria#Timizart#36.8#4.2666669#372#1
+Algeria#Tlemcen#34.878333#-1.3150001#843#1
+Algeria#Tolga#34.716667#5.3833332#249#1
+Algeria#Touggourt#33.1#6.0666666#167#1

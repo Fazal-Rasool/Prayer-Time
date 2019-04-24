@@ -1,0 +1,101 @@
+﻿
+Poland#Bedzin#50.32366#19.13226#293#1
+Poland#Belchatow#51.36667#19.38333#216#1
+Poland#Biala Podlaska#52.03333#23.13333#158#1
+Poland#Bialystok#53.13333#23.15#168#1
+Poland#Bielsko-Biala#49.81667#19.03333#361#1
+Poland#Bydgoszcz#53.15#18#65#1
+Poland#Bytom#50.35#18.96667#269#1
+Poland#Chelm#51.13333#23.5#199#1
+Poland#Chorzow#50.3#18.96667#274#1
+Poland#Ciechanow#52.88333#20.61667#119#1
+Poland#Czestochowa#50.8#19.11667#257#1
+Poland#Dabrowa Gornicza#50.33333#19.2#288#1
+Poland#Debica#50.05#21.41667#217#1
+Poland#Elblag#54.16667#19.38333#10#1
+Poland#Elk#53.82883#22.36456#144#1
+Poland#Gdansk#54.35#18.66667#15#1
+Poland#Gdynia#54.5#18.55#34#1
+Poland#Gliwice#50.28333#18.66667#226#1
+Poland#Glogow#51.66617#16.0845#90#1
+Poland#Gniezno#52.55#17.6#120#1
+Poland#Gorzow Wielkopolski#52.73333#15.23333#18#1
+Poland#Grudziadz#53.48333#18.76667#28#1
+Poland#Inowroclaw#52.8#18.26667#76#1
+Poland#Jastrzebie Zdroj#49.95#18.58333#255#1
+Poland#Jaworzno#50.20531#19.275#342#1
+Poland#Jelenia Gora#50.90083#15.72528#342#1
+Poland#Kalisz#51.75#18.08333#141#1
+Poland#Katowice#50.26667#19.01667#293#1
+Poland#Kedzierzyn-Kozle#50.35#18.2#168#1
+Poland#Kielce#50.83333#20.66667#262#1
+Poland#Konin#52.21667#18.26667#88#1
+Poland#Koszalin#54.2#16.18333#32#1
+Poland#Krakow#50.08333#19.91667#233#1
+Poland#Krosno#49.68333#21.78333#267#1
+Poland#Kutno#52.23333#19.36667#98#1
+Poland#Legionowo#52.4#20.93333#71#1
+Poland#Legnica#51.2#16.2#109#1
+Poland#Leszno#51.85#16.58333#90#1
+Poland#Lodz#51.75#19.46667#198#1
+Poland#Lomza#53.18333#22.08333#99#1
+Poland#Lubin#51.4#16.2#128#1
+Poland#Lublin#51.25#22.56667#170#1
+Poland#Mielec#50.28333#21.41667#171#1
+Poland#Myslowice#50.24227#19.13921#272#1
+Poland#Nowe Tychy#50.15#19#266#1
+Poland#Nowy Sacz#49.63333#20.71667#337#1
+Poland#Nysa Zamlmie#50.46667#17.31667#189#1
+Poland#Olsztyn#53.78333#20.48333#147#1
+Poland#Opole#50.66667#17.95#177#1
+Poland#Ostroleka#53.08333#21.56667#92#1
+Poland#Ostrow Wielkopolski#51.65#17.81667#139#1
+Poland#Ostrowiec Swietokrzyski#50.93333#21.4#166#1
+Poland#Pabianice#51.66667#19.36667#183#1
+Poland#Piekary Slaskie#50.4#18.95#258#1
+Poland#Pila#53.15#16.75#55#1
+Poland#Piotrkow Trybunalski#51.4#19.68333#206#1
+Poland#Plock#52.55#19.7#95#1
+Poland#Poznan#52.41667#16.96667#50#1
+Poland#Pruszkow#52.17162#20.80639#89#1
+Poland#Przemysl#49.78333#22.78333#194#1
+Poland#Pulawy#51.41667#21.96667#151#1
+Poland#Raciborz#50.08333#18.2#189#1
+Poland#Radom#51.41667#21.15#158#1
+Poland#Radomsko#51.06667#19.45#236#1
+Poland#Ruda Slaska#50.31667#18.85#253#1
+Poland#Rumia#54.58333#18.4#22#1
+Poland#Rybnik#50.10186#18.54664#237#1
+Poland#Rzeszow#50.05#22#206#1
+Poland#Siedlce#52.16667#22.3#160#1
+Poland#Siemianowice Slaskie#50.3#19.03333#267#1
+Poland#Skarzysko-Kamienna#51.11667#20.9#237#1
+Poland#Skierniewice#51.96667#20.15#122#1
+Poland#Slupsk#54.45#17.03333#21#1
+Poland#Sosnowiec#50.3#19.16667#331#1
+Poland#Stalowa Wola#50.56667#22.05#155#1
+Poland#Starachowice#51.06667#21.06667#259#1
+Poland#Stargard Szczecinski#53.33333#15.05#21#1
+Poland#Starogard Gdanski#53.96667#18.55#95#1
+Poland#Suwalki#54.09944#22.93306#175#1
+Poland#Swidnica#50.85#16.5#209#1
+Poland#Swietochlowice#50.28333#18.91667#285#1
+Poland#Szczecin#53.42938#14.55294#1#1
+Poland#Tarnobrzeg#50.58333#21.68333#151#1
+Poland#Tarnow#50.01667#20.98333#213#1
+Poland#Tarnowskie Gory#50.45#18.86667#275#1
+Poland#Tczew#54.1#18.8#3#1
+Poland#Tomaszow Mazowiecki#51.53333#20.01667#160#1
+Poland#Torun#53.03333#18.6#80#1
+Poland#Walbrzych#50.76667#16.28333#465#1
+Poland#Warsaw#52.25#21#94#1
+Poland#Wejherowo#54.6#18.23333#55#1
+Poland#Wloclawek#52.65#19.03333#50#1
+Poland#Wodzislaw Slaski#50#18.46667#264#1
+Poland#Wroclaw#51.1#17.03333#118#1
+Poland#Zabrze#50.31667#18.78333#257#1
+Poland#Zamosc#50.71667#23.25#223#1
+Poland#Zawiercie#50.5#19.43333#354#1
+Poland#Zgierz#51.85#19.41667#195#1
+Poland#Zielona Gora#51.93333#15.5#166#1
+Poland#Zory#50.05#18.7#259#1

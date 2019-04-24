@@ -1,0 +1,183 @@
+﻿
+Reunion#Abondance#-21.0333#55.6667#0#4
+Reunion#Aloes#-21.25#55.45#0#4
+Reunion#Anse des Cascades#-21.1833#55.8333#0#4
+Reunion#Anse du Sac#-21.1167#55.8167#0#4
+Reunion#Anse-les Hauts#-21.3#55.5667#0#4
+Reunion#Aurere#-21#55.4333#0#4
+Reunion#Avenir#-20.9167#55.3333#0#4
+Reunion#Avirons#-21.2333#55.3333#0#4
+Reunion#Cafrine#-21.3333#55.5167#0#4
+Reunion#Camp de Pierrot#-21.05#55.4667#0#4
+Reunion#Camp Jacquot#-20.9833#55.6833#0#4
+Reunion#Camp Menard#-20.9667#55.4333#0#4
+Reunion#Cap Banane#-21.0167#55.5333#0#4
+Reunion#Cap Champagne#-21.0167#55.2167#0#4
+Reunion#Cap de la Possession#-20.9#55.3333#0#4
+Reunion#Cap des Aigrettes#-21.0333#55.2167#0#4
+Reunion#Cap des Gouffres#-20.8667#55.4#0#4
+Reunion#Cap Fontaine#-21.0167#55.7167#0#4
+Reunion#Cap la Houssaye#-21#55.2333#0#4
+Reunion#Cap Picard#-20.9833#55.55#0#4
+Reunion#Carosse#-21.35#55.6#0#4
+Reunion#Carreau Morin#-20.9833#55.65#0#4
+Reunion#Cascades#-21.15#55.8333#0#4
+Reunion#Caverne de Terre#-20.9833#55.4667#0#4
+Reunion#Caverne Mussard#-21.0833#55.5167#0#4
+Reunion#Chaine des Salazes#-21.0667#55.45#0#4
+Reunion#Champ-Borne#-20.9333#55.6833#0#4
+Reunion#Cirque de Salazie#-21.05#55.5#0#4
+Reunion#Coeur Saignant#-20.9167#55.6833#0#4
+Reunion#Colimacons#-21.1167#55.3167#0#4
+Reunion#Commune Ango#-20.9333#55.6167#0#4
+Reunion#Commune Carron#-20.9167#55.6167#0#4
+Reunion#Coteau Calumet#-21.0833#55.5667#0#4
+Reunion#Cratere Chisny#-21.2167#55.6667#0#4
+Reunion#Cratere Hubert#-21.2333#55.6833#0#4
+Reunion#Cratere Mi-cote#-21.2167#55.75#0#4
+Reunion#Cratere Ramond#-21.2667#55.7#0#4
+Reunion#Crete Morne de Fourche#-21.0333#55.4167#0#4
+Reunion#Decouverte#-20.9667#55.5667#0#4
+Reunion#Demenjod#-20.9#55.5#0#4
+Reunion#Departement de la Reunion#-21.1#55.6#0#4
+Reunion#Deuxieme Bras du Bois-Blanc#-21.1833#55.8167#0#4
+Reunion#Dimitile#-21.2833#55.6#0#4
+Reunion#Dos d Ane#-20.9667#55.3833#0#4
+Reunion#Etan-Sale-les-Hauts#-21.25#55.3833#0#4
+Reunion#Etang du Bois-Rouge#-20.9#55.65#0#4
+Reunion#Etang-les Hauts#-21.1333#55.3333#0#4
+Reunion#Etang-Sale les Bains#-21.25#55.3333#0#4
+Reunion#F. Sauger#-21.0167#55.25#0#4
+Reunion#Fiagues#-21.25#55.4333#0#4
+Reunion#Fleurimont#-21.0333#55.2667#0#4
+Reunion#Fleurs Jaunes#-21.1167#55.45#0#4
+Reunion#Fond de Galet#-21.3#55.6333#0#4
+Reunion#Fond de l Elibat#-20.8667#55.5333#0#4
+Reunion#Foret Mourouvin#-21.1333#55.7833#0#4
+Reunion#Fournaise#-21.2333#55.7167#0#4
+Reunion#Franche Terre#-20.8833#55.5833#0#4
+Reunion#Gillot#-20.8833#55.5167#0#4
+Reunion#Gol-le Haut#-21.2333#55.4167#0#4
+Reunion#Grand Battoir#-21.0333#55.6333#0#4
+Reunion#Grand Benard#-21.1#55.4167#0#4
+Reunion#Grand Fond#-21.15#55.6167#0#4
+Reunion#Grand Pays Brule#-21.2333#55.7833#0#4
+Reunion#Gueule Rouge#-21.1333#55.4833#0#4
+Reunion#Harmonie#-21#55.7167#0#4
+Reunion#Hell-Bourg#-21.05#55.5333#0#4
+Reunion#Hermitage#-21.0667#55.2333#0#4
+Reunion#Ilet a Cordes#-21.1333#55.4333#0#4
+Reunion#Ilet a Guillaume#-20.9333#55.4167#0#4
+Reunion#Ilet a Vidot#-21.3#55.6167#0#4
+Reunion#Ilet Bois-Rouge#-21.0167#55.4#0#4
+Reunion#Ilet da Patience#-21.1#55.6167#0#4
+Reunion#Ilet de Roche Plate#-21.2333#55.6167#0#4
+Reunion#Ilet Denise#-20.9667#55.3667#0#4
+Reunion#Ilet du Gros Galet#-21.15#55.4833#0#4
+Reunion#Ilet Marron#-21.2#55.5167#0#4
+Reunion#Ilet Nourry#-20.9833#55.4#0#4
+Reunion#Ilet Payet#-20.9833#55.6#0#4
+Reunion#Ilet Ronde#-21.2333#55.45#0#4
+Reunion#Ilet Techer#-21.1833#55.5167#0#4
+Reunion#Ilet Tommic#-21.15#55.4667#0#4
+Reunion#Jacques Payet#-21.3167#55.6667#0#4
+Reunion#Jean Petit-les Bas#-21.35#55.6167#0#4
+Reunion#Kelval#-21.0667#55.4333#0#4
+Reunion#La Plaine des Cafres#-21.2167#55.55#0#4
+Reunion#M. Lamotte#-20.9833#55.6667#0#4
+Reunion#Ma Pensee#-20.9833#55.7#0#4
+Reunion#Mafatte#-21.05#55.4167#0#4
+Reunion#Mahavel#-21.2667#55.4667#0#4
+Reunion#Maison de l Enfance#-21.2#55.5667#0#4
+Reunion#Maison Henou#-21.1333#55.5833#0#4
+Reunion#Maison Moullan#-21.0333#55.5#0#4
+Reunion#Maison Payet#-20.9667#55.6333#0#4
+Reunion#Mal-Cote#-20.9#55.3833#0#4
+Reunion#Manapany#-21.35#55.5667#0#4
+Reunion#Manapany-les Bains#-21.3667#55.6#0#4
+Reunion#Manapany-les Hauts#-21.3167#55.5833#0#4
+Reunion#Mare#-20.8833#55.5333#0#4
+Reunion#Mare a Goyaves#-21#55.5333#0#4
+Reunion#Mare a Martin#-20.9833#55.5#0#4
+Reunion#Mare a Poule d Eau#-21.0333#55.5333#0#4
+Reunion#Mare a Trevet#-21.05#55.55#0#4
+Reunion#Mare a Vieille Place#-21.0167#55.5167#0#4
+Reunion#Mare Longue#-21.3667#55.75#0#4
+Reunion#Mare Seche#-21.1167#55.4833#0#4
+Reunion#Marepine#-20.85#55.5167#0#4
+Reunion#Marsouins#-21.1#55.5667#0#4
+Reunion#Mascarene Islands#-20#57#0#4
+Reunion#Matouta#-21.35#55.7#0#4
+Reunion#Mazerin#-21.05#55.5667#0#4
+Reunion#Menciol#-20.9333#55.6333#0#4
+Reunion#Mon Caprice#-21.3#55.5#0#4
+Reunion#Montagne#-20.8833#55.4333#0#4
+Reunion#Montause#-21.1667#55.3167#0#4
+Reunion#Montee Panon#-21.0833#55.2667#0#4
+Reunion#Montee Sano#-20.9333#55.55#0#4
+Reunion#Montvert-les Hauts#-21.3#55.55#0#4
+Reunion#Morange#-21.0833#55.7333#0#4
+Reunion#Morne de Fourche#-21.05#55.4333#0#4
+Reunion#Morne de l Etang#-21.0833#55.65#0#4
+Reunion#Morne de Langevin#-21.2333#55.65#0#4
+Reunion#Morne du Bras des Lianes#-21#55.5833#0#4
+Reunion#Morne Patates a Durand#-20.9333#55.4833#0#4
+Reunion#Morne Sainte Anne#-21.0833#55.7#0#4
+Reunion#Mornes de Saint-Francois#-21.1167#55.65#0#4
+Reunion#Nez Coupe#-21.1833#55.7333#0#4
+Reunion#Nez Coupe du Tremblet#-21.2667#55.75#0#4
+Reunion#Nez de Boeuf#-21.1833#55.6167#0#4
+Reunion#Noel#-21.2167#55.3167#0#4
+Reunion#Orne#-21.35#55.55#0#4
+Reunion#Port#-20.9167#55.3#0#4
+Reunion#Port Caron#-21.1#55.7833#0#4
+Reunion#Portail#-21.2#55.3#0#4
+Reunion#Quartier-Francais#-20.9167#55.6333#0#4
+Reunion#Saint Paul Bay#-20.9833#55.2667#0#4
+Reunion#Saint Phillippe#-21.35#55.7667#0#4
+Reunion#Saint-Andre#-20.95#55.65#0#4
+Reunion#Saint-Benoit#-21.0333#55.7167#0#4
+Reunion#Saint-Denis#-20.8667#55.4667#0#4
+Reunion#Saint-Francois#-20.9#55.4667#0#4
+Reunion#Saint-Gilles-les Bains#-21.0333#55.2333#0#4
+Reunion#Saint-Joseph#-21.3667#55.6167#0#4
+Reunion#Saint-Leu#-21.15#55.2833#0#4
+Reunion#Saint-Louis#-21.2667#55.4167#0#4
+Reunion#Saint-Paul#-21#55.2667#0#4
+Reunion#Saint-Pierre#-21.3167#55.4833#0#4
+Reunion#Sainte-Anne#-21.0667#55.75#0#4
+Reunion#Sainte-Anne-les Hauts#-21.0833#55.7167#0#4
+Reunion#Sainte-Clotilde#-20.8833#55.4833#0#4
+Reunion#Sainte-Marie#-20.8833#55.55#0#4
+Reunion#Sainte-Suzanne#-20.9#55.6167#0#4
+Reunion#Sainte-Therese#-20.9333#55.3333#0#4
+Reunion#Salazes#-21.1#55.4333#0#4
+Reunion#Salazie#-21.0167#55.55#0#4
+Reunion#Saline-les Hauts#-21.0833#55.3167#0#4
+Reunion#Savannah Usine#-20.9667#55.3167#0#4
+Reunion#Sommet de l Entre-Deux#-21.1167#55.5#0#4
+Reunion#Source Denise#-20.9667#55.35#0#4
+Reunion#Source Samary#-21.15#55.5333#0#4
+Reunion#Sous les Bois Noirs#-21.3667#55.6333#0#4
+Reunion#Stella Matutina#-21.1833#55.3#0#4
+Reunion#Surprise#-21.15#55.3#0#4
+Reunion#Taibit#-21.0833#55.4167#0#4
+Reunion#Takamaka#-21.3#55.8#0#4
+Reunion#Tampon#-21.2667#55.5167#0#4
+Reunion#Tapal#-21.1167#55.4333#0#4
+Reunion#Terrain Elisa#-20.9167#55.55#0#4
+Reunion#Terre Sainte#-21.3333#55.4833#0#4
+Reunion#Trinite#-21.3333#55.7667#0#4
+Reunion#Trois Bassins#-21.1#55.3#0#4
+Reunion#Trois Mares-les Hauts#-21.2333#55.5167#0#4
+Reunion#Trois Petits Bonhommes#-21.0833#55.5#0#4
+Reunion#Trois Roches#-21.0333#55.25#0#4
+Reunion#Usine du Gol#-21.25#55.4#0#4
+Reunion#Vallee Orre#-21.2833#55.45#0#4
+Reunion#Verger Hemery#-21.3667#55.55#0#4
+Reunion#Village de l Anse#-21.3167#55.55#0#4
+Reunion#Village de Montvert#-21.3167#55.5333#0#4
+Reunion#Village du Piton#-21.2#55.3167#0#4
+Reunion#Village Ravine du Pont#-21.3167#55.5667#0#4
+Reunion#Vincendo#-21.35#55.6833#0#4
+Reunion#Vue Belle#-21.0667#55.2667#0#4

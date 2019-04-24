@@ -1,0 +1,101 @@
+﻿
+Nigeria#Aba#5.116667#7.366667#205#1
+Nigeria#Abakaliki#6.333333#8.1#118#1
+Nigeria#Abeokuta#7.15#3.35#67#1
+Nigeria#Abuja (Abuja Federal Capital Territory)#9.083333#7.533333#705#1
+Nigeria#Abuja#9.175833#7.180833#339#1
+Nigeria#Akure#7.25#5.2#385#1
+Nigeria#Amaigbo#5.783333#7.833334#152#1
+Nigeria#Awka#6.210095#7.074114#136#1
+Nigeria#Azare#11.67833#10.19194#436#1
+Nigeria#Bama#11.51833#13.68917#302#1
+Nigeria#Bauchi#10.31583#9.844167#616#1
+Nigeria#Benin-City#6.333333#5.633333#79#1
+Nigeria#Bida#9.083333#6.016667#151#1
+Nigeria#Birnin-Kebbi#12.45389#4.1975#235#1
+Nigeria#Biu#10.61111#12.195#626#1
+Nigeria#Buguma#4.735833#6.863611#378#1
+Nigeria#Calabar#4.95#8.316667#98#1
+Nigeria#Damaturu#11.74861#11.96389#456#1
+Nigeria#Ebute Ikorodu#6.602778#3.491111#39#1
+Nigeria#Effium#6.633333#8.066667#155#1
+Nigeria#Effon Alaiye#7.65#4.916667#611#1
+Nigeria#Ejigbo#7.9#4.316667#426#1
+Nigeria#Emure Ekiti#7.45#5.466667#366#1
+Nigeria#Enugu#6.433333#7.483333#284#1
+Nigeria#Epe#6.583333#3.983333#42#1
+Nigeria#Esuk Oron#4.8#8.266666#125#1
+Nigeria#Funtua#11.53333#7.316667#615#1
+Nigeria#Gambaru#12.36667#14.21667#270#1
+Nigeria#Gashua#12.86806#11.04639#299#1
+Nigeria#Gbongan#7.466667#4.35#228#1
+Nigeria#Gombe#10.28944#11.17167#449#1
+Nigeria#Gusau#12.16417#6.666667#420#1
+Nigeria#Hadejia#12.44806#10.04361#337#1
+Nigeria#Ibadan#7.387778#3.896389#239#1
+Nigeria#Idanre#7.1#5.1#453#1
+Nigeria#Ifo#6.816667#3.2#75#1
+Nigeria#Igbo Ora#7.433333#3.283333#140#1
+Nigeria#Igboho#8.833333#3.75#445#1
+Nigeria#Igede Ekiti#7.65#5.116667#460#1
+Nigeria#Ijebu Igbo#6.966667#4#75#1
+Nigeria#Ijebu Ode#6.816667#3.933333#74#1
+Nigeria#Ijero Ekiti#7.816667#5.083334#465#1
+Nigeria#Ikerre#7.5#5.233333#446#1
+Nigeria#Ikire#7.35#4.183333#228#1
+Nigeria#Ikirun#7.916667#4.666667#446#1
+Nigeria#Ikot Ekpene#5.166667#7.716667#161#1
+Nigeria#Ila Orangun#8.016667#4.9#454#1
+Nigeria#Ilesa#7.616667#4.733333#462#1
+Nigeria#Ilobu#7.833333#4.483333#331#1
+Nigeria#Ilorin#8.5#4.55#290#1
+Nigeria#Inisa#7.85#4.333334#366#1
+Nigeria#Ise Ekiti#7.466667#5.433333#393#1
+Nigeria#Isieke#6.383333#8.033333#127#1
+Nigeria#Iwo#7.633333#4.183333#231#1
+Nigeria#Jalingo#8.883333#11.36667#351#1
+Nigeria#Jimeta#9.283333#12.46667#136#1
+Nigeria#Jos#9.916667#8.9#1208#1
+Nigeria#Kaduna#10.52306#7.440278#614#1
+Nigeria#Kano#11.99639#8.516666#477#1
+Nigeria#Katsina#12.99778#7.599444#465#1
+Nigeria#Keffi#8.848611#7.873611#338#1
+Nigeria#Kishi#9.083333#3.85#373#1
+Nigeria#Kontagora#10.40028#5.469722#335#1
+Nigeria#Lafia#8.483333#8.516666#290#1
+Nigeria#Lafiagi#8.866667#5.416667#99#1
+Nigeria#Lagos#6.453056#3.395833#35#1
+Nigeria#Lere#10.38333#8.583333#705#1
+Nigeria#Maiduguri#11.845#13.16#300#1
+Nigeria#Makurdi#7.733333#8.533333#106#1
+Nigeria#Minna#9.613889#6.556944#299#1
+Nigeria#Modakeke#7.383333#4.266667#230#1
+Nigeria#Mubi#10.26889#13.27056#592#1
+Nigeria#Nguru#12.8775#10.45139#321#1
+Nigeria#Nkpor#6.15#6.833334#96#1
+Nigeria#Nnewi#6.016667#6.916667#152#1
+Nigeria#Nsukka#6.866667#7.383333#405#1
+Nigeria#Offa#8.15#4.716667#436#1
+Nigeria#Okene#7.55#6.233333#386#1
+Nigeria#Okigwi#5.816667#7.35#154#1
+Nigeria#Okrika#4.733333#7.083334#452#1
+Nigeria#Olupona#7.6#4.183333#224#1
+Nigeria#Ondo#7.1#4.833334#277#1
+Nigeria#Onitsha#6.166667#6.783333#59#1
+Nigeria#Owerri#5.483333#7.033333#159#1
+Nigeria#Owo#7.183333#5.583334#306#1
+Nigeria#Oyo#7.85#3.933333#287#1
+Nigeria#Pindiga#9.983333#10.93333#541#1
+Nigeria#Port Harcourt#4.789167#6.998611#459#1
+Nigeria#Potiskum#11.71194#11.06972#475#1
+Nigeria#Sagamu#6.85#3.65#64#1
+Nigeria#Saki#8.666667#3.383333#457#1
+Nigeria#Sapele#5.916667#5.7#35#1
+Nigeria#Sokoto#13.05139#5.231389#279#1
+Nigeria#Ugep#5.8#8.083333#105#1
+Nigeria#Umuahia#5.533333#7.483333#151#1
+Nigeria#Uromi#6.7#6.333334#361#1
+Nigeria#Warri#5.516667#5.75#21#1
+Nigeria#Wukari#7.85#9.783333#152#1
+Nigeria#Yola#9.2#12.48333#163#1
+Nigeria#Zaria#11.06667#7.7#675#1

@@ -1,0 +1,22 @@
+﻿
+Mali#Dhar el Abiod#21.5667#-2.8333#0#0
+Mali#Dhar Khenachiche#21.8333#-3.75#0#0
+Mali#Diongaga#15.0667#-10.8833#0#0
+Mali#Djenne#13.9#-4.55#0#0
+Mali#Eydhafushi#5.116667#73.03333#-9999#0
+Mali#Felidhoo#3.483333#73.53333#-9999#0
+Mali#Funadhoo#6.15#73.26667#-9999#0
+Mali#Hithadhoo#-0.6#73.08334#1#0
+Mali#Hithadhoo#1.783333#73.38333#-9999#0
+Mali#Kudahuvadhoo#2.666667#72.9#-9999#0
+Mali#Kulhudhuffushi#6.622066#73.06998#-9999#0
+Mali#Magoodhoo#3.1#72.96667#-9999#0
+Mali#Mahibadhoo#3.783333#72.96667#-9999#0
+Mali#Male#4.177108#73.50986#-9999#0
+Mali#Manadhoo#5.766667#73.38333#-9999#0
+Mali#Midu#-0.58333#73.23333#1#0
+Mali#Muli#2.916667#73.56667#-9999#0
+Mali#Naifaru#5.433333#73.33334#-9999#0
+Mali#Nolhivaranfaru#6.701776#73.11848#-9999#0
+Mali#Thinadhoo#0.533333#72.93333#-9999#0
+Mali#Ugoofaaru#5.666667#73#-9999#0

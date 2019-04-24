@@ -1,0 +1,101 @@
+﻿
+Austria#Altmunster#47.902189#13.7641525#436#1
+Austria#Amstetten#48.122903#14.8720551#268#1
+Austria#Ansfelden#48.2#14.2833328#342#1
+Austria#Bad Ischl#47.716667#13.6166668#638#1
+Austria#Bad Voslau#47.966667#16.2000008#251#1
+Austria#Baden#48.016667#16.2333336#289#1
+Austria#Berndorf#47.95#16.1000004#336#1
+Austria#Bischofshofen#47.416667#13.2166672#691#1
+Austria#Bludenz#47.149722#9.8166666#554#1
+Austria#Braunau am Inn#48.266667#13.0333328#360#1
+Austria#Bregenz#47.503113#9.7471046#433#1
+Austria#Bruck an der Mur#47.416667#15.2833328#629#1
+Austria#Deutschlandsberg#46.815278#15.2222223#372#1
+Austria#Dornbirn#47.416667#9.7330561#415#1
+Austria#Ebensee#47.8#13.7666664#485#1
+Austria#Ebreichsdorf#47.95#16.3999996#194#1
+Austria#Engerwitzdorf#48.35#14.4499998#330#1
+Austria#Enns#48.2#14.4666672#250#1
+Austria#Feldkirch#47.233056#9.6000004#464#1
+Austria#Feldkirchen in Karnten#46.716667#14.1000004#594#1
+Austria#Finkenstein am Faaker See#46.565556#13.8652782#564#1
+Austria#Fohnsdorf#47.2#14.6833334#723#1
+Austria#Ganserndorf#48.33925#16.7201614#153#1
+Austria#Gerasdorf bei Wien#48.294472#16.4676476#151#1
+Austria#Gmunden#47.916667#13.8000002#479#1
+Austria#Gotzis#47.333056#9.6330557#416#1
+Austria#Graz#47.066667#15.4499998#365#1
+Austria#Gross-Enzersdorf#48.202778#16.5508327#148#1
+Austria#Hallein#47.683333#13.1000004#450#1
+Austria#Hard#47.483056#9.6830559#400#1
+Austria#Hohenems#47.366667#9.6830559#404#1
+Austria#Hollabrunn#48.55#16.083334#251#1
+Austria#Imst#47.245037#10.7397366#781#1
+Austria#Innsbruck#47.266667#11.3999996#566#1
+Austria#Judenburg#47.166667#14.666667#712#1
+Austria#Kapfenberg#47.433333#15.3000002#711#1
+Austria#Kitzbuhel#47.446375#12.392149#812#1
+Austria#Klagenfurt#46.624722#14.3052778#443#1
+Austria#Klosterneuburg#48.305206#16.325222#153#1
+Austria#Knittelfeld#47.216667#14.8166666#658#1
+Austria#Koflach#47.066667#15.083333#478#1
+Austria#Korneuburg#48.35#16.333334#162#1
+Austria#Krems an der Donau#48.409206#15.6141472#192#1
+Austria#Kufstein#47.583333#12.166667#590#1
+Austria#Laakirchen#47.981879#13.8216591#441#1
+Austria#Lauterach#47.483056#9.7330561#410#1
+Austria#Leoben#47.383333#15.1000004#552#1
+Austria#Leonding#48.266667#14.25#275#1
+Austria#Lienz#46.831111#12.7597218#661#1
+Austria#Linz#48.306389#14.2861109#263#1
+Austria#Lustenau#47.433056#9.6499996#398#1
+Austria#Marchtrenk#48.183333#14.1166668#293#1
+Austria#Maria Enzersdorf#48.1#16.2833328#214#1
+Austria#Mistelbach#48.57#16.5766659#216#1
+Austria#Modling#48.083333#16.2833328#222#1
+Austria#Murzzuschlag#47.6#15.6833334#811#1
+Austria#Neu-Guntramsdorf#48.066667#16.3166676#185#1
+Austria#Neunkirchen#47.716667#16.083334#337#1
+Austria#Perchtoldsdorf#48.116667#16.2666664#226#1
+Austria#Purkersdorf#48.2#16.166666#372#1
+Austria#Rankweil#47.283056#9.6499996#531#1
+Austria#Ried im Innkreis#48.216667#13.5#413#1
+Austria#Rum#47.283333#11.4499998#556#1
+Austria#Saalfelden am Steinernen Meer#47.416667#12.8500004#755#1
+Austria#Salzburg#47.8#13.0333328#447#1
+Austria#Sankt Andra#46.766111#14.8236113#397#1
+Austria#Sankt Johann im Pongau#47.35#13.1999998#712#1
+Austria#Sankt Polten#48.2#15.6333332#262#1
+Austria#Sankt Valentin#48.166667#14.5166664#261#1
+Austria#Sankt Veit an der Glan#46.768056#14.3602781#466#1
+Austria#Schwaz#47.334984#11.7002678#696#1
+Austria#Schwechat#48.133333#16.4666672#167#1
+Austria#Seekirchen Markt#47.9#13.1333332#508#1
+Austria#Sierning#48.043431#14.3093491#361#1
+Austria#Spittal an der Drau#46.8#13.5#564#1
+Austria#Steyr#48.042742#14.4212723#290#1
+Austria#Stockerau#48.383333#16.2166672#171#1
+Austria#Telfs#47.3#11.0666666#684#1
+Austria#Ternitz#47.716667#16.0333328#386#1
+Austria#Traiskirchen#48.016667#16.2833328#202#1
+Austria#Traun#48.216667#14.2333336#271#1
+Austria#Trofaiach#47.416667#15#643#1
+Austria#Tulln#48.333333#16.0499992#171#1
+Austria#Velden am Worthersee#46.616111#14.0458336#425#1
+Austria#Villach#46.610278#13.8558331#473#1
+Austria#Vocklabruck#48.016667#13.6499996#482#1
+Austria#Voitsberg#47.033333#15.1499996#544#1
+Austria#Volkermarkt#46.662222#14.6344442#444#1
+Austria#Waidhofen an der Ybbs#47.966667#14.7666664#474#1
+Austria#Weinzierl bei Krems#48.4#15.6000004#189#1
+Austria#Weiz#47.216667#15.6166668#460#1
+Austria#Wels#48.166667#14.0333328#315#1
+Austria#Wien#48.208488#16.372076#164#1
+Austria#Wiener Neudorf#48.066667#16.3166676#185#1
+Austria#Wiener Neustadt#47.8#16.25#262#1
+Austria#Wolfsberg#46.840556#14.8441668#555#1
+Austria#Wolfurt#47.466667#9.75#529#1
+Austria#Worgl#47.483333#12.0666666#718#1
+Austria#Zell am See#47.316667#12.7833328#946#1
+Austria#Zwettl Stift#48.616667#15.1999998#552#1

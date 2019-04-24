@@ -1,0 +1,97 @@
+﻿
+Guam#Adacao#13.489#144.853#0#10
+Guam#Afami#13.456#144.759#0#10
+Guam#Agana Heights#13.469#144.744#0#10
+Guam#Agat#13.381#144.655#0#10
+Guam#Anigua#13.476#144.733#0#10
+Guam#Apra Heights#13.4#144.68#0#10
+Guam#Apra Junction#13.409#144.673#0#10
+Guam#Apurguan#13.483#144.771#0#10
+Guam#Asan#13.471#144.714#0#10
+Guam#Asatdas#13.517#144.864#0#10
+Guam#Asbeco#13.466#144.838#0#10
+Guam#Asfaja#13.278#144.745#0#10
+Guam#Asmisen#13.397#144.768#0#10
+Guam#Asmuyao#13.443#144.798#0#10
+Guam#Aspengo#13.462#144.794#0#10
+Guam#Bacuna#13.471#144.718#0#10
+Guam#Barrigada#13.468#144.799#0#10
+Guam#Bile#13.275#144.662#0#10
+Guam#Bingot#13.271#144.66#0#10
+Guam#Biyae#13.359#144.646#0#10
+Guam#Calacag#13.469#144.711#0#10
+Guam#Camp Dealy#13.351#144.767#0#10
+Guam#Camp Roxas#13.405#144.667#0#10
+Guam#Canada#13.459#144.787#0#10
+Guam#Catan Maga#13.431#144.794#0#10
+Guam#Cerain#13.394#144.659#0#10
+Guam#Chagamin Lago#13.278#144.75#0#10
+Guam#Chalan Mamajanao#13.492#144.78#0#10
+Guam#Chalan Pago#13.439#144.774#0#10
+Guam#Coontz Junction#13.477#144.727#0#10
+Guam#Corten Torres#13.44#144.803#0#10
+Guam#Dededo#13.515#144.836#0#10
+Guam#East Agana#13.474#144.755#0#10
+Guam#Gayinero#13.529#144.902#0#10
+Guam#Hagatna#13.474#144.748#0#10
+Guam#Harmon Village#13.534#144.809#0#10
+Guam#Inarajan#13.276#144.743#0#10
+Guam#Ipapao#13.518#144.856#0#10
+Guam#Jaotan#13.255#144.676#0#10
+Guam#Julog#13.256#144.683#0#10
+Guam#Lalo#13.452#144.802#0#10
+Guam#Leary Junction#13.476#144.751#0#10
+Guam#Leyan#13.456#144.803#0#10
+Guam#Lingae#13.256#144.68#0#10
+Guam#Lockwood Terrace#13.433#144.648#0#10
+Guam#Lupog#13.547#144.912#0#10
+Guam#Machaute#13.467#144.789#0#10
+Guam#Maina#13.466#144.735#0#10
+Guam#Maite#13.475#144.764#0#10
+Guam#Manaca#13.459#144.801#0#10
+Guam#Matugan#13.467#144.727#0#10
+Guam#Mayaya#13.281#144.744#0#10
+Guam#Merizo#13.263#144.67#0#10
+Guam#Mongmong#13.472#144.761#0#10
+Guam#North Tipalao#13.419#144.643#0#10
+Guam#Oca#13.5#144.773#0#10
+Guam#Oceanview#13.565#144.823#0#10
+Guam#Ordot#13.446#144.759#0#10
+Guam#Pado#13.468#144.772#0#10
+Guam#Peca#13.28#144.749#0#10
+Guam#Pigo#13.477#144.731#0#10
+Guam#Pigua#13.269#144.669#0#10
+Guam#Piti#13.461#13.461#0#10
+Guam#Plaza de Espana#13.472#144.749#0#10
+Guam#Potts Junction#13.589#144.862#0#10
+Guam#Salinas#13.391#144.659#0#10
+Guam#Salisbury Junction#13.563#144.897#0#10
+Guam#San Antonio#13.466#144.803#0#10
+Guam#San Ramon#13.469#144.752#0#10
+Guam#San Vicente#13.391#144.664#0#10
+Guam#Santa Rita#13.386#144.669#0#10
+Guam#Santa Rosa#13.391#144.666#0#10
+Guam#Sella#13.47#144.731#0#10
+Guam#Sinajana#13.461#144.752#0#10
+Guam#South Tipalao#13.415#144.648#0#10
+Guam#Sumay#13.435#144.65#0#10
+Guam#Tacpi#13.434#144.793#0#10
+Guam#Talofofo#13.352#144.753#0#10
+Guam#Talona#13.258#144.672#0#10
+Guam#Tamuning#13.484#144.777#0#10
+Guam#Tepungan#13.465#144.695#0#10
+Guam#Tijera#13.398#144.661#0#10
+Guam#Toto#13.465#144.779#0#10
+Guam#Tres Reyes#13.401#144.769#0#10
+Guam#Tumalaglago#13.396#144.661#0#10
+Guam#Tumon#13.507#144.801#0#10
+Guam#Tumon Chama#13.28#144.748#0#10
+Guam#Tutujan#13.461#144.741#0#10
+Guam#Umatac#13.298#144.659#0#10
+Guam#Ungaguan#13.468#144.801#0#10
+Guam#Utan#13.467#144.765#0#10
+Guam#Wettengel Junction#13.522#144.821#0#10
+Guam#Yabai#13.285#144.75#0#10
+Guam#Yigo#13.534#144.886#0#10
+Guam#Yona#13.41#144.773#0#10
+Guam#Ypan#13.346#144.767#0#10

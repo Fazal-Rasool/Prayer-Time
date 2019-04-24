@@ -1,0 +1,62 @@
+﻿
+Wallis Futuna#Ahoa#-13.2833#-176.2#0#12
+Wallis Futuna#Alele#-13.2333#-176.15#0#12
+Wallis Futuna#Alo#-14.3167#-178.1167#0#12
+Wallis Futuna#Baie de Mata utu#-13.3167#-176.1167#0#12
+Wallis Futuna#Baie de Mua#-13.3833#-176.15#0#12
+Wallis Futuna#Banc Adolph#-11.9167#-178.1667#0#12
+Wallis Futuna#Banc de la Meurthe#-14.35#-177.9667#0#12
+Wallis Futuna#Banka Tuskarora#-11.8333#-178.25#0#12
+Wallis Futuna#Bayonnaise Seamount#-12.1167#-179.7167#0#12
+Wallis Futuna#Chenal Sain#-14.3333#-178.05#0#12
+Wallis Futuna#Circonscription d Alo#-14.3167#-178.0333#0#12
+Wallis Futuna#Fakauita#-13.25#-176.1833#0#12
+Wallis Futuna#Falaleu#-13.3#-176.15#0#12
+Wallis Futuna#Feletoa#-13.3833#-176.1833#0#12
+Wallis Futuna#Fineveke#-13.3167#-176.2#0#12
+Wallis Futuna#Foi#-14.3#-178.0833#0#12
+Wallis Futuna#Foss Bank#-14.4167#-176#0#12
+Wallis Futuna#Fungauvea Pass#-13.25#-176.2167#0#12
+Wallis Futuna#Gamua#-13.25#-176.1333#0#12
+Wallis Futuna#Green Point#-14.3333#-178.0167#0#12
+Wallis Futuna#Haatofo#-13.3333#-176.15#0#12
+Wallis Futuna#Halalo#-13.35#-176.1833#0#12
+Wallis Futuna#Homeknoll Island#-12.9167#-175.6167#0#12
+Wallis Futuna#Iles Futuna#-14.3167#-178.0833#0#12
+Wallis Futuna#Ilot Nukufotu#-13.1833#-176.1667#0#12
+Wallis Futuna#Isabella Reef#-12.4167#-177.4167#0#12
+Wallis Futuna#Kolopopo#-13.35#-176.1667#0#12
+Wallis Futuna#Lac Lanutuli#-13.3167#-176.1833#0#12
+Wallis Futuna#Lalla Rookh Bank#-12.9167#-175.6667#0#12
+Wallis Futuna#Liku#-13.2667#-176.1333#0#12
+Wallis Futuna#Loka Hill#-13.2667#-176.15#0#12
+Wallis Futuna#Mamelon Vert#-14.35#-177.9833#0#12
+Wallis Futuna#Mata utu#-13.2833#-176.1333#0#12
+Wallis Futuna#Mont Bougainville#-14.35#-178.0333#0#12
+Wallis Futuna#Mont Holo#-13.2833#-176.1667#0#12
+Wallis Futuna#Mont Lausikula#-13.3167#-176.2167#0#12
+Wallis Futuna#Mont Lulu Fakahega#-13.2667#-176.1667#0#12
+Wallis Futuna#Mont Singavi#-14.2667#-178.15#0#12
+Wallis Futuna#Mouillage de Matalaa#-13.3333#-176.1333#0#12
+Wallis Futuna#Nukufetao#-13.35#-176.15#0#12
+Wallis Futuna#Pasco Reef#-13.0833#-174.4167#0#12
+Wallis Futuna#Passe Faioa#-13.3667#-176.15#0#12
+Wallis Futuna#Point Finekova#-13.3667#-176.1333#0#12
+Wallis Futuna#Pointe de Sable#-14.3167#-178.05#0#12
+Wallis Futuna#Pointe Falaise#-14.3#-178.0667#0#12
+Wallis Futuna#Pointe Lalofetau#-13.3833#-176.1333#0#12
+Wallis Futuna#Pointe Puko#-13.3667#-176.1833#0#12
+Wallis Futuna#Pugega Point#-13.2833#-176.2167#0#12
+Wallis Futuna#Robbie Bank#-11.05#-176.8833#0#12
+Wallis Futuna#Rochers de Champeaux#-14.2167#-178.1833#0#12
+Wallis Futuna#Rotumah Reef#-13.4167#-179.35#0#12
+Wallis Futuna#Sail Rock#-13.3667#-176.1667#0#12
+Wallis Futuna#Siafiafi Seamount#-12.25#-175.5#0#12
+Wallis Futuna#Sigave#-14.3#-178.1667#0#12
+Wallis Futuna#Singave#-14.25#-178.15#0#12
+Wallis Futuna#Tepa#-13.3167#-176.15#0#12
+Wallis Futuna#Tufuone#-13.2167#-176.1667#0#12
+Wallis Futuna#Utuloa#-13.2667#-176.1833#0#12
+Wallis Futuna#Uvea#-13.3#-176.1667#0#12
+Wallis Futuna#Vele#-14.3167#-178.0667#0#12
+Wallis Futuna#Wallis et Futuna#-13.3#-176.2#0#12

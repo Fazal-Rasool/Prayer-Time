@@ -1,0 +1,72 @@
+﻿
+Aruba#Barcelona#12.5167#-70.0167#0#-4
+Aruba#Blumond#12.5333#-70.9833#0#-4
+Aruba#Boca Chikitu#12.5667#-69.9833#0#-4
+Aruba#Cas di Paloma#12.4833#-70#0#-4
+Aruba#Cashero#12.5167#-69.9833#0#-4
+Aruba#Casibari#12.5333#-69.9833#0#-4
+Aruba#Ceru Colorado#12.4167#-69.8667#0#-4
+Aruba#Ceru Grandi#12.5833#-70.0167#0#-4
+Aruba#Ceru Pretu#12.45#-69.9#0#-4
+Aruba#Cudarebe#12.6167#-70.0667#0#-4
+Aruba#Dacota#12.5#-70.0167#0#-4
+Aruba#De Vuyst#12.4333#-69.8833#0#-4
+Aruba#Dos Playa#12.5#-69.9167#0#-4
+Aruba#Druif#12.6#-70.0167#0#-4
+Aruba#Falcon#12.5333#-70.0167#0#-4
+Aruba#Fontein#12.5#-69.9#0#-4
+Aruba#Gasparito#12.55#-70.0333#0#-4
+Aruba#Gran Tonel#12.4833#-69.9167#0#-4
+Aruba#Habrie#12.5#-70.0333#0#-4
+Aruba#Hadikoerari#12.5833#-70.0333#0#-4
+Aruba#Haven Barcadera#12.4833#-70.0083#0#-4
+Aruba#Indiaanskop#12.4167#-69.9#0#-4
+Aruba#Jamanota#12.4833#-69.9333#0#-4
+Aruba#Jan Flemming#12.4833#-69.9667#0#-4
+Aruba#Kaap Bassora#12.4167#-69.85#0#-4
+Aruba#Kaas di Paloma#12.4833#-70.0167#0#-4
+Aruba#Klein Lagoen#12.4#-69.8667#0#-4
+Aruba#Lagoen#12.4667#-70#0#-4
+Aruba#Mabon#12.45#-69.9167#0#-4
+Aruba#Macuarima#12.5#-69.9667#0#-4
+Aruba#Mahuma#12.5#-69.9833#0#-4
+Aruba#Malmok#12.6#-70.0667#0#-4
+Aruba#Matadera#12.55#-70.0167#0#-4
+Aruba#Meiveld#12.5167#-70#0#-4
+Aruba#Moco#12.55#-70#0#-4
+Aruba#Nanki#12.4167#-69.8833#0#-4
+Aruba#Noord#12.5667#-70.0167#0#-4
+Aruba#Noord Cura Cabai#12.45#-69.9333#0#-4
+Aruba#Noordkaap#12.5333#-69.9333#0#-4
+Aruba#Noordwestpunt#12.6167#-70.05#0#-4
+Aruba#Nune#12.5333#-70#0#-4
+Aruba#Oranjestad#12.5167#-70.0333#0#-4
+Aruba#Palu Marga#12.4667#-69.9#0#-4
+Aruba#Paradijs#12.5333#-70.0333#0#-4
+Aruba#Poos Chikitoe#12.5667#-70.0667#0#-4
+Aruba#Rincon#12.4667#-69.8667#0#-4
+Aruba#Rooi Awa Marga#12.5333#-69.95#0#-4
+Aruba#Rooi Bosal#12.4667#-69.9833#0#-4
+Aruba#Rooi Cochi#12.4333#-69.9333#0#-4
+Aruba#Rooi Fluit#12.5167#-69.9333#0#-4
+Aruba#Rooi Frances#12.4667#-69.9667#0#-4
+Aruba#Rooi Lamunchi#12.45#-69.95#0#-4
+Aruba#Rooi Master#12.4333#-69.9167#0#-4
+Aruba#Rooi Prikichi#12.5333#-69.9667#0#-4
+Aruba#Rooi Prins#12.4833#-69.9#0#-4
+Aruba#Rooi Spoki#12.4333#-69.9#0#-4
+Aruba#Sabana Basora#12.4667#-69.95#0#-4
+Aruba#Sabania Abao#12.5167#-69.95#0#-4
+Aruba#Sero Bonchi#12.5#-69.9333#0#-4
+Aruba#Sero Tijshi#12.4833#-69.9833#0#-4
+Aruba#Sint Arasji#12.6#-70.05#0#-4
+Aruba#Smal#12.4333#-69.95#0#-4
+Aruba#Tanki Cas Ariba#12.5#-69.95#0#-4
+Aruba#Turibana#12.5667#-70.0333#0#-4
+Aruba#Urataka#12.5167#-69.9667#0#-4
+Aruba#Urirama#12.5833#-70#0#-4
+Aruba#Vader Piet#12.4667#-69.8833#0#-4
+Aruba#Wariruri#12.55#-69.9833#0#-4
+Aruba#Wayaca#12.5#-70#0#-4
+Aruba#Westhaven#12.5167#-70.05#0#-4
+Aruba#Westpunt#12.6#-70.0333#0#-4

@@ -1,0 +1,4 @@
+﻿
+Marshall Islands#Ine#6.983333#171.7#1#12
+Marshall Islands#Jabor#5.916667#169.65#-9999#12
+Marshall Islands#Majuro#7.1#171.3833#1#12

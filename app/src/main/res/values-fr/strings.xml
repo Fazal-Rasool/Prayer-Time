@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temps de prière universelle</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="prayer_times">Temps de prière</string>
+    <string name="lahore">Alaqehdari Deh-e Shu</string>
+    <string name="pakistan">Afghanistan</string>
+    <string name="qibla_directions">Direction de la baiser</string>
+    <string name="clock_wise">261</string>
+    <string name="settings_label">Paramètres</string>
+    <string name="prefs_menu_title">Paramètres</string>
+    <string name="about_menu_title">Sur</string>
+    <string name="search_title">Rechercher</string>
+    <string name="screen_down_text">S\'il vous plaît, tenez votre téléphone horizontalement et vers à l\'envers afin qu\'elle soit boussole pourrait travailler. Ne peut pas déterminer la direction du Nord</string>
+    <string name="no_location_yet">Veuillez patienter. Détection de votre emplacement ou vous pouvez sélectionner votre ville dans les paramètres.</string>
+    <string name="geo_location_info">Données d\'emplacement acquises.</string>
+    <string name="latitude_north">N</string>
+    <string name="latitude_south">S</string>
+    <string name="longitude_east">E</string>
+    <string name="longitude_west">W</string>
+    <string name="gps_status">Utilisation GPS</string>
+    <string name="gps_status_summary">Permet l\'utilisation de GPS pour obtenir votre emplacement.</string>
+    <string name="gps_prompt">Use GPS</string>
+    <string name="gps_summary">Permet l\'utilisation de GPS pour obtenir votre emplacement.</string>
+    <string name="state_location_title">Définir votre position manuellement</string>
+    <string name="state_location_summary">Sélectionnez l\'une des capitales de province d\'Iran si vous êtes près d\'eux.</string>
+    <string name="about_title_text">About Universal Prayer Times</string>
+    <string name="about_text">About Universal Prayer Times</string>
+
+    <!-- Do not translate next two tag, it's used by program for other reasons -->
+    <string name="gps_pref_key">GPS_LOCATION_PREF</string>
+    <string name="state_location_pref_key">state_LOCATION_PREF</string>
+    <string name="release_date">March 30, 2011\n</string>
+    <string name="version">Version 1.22</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prayer_time_now">Il est temps de prière maintenant</string>
+
+    <!-- Messages -->
+    <string name="exit_message">Êtes-vous sûr, de que vouloir quitter?</string>
+    <string name="ok_string">Oui</string>
+    <string name="no_string">NON</string>
+    <string name="rate_us_string">Taux nous</string>
+    <string name="on_string">ON</string>
+    <string name="off_string">OFF</string>
+
+    <!-- Prayer Names -->
+    <string name="fajar">fajar</string>
+    <string name="shrooq">Maeva</string>
+    <string name="zuhur">Zouhour</string>
+    <string name="asar">Asar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <!-- Juristics -->
+    <string name="title_select_juristic">Sélectionnez juridique</string>
+    <string name="hanafi">hanéfite</string>
+    <string name="shafii">Shafii</string>
+    <string name="malaki">Malaki</string>
+    <string name="hanbali">Hanbali</string>
+
+    <!-- Calculation Methods -->
+    <string name="title_select_calc_method">Sélectionnez la méthode de calcul</string>
+    <string name="jafari">Jafari</string>
+    <string name="karachi">Karâchi</string>
+    <string name="isna">ISNA</string>
+    <string name="mwl">MWL</string>
+    <string name="makkah">La Mecque</string>
+    <string name="egypt">Egypte</string>
+    <string name="custom">Coutume</string>
+    <string name="tehran">Téhéran</string>
+
+    <!-- Settings Screen -->
+    <string name="country_string">PAYS</string>
+    <string name="city_string">VILLE</string>
+    <string name="juristics_string">JURISTICS</string>
+    <string name="adhan_audio_string">ADHAN AUDIO</string>
+    <string name="calc_method_string">MÉTHODE</string>
+    <string name="gps_location_string">GPS</string>
+    <string name="daylight_saving_string">HEURE D\'ÉTÉ</string>
+    <string name="language_string">langue</string>
+
+    <!-- ToolTip -->
+    <string name="like_on_facebook">Comme sur Facebook</string>
+
+    <!-- Time -->
+    <string name="hours">les heures</string>
+    <string name="minutes">procès-verbal</string>
+    <string name="after">après</string>
+    <string name="its">C\'est</string>
+    <string name="at">à</string>
+    <string name="time">temps.</string>
+
+    <!-- Select Language -->
+    <string name="title_select_lannguage">Sélectionnez la langue</string>
+
+    <!-- Google API -->
+    <string name="google_play_services_version">a152a304f4d20ae</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Azan</item>
+        <item>Kalimas</item>
+        <item>Settings</item>
+        <item>MoreApps</item>
+    </string-array>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <array name="qalma_name_list">
+        <item>1st Kalma Tayyibah</item>
+        <item>2nd Kalma Shahaadat</item>
+        <item>3rd Kalma Tamjeed</item>
+        <item>4th Kalma Tawheed</item>
+        <item>5th Kalma Astaghfar</item>
+        <item>6th Kalma Radd Kufr</item>
+    </array>
+
+    <array name="qalma_list">
+        <item>لَآ اِلٰهَ اِلَّا اللّٰهُ مُحَمَّدٌ رَّسُوْلُ اللّٰهِؕ</item>
+        <item>اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللہُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهٗ وَرَسُوْلُهٗ</item>
+        <item>سُبْحَان اللهِ وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِ الَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</item>
+        <item>لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ</item>
+        <item>اَسْتَغْفِرُ اللهَ رَبِّىْ مِنْ كُلِّ ذَنْۢبٍ اَذْنَبْتُهٗ عَمَدًا اَوْ خَطَا ًٔ سِرًّا اَوْ عَلَانِيَةً وَّاَتُوْبُ اِلَيْهِ مِنَ الذَّنْۢبِ الَّذِیْٓ اَعْلَمُ وَ مِنَ الذَّنْۢبِ الَّذِىْ لَآ اَعْلَمُ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوْبِ وَ سَتَّارُ الْعُيُوْبِ و َغَفَّارُ الذُّنُوْبِ وَ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ الْعَلِىِّ الْعَظِيْمِؕ</item>
+        <item>اَللّٰهُمَّّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ وَ الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ اللهِؕ</item>
+    </array>
+
+    <string-array name="qalma_list_trans">
+        <item>There is none worthy of worship but Allah, Muhammad [peace be upon him] is the messenger of Allah.</item>
+        <item>I bear witness that (there is) no god except Allah; One is He, no partner hath He, and I bear witness that Muhammad (Sall-Allahu Alayhi wa Sallam) is His Servant and Messenger.</item>
+        <item>Flawless is Allah and the Praise is of Allah, and (there is) no god except Allah, and Allah is the Greatest. And (there is) neither might nor power except with Allah, the Sublime, the Tremendous.</item>
+        <item>(There is) no god except Allah - One is He, no partners hath He. His is the Dominion, and His is the Praise. He gives life and causes death, and He is Living, who will not die, never. He of Majesty and Munificence. Within His Hand is (all) good. And He is, upon everything, Able (to exert His Will).</item>
+        <item>"I seek forgiveness from Allah, my Lord, from every sin I committed knowingly or unknowingly, secretly or openly, and I turn towards Him from the sin that I know and from the sin that I do not know. Certainly You, You (are) the knower of the hidden things and the Concealer (of) the mistakes and the Forgiver (of) the sins. And (there is) no power and no strength except from Allah, the Most High, the Most Great".</item>
+        <item>"O Allah! I seek protection in You from that I should not join any partner with You and I have knowledge of it. I seek Your forgiveness from that which I do not know. I repent from it (ignorance) and I reject disbelief (kufr) and joining partners with You (shirk) and of falsehood and slandering (gheebat) and innovation in religion (bid'at) and tell-tales (nameemat) and bad, evil deeds (fawahish) and the blame and the disobedience, all of them. I submit to Your will and I believe and I declare: There is none worthy of worship except Allah and Muhammad( Peace Be Upon On Him) is His Messenger."</item>
+    </string-array>
+
+    <string name="txtSehri">Aube</string>
+    <string name="txtIftar">Nourriture</string>
+
+</resources>

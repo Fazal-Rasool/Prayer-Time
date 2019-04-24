@@ -1,0 +1,85 @@
+﻿
+Isle Of Man#Andreas#54.3667#-4.4333#0#0
+Isle Of Man#Bahama Bank#54.3667#-4.25#0#0
+Isle Of Man#Ballabeg#54.1#-4.6833#0#0
+Isle Of Man#Ballacash Bank#54.4333#-4.2333#0#0
+Isle Of Man#Ballakinnag#54.3333#-4.55#0#0
+Isle Of Man#Ballasalla#54.1#-4.6333#0#0
+Isle Of Man#Banks Howe#54.1667#-4.4167#0#0
+Isle Of Man#Barony#54.2667#-4.3333#0#0
+Isle Of Man#Bay ny Carrickey#54.0667#-4.7167#0#0
+Isle Of Man#Bishops Court#54.3#-4.5833#0#0
+Isle Of Man#Bradda Head#54.1#-4.7667#0#0
+Isle Of Man#Bride#54.3833#-4.3833#0#0
+Isle Of Man#Calf of Man#54.05#-4.8333#0#0
+Isle Of Man#Calf Sound#54.05#-4.8#0#0
+Isle Of Man#Castletown#54.0833#-4.65#0#0
+Isle Of Man#Castletown Bay#54.0667#-4.6333#0#0
+Isle Of Man#Colby#54.1#-4.7167#0#0
+Isle Of Man#Craig Rock#54.2667#-4.6667#0#0
+Isle Of Man#Cranstal#54.4#-4.3667#0#0
+Isle Of Man#Cregneish#54.0667#-4.7667#0#0
+Isle Of Man#Crosby#54.1833#-4.5667#0#0
+Isle Of Man#Dalby Point#54.1833#-4.7333#0#0
+Isle Of Man#Dhoon Glen#54.25#-4.3667#0#0
+Isle Of Man#Dog Mills#54.35#-4.3833#0#0
+Isle Of Man#Douglas#54.15#-4.4833#0#0
+Isle Of Man#Douglas Bay#54.15#-4.45#0#0
+Isle Of Man#Douglas Harbour#54.15#-4.4667#0#0
+Isle Of Man#Elby Point#54.1667#-4.7333#0#0
+Isle Of Man#Fleshwick Bay#54.1167#-4.75#0#0
+Isle Of Man#Foxdale#54.1667#-4.6167#0#0
+Isle Of Man#Glen Helen#54.2167#-4.5833#0#0
+Isle Of Man#Glen Maye#54.1833#-4.7#0#0
+Isle Of Man#Glen Mona#54.2667#-4.3667#0#0
+Isle Of Man#Glen Mooar#54.2667#-4.6#0#0
+Isle Of Man#Isle of Man#54.25#-4.5#0#0
+Isle Of Man#Jurby#54.35#-4.5333#0#0
+Isle Of Man#Jurby Head#54.3833#-4.5333#0#0
+Isle Of Man#King William Banks#54.45#-4.0833#0#0
+Isle Of Man#Kirk Braddan#54.1667#-4.5167#0#0
+Isle Of Man#Kirkmichael#54.2833#-4.5833#0#0
+Isle Of Man#Langness#54.05#-4.6167#0#0
+Isle Of Man#Langness Point#54.05#-4.6333#0#0
+Isle Of Man#Laxey#54.2333#-4.4#0#0
+Isle Of Man#Laxey Bay#54.2167#-4.3833#0#0
+Isle Of Man#Laxey Glen#54.2333#-4.4167#0#0
+Isle Of Man#Laxey Head#54.2333#-4.3667#0#0
+Isle Of Man#Lezayre#54.3167#-4.4167#0#0
+Isle Of Man#Little Ness#54.1333#-4.5#0#0
+Isle Of Man#Maughold#54.3#-4.3167#0#0
+Isle Of Man#Mount Karrin#54.2917#-4.5#0#0
+Isle Of Man#North Barrule#54.2833#-4.4#0#0
+Isle Of Man#Onchan#54.1833#-4.45#0#0
+Isle Of Man#Patrick#54.2#-4.7#0#0
+Isle Of Man#Peel#54.2333#-4.7#0#0
+Isle Of Man#Pen-y-parc#53.15#-5.45#0#0
+Isle Of Man#Perwick Bay#54.0667#-4.75#0#0
+Isle Of Man#Point Cranstal#54.3667#-4.3667#0#0
+Isle Of Man#Port Cornah#54.2667#-4.35#0#0
+Isle Of Man#Port Erin#54.1#-4.7833#0#0
+Isle Of Man#Port Grenaugh#54.1#-4.5667#0#0
+Isle Of Man#Port Groudle#54.1833#-4.4167#0#0
+Isle Of Man#Port Mooar#54.2833#-4.3167#0#0
+Isle Of Man#Port Soderick#54.1167#-4.5333#0#0
+Isle Of Man#Ramsey#54.3167#-4.4#0#0
+Isle Of Man#Ramsey Bay#54.35#-4.3#0#0
+Isle Of Man#Rhenas#54.2333#-4.5667#0#0
+Isle Of Man#River Glass#54.1667#-4.5#0#0
+Isle Of Man#River Neb#54.2167#-4.7#0#0
+Isle Of Man#Ronaldsway#54.0833#-4.6167#0#0
+Isle Of Man#Rue Point#54.4#-4.45#0#0
+Isle Of Man#Saint Anns Head#54.1#-4.55#0#0
+Isle Of Man#Saint Germains Station#54.2333#-4.65#0#0
+Isle Of Man#Saint Johns#54.2#-4.6333#0#0
+Isle Of Man#Saint Michaels Island#54.0667#-4.6#0#0
+Isle Of Man#Santon#54.1167#-4.5833#0#0
+Isle Of Man#Scarlet Point#54.0667#-4.6667#0#0
+Isle Of Man#Snaefell#54.2667#-4.4833#0#0
+Isle Of Man#South Barrule#54.15#-4.6667#0#0
+Isle Of Man#Strunakill Bank#54.4167#-4.3833#0#0
+Isle Of Man#Sulby#54.3167#-4.4833#0#0
+Isle Of Man#Sulby River#54.3333#-4.3833#0#0
+Isle Of Man#The Ayre#54.4#-4.4167#0#0
+Isle Of Man#Wart Bank#54.05#-4.7667#0#0
+Isle Of Man#Whitestone Bank#54.4#-4.3167#0#0

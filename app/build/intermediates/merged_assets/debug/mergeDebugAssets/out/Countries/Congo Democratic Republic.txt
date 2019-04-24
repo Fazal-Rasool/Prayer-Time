@@ -1,0 +1,50 @@
+﻿
+Congo Democratic Republic#Beni#0.5#29.4667#0#2
+Congo Democratic Republic#Bukavu#-2.5083#28.8608#0#2
+Congo Democratic Republic#Bunia#1.5667#30.25#0#2
+Congo Democratic Republic#Butembo#0.15#29.2833#0#2
+Congo Democratic Republic#Gbadolite#4.2833#21.0167#0#2
+Congo Democratic Republic#Goma#-5.3167#14.4#0#1
+Congo Democratic Republic#Goma (Nord-Kivu)#-1.6792#29.2228#0#2
+Congo Democratic Republic#Habula#-1.2833#28.65#0#2
+Congo Democratic Republic#Hama#-1.3833#26.6167#0#2
+Congo Democratic Republic#Hembe#1.9#22.7#0#2
+Congo Democratic Republic#Hemptinne#-6.3#22.5333#0#2
+Congo Democratic Republic#Hieke#-2.7#24.0167#0#2
+Congo Democratic Republic#Hilahimbi#-1.8#28.1333#0#2
+Congo Democratic Republic#Hoi-Yagumba#2.8833#24.4667#0#2
+Congo Democratic Republic#Hongero#-3.2419#29.1861#0#2
+Congo Democratic Republic#Hononene#-7.9833#17.6167#0#1
+Congo Democratic Republic#Horo#-10.5578#26.7389#0#2
+Congo Democratic Republic#Humba#-6.3167#28.0333#0#2
+Congo Democratic Republic#Hunde#-0.95#28.6333#0#2
+Congo Democratic Republic#Hunga#-7.7#23.4833#0#2
+Congo Democratic Republic#Hurugne#4.1667#21.9#0#2
+Congo Democratic Republic#Huta-Mujima#-7.55#18.4#0#1
+Congo Democratic Republic#Jilo#1.8667#30.5667#0#2
+Congo Democratic Republic#Kalemie#-5.9333#29.2#0#2
+Congo Democratic Republic#Kamina Base#-8.6333#25.25#0#2
+Congo Democratic Republic#Kananga#-5.8958#22.4178#0#2
+Congo Democratic Republic#Kananga#-7.15#27.0333#0#2
+Congo Democratic Republic#Kanyabayonga#-0.7111#29.1731#0#2
+Congo Democratic Republic#Kindu#-2.95#25.95#0#2
+Congo Democratic Republic#Kingulo#-6.6833#17.2833#0#1
+Congo Democratic Republic#Kinshasa#-4.3297#15.315#0#1
+Congo Democratic Republic#Kinshasa Federal District#-4.5#15.5#0#1
+Congo Democratic Republic#Kisangani#-4.8278#28.9156#0#2
+Congo Democratic Republic#Kisangani (Orientale)#0.5167#25.2#0#2
+Congo Democratic Republic#Kolwezi#-10.7167#25.4725#0#2
+Congo Democratic Republic#Likasi#-10.9814#26.7333#0#2
+Congo Democratic Republic#Lisala#2.15#21.5167#0#2
+Congo Democratic Republic#Luambashi#-9#27.6#0#2
+Congo Democratic Republic#Lubero#-0.1625#29.2208#0#2
+Congo Democratic Republic#Lubumbashi#-11.7167#27.4833#0#2
+Congo Democratic Republic#Mahagi#2.3#30.9833#0#2
+Congo Democratic Republic#Matadi#-5.8167#13.45#0#1
+Congo Democratic Republic#Mbandaka#0.0667#18.2667#0#1
+Congo Democratic Republic#Mbuji-Mayi#-6.0333#23.7667#0#2
+Congo Democratic Republic#Muanda#-5.9333#12.35#0#1
+Congo Democratic Republic#Quedas Guilherme#-7.7#17.3#0#1
+Congo Democratic Republic#Tshikapa#-6.4167#20.8#0#2
+Congo Democratic Republic#Uvira (Sud-Kivu)#-3.4067#29.1458#0#2
+Congo Democratic Republic#Uvira#-3.3197#29.1739#0#2

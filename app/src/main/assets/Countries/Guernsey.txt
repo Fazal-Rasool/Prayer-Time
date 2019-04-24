@@ -1,0 +1,81 @@
+﻿
+Guernsey#Alderney Harbour#49.7167#-2.2#0#0
+Guernsey#Alderney South Banks#48.6833#-2.2#0#0
+Guernsey#Baie de Port Grat#49.5#-2.5667#0#0
+Guernsey#Bailiffs Cross#49.45#-2.5667#0#0
+Guernsey#Bailiwick of Guernsey#49.5833#-2.3333#0#0
+Guernsey#Banc de la Schole#49.5667#-2.2333#0#0
+Guernsey#Belle Greve Bay#49.4667#-2.5333#0#0
+Guernsey#Bibette#49.7333#-2.1833#0#0
+Guernsey#Bon Repos Harbour#49.4167#-2.6167#0#0
+Guernsey#Bordeaux Harbour#49.4833#-2.5#0#0
+Guernsey#Braye du Val#49.4667#-2.55#0#0
+Guernsey#Burons#49.4333#-2.3333#0#0
+Guernsey#Caskets#49.7167#-2.4#0#0
+Guernsey#Corbet#49.7167#-2.2333#0#0
+Guernsey#Cul de l Hotel#49.5#-2.4333#0#0
+Guernsey#Delancy#49.4833#-2.5333#0#0
+Guernsey#Derrible Bay#49.4167#-2.35#0#0
+Guernsey#Dixcard Bay#49.4333#-2.35#0#0
+Guernsey#Fermain Bay#49.4333#-2.5333#0#0
+Guernsey#Fort Doyle#49.5#-2.5#0#0
+Guernsey#Fourquie#49.7167#-2.3667#0#0
+Guernsey#Fregondee#49.4333#-2.3667#0#0
+Guernsey#Godin#49.4833#-2.4333#0#0
+Guernsey#Goubiniere#49.45#-2.45#0#0
+Guernsey#Gouliot Passage#49.4333#-2.3833#0#0
+Guernsey#Grand Greve#49.4167#-2.3667#0#0
+Guernsey#Grand Havre#49.5#-2.55#0#0
+Guernsey#Grande Amfroque#49.5167#-2.4167#0#0
+Guernsey#Grande Fauconriere#49.45#-2.4667#0#0
+Guernsey#Great Russel#49.4167#-2.4833#0#0
+Guernsey#Grosnez Point#49.7333#-2.2#0#0
+Guernsey#Hanoveaux#49.4333#-2.7#0#0
+Guernsey#Hautnez#49.4333#-2.6#0#0
+Guernsey#Herm#49.5#-2.4667#0#0
+Guernsey#Homet#49.4833#-2.4667#0#0
+Guernsey#Houmet Herbe#49.7333#-2.15#0#0
+Guernsey#Houmets#49.4833#-2.5833#0#0
+Guernsey#Icart Point#49.4167#-2.5667#0#0
+Guernsey#Jerbourg Point#49.4167#-2.5333#0#0
+Guernsey#L Equet#49.7167#-2.35#0#0
+Guernsey#L Etac de Sark#49.4#-2.3667#0#0
+Guernsey#L Etart de la Quoire#49.7#-2.1833#0#0
+Guernsey#La Creux Mahe#49.4167#-2.6333#0#0
+Guernsey#La Grosse Rock#49.4333#-2.6833#0#0
+Guernsey#La Tchue#49.7167#-2.1833#0#0
+Guernsey#Le Mont Durand#49.45#-2.55#0#0
+Guernsey#Le Puits Jervais#49.7#-2.2333#0#0
+Guernsey#Lihou Island#49.4667#-2.6667#0#0
+Guernsey#Little Russel#49.5#-2.4833#0#0
+Guernsey#Miniquiers#48.9667#-2.0833#0#0
+Guernsey#Mont Hubert#49.4333#-2.5833#0#0
+Guernsey#Moulin Huet Bay#49.4167#-2.55#0#0
+Guernsey#Noir Houmet#49.7333#-2.25#0#0
+Guernsey#Noir Pute#49.4667#-2.4167#0#0
+Guernsey#Ortac#49.7167#-2.2833#0#0
+Guernsey#Ortac Pass#49.7333#-2.3#0#0
+Guernsey#Paradis#49.5#-2.5167#0#0
+Guernsey#Perelle Bay#49.4667#-2.65#0#0
+Guernsey#Plat Saline Bay#49.7167#-2.2167#0#0
+Guernsey#Point Banquette#49.45#-2.35#0#0
+Guernsey#Point La Moye#49.4167#-2.6#0#0
+Guernsey#Point Sauzebourge#49.4667#-2.45#0#0
+Guernsey#Port Goury#49.4167#-2.3833#0#0
+Guernsey#Portinfer Bay#49.5#-2.5833#0#0
+Guernsey#Quenard Point#49.7333#-2.1667#0#0
+Guernsey#Queux Kings Mill#49.4667#-2.6#0#0
+Guernsey#Raz Island#49.7167#-2.1667#0#0
+Guernsey#Renonpuet#49.7333#-2.2833#0#0
+Guernsey#Rocquaine Bay#49.45#-2.6667#0#0
+Guernsey#Rohais Manor#49.4667#-2.5667#0#0
+Guernsey#Roque au Nord#49.5167#-2.5333#0#0
+Guernsey#Saint Anne#49.7#-2.2#0#0
+Guernsey#Saint Peter Port#49.45#-2.5333#0#0
+Guernsey#Saint Sampson#49.4833#-2.5167#0#0
+Guernsey#Sark#49.45#-2.3667#0#0
+Guernsey#Tetes d Aval#49.4333#-2.4833#0#0
+Guernsey#The Swinge#49.7333#-2.2333#0#0
+Guernsey#Torteval#49.4333#-2.65#0#0
+Guernsey#Vazon Bay#49.4667#-2.6167#0#0
+Guernsey#Vermerette#49.4667#-2.4667#0#0

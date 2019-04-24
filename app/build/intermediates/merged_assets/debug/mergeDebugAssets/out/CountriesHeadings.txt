@@ -1,0 +1,214 @@
+﻿Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua Barbuda
+Argentina
+Armenia
+Aruba
+Ashmore Cartier Islands
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Bassas De India
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Brunei Darussalam
+Bulgaria
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos Islands
+Colombi
+Comoros
+Congo
+Congo Democratic Republic
+Cook Islands
+Coral Sea Islands
+Costa Rica
+Cote Dlvoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Europa Island
+Falkland Islands Malvinas
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Antarctic Lands
+Gabon
+Gambia, The
+Georgia
+Germany
+Ghana
+Gibraltar
+Glorioso Islands
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Heard Island Mcdonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Jan Mayen
+Japan
+Jersey
+Jordan
+Juan De Nova Island
+Kazakhstan
+Kenya
+Kiribati
+Korea, South
+Kuwait
+Kyrgyzstan
+Lao Peoples Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Morocco
+Mozambique
+Myanmar
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Saint Kitts and Nevis
+Samoa
+Sao Tome and Principe
+Saudia Arabia
+Senegal
+Seychelles
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Usbekistan
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe

@@ -1,0 +1,137 @@
+﻿
+Sierra Leone#Aberdeen#8.4925#-13.2844#0#0
+Sierra Leone#Aberdeen Creek#8.4911#-13.2753#0#0
+Sierra Leone#Aberdeen Hill#8.4964#-13.2894#0#0
+Sierra Leone#Adder Hill#8.4478#-13.2036#0#0
+Sierra Leone#Adonkia#8.4167#-13.2686#0#0
+Sierra Leone#Aku Town#8.6639#-13.1881#0#0
+Sierra Leone#Alikalia#9.1667#-11.4#0#0
+Sierra Leone#Allamangy Brook#8.3639#-13.0811#0#0
+Sierra Leone#Allen Town#8.4136#-13.1603#0#0
+Sierra Leone#Allen Town Ridge#8.4075#-13.1547#0#0
+Sierra Leone#Alligator Brooke#8.4833#-13.25#0#0
+Sierra Leone#Allridge Island#7.5361#-12.4958#0#0
+Sierra Leone#Amaria#8.7303#-13.1906#0#0
+Sierra Leone#Angola Town#8.4119#-13.265#0#0
+Sierra Leone#Ardron Point#8.4833#-13.1833#0#0
+Sierra Leone#Argyle Point#7.3956#-12.5494#0#0
+Sierra Leone#Bo (Southern)#7.9456#-11.7628#0#0
+Sierra Leone#Bo (Eastern)#7.9375#-11.3464#0#0
+Sierra Leone#Boana Hill#8.8667#-11.2167#0#0
+Sierra Leone#Bogbagara#7.7428#-11.9008#0#0
+Sierra Leone#Bohekema#7.9892#-10.6897#0#0
+Sierra Leone#Boma#8.7167#-10.9333#0#0
+Sierra Leone#Bomaru#8.0167#-10.6167#0#0
+Sierra Leone#Bomna#8.75#-11.85#0#0
+Sierra Leone#Bomuvulahun#7.5#-11.8167#0#0
+Sierra Leone#Bondua#9.4167#-11.8167#0#0
+Sierra Leone#Bonguema#8.3214#-13.0728#0#0
+Sierra Leone#Buedu#8.2803#-10.3719#0#0
+Sierra Leone#Calaba Town#8.4381#-13.1631#0#0
+Sierra Leone#Calaba Water#8.4397#-13.1594#0#0
+Sierra Leone#Calmont Creek#8.25#-13.0167#0#0
+Sierra Leone#Campbell Town#8.3067#-13.0503#0#0
+Sierra Leone#Cape Saint Ann#7.5731#-12.9444#0#0
+Sierra Leone#Cape Shilling#8.1667#-13.1667#0#0
+Sierra Leone#Cape Sierra Leone#8.4986#-13.2972#0#0
+Sierra Leone#Cemetery Water#8.445#-13.1689#0#0
+Sierra Leone#Central Province#8#-12.25#0#0
+Sierra Leone#Charlotte#8.4242#-13.1917#0#0
+Sierra Leone#Chembu#9.4167#-12.2833#0#0
+Sierra Leone#Cher#7.8058#-12.7636#0#0
+Sierra Leone#Chesuadu#8.95#-11.1667#0#0
+Sierra Leone#Cholon#9.2667#-12.05#0#0
+Sierra Leone#Cline Bay#8.4839#-13.2#0#0
+Sierra Leone#Cline Point#8.49#-13.2033#0#0
+Sierra Leone#Cockerill Bay#8.4631#-13.2925#0#0
+Sierra Leone#Coldbath Town#8.4333#-13.1667#0#0
+Sierra Leone#Cole Town#8.3333#-13.0611#0#0
+Sierra Leone#Colony Peninsula#8.3333#-13.1667#0#0
+Sierra Leone#Daru#7.9903#-10.8544#0#0
+Sierra Leone#Eaiama (Eastern)#7.5283#-10.9981#0#0
+Sierra Leone#Eaiama (Southern)#7.3453#-11.5292#0#0
+Sierra Leone#Edmonstone Island#7.7017#-12.5286#0#0
+Sierra Leone#Eendei#7.5236#-12.3103#0#0
+Sierra Leone#Egbema#7.1353#-11.3558#0#0
+Sierra Leone#Eneya#8.6522#-13.2211#0#0
+Sierra Leone#Freetown#8.49#-13.2342#0#0
+Sierra Leone#Hagbahun#8.05#-11.35#0#0
+Sierra Leone#Hagbantama#8.9667#-12.6667#0#0
+Sierra Leone#Hahun#7.4664#-12.1481#0#0
+Sierra Leone#Haila#7.8#-11.1167#0#0
+Sierra Leone#Haito#7.8972#-10.8053#0#0
+Sierra Leone#Hamilton#8.3819#-13.2597#0#0
+Sierra Leone#Hangha#7.9411#-11.14#0#0
+Sierra Leone#Hastings#8.3797#-13.1386#0#0
+Sierra Leone#Hegbema#8.1333#-11.65#0#0
+Sierra Leone#Hegbwema#7.8833#-10.9833#0#0
+Sierra Leone#Heje#8.0667#-10.9#0#0
+Sierra Leone#Helegonba#8.3667#-10.8833#0#0
+Sierra Leone#Heligahun#8.5333#-11.4167#0#0
+Sierra Leone#Hemabu#7.7667#-12.2167#0#0
+Sierra Leone#Henan#7.4072#-11.8558#0#0
+Sierra Leone#Hendobu#8.2#-11.65#0#0
+Sierra Leone#Herako#9.1667#-11.4833#0#0
+Sierra Leone#Herebu#7.5567#-11.5264#0#0
+Sierra Leone#Heremakono#9.6833#-11.8833#0#0
+Sierra Leone#Heviko#9.75#-11.45#0#0
+Sierra Leone#Hewebu#8.2667#-11.7#0#0
+Sierra Leone#Hicket Hill#8.2772#-13.1197#0#0
+Sierra Leone#Highbay Brook#8.4861#-13.2414#0#0
+Sierra Leone#Hima#8.1667#-12.2167#0#0
+Sierra Leone#Hojoye#7.3667#-11.2167#0#0
+Sierra Leone#Honayema#8.1667#-10.5833#0#0
+Sierra Leone#Hoong#7.6667#-13.0667#0#0
+Sierra Leone#Hoya#7.2536#-11.8917#0#0
+Sierra Leone#Hubake#9.2167#-11.9667#0#0
+Sierra Leone#Humalahun#8.0833#-10.65#0#0
+Sierra Leone#Humonjai#8.3167#-10.85#0#0
+Sierra Leone#Hunkan#7.4#-11.8667#0#0
+Sierra Leone#Igaia#9.4833#-11.6333#0#0
+Sierra Leone#Imperi#7.6886#-12.2925#0#0
+Sierra Leone#Irua#8.2903#-13.0494#0#0
+Sierra Leone#Kailahun (Eastern)#8.4333#-10.7667#0#0
+Sierra Leone#Kailahun (Southern)#7.95#-12.5833#0#0
+Sierra Leone#Kailahun District#8.1667#-10.75#0#0
+Sierra Leone#Kambia District#9.1667#-12.75#0#0
+Sierra Leone#Kenema (Northern)#9.05#-11.9333#0#0
+Sierra Leone#Kenema (Eastern)#7.9044#-11.2022#0#0
+Sierra Leone#Kenema (Southern)#7.5997#-11.5906#0#0
+Sierra Leone#Kenema District#7.8333#-11.1667#0#0
+Sierra Leone#Koidu#8.4667#-10.7833#0#0
+Sierra Leone#Makeni#8.4167#-12.5333#0#0
+Sierra Leone#Oberguinea#7#-4#0#0
+Sierra Leone#Ocra Hill#8.45#-12.8333#0#0
+Sierra Leone#Ogue#8.4033#-13.2631#0#0
+Sierra Leone#Oiehun#8.2667#-10.8833#0#0
+Sierra Leone#Ojoye#8.3833#-11.3333#0#0
+Sierra Leone#Old Baoma#7.9461#-11.4311#0#0
+Sierra Leone#Old Songo#8.3333#-12.9333#0#0
+Sierra Leone#Olupe#8.3364#-13.0697#0#0
+Sierra Leone#Orugo River#8.415#-13.1269#0#0
+Sierra Leone#Sefadu#8.75#-10.9#0#0
+Sierra Leone#Upper Benduma#7.69#-11.8919#0#0
+Sierra Leone#Upper Saama#7.6667#-11.8581#0#0
+Sierra Leone#Vaahun#8.2306#-10.3422#0#0
+Sierra Leone#Vaama (Southern)#8.25#-12.05#0#0
+Sierra Leone#Vaama (Eastern)#7.1489#-11.3686#0#0
+Sierra Leone#Vahun#8.0333#-12.65#0#0
+Sierra Leone#Vaini#8.2667#-11.0833#0#0
+Sierra Leone#Valama#8.2333#-11.3667#0#0
+Sierra Leone#Vandima#8.25#-11.0333#0#0
+Sierra Leone#Vando#8.05#-11.5#0#0
+Sierra Leone#Vanima#7.6833#-11.1167#0#0
+Sierra Leone#Varama#8.4167#-11.4833#0#0
+Sierra Leone#Varma#8.2333#-11.1667#0#0
+Sierra Leone#Vawahun#7.6067#-11.5342#0#0
+Sierra Leone#Venge#8.0167#-11.6333#0#0
+Sierra Leone#Vengema#8.0167#-11.65#0#0
+Sierra Leone#Vengeme#8.1667#-11.5167#0#0
+Sierra Leone#Venima (Southern)#8.1#-11.4667#0#0
+Sierra Leone#Venima (Eastern)#8.6333#-11.2167#0#0
+Sierra Leone#Vile#7.2719#-12.1344#0#0
+Sierra Leone#Vituma#8.6667#-10.5167#0#0
+Sierra Leone#Vokoma#7.2#-11.4333#0#0
+Sierra Leone#Volima#7.8331#-11.915#0#0
+Sierra Leone#Zimmi#7.3153#-11.3061#0#0
+Sierra Leone#Zozo#6.9667#-11.4833#0#0

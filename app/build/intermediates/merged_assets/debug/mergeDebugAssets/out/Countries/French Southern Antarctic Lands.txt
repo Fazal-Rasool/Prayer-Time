@@ -1,0 +1,10 @@
+﻿
+French Southern Antarctic Lands#Abbot Islet#-49.1167#70.05#0#5
+French Southern Antarctic Lands#Abri Saint-Francois#-49.6167#70.25#0#5
+French Southern Antarctic Lands#D Entrecasteaux Head#-37.85#77.4833#0#5
+French Southern Antarctic Lands#Etang de la Decharge#-49.35#70.2167#0#5
+French Southern Antarctic Lands#French Antarctica#-43#67#0#5
+French Southern Antarctic Lands#Jacotte#-49.35#70.2#0#5
+French Southern Antarctic Lands#Neve de la Lune#-49.1667#69.05#0#5
+French Southern Antarctic Lands#Swains Bay#-49.6167#69.7#0#5
+French Southern Antarctic Lands#Val Daniele#-49.25#69.3#0#5

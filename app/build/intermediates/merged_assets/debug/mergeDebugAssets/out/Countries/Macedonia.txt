@@ -1,0 +1,100 @@
+﻿
+Macedonia#Arachinovo#42.02639#21.56195#313#1
+Macedonia#Batinci#41.91972#21.48195#290#1
+Macedonia#Belcista#41.30278#20.83028#782#1
+Macedonia#Berovo#41.70306#22.85778#916#1
+Macedonia#Bistrica#40.98333#21.36667#592#1
+Macedonia#Bitola#41.03111#21.34028#583#1
+Macedonia#Bogdanci#41.20306#22.57556#95#1
+Macedonia#Bogovinje#41.92361#20.91361#520#1
+Macedonia#Bosilovo#41.44056#22.72778#202#1
+Macedonia#Brvenica#41.96722#20.98083#462#1
+Macedonia#Caska#41.65056#21.66222#299#1
+Macedonia#Celopek#41.93167#21.01333#522#1
+Macedonia#Chegrane#41.83889#20.97583#556#1
+Macedonia#Chucher - Sandevo#42.10361#21.38222#511#1
+Macedonia#Debar#41.525#20.5275#764#1
+Macedonia#Delchevo#41.96722#22.76944#603#1
+Macedonia#Delogozda#41.25722#20.72361#728#1
+Macedonia#Demir Kapija#41.405#22.24889#100#1
+Macedonia#Dobri Dol#41.86583#20.8875#544#1
+Macedonia#Dobroste#42.10333#21.07778#518#1
+Macedonia#Dolna Banjica#41.78611#20.90611#522#1
+Macedonia#Dolneni#41.42528#21.45472#602#1
+Macedonia#Drugovo#41.48417#20.92333#656#1
+Macedonia#Dzepciste#42.03278#21#444#1
+Macedonia#Forino#41.82417#20.9625#634#1
+Macedonia#Gevgelija#41.13917#22.5025#25#1
+Macedonia#Golema Recica#41.99028#20.94583#457#1
+Macedonia#Gostivar#41.79722#20.90833#532#1
+Macedonia#Gradec#41.89611#20.90417#524#1
+Macedonia#Gradsko#41.5775#21.94278#109#1
+Macedonia#Ilinden#41.99611#21.58222#231#1
+Macedonia#Jegunovce#42.07361#21.12361#388#1
+Macedonia#Kamenjane#41.94444#20.92667#474#1
+Macedonia#Karbinci#41.81667#22.2375#278#1
+Macedonia#Kavadarci#41.43306#22.01194#286#1
+Macedonia#Kicevo#41.51444#20.96333#716#1
+Macedonia#Kochani#41.91639#22.41278#339#1
+Macedonia#Konce#41.49583#22.385#525#1
+Macedonia#Kondovo#42.01167#21.31361#323#1
+Macedonia#Kratovo#42.07917#22.18139#672#1
+Macedonia#Kriva Palanka#42.20194#22.33194#661#1
+Macedonia#Krivogashtani#41.33611#21.33306#577#1
+Macedonia#Krushevo#41.36889#21.24889#1177#1
+Macedonia#Kuklish#41.40528#22.66528#219#1
+Macedonia#Kumanovo#42.13222#21.71445#352#1
+Macedonia#Labunishta#41.26861#20.59611#861#1
+Macedonia#Lipkovo#42.15639#21.58528#449#1
+Macedonia#Lozovo#41.78389#21.90556#310#1
+Macedonia#Makedonska Kamenica#42.02#22.59194#582#1
+Macedonia#Makedonski Brod#41.51361#21.21528#543#1
+Macedonia#Mogila#41.10833#21.37861#568#1
+Macedonia#Negotino#41.48389#22.08917#145#1
+Macedonia#Nerashte#42.10667#21.10889#533#1
+Macedonia#Novo Selo#41.41389#22.88111#217#1
+Macedonia#Obleshevo#41.88333#22.33389#297#1
+Macedonia#Ohrid#41.11722#20.80194#699#1
+Macedonia#Oraovica#41.62583#22.51333#404#1
+Macedonia#Orizari#41.92278#22.44695#417#1
+Macedonia#Petrovec#41.93889#21.615#221#1
+Macedonia#Pirok#41.91083#20.91055#502#1
+Macedonia#Plasnica#41.46722#21.12306#744#1
+Macedonia#Podares#41.61389#22.54222#418#1
+Macedonia#Prilep#41.34639#21.55445#655#1
+Macedonia#Probishtip#42.00306#22.17861#612#1
+Macedonia#Radolishta#41.16417#20.62333#699#1
+Macedonia#Radovish#41.63833#22.46472#405#1
+Macedonia#Rankovce#42.18194#22.12278#471#1
+Macedonia#Resen#41.08889#21.01222#866#1
+Macedonia#Rosoman#41.51611#21.94972#114#1
+Macedonia#Rostusha#41.61#20.6#874#1
+Macedonia#Saraj#42#21.32778#269#1
+Macedonia#Shtip#41.74583#22.19583#340#1
+Macedonia#Sipkovica#42.035#20.91556#914#1
+Macedonia#Skopje#42#21.43333#246#1
+Macedonia#Slatino#42.06778#21.0375#515#1
+Macedonia#Sopishte#41.95472#21.4275#421#1
+Macedonia#Srbinovo#41.70583#20.96028#846#1
+Macedonia#Star Dojran#41.1875#22.72083#131#1
+Macedonia#Staro Nagorichane#42.19806#21.82861#404#1
+Macedonia#Struga#41.17806#20.67611#681#1
+Macedonia#Strumica#41.4375#22.64333#203#1
+Macedonia#Studenichani#41.91583#21.53056#360#1
+Macedonia#Sveti Nikole#41.86956#21.95274#341#1
+Macedonia#Tearce#42.07444#21.0525#481#1
+Macedonia#Tetovo#42.01056#20.97139#458#1
+Macedonia#Valandovo#41.31694#22.56111#142#1
+Macedonia#Varos#41.35722#21.5325#691#1
+Macedonia#Vasilevo#41.47611#22.64167#211#1
+Macedonia#Vatasa#41.41694#22.01889#374#1
+Macedonia#Veles#41.71556#21.77555#208#1
+Macedonia#Velesta#41.24083#20.64389#692#1
+Macedonia#Vinica#41.88278#22.50917#458#1
+Macedonia#Vrapciste#41.83389#20.88528#536#1
+Macedonia#Vratnica#42.14333#21.11695#717#1
+Macedonia#Zajas#41.60722#20.93833#713#1
+Macedonia#Zelenikovo#41.88667#21.58694#213#1
+Macedonia#Zhelino#41.98028#21.06417#584#1
+Macedonia#Zletovo#41.98861#22.23611#554#1
+Macedonia#Zrnovci#41.85417#22.44444#483#1

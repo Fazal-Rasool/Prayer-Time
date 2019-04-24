@@ -1,0 +1,43 @@
+﻿
+Bouvet Island#Benn Skerries#-54.45#3.3167#0#0
+Bouvet Island#Black Cliff#-54.4383#3.4233#0#0
+Bouvet Island#Bolle Bay#-54.45#3.3333#0#0
+Bouvet Island#Bouvet Island#-54.4333#3.4#0#0
+Bouvet Island#Cape Fie#-54.4444#3.4158#0#0
+Bouvet Island#Cape Valdivia#-54.3875#3.3556#0#0
+Bouvet Island#Cato Point#-54.4511#3.3194#0#0
+Bouvet Island#Christensens Bre#-54.4461#3.3506#0#0
+Bouvet Island#Djevleporten#-54.3861#3.3528#0#0
+Bouvet Island#Esmarchkysten#-54.425#3.2931#0#0
+Bouvet Island#Gross Kari#-54.3875#3.3772#0#0
+Bouvet Island#Horns-revet#-54.4667#3.35#0#0
+Bouvet Island#Horntvedts Bre#-54.3931#3.3611#0#0
+Bouvet Island#Kaap Circoncision#-54.3967#3.2917#0#0
+Bouvet Island#Kaap Lollo#-54.4114#3.4278#0#0
+Bouvet Island#Kaap Meteor#-54.4228#3.4339#0#0
+Bouvet Island#Larsoya#-54.4528#3.3139#0#0
+Bouvet Island#Lille Kari Rock#-54.395#3.4111#0#0
+Bouvet Island#Lindsayrevet#-54.4333#3.4833#0#0
+Bouvet Island#Lykkes Topp#-54.4367#3.3208#0#0
+Bouvet Island#Morgenstiernekysten#-54.4014#3.3306#0#0
+Bouvet Island#Morrellrevet#-54.45#3.4833#0#0
+Bouvet Island#Mosbytoppen#-54.4236#3.3069#0#0
+Bouvet Island#Mottesundet#-54.4533#3.3194#0#0
+Bouvet Island#Mowinckelkysten#-54.4347#3.4272#0#0
+Bouvet Island#Norrisrevet#-54.405#3.2778#0#0
+Bouvet Island#Norvegiabaen#-54.4#3.4167#0#0
+Bouvet Island#Norvegiaodden#-54.4322#3.2903#0#0
+Bouvet Island#Nyroysa#-54.4097#3.2861#0#0
+Bouvet Island#Olavtoppen#-54.4092#3.3528#0#0
+Bouvet Island#Ole Hoilandstotta#-54.3981#3.4022#0#0
+Bouvet Island#Posadowskys Bre#-54.4167#3.3667#0#0
+Bouvet Island#Randi Glacier#-54.4436#3.3933#0#0
+Bouvet Island#Randibaen#-54.4511#3.3889#0#0
+Bouvet Island#Rover Anchorage#-54.45#3.35#0#0
+Bouvet Island#Rustadkollen#-54.4492#3.3319#0#0
+Bouvet Island#Skarven#-54.3972#3.2806#0#0
+Bouvet Island#Victoria Terrace#-54.3972#3.4014#0#0
+Bouvet Island#Vogt Coast#-54.4444#3.375#0#0
+Bouvet Island#Westwindstranda#-54.41#3.2853#0#0
+Bouvet Island#Wilhelmplataet#-54.4153#3.3236#0#0
+Bouvet Island#Williams Reef#-54.4486#3.4183#0#0

@@ -1,0 +1,101 @@
+﻿
+United Kingdom#Aberdeen#57.133333#-2.0999999#36#0
+United Kingdom#Basildon#51.566667#0.4666667#66#0
+United Kingdom#Basingstoke#51.266667#-1.0833333#78#0
+United Kingdom#Bath#51.379444#-2.3655555#74#0
+United Kingdom#Bedford#52.134594#-0.4663181#53#0
+United Kingdom#Belfast#54.583333#-5.9333334#9#0
+United Kingdom#Birkenhead#53.4#-3.0333333#15#0
+United Kingdom#Birmingham#52.466667#-1.9166667#140#0
+United Kingdom#Blackburn#53.75#-2.4833333#149#0
+United Kingdom#Blackpool#53.816667#-3.05#1#0
+United Kingdom#Bolton#53.583333#-2.4333334#75#0
+United Kingdom#Bournemouth#50.716667#-1.8833333#1#0
+United Kingdom#Bradford#53.783333#-1.75#152#0
+United Kingdom#Brighton#50.828385#-0.1394749#22#0
+United Kingdom#Bristol#51.45#-2.5833333#47#0
+United Kingdom#Cambridge#52.2#0.1166667#38#0
+United Kingdom#Cardiff#51.48#-3.1800001#6#0
+United Kingdom#Chelmsford#51.733333#0.4833333#38#0
+United Kingdom#Cheltenham#51.9#-2.0833333#72#0
+United Kingdom#Chester#53.2#-2.9166667#12#0
+United Kingdom#Colchester#51.883333#0.9#5#0
+United Kingdom#Coventry#52.406556#-1.5121651#76#0
+United Kingdom#Crawley#51.116667#-0.1833333#75#0
+United Kingdom#Darlington#54.533333#-1.5666667#63#0
+United Kingdom#Derby#52.933333#-1.5#67#0
+United Kingdom#Dudley#52.5#-2.0833333#152#0
+United Kingdom#Dundee#56.5#-2.9666667#76#0
+United Kingdom#Eastbourne#50.768711#0.2845287#1#0
+United Kingdom#Edinburgh#55.95#-3.2#32#0
+United Kingdom#Exeter#50.723598#-3.5275073#43#0
+United Kingdom#Gateshead#54.945#-1.6174999#43#0
+United Kingdom#Gillingham#51.389137#0.5486298#24#0
+United Kingdom#Glasgow#55.833333#-4.25#66#0
+United Kingdom#Gloucester#51.86568#-2.2430992#72#0
+United Kingdom#Halifax#53.716667#-1.85#188#0
+United Kingdom#Harlow#51.783333#0.1666667#77#0
+United Kingdom#Harrogate#53.983333#-1.5333333#97#0
+United Kingdom#Hartlepool#54.686111#-1.2125#1#0
+United Kingdom#Hastings#50.852992#0.5645943#2#0
+United Kingdom#Hemel Hempstead#51.75#-0.4666667#99#0
+United Kingdom#High Wycombe#51.633333#-0.7666667#73#0
+United Kingdom#Huddersfield#53.65#-1.7833333#84#0
+United Kingdom#Ipswich#52.054654#1.1569977#6#0
+United Kingdom#Kingston upon Hull#53.7446#-0.3352547#1#0
+United Kingdom#Leeds#53.796481#-1.5478492#67#0
+United Kingdom#Leicester#52.633333#-1.1333333#76#0
+United Kingdom#Lincoln#53.233333#-0.5333333#31#0
+United Kingdom#Lisburn#54.523373#-6.0352707#27#0
+United Kingdom#Liverpool#53.416667#-3#6#0
+United Kingdom#London#51.508415#-0.1255327#21#0
+United Kingdom#Londonderry County Borough#54.997214#-7.3091698#28#0
+United Kingdom#Luton#51.883333#-0.4166667#130#0
+United Kingdom#Maidstone#51.266667#0.5166667#56#0
+United Kingdom#Manchester#53.480946#-2.2374344#60#0
+United Kingdom#Middlesbrough#54.572778#-1.1627778#32#0
+United Kingdom#Milton Keynes#52.041722#-0.755825#78#0
+United Kingdom#Newcastle upon Tyne#54.973279#-1.6139603#20#0
+United Kingdom#Newport#51.587736#-2.9983504#1#0
+United Kingdom#Northampton#52.25#-0.8833333#80#0
+United Kingdom#Norwich#52.627827#1.2983394#9#0
+United Kingdom#Nottingham#52.953602#-1.1504745#61#0
+United Kingdom#Oldham#53.540511#-2.1183014#184#0
+United Kingdom#Oxford#51.752221#-1.2559605#66#0
+United Kingdom#Peterborough#52.583333#-0.25#28#0
+United Kingdom#Plymouth#50.371525#-4.1430473#10#0
+United Kingdom#Poole#50.716667#-2#1#0
+United Kingdom#Portsmouth#50.809081#-1.0714245#1#0
+United Kingdom#Preston#53.766667#-2.7166667#26#0
+United Kingdom#Reading#51.433333#-1#51#0
+United Kingdom#Rochdale#53.616667#-2.1500001#140#0
+United Kingdom#Rotherham#53.433333#-1.35#71#0
+United Kingdom#Saint Albans#51.75#-0.3333333#77#0
+United Kingdom#Saint Helens#53.45#-2.7333333#22#0
+United Kingdom#Sheffield#53.38297#-1.4659023#76#0
+United Kingdom#Slough#51.5#-0.5833333#34#0
+United Kingdom#Solihull#52.416667#-1.7833333#109#0
+United Kingdom#South Shields#54.987778#-1.4213889#1#0
+United Kingdom#Southampton#50.9#-1.4#-9999#0
+United Kingdom#Southend-on-Sea#51.537821#0.7143259#1#0
+United Kingdom#Southport#53.666667#-3#1#0
+United Kingdom#Stevenage#51.916667#-0.2166667#79#0
+United Kingdom#Stockport#53.409788#-2.1576118#72#0
+United Kingdom#Stockton-on-Tees#54.583333#-1.4166667#46#0
+United Kingdom#Stoke-on-Trent#53#-2.1833334#132#0
+United Kingdom#Sunderland#54.904646#-1.3822174#9#0
+United Kingdom#Sutton Coldfield#52.565186#-1.8223572#128#0
+United Kingdom#Swansea#51.620788#-3.9432335#1#0
+United Kingdom#Swindon#51.516667#-1.7833333#153#0
+United Kingdom#Wakefield#53.683314#-1.4976811#53#0
+United Kingdom#Walsall#52.6#-2#142#0
+United Kingdom#Warrington#53.383333#-2.5999999#18#0
+United Kingdom#Watford#51.655306#-0.3960228#70#0
+United Kingdom#West Bromwich#52.516667#-2#154#0
+United Kingdom#Weston-super-Mare#51.345833#-2.9677777#70#0
+United Kingdom#Wigan#53.533333#-2.6166668#64#0
+United Kingdom#Woking#51.319026#-0.5589294#40#0
+United Kingdom#Wolverhampton#52.583333#-2.1333332#152#0
+United Kingdom#Worcester#52.189352#-2.2200108#71#0
+United Kingdom#Worthing#50.811467#-0.3716469#-9999#0
+United Kingdom#York#53.966667#-1.0833333#14#0

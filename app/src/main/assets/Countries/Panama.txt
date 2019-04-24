@@ -1,0 +1,76 @@
+﻿
+Panama#2 Brazo del Rio Cochea#8.7333#-82.5#0#-5
+Panama#3 Brazo del Rio Cochea#8.6833#-82.4667#0#-5
+Panama#Changuinola#9.4333#-82.5167#0#-5
+Panama#Changuinola 2#9.4667#-82.5167#0#-5
+Panama#Changuinola Tres#9.4333#-82.5#0#-5
+Panama#Changuinola Uno#9.4333#-82.5667#0#-5
+Panama#Colon (Panama)#8.5#-79.9667#0#-5
+Panama#Colon#9.3592#-79.9014#0#-5
+Panama#Colon (Veraguas)#8.1167#-80.95#0#-5
+Panama#Colon (Los Santos)#7.8833#-80.5#0#-5
+Panama#Colon Corregimiento Barrio#8.9#-79.75#0#-5
+Panama#Colon Free Zone#9.35#-79.9#0#-5
+Panama#Colon Naval Radio Station#9.3#-79.9#0#-5
+Panama#Coloncito#8.5667#-79.9#0#-5
+Panama#Colonia Constancia#8.3333#-80.2#0#-5
+Panama#Colonia Penal de Coiba#7.5#-81.7#0#-5
+Panama#David#8.4333#-82.4333#0#-5
+Panama#El Dorado#9.0167#-79.55#0#-5
+Panama#Kaikada#8.8833#-77.7167#0#-5
+Panama#Kainundi Murru#8.75#-77.5333#0#-5
+Panama#Kaki Yala#8.7667#-77.55#0#-5
+Panama#Kintumkwa Tiwar#8.75#-77.6333#0#-5
+Panama#Kipin Murru#8.8167#-77.6333#0#-5
+Panama#Knapps Hole#9.4014#-82.3178#0#-5
+Panama#Kuba#8.9167#-77.7167#0#-5
+Panama#Kwadi Sukun#8.9833#-77.7667#0#-5
+Panama#Kwipkan Sukun Murru#8.7667#-77.5333#0#-5
+Panama#Kwiti Tiwar#9.1667#-77.9667#0#-5
+Panama#Oajeta Bay#9.1903#-79.8269#0#-5
+Panama#Obispo Chico#8.1#-82.3167#0#-5
+Panama#Obispo Diversion#9.1167#-79.6833#0#-5
+Panama#Obre Abajo#8.8#-80.2833#0#-5
+Panama#Obre Arriba#8.7833#-80.25#0#-5
+Panama#Ocho Pasos#7.4#-80.45#0#-5
+Panama#Ocu#7.6833#-80.15#0#-5
+Panama#Odoarigote#8.8667#-81.9333#0#-5
+Panama#Odovate#8.85#-81.8833#0#-5
+Panama#Ogobsibortupo#9.55#-78.9#0#-5
+Panama#Ojeda Agua#7.9833#-80.6167#0#-5
+Panama#Okopsuey#8.9333#-77.7167#0#-5
+Panama#Ola#8.4167#-80.65#0#-5
+Panama#Olaca#8.15#-81.3333#0#-5
+Panama#Olive Estates#8.3833#-80.1#0#-5
+Panama#Ollas Arriba#8.8167#-79.9167#0#-5
+Panama#Oria#7.4833#-80.1833#0#-5
+Panama#Orrete#9.2333#-82.45#0#-5
+Panama#Ortigal#8.95#-80.4667#0#-5
+Panama#Ortupu#8.9167#-77.6667#0#-5
+Panama#Ovejo Island#9.0833#-79.9833#0#-5
+Panama#Panama City#8.9667#-79.5333#0#-5
+Panama#Santiago (Chiriqui)#8.1167#-80.9667#0#-5
+Panama#Santiago (Veraguas)#8.1#-80.9833#0#-5
+Panama#Warsobtugua#9.4667#-78.95#0#-5
+Panama#Wichubuala#9.5564#-78.9575#0#-5
+Panama#Wild Cane Cay#9.35#-82.1667#0#-5
+Panama#Wizards Beach#9.35#-82.2#0#-5
+Panama#Yantupo#9.45#-78.5667#0#-5
+Panama#Yavisa#8.1833#-77.6833#0#-5
+Panama#Yayas Afuera#8.9211#-79.8383#0#-5
+Panama#Yeguada de Quije#8.3667#-80.7#0#-5
+Panama#Yuca Island#9.0333#-80.05#0#-5
+Panama#Yurquin#9.5333#-82.8833#0#-5
+Panama#Yurre#8.1167#-81.7#0#-5
+Panama#Zahinillo#8.4667#-80.0833#0#-5
+Panama#Zamba Bonita Island#9.3836#-79.8381#0#-5
+Panama#Zambrano#8.45#-82.3333#0#-5
+Panama#Zancona#8.6#-80.75#0#-5
+Panama#Zanja Espave#9.1342#-78.5183#0#-5
+Panama#Zapadilla Cay#9.0833#-81.8167#0#-5
+Panama#Zape Chiquito#7.7667#-80.4167#0#-5
+Panama#Zapotal de Espala#7.9667#-81.5833#0#-5
+Panama#Zapotillo#8#-81.5167#0#-5
+Panama#Zorra Island#9.2931#-79.8464#0#-5
+Panama#Zumbador#8.6167#-80.3833#0#-5
+Panama#Zurrones#7.8097#-81.0739#0#-5

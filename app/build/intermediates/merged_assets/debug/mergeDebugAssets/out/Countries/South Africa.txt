@@ -1,0 +1,101 @@
+﻿
+South Africa#Aliwal North#-30.7#26.7#1361#2
+South Africa#Atlantis#-33.5667#18.48333#190#2
+South Africa#Balfour#-26.65#28.58333#1572#2
+South Africa#Barberton#-25.7833#31.05#764#2
+South Africa#Beaufort West#-32.35#22.58333#828#2
+South Africa#Benoni#-26.1833#28.31667#1596#2
+South Africa#Bethal#-26.45#29.46667#1614#2
+South Africa#Bethlehem#-28.2333#28.3#1666#2
+South Africa#Bisho#-32.8667#27.43333#435#2
+South Africa#Bloemfontein#-29.1333#26.2#1398#2
+South Africa#Boksburg#-26.2167#28.25#1591#2
+South Africa#Bothaville#-27.3667#26.61667#1276#2
+South Africa#Botshabelo#-29.2333#26.73333#1609#2
+South Africa#Brakpan#-26.2333#28.36667#1616#2
+South Africa#Brits#-25.6333#27.78333#1105#2
+South Africa#Cape Town#-33.9167#18.41667#7#2
+South Africa#Carletonville#-26.3667#27.4#1541#2
+South Africa#Centurion#-25.8744#28.17056#1455#2
+South Africa#Ceres#-33.3667#19.31667#462#2
+South Africa#Delmas#-26.15#28.68333#1560#2
+South Africa#Dundee#-28.1667#30.23333#1258#2
+South Africa#Durban#-29.85#31.01667#28#2
+South Africa#eMbalenhle#-26.5333#29.06667#1585#2
+South Africa#Ermelo#-26.5333#29.98333#1667#2
+South Africa#eSikhawini#-28.8833#31.9#36#2
+South Africa#Fochville#-26.4833#27.5#1499#2
+South Africa#Fort Beaufort#-32.7833#26.63333#399#2
+South Africa#Frankfort#-27.2667#28.48333#1589#2
+South Africa#Ga-Rankuwa#-25.6167#27.98333#1247#2
+South Africa#George#-33.9667#22.45#178#2
+South Africa#Graaff-Reinet#-32.2522#24.53075#768#2
+South Africa#Grahamstown#-33.3#26.53333#507#2
+South Africa#Heidelberg#-26.5#28.35#1482#2
+South Africa#Heilbron#-27.2833#27.96667#1552#2
+South Africa#Johannesburg#-26.2#28.08333#1775#2
+South Africa#Kimberley#-28.7333#24.76667#1219#2
+South Africa#Klerksdorp#-26.8667#26.66667#1334#2
+South Africa#Knysna#-34.0363#23.04713#6#2
+South Africa#Kroonstad#-27.65#27.23333#1343#2
+South Africa#Krugersdorp#-26.1#27.76667#1713#2
+South Africa#Kutloanong#-27.8333#26.75#1328#2
+South Africa#Lichtenburg#-26.15#26.16667#1453#2
+South Africa#Louis Trichardt#-23.05#29.9#955#2
+South Africa#Mabopane#-25.5072#28.1075#1304#2
+South Africa#Middelburg#-25.7833#29.46667#1448#2
+South Africa#Midrand#-25.9636#28.13778#1559#2
+South Africa#Mmabatho#-25.85#25.63333#1260#2
+South Africa#Mondlo#-27.9833#30.71667#1089#2
+South Africa#Mpumalanga#-29.8167#30.61667#494#2
+South Africa#Nelspruit#-25.4667#30.96667#677#2
+South Africa#Newcastle#-27.75#29.93333#1165#2
+South Africa#Nigel#-26.4167#28.46667#1553#2
+South Africa#Noorder-Paarl#-33.7167#18.96667#94#2
+South Africa#Orkney#-26.9833#26.66667#1320#2
+South Africa#Oudtshoorn#-33.5907#22.2014#329#2
+South Africa#Parys#-26.9#27.45#1383#2
+South Africa#Phalaborwa#-23.95#31.11667#394#2
+South Africa#Phuthaditjhaba#-28.5333#28.81667#1622#2
+South Africa#Piet Retief#-27#30.8#1269#2
+South Africa#Pietermaritzburg#-29.6167#30.38333#596#2
+South Africa#Polokwane#-23.9#29.45#1282#2
+South Africa#Port Elizabeth#-33.9667#25.58333#35#2
+South Africa#Port Shepstone#-30.75#30.45#-9999#2
+South Africa#Potchefstroom#-26.7167#27.1#1322#2
+South Africa#Potgietersrus#-24.1833#29.01667#1191#2
+South Africa#Pretoria#-25.7069#28.22944#1282#2
+South Africa#Queenstown#-31.9#26.88333#1076#2
+South Africa#Randfontein#-26.1667#27.7#1690#2
+South Africa#Richards Bay#-28.8#32.1#-9999#2
+South Africa#Rustenburg#-25.6667#27.25#1154#2
+South Africa#Saldanha#-33.0167#17.95#1#2
+South Africa#Sasolburg#-26.8136#27.81695#1476#2
+South Africa#Schweizer-Reineke#-27.1833#25.33333#1335#2
+South Africa#Senekal#-28.3167#27.6#1446#2
+South Africa#Soweto#-26.2667#27.86667#1620#2
+South Africa#Springs#-26.25#28.4#1626#2
+South Africa#Standerton#-26.95#29.25#1499#2
+South Africa#Stanger#-29.3333#31.3#118#2
+South Africa#Stellenbosch#-33.9333#18.85#97#2
+South Africa#Stilfontein#-26.85#26.78333#1349#2
+South Africa#Tembisa#-25.9989#28.22694#1578#2
+South Africa#Thaba Nchu#-29.2167#26.83333#1532#2
+South Africa#Thohoyandou#-22.95#30.48333#734#2
+South Africa#Uitenhage#-33.7653#25.40222#115#2
+South Africa#Umtata#-31.5833#28.78333#693#2
+South Africa#Upington#-28.45#21.25#812#2
+South Africa#Vanderbijlpark#-26.7#27.81667#1469#2
+South Africa#Vereeniging#-26.6667#27.93333#1436#2
+South Africa#Viljoenskroon#-27.2167#26.95#1336#2
+South Africa#Virginia#-28.1167#26.9#1319#2
+South Africa#Volksrust#-27.3667#29.88333#1661#2
+South Africa#Vryburg#-26.95#24.73333#1214#2
+South Africa#Vryheid#-27.7667#30.8#1113#2
+South Africa#Warmbaths#-24.8833#28.28333#1151#2
+South Africa#Welkom#-27.9833#26.73333#1365#2
+South Africa#Wesselsbron#-27.85#26.36667#1310#2
+South Africa#Westonaria#-26.3167#27.65#1573#2
+South Africa#Witbank#-25.8667#29.23333#1635#2
+South Africa#Wolmaransstad#-27.2#25.96667#1349#2
+South Africa#Worcester#-33.65#19.43333#222#2

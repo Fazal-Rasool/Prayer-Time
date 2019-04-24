@@ -1,0 +1,133 @@
+﻿
+Cook Islands#Aanga#-20.15#-157.3667#0#-10
+Cook Islands#Ahaumanu#-9.1167#-157.9667#0#-10
+Cook Islands#Ahuapapa#-9.0794#-157.9517#0#-10
+Cook Islands#Aitutaki Airstrip#-18.8294#-159.7672#0#-10
+Cook Islands#Aka Susanui#-9.0661#-157.9855#0#-10
+Cook Islands#Anaio#-20.1333#-157.4#0#-10
+Cook Islands#Anareia#-20.0333#-158.0833#0#-10
+Cook Islands#Anaue#-20.1167#-157.3833#0#-10
+Cook Islands#Arekai#-19.275#-158.96#0#-10
+Cook Islands#Areora#-20.0067#-158.1122#0#-10
+Cook Islands#Aroa Creek#-21.25#-159.8#0#-10
+Cook Islands#Arorangi#-21.2317#-159.8278#0#-10
+Cook Islands#Arore#-21.2508#-159.7381#0#-10
+Cook Islands#Arutanga#-18.8633#-159.7922#0#-10
+Cook Islands#Arutunga#-18.8686#-159.8#0#-10
+Cook Islands#Atimoono#-10.4381#-160.9569#0#-10
+Cook Islands#Atuakoro Landing#-21.8928#-157.9467#0#-10
+Cook Islands#Aucklandnui#-8.9278#-158.0361#0#-10
+Cook Islands#Avaava Takuo#-20.0333#-158.15#0#-10
+Cook Islands#Avaavaroa#-21.2731#-159.78#0#-10
+Cook Islands#Avarua#-21.2078#-159.775#0#-10
+Cook Islands#Avarua Landing#-21.9083#-157.9619#0#-10
+Cook Islands#Avatiu#-21.2056#-159.7867#0#-10
+Cook Islands#Avatiu Harbor#-21.2028#-159.7847#0#-10
+Cook Islands#Entrance Island#-13.3167#-163.0667#0#-10
+Cook Islands#Fanu#-13.2167#-163.1#0#-10
+Cook Islands#Fararanga#-9.0083#-157.9583#0#-10
+Cook Islands#Fareunati Ki Tai#-10.4156#-160.9878#0#-10
+Cook Islands#Fareunati Ki Uta#-10.4364#-160.9967#0#-10
+Cook Islands#Fenua Iti#-19.8158#-158.2842#0#-10
+Cook Islands#Fifinui#-10.4381#-161.015#0#-10
+Cook Islands#First Reef#-8.9833#-158#0#-10
+Cook Islands#Flying Venus#-8.9333#-157.9#0#-10
+Cook Islands#Greenlands Benefit#-13.2667#-163.1167#0#-10
+Cook Islands#Gudgeon Bay#-8.9825#-158.0528#0#-10
+Cook Islands#Gull Islands#-13.25#-163.05#0#-10
+Cook Islands#Hakamaru#-10.4439#-160.9569#0#-10
+Cook Islands#Hakari Manu#-10.4578#-160.9878#0#-10
+Cook Islands#Halfway Rock#-18.0358#-163.172#0#-10
+Cook Islands#Hangarei#-9.0314#-158.0136#0#-10
+Cook Islands#Haratini#-10.4536#-160.9653#0#-10
+Cook Islands#Hervey Islands#-19.2667#-158.9417#0#-10
+Cook Islands#Hohake Iti#-10.4436#-161.0267#0#-10
+Cook Islands#Hohake Rahi#-10.4431#-161.0281#0#-10
+Cook Islands#Humphrey#-10.425#-161.0042#0#-10
+Cook Islands#Ikurangi#-21.2217#-159.7631#0#-10
+Cook Islands#Iotua Ika#-19.9825#-158.1331#0#-10
+Cook Islands#Iron Rock#-18.0703#-163.1847#0#-10
+Cook Islands#Ivirua#-21.925#-157.9033#0#-10
+Cook Islands#Julia Cobb Bank#-18.0181#-163.1483#0#-10
+Cook Islands#Kaiwai#-20.0167#-158.1167#0#-10
+Cook Islands#Karaau#-18.8333#-159.75#0#-10
+Cook Islands#Kavera Mountain#-21.2333#-159.8167#0#-10
+Cook Islands#Kitsap Banks#-18.0267#-163.1383#0#-10
+Cook Islands#Kotaua#-10.9167#-165.85#0#-10
+Cook Islands#Lahu#-10.4183#-160.9853#0#-10
+Cook Islands#Lake Kauravai#-21.9072#-157.9317#0#-10
+Cook Islands#Lake Tepeuru Iti#-21.9067#-157.9267#0#-10
+Cook Islands#Leeward Sandbank#-18.0272#-163.1367#0#-10
+Cook Islands#Leicester#-18.0425#-163.12#0#-10
+Cook Islands#Likopua#-18.9258#-159.7339#0#-10
+Cook Islands#Littles Patch#-13.2667#-163.1333#0#-10
+Cook Islands#Nafarakura#-10.4608#-160.9953#0#-10
+Cook Islands#Nanupoto#-19.2792#-158.9611#0#-10
+Cook Islands#Nauke#-20#-158.1#0#-10
+Cook Islands#Ngaere#-10.4433#-160.9867#0#-10
+Cook Islands#Ngana#-10.425#-161.0145#0#-10
+Cook Islands#Ngangia Mutu#-8.9744#-158.0594#0#-10
+Cook Islands#Ngatapuroa#-10.4442#-160.9995#0#-10
+Cook Islands#Nikao#-21.2067#-159.8094#0#-10
+Cook Islands#Nu Turuma#-20#-158.1167#0#-10
+Cook Islands#Nukatere#-19.8167#-157.7167#0#-10
+Cook Islands#Okakara#-10.0333#-161.0833#0#-10
+Cook Islands#Omoka#-9#-158.0492#0#-10
+Cook Islands#Omoko#-8.9817#-158.0606#0#-10
+Cook Islands#Omutu Landing#-19.8667#-157.7222#0#-10
+Cook Islands#Onepoto#-21.9333#-157.95#0#-10
+Cook Islands#Oneroa#-21.92#-157.9603#0#-10
+Cook Islands#Oneroa Landing#-20#-158.0822#0#-10
+Cook Islands#Oneunga#-20.1167#-157.3667#0#-10
+Cook Islands#Onotau#-20.0167#-158.1#0#-10
+Cook Islands#Ooka#-18.8233#-159.7689#0#-10
+Cook Islands#Ootu#-18.85#-159.7333#0#-10
+Cook Islands#Opi#-20.0333#-158.1167#0#-10
+Cook Islands#Oroenga#-21.2239#-159.7486#0#-10
+Cook Islands#Oromanuku#-18.8667#-159.7667#0#-10
+Cook Islands#Orovaru#-19.9903#-158.1417#0#-10
+Cook Islands#Raemaru#-21.2358#-159.813#0#-10
+Cook Islands#Rahea Ki Uta#-10.4397#-161.01#0#-10
+Cook Islands#Rahea Kitai#-10.4361#-161.0067#0#-10
+Cook Islands#Rama#-18.9#-159.7667#0#-10
+Cook Islands#Rangimotia#-21.9267#-157.9292#0#-10
+Cook Islands#Rangiriri#-8.9253#-158.0433#0#-10
+Cook Islands#Rapae#-18.85#-159.7667#0#-10
+Cook Islands#Rapoka#-18.9233#-159.7608#0#-10
+Cook Islands#Raroto-a#-21.2347#-159.775#0#-10
+Cook Islands#Rau Kau#-19.3667#-158.9333#0#-10
+Cook Islands#Raukotaha#-10.4583#-161.0083#0#-10
+Cook Islands#Roto#-10.8833#-165.8333#0#-10
+Cook Islands#Rotuakakura#-18.9217#-159.7328#0#-10
+Cook Islands#Royston Patch#-13.2833#-163.1167#0#-10
+Cook Islands#Ruahara#-8.9314#-157.975#0#-10
+Cook Islands#Ruahara Anchorage#-8.9667#-158#0#-10
+Cook Islands#Ruakau#-19.275#-158.9422#0#-10
+Cook Islands#Ruapo#-9.0167#-157.9064#0#-10
+Cook Islands#Rukutia#-8.9411#-157.9536#0#-10
+Cook Islands#Rutaki#-21.2633#-159.805#0#-10
+Cook Islands#Siki Rangi Passage#-8.9233#-158.0547#0#-10
+Cook Islands#Vai Eli#-18.0633#-163.1925#0#-10
+Cook Islands#Vaiere#-9.0867#-157.9686#0#-10
+Cook Islands#Vaii#-21.25#-159.7167#0#-10
+Cook Islands#Vaikapuangi Stream#-21.2069#-159.7756#0#-10
+Cook Islands#Vaikiore#-18.8833#-159.75#0#-10
+Cook Islands#Vaimutu#-20.1333#-157.3667#0#-10
+Cook Islands#Vainamu#-18.8864#-159.8239#0#-10
+Cook Islands#Vaioue#-18.8311#-159.7917#0#-10
+Cook Islands#Vaipae#-18.8714#-159.7811#0#-10
+Cook Islands#Vaipae District#-18.8681#-159.7833#0#-10
+Cook Islands#Vaipeka#-18.8417#-159.7758#0#-10
+Cook Islands#Vaitupa#-18.8333#-159.775#0#-10
+Cook Islands#Vatiu#-19.9917#-158.1194#0#-10
+Cook Islands#Veitatei#-21.9464#-157.9708#0#-10
+Cook Islands#Veseru#-8.9503#-157.9336#0#-10
+Cook Islands#Via Piake#-20.015#-158.13#0#-10
+Cook Islands#Waikerikeri#-20.0333#-158.1#0#-10
+Cook Islands#Waimatao#-20.0167#-158.1333#0#-10
+Cook Islands#Waiope#-20.05#-158.1#0#-10
+Cook Islands#Waipapa#-20.05#-158.1167#0#-10
+Cook Islands#Waipoa#-20.0333#-158.1333#0#-10
+Cook Islands#Wale#-10.8833#-165.8167#0#-10
+Cook Islands#Whytootake#-18.8833#-159.7833#0#-10
+Cook Islands#Young s Tooth#-21.2333#-159.7833#0#-10

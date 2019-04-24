@@ -1,0 +1,192 @@
+﻿
+Namibia#10 Kilometre Kop#-28.6333#18.9833#0#1
+Namibia#Ibbu#-17.95#24.5167#0#1
+Namibia#Ibenstein#-22.95#17.6333#0#1
+Namibia#Ibolokwa#-17.8167#24.4167#0#1
+Namibia#Ichaboe Island#-26.2833#14.95#0#1
+Namibia#Iihamyongwe#-17.9#15.2167#0#1
+Namibia#Iihongo#-18.05#16.1667#0#1
+Namibia#Iikango#-17.85#15.2#0#1
+Namibia#Iikelo#-17.7#15.7167#0#1
+Namibia#Iikokla#-17.8667#16.15#0#1
+Namibia#Iilambo#-17.9667#15.0333#0#1
+Namibia#Iindangungu#-17.7833#15.9667#0#1
+Namibia#Iipopo#-18.1667#16.0833#0#1
+Namibia#Iiputu#-17.6#15.6167#0#1
+Namibia#Iithindi#-17.7667#16.8333#0#1
+Namibia#Ikaba#-17.6167#24.9667#0#1
+Namibia#Ikoma#-17.8333#24.35#0#1
+Namibia#Ilango#-17.7167#24.85#0#1
+Namibia#Ilumba#-17.6#24.4833#0#1
+Namibia#Imperani#-23.85#17.7167#0#1
+Namibia#Imukusi#-17.4833#24.35#0#1
+Namibia#Inachab#-27.0333#17.2833#0#1
+Namibia#Inachabkuppe#-27.0333#17.4#0#1
+Namibia#Inaubrivier#-28.4#17.4#0#1
+Namibia#Indibi River#-17.7333#25.1667#0#1
+Namibia#Ined#-23.4#18.9#0#1
+Namibia#Ingururu#-18.4667#14.7333#0#1
+Namibia#Innisfree#-22.6833#16.4167#0#1
+Namibia#Intabeni#-25.4833#18.8#0#1
+Namibia#Irene#-23.7833#19.1333#0#1
+Namibia#Isabis#-23.4167#16.5#0#1
+Namibia#Isabis#-23.4333#16.5167#0#1
+Namibia#Isanpan#-23.3667#18.8667#0#1
+Namibia#Ishesha#-17.75#22.8167#0#1
+Namibia#Isolionke#-17.5167#24.5#0#1
+Namibia#Itomba#-17.6833#24.9#0#1
+Namibia#Itsawisis#-26.2333#18.1667#0#1
+Namibia#Iturea#-22.7197#17.2617#0#1
+Namibia#Iutzema#-19.8333#20.4833#0#1
+Namibia#Ivoma#-17.95#24.6333#0#1
+Namibia#J.G. Strijdom Lughawe#-22.4806#17.4692#0#1
+Namibia#Ja Dennoch#-23.7333#18.1333#0#1
+Namibia#Jagd-schlucht#-25.05#16.2#0#1
+Namibia#Jagerhofberge#-20.2667#16.75#0#1
+Namibia#Jakhalswater#-22.6167#15.35#0#1
+Namibia#Jakkalsdraai#-25.8#17.7#0#1
+Namibia#Jakkalsfontein#-24.8333#17.8833#0#1
+Namibia#Jakkalskop#-26.6#16.6167#0#1
+Namibia#Jakkalspan#-24.7833#18.9#0#1
+Namibia#Jakkalsvlei#-25.8333#18.4667#0#1
+Namibia#Jammerbaai#-27.1667#15.25#0#1
+Namibia#Jan Jonkerberg#-23.0833#16.1833#0#1
+Namibia#Joloyi#-17.85#23.5667#0#1
+Namibia#Jonkershoek#-22.0333#19.35#0#1
+Namibia#Jonkheer#-24.8333#18.65#0#1
+Namibia#Josephine#-22.7333#18.1667#0#1
+Namibia#Joubertsberge#-18.4167#13.9167#0#1
+Namibia#Jules Vley#-26.6333#18.8833#0#1
+Namibia#Juliana#-22.2333#19.1833#0#1
+Namibia#Jungfrau#-22.0333#15.9667#0#1
+Namibia#Jurgen#-26.7833#17.9167#0#1
+Namibia#Juriesdraai#-19.9333#13.9#0#1
+Namibia#Katima Mulilo#-17.5#24.2667#0#1
+Namibia#Katima Mulilo Rapids#-17.4667#24.25#0#1
+Namibia#Luderitz (Karas)#-26.65#15.1333#0#1
+Namibia#Luderitz (or WA09)#-26.5#16#0#1
+Namibia#Luderitz Aerodrome#-26.6869#15.2433#0#1
+Namibia#Luderitz Harbour#-26.6447#15.1444#0#1
+Namibia#Luderitzbaai#-26.6086#15.1378#0#1
+Namibia#Qaganiha Pan#-17.8167#22.6167#0#1
+Namibia#Qanja#-18.05#22.7667#0#1
+Namibia#Qeya#-17.95#23.1667#0#1
+Namibia#Qobengili#-17.8667#22.3333#0#1
+Namibia#Qoha#-17.9333#22.2833#0#1
+Namibia#Qonisha#-18#23#0#1
+Namibia#Qowasha#-17.9333#22.4667#0#1
+Namibia#Quartzhugel#-22.5833#17.7#0#1
+Namibia#Quartzkoppie#-28.4333#19.3667#0#1
+Namibia#Quarzriff#-27.6833#18.4167#0#1
+Namibia#Que Sera Sera#-24.6167#19.3167#0#1
+Namibia#Quedas Montenegro#-17#13.25#0#1
+Namibia#Quelle Kuppe#-27.2167#15.7#0#1
+Namibia#Quellort#-26.8833#19.8833#0#1
+Namibia#Qugap#-28.3833#18.7167#0#1
+Namibia#Quinta#-22.3833#19.4#0#1
+Namibia#Quises#-23.9167#17.1833#0#1
+Namibia#Quiver Tree Forest#-26.4667#18.2333#0#1
+Namibia#Quork#-18.2167#15.9167#0#1
+Namibia#Quqali#-18.05#22.5#0#1
+Namibia#Qwinikwa#-18.1#21.6333#0#1
+Namibia#Rundu#-17.9333#19.7667#0#1
+Namibia#Tsumeb (Oshikoto)#-19.2167#17.7#0#1
+Namibia#Tsumeb (or WA18)#-19#17#0#1
+Namibia#Windhoek (or WA40)#-22.57#17.0836#0#1
+Namibia#Windhoek (Khomas)#-22.5#17#0#1
+Namibia#Windhoek Noord#-22.5486#17.0731#0#1
+Namibia#Windhoek Town and Townlands#-22.6167#16.9667#0#1
+Namibia#Xabpoort#-22.7667#18.65#0#1
+Namibia#Xae-sca#-19.85#20.4667#0#1
+Namibia#Xao#-19.2333#20.2#0#1
+Namibia#Xaraxab#-22.7167#18.9#0#1
+Namibia#Xaubehunis#-21.4167#15.1333#0#1
+Namibia#Xaudum#-18.6167#21.65#0#1
+Namibia#Xeidang#-18.6833#20.2833#0#1
+Namibia#Xhamukwe#-18.05#21.45#0#1
+Namibia#Xo-niuma#-19.9167#20.5333#0#1
+Namibia#Yaamugenga#-18.0667#15.9833#0#1
+Namibia#Yaanguyeenkono#-17.9667#15.7167#0#1
+Namibia#Yafululula#-17.6#15.7833#0#1
+Namibia#Yahamukmata#-17.65#15.9#0#1
+Namibia#Yaheti#-17.45#16.2333#0#1
+Namibia#Yahoma#-24.5167#19.5833#0#1
+Namibia#Yaka#-18.1167#23.95#0#1
+Namibia#Yakalongo#-17.4333#15.3#0#1
+Namibia#Yakandonga#-20.5667#16.2667#0#1
+Namibia#Yakapeto#-17.8167#15.3833#0#1
+Namibia#Yakeenene#-17.9333#15.5333#0#1
+Namibia#Yalwege#-18.05#15.7667#0#1
+Namibia#Yanaipadi#-17.4333#15.95#0#1
+Namibia#Yanamutai#-17.7#15.8167#0#1
+Namibia#Yanangali#-17.4#15.9667#0#1
+Namibia#Yanepaya#-17.9833#15.7833#0#1
+Namibia#Yangenga#-17.4333#15.6667#0#1
+Namibia#Yanghandja#-17.5667#16.0167#0#1
+Namibia#Yaro#-18#20.6#0#1
+Namibia#Yashe#-17.6#15.0167#0#1
+Namibia#Yashepumbi#-17.9833#15.6333#0#1
+Namibia#Yashikuku#-17.6833#15.4667#0#1
+Namibia#Yatamanzi#-17.9667#15.2667#0#1
+Namibia#Yatananga#-17.7333#15.1#0#1
+Namibia#Yatulo#-17.9167#15.5#0#1
+Namibia#Yenolyegaya#-18.0333#15.8167#0#1
+Namibia#Yikurukadi#-17.8#18.6333#0#1
+Namibia#Yinsu#-17.7833#18.5833#0#1
+Namibia#Ysterberg#-28.1167#18.1333#0#1
+Namibia#Ysterkop#-24.9167#16.0333#0#1
+Namibia#Ysterputs#-28.25#18.0833#0#1
+Namibia#Yumbwa#-17.7833#15.15#0#1
+Namibia#Yunguru#-17.9167#22.0833#0#1
+Namibia#Zabubegas-Ost#-26.6333#19.1667#0#1
+Namibia#Zabubegas-Wes#-26.6833#19.0833#0#1
+Namibia#Zachas#-22.65#19.3#0#1
+Namibia#Zackenberg#-25.7833#16.2667#0#1
+Namibia#Zackenberge#-25.6333#17.0833#0#1
+Namibia#Zagenicht#-22.4914#17.1228#0#1
+Namibia#Zais#-24.0167#16.1333#0#1
+Namibia#Zambesi#-18.8333#36.2833#0#1
+Namibia#Zamenkomst#-26.1167#19.2167#0#1
+Namibia#Zamnarib#-24.35#17.55#0#1
+Namibia#Zamnarib-Ost#-24.3833#17.6#0#1
+Namibia#Zandfontein#-22.9833#14.5333#0#1
+Namibia#Zania#-23.4833#18.4833#0#1
+Namibia#Zarachaibes#-23.4667#17.2333#0#1
+Namibia#Zaracheibis#-27.4#17.3833#0#1
+Namibia#Zaris#-24.95#16.3667#0#1
+Namibia#Zaris Berge#-24.8333#16.3333#0#1
+Namibia#Zastroberg#-20.25#17.2167#0#1
+Namibia#Zaudaus#-24.6833#18.6667#0#1
+Namibia#Zebedeus#-21.3167#14.8#0#1
+Namibia#Zebra#-17.1333#13.45#0#1
+Namibia#Zebra Rivier#-24.5167#16.3#0#1
+Namibia#Zebraberg#-23.2333#17.4833#0#1
+Namibia#Zebrafontein#-27.7333#16.8833#0#1
+Namibia#Zebrafontein#-20.65#15.2333#0#1
+Namibia#Zebrapomp#-19.3667#14.5#0#1
+Namibia#Zebrarivier#-24.5167#16.0667#0#1
+Namibia#Zelda#-22.2833#19.8167#0#1
+Namibia#Zendelingshoek#-24.8833#18.8#0#1
+Namibia#Zesfontein#-19.1333#13.6167#0#1
+Namibia#Ziegenberge#-22.5811#17.4786#0#1
+Namibia#Ziegenrucken#-23.55#16.3#0#1
+Namibia#Zieglerberg#-21.9333#16.8333#0#1
+Namibia#Zilitene#-17.8333#24.3667#0#1
+Namibia#Zisabspitze#-21.15#14.65#0#1
+Namibia#Zonnewald#-24.5#18.3667#0#1
+Namibia#Zoutputz#-26.5667#19.4#0#1
+Namibia#Zoutriver#-23.5833#15.0167#0#1
+Namibia#Zoveha#-18.15#21.6833#0#1
+Namibia#Zuckerhutberg#-22.45#16.9#0#1
+Namibia#Zukaus#-27.05#18.2167#0#1
+Namibia#Zulowkopf#-26.9167#15.4333#0#1
+Namibia#Zumbwabizu#-17.7333#25.15#0#1
+Namibia#Zunichab#-19.9667#15.55#0#1
+Namibia#Zwartbank#-23.3333#14.85#0#1
+Namibia#Zwartbankberg#-23.3#14.8#0#1
+Namibia#Zwei Point#-26.8575#15.1475#0#1
+Namibia#Zweikuppenberg#-26.9167#15.3167#0#1
+Namibia#Zweiseckstein#-22.4847#17.2231#0#1
+Namibia#Zwiebel-Hochebene#-25.1667#17.0833#0#1
+Namibia#Zwillingrivier#-24.85#17.4333#0#1
+Namibia#Zwischenpunkt#-27.0333#19.2#0#1

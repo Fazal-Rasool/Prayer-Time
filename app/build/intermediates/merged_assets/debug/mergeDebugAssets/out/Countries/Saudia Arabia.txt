@@ -1,0 +1,308 @@
+﻿
+Saudia Arabia#Abha#18.22#42.51#0#3
+Saudia Arabia#Abhak#27.4#37.4#0#3
+Saudia Arabia#Abqaik#25.9356#49.6683#0#3
+Saudia Arabia#Abqaiq#26.1#49.7333#0#3
+Saudia Arabia#Abqaiq 1#25.9333#49.6833#0#3
+Saudia Arabia#Ad Dammam#26.3167#50.1333#0#3
+Saudia Arabia#Ad Dammam Industrial Area#26.2467#49.9847#0#3
+Saudia Arabia#Afif#23.9167#42.95#0#3
+Saudia Arabia#Aflaj#22.25#46.825#0#3
+Saudia Arabia#Ahl al Ash`af#17.8667#43.3667#0#3
+Saudia Arabia#Al Ahsa#22.5#51#0#3
+Saudia Arabia#Al Badaya`#26#43.7#0#3
+Saudia Arabia#Al Bahah#20.0167#41.4667#0#3
+Saudia Arabia#Al Ba`jah#25.1961#42.2247#0#3
+Saudia Arabia#Al Ghat (Ar Riyad)#25.9839#45.0311#0#3
+Saudia Arabia#Al Ghat#26.545#43.7617#0#3
+Saudia Arabia#Al Hajrah#28.95#43.4#0#3
+Saudia Arabia#Al Hasa#26.5833#48.1667#0#3
+Saudia Arabia#Al Isawiyah#30.6333#37.8833#0#3
+Saudia Arabia#Al Jawf Ash Sharqiyah#26#49.5#0#3
+Saudia Arabia#Al Jawf#26.1833#49.55#0#3
+Saudia Arabia#Al Jubail#24.6217#46.9533#0#3
+Saudia Arabia#Al Jubayl Industrial City#27.0669#49.5503#0#3
+Saudia Arabia#Al Jubayl Royal Commission#27.0761#49.5903#0#3
+Saudia Arabia#Al Khafji#28.4131#48.4842#0#3
+Saudia Arabia#Al Kharj#24.1483#47.305#0#3
+Saudia Arabia#Al Madinah#24.7472#46.6367#0#3
+Saudia Arabia#Al Majma`ah#25.9039#45.3456#0#3
+Saudia Arabia#Al Qaysumah#29.1836#42.9669#0#3
+Saudia Arabia#Al Qa`#19.1331#41.1408#0#3
+Saudia Arabia#Al Quway`iyah#25.3772#42.4689#0#3
+Saudia Arabia#Al Ri`#21.25#42.75#0#3
+Saudia Arabia#Al Russ#25.8697#43.5022#0#3
+Saudia Arabia#Al Uwayqilah#30.3394#42.2117#0#3
+Saudia Arabia#Al `Ula#26.6333#37.9167#0#3
+Saudia Arabia#Al `Uwayqilah#30.3631#42.2392#0#3
+Saudia Arabia#Al-Baha#20#41.5#0#3
+Saudia Arabia#Al-Jubail#25.4#49.65#0#3
+Saudia Arabia#Al-Nimas#19.1167#42.1333#0#3
+Saudia Arabia#Ar Rabad#23.1833#39.5333#0#3
+Saudia Arabia#Ar Rabwah#24.6781#44.6267#0#3
+Saudia Arabia#Ar Rabwah (Ar Riyad)#24.6967#46.7669#0#3
+Saudia Arabia#Ar Riyadh#24.6408#46.7728#0#3
+Saudia Arabia#Arar#30.9058#41.1389#0#3
+Saudia Arabia#Ara`ar#30.985#41.0206#0#3
+Saudia Arabia#Artawi ar Raqqas#25.0664#44.7022#0#3
+Saudia Arabia#Asfan#21.9183#39.3478#0#3
+Saudia Arabia#Ath Thiraywiyah#25.2197#48.8603#0#3
+Saudia Arabia#Awamiyah#26.5936#49.9875#0#3
+Saudia Arabia#Badanah#30.9833#41#0#3
+Saudia Arabia#Badaya#26.5#38.0833#0#3
+Saudia Arabia#Badr Hunain#23.78#38.7906#0#3
+Saudia Arabia#Baljurashi#19.8594#41.5572#0#3
+Saudia Arabia#Batha#24.0253#51.5019#0#3
+Saudia Arabia#Bisha#20.5#43#0#3
+Saudia Arabia#Bishah#20.0833#42.6667#0#3
+Saudia Arabia#Budayrah#25.7#42.5333#0#3
+Saudia Arabia#Bukayriyah#26.1506#43.66#0#3
+Saudia Arabia#Buraidah#26.3317#43.9717#0#3
+Saudia Arabia#Buraydah#21.2947#39.3969#0#3
+Saudia Arabia#Caf#31.4#37.4833#0#3
+Saudia Arabia#Cal Hadbah#23.2167#39.7#0#3
+Saudia Arabia#Cape Aswad#21.3672#39.1339#0#3
+Saudia Arabia#Cats Ears#22.8833#39.75#0#3
+Saudia Arabia#Cedis#27.4667#41.6833#0#3
+Saudia Arabia#Cefente#27.2517#40.9281#0#3
+Saudia Arabia#Chabali#29.2864#44.3131#0#3
+Saudia Arabia#Chabd ad Darb#27.9939#43.2253#0#3
+Saudia Arabia#Chirshaf#21.3167#41.2667#0#3
+Saudia Arabia#Chteri#24.1667#45.1333#0#3
+Saudia Arabia#Churuba#30.75#37.7833#0#3
+Saudia Arabia#Chuwaitir#26.1#44.1333#0#3
+Saudia Arabia#Cotton Corner#16.5833#41.9667#0#3
+Saudia Arabia#Coyte Island#16.4333#41.85#0#3
+Saudia Arabia#Cradle of Gold#23.5#40.8667#0#3
+Saudia Arabia#Cubba#26.4#36.5333#0#3
+Saudia Arabia#Custom Island#21.4667#39.1667#0#3
+Saudia Arabia#Dam#20.4833#44.8333#0#3
+Saudia Arabia#Damad#17.1#42.7833#0#3
+Saudia Arabia#Dammam#26.44#50.1#0#3
+Saudia Arabia#Dhahran#17.6631#43.5075#0#3
+Saudia Arabia#Dhahran (Ash Sharqiyah)#26.3042#50.1325#0#3
+Saudia Arabia#Dhahran International#26.2689#50.1533#0#3
+Saudia Arabia#Dilam#23.9969#47.165#0#3
+Saudia Arabia#Duba#27.35#35.6667#0#3
+Saudia Arabia#Duwadimi#24.4942#44.3833#0#3
+Saudia Arabia#Fadhili#26.9842#49.1692#0#3
+Saudia Arabia#Fajja#20.9667#42.8833#0#3
+Saudia Arabia#Gassim#26.3019#43.7742#0#3
+Saudia Arabia#Guriat#31.4128#37.2739#0#3
+Saudia Arabia#Ha il#27.5164#41.6969#0#3
+Saudia Arabia#Hadah#21.6525#40.0142#0#3
+Saudia Arabia#Hafar al Batin#28.4342#45.9636#0#3
+Saudia Arabia#Haila#24.4#39.85#0#3
+Saudia Arabia#Hanakiya#24.8797#40.5153#0#3
+Saudia Arabia#Harad#21.6461#40.0361#0#3
+Saudia Arabia#Haradah#22.7667#46.2333#0#3
+Saudia Arabia#Haradh (Ash Sharqiyah)#24.2417#49.1864#0#3
+Saudia Arabia#Haradh#23.9167#49.0833#0#3
+Saudia Arabia#Haradh Camp#24.1456#49.0653#0#3
+Saudia Arabia#Hariq#23.5667#46.4#0#3
+Saudia Arabia#Harmah#25.9233#45.3406#0#3
+Saudia Arabia#Hasa#24.2833#38.5833#0#3
+Saudia Arabia#Hassa#25.3333#49.6333#0#3
+Saudia Arabia#Hawiyah#24.7983#49.18#0#3
+Saudia Arabia#Hawtah#25.5975#45.6139#0#3
+Saudia Arabia#Hazm al Jalamid#31.2358#39.9736#0#3
+Saudia Arabia#Hazm al Jalamid (Al Hudud ash Shamaliyah)#31.2803#40.1042#0#3
+Saudia Arabia#Hofuf#25.3783#49.5867#0#3
+Saudia Arabia#Huraimala#25.1267#46.1225#0#3
+Saudia Arabia#Ibn Shuraym#29.9475#43.3644#0#3
+Saudia Arabia#Jadaidah#31.3261#41.445#0#3
+Saudia Arabia#Jal ash Shu`bah (Al Hudud ash Shamaliyah)#29.0767#44.6892#0#3
+Saudia Arabia#Jal ash Shu`bah#28.9844#44.8153#0#3
+Saudia Arabia#Jalajil (Ar Riyad)#25.6711#45.4544#0#3
+Saudia Arabia#Jalajil#19.9167#40.5167#0#3
+Saudia Arabia#Jazan#17.3333#42.6667#0#3
+Saudia Arabia#Jebara Islet#18.5622#40.8964#0#3
+Saudia Arabia#Jeddah#21.5169#39.2192#0#3
+Saudia Arabia#Jibbah#27.4167#44.3333#0#3
+Saudia Arabia#Jidanah#19.7833#41.7333#0#3
+Saudia Arabia#Jish#26.5133#49.9917#0#3
+Saudia Arabia#Jubail#27.0047#49.6614#0#3
+Saudia Arabia#Jubail al Bahri#27.0167#49.6833#0#3
+Saudia Arabia#Jubail Old#26.9908#49.6664#0#3
+Saudia Arabia#Jubail-al- Barri#26.9147#49.6364#0#3
+Saudia Arabia#Jubaila (Ar Riyad)#24.9294#46.3772#0#3
+Saudia Arabia#Jubaila#25.5167#40.6#0#3
+Saudia Arabia#Khabar Kudan#23.7833#47.0667#0#3
+Saudia Arabia#Khafji (Ash Sharqiyah)#28.4217#48.5083#0#3
+Saudia Arabia#Khafji#28.25#48.8333#0#3
+Saudia Arabia#Khamis#28.0333#37.2667#0#3
+Saudia Arabia#Khamis Mushait#18.3064#42.7292#0#3
+Saudia Arabia#Kharj#24.1667#47.5#0#3
+Saudia Arabia#Khaybar#25.7333#39.2167#0#3
+Saudia Arabia#Kheibar#25.7#39.5167#0#3
+Saudia Arabia#Khobar#26.2794#50.2083#0#3
+Saudia Arabia#Khurais#25.0594#48.0639#0#3
+Saudia Arabia#Khurays#25.0872#48.0464#0#3
+Saudia Arabia#Khursaniyah#27.2156#49.2239#0#3
+Saudia Arabia#Kuber#29.0667#48.5#0#3
+Saudia Arabia#Kulayyah#22.5333#39.2667#0#3
+Saudia Arabia#Kunfida#19.1264#41.0789#0#3
+Saudia Arabia#Labajah#25.1811#47.0164#0#3
+Saudia Arabia#Labat Shilman#22.8586#41.3236#0#3
+Saudia Arabia#Labkah#24.5114#45.3831#0#3
+Saudia Arabia#Lafiya#30.4186#43.0681#0#3
+Saudia Arabia#Laghafat as Subat#23.955#51.3278#0#3
+Saudia Arabia#Lahbey#19.2#42.0833#0#3
+Saudia Arabia#Laila#31.05#38.65#0#3
+Saudia Arabia#Lajam#26.5628#49.9439#0#3
+Saudia Arabia#Lakothah#19.1353#41.9708#0#3
+Saudia Arabia#Lamlah#21.2#42.7333#0#3
+Saudia Arabia#Lamlam#20.5833#39.6667#0#3
+Saudia Arabia#Lamlamah#28.2833#37.3667#0#3
+Saudia Arabia#Lamma`a#24.5833#46.1833#0#3
+Saudia Arabia#Laqita#27.6567#41.6772#0#3
+Saudia Arabia#Laqum#26.55#41.7167#0#3
+Saudia Arabia#Lashram#18.2667#42.5667#0#3
+Saudia Arabia#Latit#22.7436#49.905#0#3
+Saudia Arabia#Lautal#25.35#45.15#0#3
+Saudia Arabia#Lawi#27.8167#36.0833#0#3
+Saudia Arabia#Lawiyat as Sanain#17.4167#43.15#0#3
+Saudia Arabia#Lawqah#29.8203#42.7433#0#3
+Saudia Arabia#Laykah#17.9167#43.3#0#3
+Saudia Arabia#Layla#22.2856#46.7406#0#3
+Saudia Arabia#Liban#27.8667#41.5333#0#3
+Saudia Arabia#Libana Islet#24.9772#37.0489#0#3
+Saudia Arabia#Lihaf#18.05#42.8833#0#3
+Saudia Arabia#Lijfat al Hadh#24.8056#49.1956#0#3
+Saudia Arabia#Lijfat as Sarah#25.0047#48.4411#0#3
+Saudia Arabia#Limma#27.3333#36.8667#0#3
+Saudia Arabia#Linah#28.7611#43.7389#0#3
+Saudia Arabia#Linyah#26.2094#50.1975#0#3
+Saudia Arabia#Liqa#26.3383#44.7764#0#3
+Saudia Arabia#Liqya#16.6603#43.0378#0#3
+Saudia Arabia#Liss#31.2253#38.5319#0#3
+Saudia Arabia#Lith#20.15#40.2667#0#3
+Saudia Arabia#Lower Mashash Hadraj#30.3167#37.6667#0#3
+Saudia Arabia#Ludhwar Riak Island#17#41.8333#0#3
+Saudia Arabia#Lughaf#26.2#44.8#0#3
+Saudia Arabia#Lughdan#24.3333#45.5483#0#3
+Saudia Arabia#Lughfaw#23.6167#50.4333#0#3
+Saudia Arabia#Lugtan#29.8172#43.2708#0#3
+Saudia Arabia#Maarua#19.8292#41.4428#0#3
+Saudia Arabia#Madian#28.5833#35.0667#0#3
+Saudia Arabia#Madina#24.4527#39.6667#0#3
+Saudia Arabia#Madinat Yanbu al Sinaiyah Port#23.95#38.2333#0#3
+Saudia Arabia#Makha`il#18.5464#42.0489#0#3
+Saudia Arabia#Makkah#21.42#39.83#0#3
+Saudia Arabia#Mandak#20.1#41.2833#0#3
+Saudia Arabia#Marat#25.0717#45.4572#0#3
+Saudia Arabia#Marjan#28.4167#49.6667#0#3
+Saudia Arabia#Masturah (Al Madinah)#23.1161#38.8414#0#3
+Saudia Arabia#Masturah#22.0308#51.3375#0#3
+Saudia Arabia#Mecca#21.4267#39.8261#0#3
+Saudia Arabia#Mecca District#20.6667#41.3333#0#3
+Saudia Arabia#Medina#24.4686#39.6142#0#3
+Saudia Arabia#Medina Region#25.6667#39.6667#0#3
+Saudia Arabia#Mena#21.4133#39.8947#0#3
+Saudia Arabia#Midhnib#25.8628#44.2281#0#3
+Saudia Arabia#Mubarraz#22.2922#46.7389#0#3
+Saudia Arabia#Munifah#27.6136#48.9842#0#3
+Saudia Arabia#Musaijid#24.0833#39.0667#0#3
+Saudia Arabia#Na airiyah#27.5333#48.4167#0#3
+Saudia Arabia#Naairiya#27.4706#48.4731#0#3
+Saudia Arabia#Nabhaniyah#25.8619#43.0669#0#3
+Saudia Arabia#Najran#17.5#44.1667#0#3
+Saudia Arabia#Obardhat adh Dhaba#30.7167#38.9167#0#3
+Saudia Arabia#Oberez az- Zijan#29.3681#39.1111#0#3
+Saudia Arabia#Obu-Esnoon#23.2894#44.4728#0#3
+Saudia Arabia#Odhaim#26.5889#42.4719#0#3
+Saudia Arabia#Okadz#20.5833#40.9667#0#3
+Saudia Arabia#Okdet al-Gowf#29.8333#40.1333#0#3
+Saudia Arabia#Omejjed al-Bird#27.05#39.0833#0#3
+Saudia Arabia#Omejjed al-Haram#26.95#39.6833#0#3
+Saudia Arabia#Onejbec#27.2833#36.7833#0#3
+Saudia Arabia#Ophira#28#34.45#0#3
+Saudia Arabia#Oqair#25.6431#50.2144#0#3
+Saudia Arabia#Oqair Escarpment#25.5#50.1667#0#3
+Saudia Arabia#Orenbe#26.7167#40.1167#0#3
+Saudia Arabia#Ornub#28.1167#35.5833#0#3
+Saudia Arabia#Pearly Gates#16.3667#41.9167#0#3
+Saudia Arabia#Plain of Al-Rakba#22.25#41#0#3
+Saudia Arabia#Port of Ras al Mish ab#28.1094#48.625#0#3
+Saudia Arabia#Province of Upper Asir#19.1667#43.1667#0#3
+Saudia Arabia#Qarah#22.3#52.4#0#3
+Saudia Arabia#Qaseem#27.0833#43.4667#0#3
+Saudia Arabia#Qasim#26.1667#44#0#3
+Saudia Arabia#Qasr Ibn `Uqayyil#25.8453#43.3719#0#3
+Saudia Arabia#Qatif#26.6167#49.9333#0#3
+Saudia Arabia#Qatif 2#26.5867#49.9569#0#3
+Saudia Arabia#Qatif 3#26.645#49.9558#0#3
+Saudia Arabia#Qatif Oilfield#26.9344#49.9525#0#3
+Saudia Arabia#Qiya#21.0711#41.0069#0#3
+Saudia Arabia#Qudaih#26.5717#49.9894#0#3
+Saudia Arabia#Qurayyat al Milh#31.5#37.5#0#3
+Saudia Arabia#Ra s Tanaqib#27.8372#48.8808#0#3
+Saudia Arabia#Rabigh#22.7986#39.0322#0#3
+Saudia Arabia#Rad-ha#26.9531#49.0892#0#3
+Saudia Arabia#Rafha#29.6272#43.4917#0#3
+Saudia Arabia#Rafha (Al Hudud ash Shamaliyah)#29.6386#43.5014#0#3
+Saudia Arabia#Rahimah#26.7058#50.0589#0#3
+Saudia Arabia#Ranyah#21.2667#42.8333#0#3
+Saudia Arabia#Ras Tanura#26.65#50.1667#0#3
+Saudia Arabia#Ras Tanura (Ash Sharqiyah)#26.6439#50.1592#0#3
+Saudia Arabia#Rhub al Khali#21#51#0#3
+Saudia Arabia#Riadha Shoals#20.0833#40.2667#0#3
+Saudia Arabia#Ridha#17.5#42.7667#0#3
+Saudia Arabia#Rihayyah#30.09#38.7033#0#3
+Saudia Arabia#RIJal Alma`#18.15#41.9#0#3
+Saudia Arabia#Riyadh#24.67#46.69#0#3
+Saudia Arabia#Riyadh Mil#24.7117#46.7242#0#3
+Saudia Arabia#Riyadh South#24.5922#46.8375#0#3
+Saudia Arabia#Riyah#19.0667#43.6667#0#3
+Saudia Arabia#Riyahd Civil Defense Heliport#24.7481#46.7372#0#3
+Saudia Arabia#Ruhaiya#24.7#47.2333#0#3
+Saudia Arabia#Ruwaydah (Ar Riyad)#25.8767#45.1419#0#3
+Saudia Arabia#Ruwaydah#26.4169#44.2164#0#3
+Saudia Arabia#Sabya#17.15#42.6167#0#3
+Saudia Arabia#Safaniya#27.9708#48.73#0#3
+Saudia Arabia#Safwa#26.6508#49.9558#0#3
+Saudia Arabia#Saihat#26.4794#50.045#0#3
+Saudia Arabia#Sajir#25.1806#44.6003#0#3
+Saudia Arabia#Sakakah#29.9703#40.2086#0#3
+Saudia Arabia#Sakf#26.9333#41.1167#0#3
+Saudia Arabia#Salil#20.9#42.7333#0#3
+Saudia Arabia#Shagra#25.2483#45.2528#0#3
+Saudia Arabia#Shamasiyah#26.3183#44.2631#0#3
+Saudia Arabia#Shaqra#24.9167#40.2667#0#3
+Saudia Arabia#Sharma#28.0244#35.2694#0#3
+Saudia Arabia#Shaybah#30.4306#38.55#0#3
+Saudia Arabia#Soor Bin Mizbil#24.485#46.4236#0#3
+Saudia Arabia#Sudair#26#45.3333#0#3
+Saudia Arabia#Sulayyil#20.45#45.5833#0#3
+Saudia Arabia#Tabarjal#30.4978#38.2194#0#3
+Saudia Arabia#Tabouk#28.3833#36.5833#0#3
+Saudia Arabia#Taif#21.2703#40.4158#0#3
+Saudia Arabia#Tamrah#20.3983#45.415#0#3
+Saudia Arabia#Tanumah#27.1#44.1333#0#3
+Saudia Arabia#Tarut#26.5725#50.065#0#3
+Saudia Arabia#Tarut Island#26.5667#50.0667#0#3
+Saudia Arabia#Thadig#25.2964#45.8658#0#3
+Saudia Arabia#Tobi#26.5578#49.9917#0#3
+Saudia Arabia#Turaif#31.6919#38.7342#0#3
+Saudia Arabia#Udhailiyah#25.1403#49.2981#0#3
+Saudia Arabia#Umm as Sahik#26.6536#49.9164#0#3
+Saudia Arabia#Unaiza#26.0956#43.9797#0#3
+Saudia Arabia#Unayzah#29.25#42.55#0#3
+Saudia Arabia#Uthmaniya#25.25#49.25#0#3
+Saudia Arabia#Valantawa#25.2167#40.7667#0#3
+Saudia Arabia#Wadi ad Dawasir#20.65#45.15#0#3
+Saudia Arabia#Wadi ad Dawasir#20.3989#46.4789#0#3
+Saudia Arabia#Wadi ad Dowsiri#22.5711#47.9661#0#3
+Saudia Arabia#Wejh#26.2333#36.4667#0#3
+Saudia Arabia#Yabrin#23.25#48.9167#0#3
+Saudia Arabia#Yaf`ah#17.7667#43.1833#0#3
+Saudia Arabia#Yamama#24.1942#47.3736#0#3
+Saudia Arabia#Yanbu al Sinaiyah#23.9994#38.2275#0#3
+Saudia Arabia#Yanbu` an Nakhl#24.3333#38.4167#0#3
+Saudia Arabia#Yarfa`#24.6167#38.5833#0#3
+Saudia Arabia#Yatab#27.5#41.9333#0#3
+Saudia Arabia#Yenbo#24.0853#38.0486#0#3
+Saudia Arabia#Yuhan#18.2167#42.5333#0#3
+Saudia Arabia#Zahran#19.7167#41.35#0#3
+Saudia Arabia#Zilfi#26.2967#44.8036#0#3
+Saudia Arabia#Zuluf#28.375#49.2917#0#3

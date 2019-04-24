@@ -1,0 +1,101 @@
+﻿
+Thailand#Amnat Charoen#15.85#104.6333#149#7
+Thailand#Amphoe Na Klang#17.3075#102.1794#254#7
+Thailand#Amphoe Tha Bo#17.845#102.5842#149#7
+Thailand#Ban Bang Sao Thong#13.66667#100.8167#2#7
+Thailand#Ban Lam Luk Ka#13.97738#100.7778#2#7
+Thailand#Ban Mae Chan#20.14722#99.85389#420#7
+Thailand#Ban Mai#7.2#100.55#181#7
+Thailand#Ban Na#17.03056#99.7525#54#7
+Thailand#Ban Phaeo#13.58333#100.1167#2#7
+Thailand#Ban Phai#16.06667#102.7333#173#7
+Thailand#Ban Phattha Ya#12.93333#100.8833#8#7
+Thailand#Ban Pong#13.81667#99.88333#19#7
+Thailand#Ban Rangsit#14.01667#100.7333#10#7
+Thailand#Bang Bua Thong#13.91667#100.4333#2#7
+Thailand#Bang Kruai#13.8#100.4833#2#7
+Thailand#Bang Lamung#13.04704#100.9289#4#7
+Thailand#Bang Phae#13.7#99.93333#6#7
+Thailand#Bangkok#13.75#100.5167#2#7
+Thailand#Betong#5.75#101.0833#284#7
+Thailand#Cha-am#12.8#99.96667#8#7
+Thailand#Chachoengsao#13.7#101.0833#2#7
+Thailand#Chaiyaphum#15.8#102.0333#198#7
+Thailand#Changwat Rayong#12.68333#101.2833#8#7
+Thailand#Chanthaburi#12.6#102.15#6#7
+Thailand#Chiang Mai#18.79028#98.98167#312#7
+Thailand#Chiang Rai#19.9#99.83334#386#7
+Thailand#Chon Buri#13.36667#100.9833#-9999#7
+Thailand#Chum Phae#16.53333#102.1#217#7
+Thailand#Chumphon#10.5#99.16666#11#7
+Thailand#Det Udom#14.905#105.0772#140#7
+Thailand#Hat Yai#7.016667#100.4667#71#7
+Thailand#Hua Hin#12.57065#99.95876#-9999#7
+Thailand#Kaeng Khoi#14.58806#101.0031#27#7
+Thailand#Kalasin#16.43333#103.5#152#7
+Thailand#Kamphaeng Phet#16.46667#99.5#72#7
+Thailand#Kanchanaburi#14.00412#99.54832#21#7
+Thailand#Kantharalak#14.65#104.65#147#7
+Thailand#Kathu#7.916667#98.35#159#7
+Thailand#Khlong Luang#14.06667#100.65#8#7
+Thailand#Khon Kaen#16.43333#102.8333#162#7
+Thailand#Klaeng#12.78333#101.65#9#7
+Thailand#Ko Samui#9.534225#99.93537#17#7
+Thailand#Krabi#8.066667#98.91666#2#7
+Thailand#Krathum Baen#13.65#100.2667#2#7
+Thailand#Lampang#18.29833#99.50723#224#7
+Thailand#Loei#17.48333#101.7167#254#7
+Thailand#Lop Buri#14.8#100.6167#6#7
+Thailand#Mae Sot#16.71667#98.56667#208#7
+Thailand#Maha Sarakham#16.18333#103.3#143#7
+Thailand#Mukdahan#16.53333#104.7167#154#7
+Thailand#Nakhon Pathom#13.81667#100.05#4#7
+Thailand#Nakhon Phanom#17.4#104.7833#140#7
+Thailand#Nakhon Ratchasima#14.97066#102.102#183#7
+Thailand#Nakhon Si Thammarat#8.433333#99.96667#10#7
+Thailand#Narathiwat#6.424444#101.8236#1#7
+Thailand#Nong Khae#14.33333#100.8667#8#7
+Thailand#Nong Khai#17.87611#102.7444#164#7
+Thailand#Pak Chong#14.70417#101.4131#319#7
+Thailand#Pak Kret#13.91667#100.5#2#7
+Thailand#Phatthalung#7.616667#100.0833#77#7
+Thailand#Phetchabun#16.41904#101.1606#122#7
+Thailand#Phetchaburi#13.1#99.95#5#7
+Thailand#Phichit#16.43333#100.3667#42#7
+Thailand#Phitsanulok#16.83333#100.25#41#7
+Thailand#Photharam#13.68333#99.85#8#7
+Thailand#Phra Nakhon Si Ayutthaya#14.35#100.55#14#7
+Thailand#Phra Phutthabat#14.71667#100.8#51#7
+Thailand#Phra Pradaeng#13.66667#100.5333#2#7
+Thailand#Phrae#18.15#100.1333#154#7
+Thailand#Phuket#7.883333#98.4#9#7
+Thailand#Prachin Buri#14.05028#101.3703#23#7
+Thailand#Prachuap Khiri Khan#11.82098#99.7841#13#7
+Thailand#Pran Buri#12.38333#99.91666#3#7
+Thailand#Ratchaburi#13.53333#99.8#6#7
+Thailand#Roi Et#16.0567#103.6531#149#7
+Thailand#Sadao#6.633333#100.4333#71#7
+Thailand#Sakon Nakhon#17.16667#104.15#174#7
+Thailand#Sam Phran#13.71667#100.2167#2#7
+Thailand#Samut Prakan#13.59934#100.5968#2#7
+Thailand#Samut Sakhon#13.53333#100.2833#2#7
+Thailand#Samut Songkhram#13.4#100#5#7
+Thailand#San Kamphaeng#18.74222#99.1225#296#7
+Thailand#Sattahip#12.66667#100.9#13#7
+Thailand#Satun#6.616667#100.0667#18#7
+Thailand#Si Racha#13.16667#100.9333#-9999#7
+Thailand#Si Sa Ket#15.11667#104.3333#120#7
+Thailand#Sungai Kolok#6.026667#101.9678#54#7
+Thailand#Suphan Buri#14.46667#100.1167#10#7
+Thailand#Surat Thani#9.133333#99.31667#2#7
+Thailand#Surin#14.88333#103.4833#158#7
+Thailand#Tha Maka#13.9#99.76667#20#7
+Thailand#Tha Yang#12.95772#99.90555#13#7
+Thailand#Trang#7.556334#99.6114#33#7
+Thailand#Ubon Ratchathani#15.23306#104.8631#128#7
+Thailand#Udon Thani#17.4075#102.7931#175#7
+Thailand#Uttaradit#17.63111#100.1008#75#7
+Thailand#Warin Chamrap#15.2#104.8833#138#7
+Thailand#Wichian Buri#15.65889#101.1125#107#7
+Thailand#Yala#6.542778#101.2836#33#7
+Thailand#Yaring#6.861667#101.365#1#7

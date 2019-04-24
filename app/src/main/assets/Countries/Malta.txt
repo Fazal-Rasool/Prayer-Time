@@ -1,0 +1,36 @@
+﻿
+Malta#Ansongo#15.65944#0.501667#231#1
+Malta#Araouane#18.90476#-3.52649#288#1
+Malta#Bafoulabe#13.8#-10.8333#84#1
+Malta#Bamako#12.65#-8#350#1
+Malta#Banamba#13.55#-7.45#373#1
+Malta#Bandiagara#14.35005#-3.61038#404#1
+Malta#Bougouni#11.41667#-7.48333#333#1
+Malta#Dire#12.28333#-10.9667#204#1
+Malta#Djenne#13.90608#-4.55332#274#1
+Malta#Douentza#15#-2.95#287#1
+Malta#Gao#-0.04472#16.27167#227#1
+Malta#Goundam#16.41667#-3.66667#336#1
+Malta#Kangaba#11.93333#-8.41667#347#1
+Malta#Kati#12.74667#-8.07139#440#1
+Malta#Kayes Ndi#14.46667#-11.4333#48#1
+Malta#Ke Massina#13.96667#-5.36667#255#1
+Malta#Kemparana#12.83333#-4.93333#304#1
+Malta#Kidal#18.44111#1.407778#457#1
+Malta#Kita#13.05#-9.48333#393#1
+Malta#Kolokani#13.58333#-8.03333#380#1
+Malta#Kolondieba#11.08333#-6.9#317#1
+Malta#Koulikoro#12.86611#-7.56056#345#1
+Malta#Koutiala#12.38333#-5.46667#325#1
+Malta#Markala#13.68333#-6.08333#268#1
+Malta#Menaka#15.91667#2.4#303#1
+Malta#Mopti#14.49302#-4.1942#276#1
+Malta#Niafounke#15.93333#-4#267#1
+Malta#San#13.3#-4.9#277#1
+Malta#Segou#13.45#-6.26667#272#1
+Malta#Sikasso#11.31667#-5.66667#412#1
+Malta#Sokolo#14.73333#-6.13333#263#1
+Malta#Taoudenni#22.67833#-3.98361#299#1
+Malta#Tenenkou#14.46667#-4.91667#275#1
+Malta#Tombouctou#16.77348#-3.00742#259#1
+Malta#Yorosso#12.36667#-4.78333#380#1

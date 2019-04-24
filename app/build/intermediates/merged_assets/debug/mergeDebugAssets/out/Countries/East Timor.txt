@@ -1,0 +1,80 @@
+﻿
+East Timor#Bacau#-8.4711#126.4583#0#9
+East Timor#Dili#-8.5586#125.5736#0#9
+East Timor#Ecapo#-8.6783#125.3725#0#9
+East Timor#Eduquele#-8.6172#126.5219#0#9
+East Timor#Ejomenu#-9.4417#124.3031#0#9
+East Timor#Elomar#-8.7092#126.8283#0#9
+East Timor#Erbean#-8.8492#125.5406#0#9
+East Timor#Ergoa#-8.6833#125.3647#0#9
+East Timor#Ergoi#-8.74#125.4503#0#9
+East Timor#Erhetu#-8.8344#125.5203#0#9
+East Timor#Erito#-8.6525#125.1714#0#9
+East Timor#Ermera#-8.7522#125.3969#0#9
+East Timor#Ernaro#-8.8419#125.66#0#9
+East Timor#Eroho#-8.7311#125.3817#0#9
+East Timor#Esloso#-8.6775#125.235#0#9
+East Timor#Etevata#-8.6958#126.8122#0#9
+East Timor#Ilalein#-8.6997#126.5697#0#9
+East Timor#Ilatkora#-8.9256#125.3894#0#9
+East Timor#Ilicoa#-8.6086#127.0044#0#9
+East Timor#Ilimbaba#-8.5231#125.9017#0#9
+East Timor#Ilpo#-9.1353#125.2072#0#9
+East Timor#Inur Gouilo#-8.5892#125.3106#0#9
+East Timor#Inur Kemaledegana#-8.605#125.2217#0#9
+East Timor#Inur Kliseilu#-8.5797#125.3519#0#9
+East Timor#Inur Siailo#-8.6033#125.2514#0#9
+East Timor#Ioro#-8.3992#127.2506#0#9
+East Timor#Ira Lalaro#-8.45#127.1333#0#9
+East Timor#Irabere Rivier#-8.7564#126.7417#0#9
+East Timor#Iralafai#-8.3481#126.9869#0#9
+East Timor#Iraosso#-8.5989#126.6639#0#9
+East Timor#Jaco#-8.425#127.325#0#9
+East Timor#Jembatankik#-8.5439#125.6728#0#9
+East Timor#Jimelai#-9.0814#125.2644#0#9
+East Timor#Maliana#-8.9917#125.2197#0#9
+East Timor#Qeorema#-8.8828#125.5361#0#9
+East Timor#Queleborouai#-8.5847#126.3797#0#9
+East Timor#Quelicai#-8.6025#126.5619#0#9
+East Timor#Quintal Arbiro#-8.5675#125.5853#0#9
+East Timor#Quintal Bot#-8.5642#125.5825#0#9
+East Timor#Quintal Qik#-8.56#125.5831#0#9
+East Timor#Quintaportugal#-8.7053#125.5611#0#9
+East Timor#Suai#-9.3125#125.2556#0#9
+East Timor#Viqueque#-8.8575#126.3647#0#9
+East Timor#Waiderek#-8.6425#125.9772#0#9
+East Timor#Waidua#-8.5283#126.4811#0#9
+East Timor#Waniuma#-8.4419#126.4478#0#9
+East Timor#Waudu#-8.8964#125.2911#0#9
+East Timor#We Hedan#-9.4128#125.1367#0#9
+East Timor#Wecian#-9.0692#125.9189#0#9
+East Timor#Wefau#-9.0419#124.9994#0#9
+East Timor#Welaluhu#-9.0294#125.9947#0#9
+East Timor#Weluli#-9.2769#125.065#0#9
+East Timor#Wemer#-9.2594#125.1714#0#9
+East Timor#Wesi#-9.005#125.0075#0#9
+East Timor#Zefaliu#-8.5086#126.8322#0#9
+East Timor#Zobelis#-9.0178#125.3536#0#9
+East Timor#Zoilpo#-9.125#125.3119#0#9
+East Timor#Zol Bemutin#-9.0936#125.3681#0#9
+East Timor#Zol Berumau#-9.0289#125.1875#0#9
+East Timor#Zol Hief#-9.1506#125.3717#0#9
+East Timor#Zol Ilsa#-9.065#125.3053#0#9
+East Timor#Zol Kasamau#-9.0675#125.4742#0#9
+East Timor#Zol Laco#-9.0692#125.3375#0#9
+East Timor#Zol Laro#-9.1681#125.2953#0#9
+East Timor#Zol Lelos#-9.1836#125.1242#0#9
+East Timor#Zol Leoe#-9.0764#125.4753#0#9
+East Timor#Zol Letepo#-9.1142#125.3008#0#9
+East Timor#Zol Lora#-9.1792#125.2956#0#9
+East Timor#Zol Mabesi#-9.0344#125.3444#0#9
+East Timor#Zol Mauluto#-9.0725#125.3742#0#9
+East Timor#Zol Mauteo#-9.0111#125.4789#0#9
+East Timor#Zol Oegeta#-9.1731#125.2517#0#9
+East Timor#Zol Pa#-9.0964#125.3692#0#9
+East Timor#Zol Sola#-9.1294#125.3589#0#9
+East Timor#Zol Toren#-9.1158#125.3056#0#9
+East Timor#Zol Zola#-9.1758#125.3936#0#9
+East Timor#Zulo#-9.11#125.4083#0#9
+East Timor#Zulokota#-9.1539#125.4503#0#9
+East Timor#Zulotos#-9.1125#125.4117#0#9

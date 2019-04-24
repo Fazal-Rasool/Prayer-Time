@@ -1,0 +1,39 @@
+﻿
+Papua New Guinea#Aitape#-3.13333#142.35#-9999#10
+Papua New Guinea#Ambunti#-4.23333#142.8333#1#10
+Papua New Guinea#Angoram#-4.06667#144.0667#6#10
+Papua New Guinea#Arawa#-6.21667#155.55#6#10
+Papua New Guinea#Buin#-6.83333#155.7333#1#10
+Papua New Guinea#Bulolo#-7.2#146.65#794#10
+Papua New Guinea#Daru#-9.08333#143.2#1#10
+Papua New Guinea#Finschhafen#-6.6#147.85#-9999#10
+Papua New Guinea#Goroka#-6.08333#145.3833#1515#10
+Papua New Guinea#Ialibu#-6.28333#143.9833#2005#10
+Papua New Guinea#Kainantu#-6.28333#145.8667#1558#10
+Papua New Guinea#Kandrian#-6.21667#149.55#11#10
+Papua New Guinea#Kavieng#-2.56667#150.8#1#10
+Papua New Guinea#Kerema#-7.96667#145.7667#1#10
+Papua New Guinea#Kieta#-6.21667#155.6333#64#10
+Papua New Guinea#Kimbe#-5.55#150.15#217#10
+Papua New Guinea#Kiunga#-6.11667#141.3#15#10
+Papua New Guinea#Kokoda#-8.88333#147.7333#413#10
+Papua New Guinea#Kokopo#-4.35#152.2667#1#10
+Papua New Guinea#Kundiawa#-6.01667#144.9667#1525#10
+Papua New Guinea#Lae#-6.73333#147#5#10
+Papua New Guinea#Laiagam#-5.28333#143.7667#1711#10
+Papua New Guinea#Lorengau#-2.01667#147.2667#-9999#10
+Papua New Guinea#Madang#-5.21667#145.8#1#10
+Papua New Guinea#Mendi#-6.15#143.65#1850#10
+Papua New Guinea#Morehead#-8.55#141.65#37#10
+Papua New Guinea#Mount Hagen#-5.86667#144.2167#1997#10
+Papua New Guinea#Namatanai#-3.66667#152.4333#9#10
+Papua New Guinea#Panguna#-6.25#155.5#878#10
+Papua New Guinea#Popondetta#-8.76667#148.2333#161#10
+Papua New Guinea#Porgera#-5.46667#143.2#3279#10
+Papua New Guinea#Port Moresby#-9.46472#147.1925#50#10
+Papua New Guinea#Rabaul#-4.2#152.1833#12#10
+Papua New Guinea#Samarai#-10.6167#150.6667#-9999#10
+Papua New Guinea#Vanimo#-2.68333#141.3#1#10
+Papua New Guinea#Wabag#-5.48333#143.7#2136#10
+Papua New Guinea#Wau#-7.33333#146.7167#1100#10
+Papua New Guinea#Wewak#-3.55#143.6333#-9999#10

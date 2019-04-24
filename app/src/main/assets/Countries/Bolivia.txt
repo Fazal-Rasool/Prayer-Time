@@ -1,0 +1,99 @@
+﻿
+Bolivia#Abapo#-18.8333#-63.4667#910#-4
+Bolivia#Achacachi#-16.05#-68.6833#3855#-4
+Bolivia#Aiquile#-18.1667#-65.1667#2186#-4
+Bolivia#Arani#-17.5667#-65.7667#2760#-4
+Bolivia#Ascension#-15.7#-63.0833#259#-4
+Bolivia#Atocha#-20.9333#-66.2333#3733#-4
+Bolivia#Betanzos#-19.5506#-65.4533#3325#-4
+Bolivia#Boyuibe#-20.4167#-63.2833#898#-4
+Bolivia#Buena Vista#-17.45#-63.6667#357#-4
+Bolivia#Camargo#-20.65#-65.2167#2698#-4
+Bolivia#Camiri#-20.05#-63.5167#740#-4
+Bolivia#Capinota#-17.7167#-66.2333#2409#-4
+Bolivia#Challapata#-18.9#-66.7667#3711#-4
+Bolivia#Charagua#-19.8#-63.2167#808#-4
+Bolivia#Chimore#-16.9833#-65.1333#255#-4
+Bolivia#Chulumani#-16.4096#-67.5263#1691#-4
+Bolivia#Cliza#-17.6#-65.9333#2594#-4
+Bolivia#Cobija#-11.0333#-68.7333#274#-4
+Bolivia#Cochabamba#-17.3833#-66.15#2574#-4
+Bolivia#Colchani#-20.3#-66.9333#3654#-4
+Bolivia#Colomi#-17.35#-65.8667#3443#-4
+Bolivia#Colquiri#-17.4167#-67.1333#4330#-4
+Bolivia#Comarapa#-17.9#-64.4833#1887#-4
+Bolivia#Concepcion#-16.4333#-60.9#582#-4
+Bolivia#Copacabana#-16.15#-69.0833#3949#-4
+Bolivia#Coripata#-16.3#-67.6#1624#-4
+Bolivia#Coroico#-16.1889#-67.7271#1471#-4
+Bolivia#Cotoca#-17.8167#-63.05#400#-4
+Bolivia#Entre Rios#-21.5333#-64.2#1392#-4
+Bolivia#Guayaramerin#-10.8#-65.3833#120#-4
+Bolivia#Huanuni#-18.2667#-66.85#4180#-4
+Bolivia#Huatajata#-16.2#-68.6833#3955#-4
+Bolivia#Irpa Irpa#-17.7167#-66.2667#2417#-4
+Bolivia#Isla del Sol#-16.0167#-69.15#3827#-4
+Bolivia#Jorochito#-18.05#-63.4333#601#-4
+Bolivia#La Belgica#-17.55#-63.2167#347#-4
+Bolivia#La Paz#-16.5#-68.15#3829#-4
+Bolivia#Lahuachaca#-17.3667#-67.6667#3906#-4
+Bolivia#Limoncito#-18.0167#-63.4#589#-4
+Bolivia#Llallagua#-18.4167#-66.6333#3877#-4
+Bolivia#Los Negros#-17.7333#-63.4333#477#-4
+Bolivia#Machacamarca#-18.1667#-67.0333#3690#-4
+Bolivia#Mairana#-18.1167#-63.9333#1533#-4
+Bolivia#Mapiri#-15.25#-68.1667#534#-4
+Bolivia#Mineros#-17.1167#-63.2333#254#-4
+Bolivia#Mizque#-17.9333#-65.3167#2012#-4
+Bolivia#Monteagudo#-19.8167#-63.9833#1120#-4
+Bolivia#Montero#-17.3333#-63.25#291#-4
+Bolivia#Okinawa Numero Uno#-17.2333#-62.8167#234#-4
+Bolivia#Oruro#-17.9833#-67.15#3972#-4
+Bolivia#Padilla#-19.3#-64.3#2116#-4
+Bolivia#Pailon#-17.65#-62.75#248#-4
+Bolivia#Patacamaya#-17.2333#-67.9167#3884#-4
+Bolivia#Poopo#-18.3667#-66.9667#3724#-4
+Bolivia#Portachuelo#-17.35#-63.4#298#-4
+Bolivia#Potosi#-19.5836#-65.7531#3975#-4
+Bolivia#Puerto Quijarro#-17.7833#-57.7667#94#-4
+Bolivia#Puesto de Pailas#-17.65#-62.8#253#-4
+Bolivia#Punata#-17.55#-65.8333#2553#-4
+Bolivia#Quime#-16.9833#-67.2167#3335#-4
+Bolivia#Reyes#-14.3167#-67.3833#293#-4
+Bolivia#Riberalta#-10.9833#-66.1#134#-4
+Bolivia#Robore#-18.3333#-59.75#311#-4
+Bolivia#Rurrenabaque#-14.4412#-67.5278#251#-4
+Bolivia#Samaipata#-18.15#-63.8667#1870#-4
+Bolivia#San Borja#-14.8167#-66.85#229#-4
+Bolivia#San Carlos#-17.4#-63.75#311#-4
+Bolivia#San Ignacio de Velasco#-16.3667#-60.95#563#-4
+Bolivia#San Juan del Surutu#-17.4833#-63.7#355#-4
+Bolivia#San Julian#-17.7833#-62.8667#302#-4
+Bolivia#San Matias#-16.3667#-58.4#172#-4
+Bolivia#San Pablo#-16.2167#-68.8333#3823#-4
+Bolivia#San Pedro#-16.2333#-68.85#3823#-4
+Bolivia#San Ramon#-14.4833#-63.15#235#-4
+Bolivia#Santa Barbara#-20.9167#-66.05#4824#-4
+Bolivia#Santa Cruz de la Sierra#-17.8#-63.1667#439#-4
+Bolivia#Santa Rita#-17.9667#-63.35#600#-4
+Bolivia#Santa Rosa#-14.1667#-66.8833#208#-4
+Bolivia#Santiago del Torno#-17.9833#-63.3833#556#-4
+Bolivia#Sipe Sipe#-17.45#-66.3833#2686#-4
+Bolivia#Sorata#-15.7667#-68.6333#4391#-4
+Bolivia#Sucre#-19.0431#-65.2592#2759#-4
+Bolivia#Tarabuco#-19.1667#-64.9167#3294#-4
+Bolivia#Tarata#-17.6167#-66.0167#2775#-4
+Bolivia#Tarija#-21.5355#-64.7296#2135#-4
+Bolivia#Tiahuanaco#-16.55#-68.7#3846#-4
+Bolivia#Tomas Barron#-17.5833#-67.5167#3770#-4
+Bolivia#Trinidad#-14.8333#-64.9#155#-4
+Bolivia#Tupiza#-21.45#-65.7167#3097#-4
+Bolivia#Urubicha#-15.3833#-62.95#245#-4
+Bolivia#Uyuni#-20.4667#-66.8333#3650#-4
+Bolivia#Vallegrande#-18.4897#-64.1069#1985#-4
+Bolivia#Villa Yapacani#-17.4#-63.8333#286#-4
+Bolivia#Villamontes#-21.25#-63.5#440#-4
+Bolivia#Villazon#-22.1#-65.6#3408#-4
+Bolivia#Viloco#-16.95#-67.55#3991#-4
+Bolivia#Warnes#-17.5#-63.1667#331#-4
+Bolivia#Yacuiba#-22.0333#-63.6833#858#-4

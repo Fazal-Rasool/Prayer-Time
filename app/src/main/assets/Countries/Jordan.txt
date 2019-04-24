@@ -1,0 +1,70 @@
+﻿
+Jordan#`Ajlun#32.33389#35.75083#786#2
+Jordan#`Anjarah#32.30694#35.75361#845#2
+Jordan#`Ayn Janna#32.33333#35.76667#1064#2
+Jordan#`Ayy#31.13333#35.64083#834#2
+Jordan#`Izra#31.15889#35.69278#1123#2
+Jordan#Adir#31.2#35.76667#975#2
+Jordan#Al `Aqabah#29.52667#35.00778#38#2
+Jordan#Al Bunayyat ash Shamaliyah#31.9#35.88334#906#2
+Jordan#Al Jafr#30.29333#36.21389#854#2
+Jordan#Al Jizah#31.7#35.95#731#2
+Jordan#Al Jubayhah#32.01667#35.86666#1000#2
+Jordan#Al Karamah#31.95222#35.57917#-279#2
+Jordan#Al Kittah#32.27833#35.8425#736#2
+Jordan#Al Mafraq#32.35#36.2#696#2
+Jordan#Al Mazar#31.06556#35.69611#1264#2
+Jordan#Al Qasr#31.31444#35.745#936#2
+Jordan#Al Quwayrah#29.8#35.31667#825#2
+Jordan#Al Quwaysimah#31.91667#35.95#951#2
+Jordan#Amman#31.95#35.93333#765#2
+Jordan#Ar Rabbah#31.27028#35.73861#926#2
+Jordan#Ar Ramtha#32.55917#36.00694#491#2
+Jordan#As Salt#32.03917#35.72722#759#2
+Jordan#Ash Shajarah#32.65#35.93333#241#2
+Jordan#At Tafilah#30.83333#35.6#986#2
+Jordan#At Tayyibah#32.54167#35.71695#306#2
+Jordan#At Turrah#32.64139#35.99194#483#2
+Jordan#Aydun#32.50722#35.8575#646#2
+Jordan#Balila#32.38472#35.9325#867#2
+Jordan#Bayt Idis#32.43694#35.69972#583#2
+Jordan#Bayt Yafa#32.51667#35.78333#511#2
+Jordan#Burma#32.22#35.78111#666#2
+Jordan#Busayra#30.73333#35.6#1043#2
+Jordan#Dayr Yusuf#32.49194#35.79556#573#2
+Jordan#Hakama#32.595#35.88611#512#2
+Jordan#Halawah#32.38639#35.66083#342#2
+Jordan#Hatim#32.64528#35.77833#437#2
+Jordan#Irbid#32.55556#35.85#584#2
+Jordan#Jarash#32.28056#35.89528#528#2
+Jordan#Jawa#31.85#35.93333#852#2
+Jordan#Judayta#32.4#35.7#329#2
+Jordan#Kafr Abil#32.41833#35.67#444#2
+Jordan#Kafr Asad#32.6#35.71667#302#2
+Jordan#Kafr Sawm#32.68333#35.8#468#2
+Jordan#Kharja#32.66667#35.88334#405#2
+Jordan#Kitim#32.43944#35.89695#846#2
+Jordan#Kurayyimah#32.27917#35.59778#-209#2
+Jordan#Madaba#31.71667#35.8#745#2
+Jordan#Malka#32.67444#35.75222#450#2
+Jordan#Qafqafa#32.35056#35.9375#974#2
+Jordan#Qir Moav#31.18472#35.70472#1016#2
+Jordan#Qumaym#32.57028#35.73167#298#2
+Jordan#Raymun#32.28333#35.83333#773#2
+Jordan#Sabha#32.33333#36.5#837#2
+Jordan#Sahab#31.87861#36.00444#858#2
+Jordan#Saham#32.69833#35.77611#423#2
+Jordan#Sakhrah#32.36972#35.845#1105#2
+Jordan#Sakib#32.28528#35.80972#862#2
+Jordan#Sal#32.56944#35.91195#574#2
+Jordan#Samma#32.57222#35.69083#325#2
+Jordan#Suf#32.3175#35.83556#898#2
+Jordan#Tibnah#32.48333#35.73333#625#2
+Jordan#Umm al Qittayn#32.31667#36.63334#968#2
+Jordan#Umm as Summaq#31.88333#35.85#968#2
+Jordan#Umm Qays#32.655#35.68361#373#2
+Jordan#Wadi as Sir#31.95#35.81667#929#2
+Jordan#Wadi Musa#30.31667#35.48333#1064#2
+Jordan#Waqqas#32.55#35.6#-134#2
+Jordan#Yarqa#31.97861#35.69333#671#2
+Jordan#Zahar#32.56667#35.7775#413#2

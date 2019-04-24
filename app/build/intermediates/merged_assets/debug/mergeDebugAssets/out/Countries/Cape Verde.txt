@@ -1,0 +1,15 @@
+﻿
+Cape Verde#Assomada#15.1#-23.6833324#338#-1
+Cape Verde#Mindelo#16.883333#-25#62#-1
+Cape Verde#Pombas#17.15#-25.0166664#13#-1
+Cape Verde#Ponta do Sol#17.2#-25.1000004#50#-1
+Cape Verde#Porto dos Mosteiros#15.033333#-24.333334#1#-1
+Cape Verde#Porto Novo#17.019692#-25.0647068#-9999#-1
+Cape Verde#Praia#14.916667#-23.5166664#-9999#-1
+Cape Verde#Sal Rei#16.183333#-22.916666#1#-1
+Cape Verde#Santa Cruz#15.133333#-23.5666676#57#-1
+Cape Verde#Santa Maria#16.6#-22.8999996#13#-1
+Cape Verde#Sao Filipe#14.9#-24.5166664#-9999#-1
+Cape Verde#Tarrafal#15.283333#-23.7666664#251#-1
+Cape Verde#Vila da Ribeira Brava#16.616667#-24.2999992#208#-1
+Cape Verde#Vila do Maio#15.133333#-23.2166672#2#-1

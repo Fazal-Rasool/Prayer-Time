@@ -1,0 +1,63 @@
+﻿
+Sri Lanka#Ambalangoda#6.225#80.05666#-9999#5.5
+Sri Lanka#Ampara#7.283333#81.66666#68#5.5
+Sri Lanka#Anuradhapura#8.356475#80.41726#79#5.5
+Sri Lanka#Badulla#6.983333#81.05#774#5.5
+Sri Lanka#Battaramulla#6.9#79.91666#47#5.5
+Sri Lanka#Batticaloa#7.716667#81.7#1#5.5
+Sri Lanka#Bentota#6.421111#79.99889#-9999#5.5
+Sri Lanka#Beruwala#6.473889#79.98417#2#5.5
+Sri Lanka#Chilaw#7.575833#79.79528#3#5.5
+Sri Lanka#Colombo#6.931944#79.84778#1#5.5
+Sri Lanka#Dambulla#7.86#80.65166#213#5.5
+Sri Lanka#Eravur#7.766667#81.6#14#5.5
+Sri Lanka#Galkissa#6.833333#79.86667#3#5.5
+Sri Lanka#Galle#6.053611#80.21167#13#5.5
+Sri Lanka#Gampaha#7.091667#79.99416#14#5.5
+Sri Lanka#Gampola#7.164722#80.57667#568#5.5
+Sri Lanka#Hanwella Ihala#6.9#80.08334#81#5.5
+Sri Lanka#Haputale#6.766667#80.96667#1516#5.5
+Sri Lanka#Hatton#6.897222#80.59583#1187#5.5
+Sri Lanka#Hendala#6.983889#79.87639#1#5.5
+Sri Lanka#Hikkaduwa#6.140278#80.10389#2#5.5
+Sri Lanka#Homagama#6.840833#80.01389#112#5.5
+Sri Lanka#Horana#6.716667#80.06#93#5.5
+Sri Lanka#Horawala Junction#6.48088#80.12708#129#5.5
+Sri Lanka#Ja-Ela#7.084444#79.89472#5#5.5
+Sri Lanka#Jaffna#9.666667#80#1#5.5
+Sri Lanka#Kadugannawa#7.253611#80.5275#604#5.5
+Sri Lanka#Kalmunai#7.416667#81.81667#1#5.5
+Sri Lanka#Kalutara#6.576111#79.96584#3#5.5
+Sri Lanka#Kandana#7.047778#79.89389#6#5.5
+Sri Lanka#Kandy#7.296389#80.635#473#5.5
+Sri Lanka#Katunayaka#7.164722#79.87305#2#5.5
+Sri Lanka#Kelaniya#6.96#79.89778#4#5.5
+Sri Lanka#Kilinochchi#9.4#80.4#15#5.5
+Sri Lanka#Kolonnawa#6.931667#79.89445#19#5.5
+Sri Lanka#Kotikawatta#6.933333#79.91666#22#5.5
+Sri Lanka#Kuliyapitiya#7.470833#80.04556#91#5.5
+Sri Lanka#Kurunegala#7.486667#80.36472#161#5.5
+Sri Lanka#Maharagama#6.846111#79.92805#49#5.5
+Sri Lanka#Minuwangoda#7.173333#79.96194#20#5.5
+Sri Lanka#Monaragala#6.866667#81.35#163#5.5
+Sri Lanka#Moratuwa#6.773333#79.8825#-9999#5.5
+Sri Lanka#Mulleriyawa#6.933333#79.93333#23#5.5
+Sri Lanka#Negombo#7.208611#79.83583#2#5.5
+Sri Lanka#Nuwara Eliya#6.970779#80.78286#2085#5.5
+Sri Lanka#Panadura#6.713333#79.90417#1#5.5
+Sri Lanka#Peliyagoda#6.95#79.9#3#5.5
+Sri Lanka#Pita Kotte#6.883333#79.9#37#5.5
+Sri Lanka#Point Pedro#9.816667#80.23333#1#5.5
+Sri Lanka#Puttalam#8.033333#79.81667#-9999#5.5
+Sri Lanka#Ratnapura#6.682778#80.39917#128#5.5
+Sri Lanka#Sigiriya#7.95#80.75#310#5.5
+Sri Lanka#Sri Jayewardenepura Kotte#6.902778#79.90833#35#5.5
+Sri Lanka#Talawakele#6.936667#80.66111#1238#5.5
+Sri Lanka#Tangalla#6.023056#80.78889#2#5.5
+Sri Lanka#Trincomalee#8.566667#81.23333#1#5.5
+Sri Lanka#Valvedditturai#9.816667#80.16666#1#5.5
+Sri Lanka#Vavuniya#8.75#80.5#89#5.5
+Sri Lanka#Wattala#6.989722#79.89333#2#5.5
+Sri Lanka#Wattegama#6.8#81.5#123#5.5
+Sri Lanka#Weligama#5.966667#80.41666#9#5.5
+Sri Lanka#Welisara#7.033333#79.9#7#5.5

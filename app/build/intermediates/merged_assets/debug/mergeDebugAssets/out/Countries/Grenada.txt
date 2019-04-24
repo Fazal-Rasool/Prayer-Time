@@ -1,0 +1,6 @@
+﻿
+Grenada#Gouyave#12.166667#-61.7333336#18#-4
+Grenada#Grenville#12.116667#-61.6166649#1#-4
+Grenada#Hillsborough#12.483333#-61.4666672#1#-4
+Grenada#Sauteurs#12.216667#-61.6333351#145#-4
+Grenada#Victoria#12.190207#-61.7067719#94#-4

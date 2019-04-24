@@ -1,0 +1,57 @@
+﻿
+Taiwan#Bien Dong#15#115#0#8
+Taiwan#Bonfire Island#22.6667#121.4833#0#8
+Taiwan#Bush Islet#25.1667#121.75#0#8
+Taiwan#Ch -cha#22.9833#120.45#0#8
+Taiwan#Chung-li#24.1067#120.4583#0#8
+Taiwan#Daibyo Island#23.3167#119.3167#0#8
+Taiwan#Daisho Island#23.2103#119.4214#0#8
+Taiwan#Daiso Bay#23.6333#119.5667#0#8
+Taiwan#Daiso Island#23.6167#119.5667#0#8
+Taiwan#Daiton Mountain#25.1778#121.5172#0#8
+Taiwan#Dakusui River#24.05#120.4#0#8
+Taiwan#Dome Island#23.5333#119.5333#0#8
+Taiwan#Dragon Lake#23.8603#120.9225#0#8
+Taiwan#Godd Rock#21.7333#121.6167#0#8
+Taiwan#Gokwan Mountain#24.15#121.2667#0#8
+Taiwan#Gordon Island#26.2714#119.9847#0#8
+Taiwan#Guran River#24.7167#121.8167#0#8
+Taiwan#Gyoo Island#23.6036#119.5039#0#8
+Taiwan#Gyucho-kei#23.4667#120.2333#0#8
+Taiwan#Hsin-chu#24.8047#120.9714#0#8
+Taiwan#Kao-hsiung (T ai-wan)#24.4167#120.9#0#8
+Taiwan#Kao-hsiung#22.6178#120.3014#0#8
+Taiwan#Kao-hsiung Shih#22.6667#120.2833#0#8
+Taiwan#Kao-sung#22.5667#120.3667#0#8
+Taiwan#Keelung#25.1314#121.7375#0#8
+Taiwan#O-kuan#22.8#120.3833#0#8
+Taiwan#O-kung-chi#24.6167#121.05#0#8
+Taiwan#Oko Rock#23.7833#119.5333#0#8
+Taiwan#Pin Tung Hsien#22.5#120.6667#0#8
+Taiwan#Quemoy#24.4458#118.3761#0#8
+Taiwan#Quemoy Channel#24.4425#118.2772#0#8
+Taiwan#Quemoy Chiang#24.3908#118.2433#0#8
+Taiwan#Quemoyhsien#24.4367#118.3183#0#8
+Taiwan#Ragged islet#23.6167#119.6833#0#8
+Taiwan#Rantai Mountain#23.7333#120.9833#0#8
+Taiwan#Reef Islands#23.2667#119.5#0#8
+Taiwan#Rinto Rock#23.5333#119.65#0#8
+Taiwan#Risei Point#23.55#119.6833#0#8
+Taiwan#River Aloe#22.2833#120.8833#0#8
+Taiwan#River Hsia Tam Sui#22.4667#120.4167#0#8
+Taiwan#River Nanao#24.45#121.8#0#8
+Taiwan#Rocky Shokoto Island#21.95#121.6#0#8
+Taiwan#Rokan Road#24.0833#120.3333#0#8
+Taiwan#Rokushaku Reef#23.4833#119.75#0#8
+Taiwan#Rokuzyotai Mountain#24.5#121.0667#0#8
+Taiwan#Rover Channel#23.4333#119.5167#0#8
+Taiwan#Rover Group#23.3833#119.5#0#8
+Taiwan#Rover Knob#23.3667#119.5333#0#8
+Taiwan#Ryukyusyo Island#22.3383#120.37#0#8
+Taiwan#Taichung#24#120.6666#0#8
+Taiwan#Tainan Canal#23#120.1833#0#8
+Taiwan#Taipeh#25.0392#121.525#0#8
+Taiwan#Taiwan#23.5#121#0#8
+Taiwan#Vele Rete Rocks#21.7667#120.8167#0#8
+Taiwan#Veterans Hospital#22.6833#120.5833#0#8
+Taiwan#Wan-chia#25.2167#121.6333#0#8

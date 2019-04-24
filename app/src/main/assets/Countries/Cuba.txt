@@ -1,0 +1,101 @@
+﻿
+Cuba#Abreus#22.2775#-80.5674973#12#-5
+Cuba#Aguada de Pasajeros#22.385#-80.8508301#22#-5
+Cuba#Alquizar#22.805833#-82.5841675#19#-5
+Cuba#Artemisa#22.813056#-82.7619476#44#-5
+Cuba#Bahia Honda#22.903611#-83.1591644#15#-5
+Cuba#Banes#20.9625#-75.7186127#48#-5
+Cuba#Baracoa#20.346667#-74.4958344#1#-5
+Cuba#Baragua#21.696667#-78.6327744#3#-5
+Cuba#Bauta#22.982778#-82.5463867#66#-5
+Cuba#Bayamo#20.379167#-76.6433334#53#-5
+Cuba#Bejucal#22.928611#-82.3886108#144#-5
+Cuba#Cabaiguan#22.078889#-79.4991684#133#-5
+Cuba#Caibarien#22.520556#-79.4669418#3#-5
+Cuba#Calimete#22.533333#-80.9061127#25#-5
+Cuba#Camaguey#21.380833#-77.9169464#91#-5
+Cuba#Camajuani#22.483333#-79.75#97#-5
+Cuba#Campechuela#20.234167#-77.2788925#14#-5
+Cuba#Cardenas#23.0375#-81.2047195#2#-5
+Cuba#Chambas#22.192778#-78.9136124#34#-5
+Cuba#Ciego de Avila#21.84#-78.7619476#43#-5
+Cuba#Cienfuegos#22.146111#-80.4355545#22#-5
+Cuba#Cifuentes#22.645#-80.0461121#75#-5
+Cuba#Colombia#20.988056#-77.4297256#59#-5
+Cuba#Colon#22.719167#-80.9058304#55#-5
+Cuba#Condado#21.876667#-79.8402786#25#-5
+Cuba#Consolacion del Sur#22.504722#-83.5136108#64#-5
+Cuba#Contramaestre#20.297778#-76.2413864#100#-5
+Cuba#Corralillo#22.981944#-80.585556#36#-5
+Cuba#Cruces#22.341111#-80.2666702#93#-5
+Cuba#Cueto#20.643889#-75.9355545#68#-5
+Cuba#Cumanayagua#22.149444#-80.2022247#66#-5
+Cuba#Encrucijada#22.616944#-79.871109#46#-5
+Cuba#Esmeralda#21.8525#-78.1169434#32#-5
+Cuba#Florida#21.524722#-78.2258301#62#-5
+Cuba#Fomento#22.103889#-79.7216644#122#-5
+Cuba#Gibara#21.109722#-76.1316681#1#-5
+Cuba#Guaimaro#21.05#-77.3499985#74#-5
+Cuba#Guanajay#22.926389#-82.6875#116#-5
+Cuba#Guane#22.2025#-84.0875015#10#-5
+Cuba#Guantanamo#20.144444#-75.2091675#46#-5
+Cuba#Guines#22.836111#-82.0280533#60#-5
+Cuba#Guira de Melena#22.790556#-82.5052795#14#-5
+Cuba#Guisa#20.255#-76.5386124#247#-5
+Cuba#Havana#23.131944#-82.3641663#5#-5
+Cuba#Holguin#20.887222#-76.2630539#135#-5
+Cuba#Jaguey Grande#22.526944#-81.1286087#9#-5
+Cuba#Jaruco#23.043056#-82.0108337#123#-5
+Cuba#Jatibonico#21.941944#-79.1699982#94#-5
+Cuba#Jiguani#20.366667#-76.4272232#137#-5
+Cuba#Jobabo#20.969167#-76.2994461#117#-5
+Cuba#Jovellanos#22.804444#-81.1944427#32#-5
+Cuba#Las Tunas#20.961667#-76.9511108#88#-5
+Cuba#Los Palacios#22.587222#-83.2486115#34#-5
+Cuba#Madruga#22.911389#-81.8561096#135#-5
+Cuba#Manicaragua#22.149444#-79.9736099#152#-5
+Cuba#Manzanillo#20.343333#-77.1166687#16#-5
+Cuba#Mariel#22.9875#-82.7536087#68#-5
+Cuba#Matanzas#23.041111#-81.5774994#4#-5
+Cuba#Media Luna#20.141944#-77.4349976#9#-5
+Cuba#Minas#21.483333#-77.6166687#61#-5
+Cuba#Moa#20.656944#-74.9402771#10#-5
+Cuba#Moron#22.109444#-78.6275024#7#-5
+Cuba#Niquero#20.043056#-77.5827789#8#-5
+Cuba#Nueva Gerona#21.883333#-82.8000031#18#-5
+Cuba#Nuevitas#21.545278#-77.2644424#17#-5
+Cuba#Palma Soriano#20.217222#-75.9988861#133#-5
+Cuba#Palmira#22.241667#-80.390274#65#-5
+Cuba#Pedro Betancourt#22.727222#-81.2900009#15#-5
+Cuba#Perico#22.769167#-81.0188904#33#-5
+Cuba#Pinar del Rio#22.4175#-83.6980591#44#-5
+Cuba#Placetas#22.311944#-79.6533356#197#-5
+Cuba#Primero de Enero#21.946944#-78.4283371#23#-5
+Cuba#Puerto Padre#21.195#-76.6027756#4#-5
+Cuba#Ranchuelo#22.377222#-80.1488876#100#-5
+Cuba#Remedios#22.494722#-79.5458298#26#-5
+Cuba#Rio Cauto#20.560278#-76.9161148#9#-5
+Cuba#Rio Guayabal de Yateras#20.366667#-75.0166702#456#-5
+Cuba#Rodas#22.340833#-80.5572205#25#-5
+Cuba#Sagua de Tanamo#20.581944#-75.2413864#28#-5
+Cuba#Sagua la Grande#22.806667#-80.0755539#11#-5
+Cuba#San Antonio de los Banos#22.891111#-82.4991684#55#-5
+Cuba#San Cristobal#22.714167#-83.0480576#41#-5
+Cuba#San Jose de las Lajas#22.961389#-82.1511078#131#-5
+Cuba#San Luis#20.1875#-75.8508301#178#-5
+Cuba#Sancti Spiritus#21.929722#-79.4424973#55#-5
+Cuba#Santa Clara#22.4#-79.9666672#131#-5
+Cuba#Santa Cruz del Norte#23.153889#-81.9236145#6#-5
+Cuba#Santa Cruz del Sur#20.714722#-77.9955521#2#-5
+Cuba#Santiago de Cuba#20.024722#-75.8219452#33#-5
+Cuba#Santiago de las Vegas#22.97#-82.3869476#97#-5
+Cuba#Santo Domingo#22.586667#-80.2436142#39#-5
+Cuba#Sibanicu#21.235#-77.5263901#85#-5
+Cuba#Trinidad#21.801944#-79.984169#93#-5
+Cuba#Union de Reyes#22.795278#-81.5374985#53#-5
+Cuba#Varadero#23.153611#-81.2513885#3#-5
+Cuba#Venezuela#21.735278#-78.7963867#22#-5
+Cuba#Vertientes#21.259444#-78.1463852#67#-5
+Cuba#Vinales#22.616389#-83.7077789#174#-5
+Cuba#Yaguajay#22.327222#-79.2377777#22#-5
+Cuba#Yara#20.275278#-76.953331#23#-5

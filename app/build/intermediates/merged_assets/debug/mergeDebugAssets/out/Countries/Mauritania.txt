@@ -1,0 +1,4 @@
+﻿
+Mauritania#Barkewol#16.64039#-12.4985#75#0
+Mauritania#Nouadhibou#20.9025#-17.0422#28#0
+Mauritania#Nouakchott#18.11944#-16.0406#-9999#0

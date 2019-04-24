@@ -1,0 +1,8 @@
+﻿
+Andorra#Andorra la Vella#42.505151#1.5150619#1011#1
+Andorra#Canillo#42.566667#1.6#1655#1
+Andorra#Encamp#42.533333#1.5833333#1571#1
+Andorra#la Massana#42.544987#1.5148258#1257#1
+Andorra#les Escaldes#42.507287#1.5341377#1350#1
+Andorra#Pas de la Casa#42.542773#1.7336082#2230#1
+Andorra#Sant Julia de Loria#42.463724#1.4912868#1045#1

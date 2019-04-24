@@ -1,0 +1,101 @@
+﻿
+Guatemala#Alotenango#14.480278#-90.8075027#1377#-6
+Guatemala#Amatitlan#14.4875#-90.6152802#1211#-6
+Guatemala#Antigua Guatemala#14.561111#-90.7344437#1578#-6
+Guatemala#Asuncion Mita#14.330833#-89.7108307#485#-6
+Guatemala#Barberena#14.309444#-90.3611145#1233#-6
+Guatemala#Barillas#15.803611#-91.315834#1554#-6
+Guatemala#Cantel#14.816667#-91.4499969#2374#-6
+Guatemala#Chicacao#14.533333#-91.3166656#475#-6
+Guatemala#Chichicastenango#14.933333#-91.1166687#2233#-6
+Guatemala#Chimaltenango#14.668611#-90.8166656#1798#-6
+Guatemala#Chinautla#14.708333#-90.4994431#1233#-6
+Guatemala#Chiquimula#14.8#-89.5500031#420#-6
+Guatemala#Chiquimulilla#14.085833#-90.3766632#272#-6
+Guatemala#Chisec#15.816667#-90.2833328#238#-6
+Guatemala#Ciudad Vieja#14.526389#-90.7597198#1503#-6
+Guatemala#Coatepeque#14.7#-91.8666687#439#-6
+Guatemala#Coban#15.483333#-90.3666687#1348#-6
+Guatemala#Colomba#14.716667#-91.7333298#1058#-6
+Guatemala#Comalapa#14.741111#-90.8874969#2107#-6
+Guatemala#Comitancillo#15.083333#-91.7166672#2322#-6
+Guatemala#Cuilapa#14.276389#-90.3002777#970#-6
+Guatemala#El Estor#15.533333#-89.3499985#46#-6
+Guatemala#El Palmar#14.65#-91.5833359#702#-6
+Guatemala#El Tejar#14.647778#-90.792778#1771#-6
+Guatemala#Escuintla#14.305#-90.7850037#349#-6
+Guatemala#Esquipulas#14.566667#-89.3499985#943#-6
+Guatemala#Flores#16.933333#-89.8833313#114#-6
+Guatemala#Fraijanes#14.465278#-90.440834#1586#-6
+Guatemala#Gualan#15.133333#-89.3666687#136#-6
+Guatemala#Guastatoya#14.853889#-90.0647202#561#-6
+Guatemala#Guatemala City#14.62111#-90.5269394#1533#-6
+Guatemala#Huehuetenango#15.319722#-91.4708328#1907#-6
+Guatemala#Jacaltenango#15.666667#-91.7333298#1342#-6
+Guatemala#Jalapa#14.633333#-89.9833298#1362#-6
+Guatemala#Jocotenango#14.581944#-90.7436142#1570#-6
+Guatemala#Joyabaj#14.995#-90.8061142#1405#-6
+Guatemala#Jutiapa#14.283333#-89.9000015#877#-6
+Guatemala#La Esperanza#14.866667#-91.5666656#2443#-6
+Guatemala#La Gomera#14.083333#-91.0500031#36#-6
+Guatemala#Livingston#15.833333#-88.75#-9999#-6
+Guatemala#Malacatan#14.9#-92.0500031#385#-6
+Guatemala#Mazatenango#14.533333#-91.5#343#-6
+Guatemala#Mixco#14.633333#-90.6063919#1692#-6
+Guatemala#Momostenango#15.043611#-91.4086075#2233#-6
+Guatemala#Morales#15.483333#-88.8166656#29#-6
+Guatemala#Nahuala#14.85#-91.3166656#2482#-6
+Guatemala#Nebaj#15.405833#-91.1461105#2001#-6
+Guatemala#Nuevo San Carlos#14.6#-91.6999969#376#-6
+Guatemala#Ostuncalco#14.866667#-91.6166687#2498#-6
+Guatemala#Palencia#14.664722#-90.3586121#1337#-6
+Guatemala#Palin#14.405556#-90.6983337#1138#-6
+Guatemala#Panajachel#14.733333#-91.1500015#1595#-6
+Guatemala#Panzos#15.4#-89.6666641#156#-6
+Guatemala#Patulul#14.416667#-91.1666641#298#-6
+Guatemala#Patzicia#14.631667#-90.9269409#2121#-6
+Guatemala#Patzun#14.683333#-91.0166702#2200#-6
+Guatemala#Petapa#14.502778#-90.5516663#1264#-6
+Guatemala#Poptun#16.331111#-89.4169464#530#-6
+Guatemala#Pueblo Nuevo Tiquisate#14.283333#-91.3666687#64#-6
+Guatemala#Puerto Barrios#15.716667#-88.5999985#5#-6
+Guatemala#Puerto San Jose#13.925556#-90.8244476#6#-6
+Guatemala#Quetzaltenango#14.833333#-91.5166702#2381#-6
+Guatemala#Retalhuleu#14.533333#-91.6833344#242#-6
+Guatemala#San Andres Itzapa#14.62#-90.8441696#1858#-6
+Guatemala#San Andres Xecul#14.9#-91.4833298#2446#-6
+Guatemala#San Benito#16.916667#-89.9000015#115#-6
+Guatemala#San Cristobal Verapaz#15.383333#-90.4000015#1460#-6
+Guatemala#San Francisco El Alto#14.95#-91.4499969#2582#-6
+Guatemala#San Francisco Zapotitlan#14.583333#-91.5166702#563#-6
+Guatemala#San Jose Pinula#14.546111#-90.4113922#1778#-6
+Guatemala#San Juan Sacatepequez#14.718889#-90.644165#1802#-6
+Guatemala#San Lucas Sacatepequez#14.609722#-90.6569443#2087#-6
+Guatemala#San Lucas Toliman#14.633333#-91.1333313#1962#-6
+Guatemala#San Marcos#14.966667#-91.8000031#2411#-6
+Guatemala#San Mateo Ixtatan#15.831944#-91.4780579#2514#-6
+Guatemala#San Miguel Chicaj#15.1#-90.4000015#945#-6
+Guatemala#San Pablo#14.933333#-92#586#-6
+Guatemala#San Pablo Jocopilas#14.583333#-91.4499969#598#-6
+Guatemala#San Pedro Ayampuc#14.786667#-90.4511108#1208#-6
+Guatemala#San Pedro Carcha#15.483333#-90.2666702#1278#-6
+Guatemala#San Pedro Sacatepequez#14.966667#-91.7666702#2320#-6
+Guatemala#San Pedro Sacatepequez#14.684167#-90.644165#2096#-6
+Guatemala#San Sebastian#14.566667#-91.6500015#322#-6
+Guatemala#Sanarate#14.795#-90.1922226#860#-6
+Guatemala#Santa Barbara#14.433333#-91.2333298#390#-6
+Guatemala#Santa Catarina Ixtahuacan#14.8#-91.3666687#2231#-6
+Guatemala#Santa Catarina Pinula#14.568889#-90.4952774#1520#-6
+Guatemala#Santa Cruz del Quiche#15.030556#-91.1488876#1979#-6
+Guatemala#Santa Lucia Cotzumalguapa#14.333333#-91.0166702#356#-6
+Guatemala#Santa Lucia Milpas Altas#14.575833#-90.6786118#1939#-6
+Guatemala#Santa Maria de Jesus#14.518333#-90.7266693#1656#-6
+Guatemala#Santiago Atitlan#14.638234#-91.2290115#1596#-6
+Guatemala#Santiago Sacatepequez#14.635278#-90.6763916#2013#-6
+Guatemala#Solola#14.766667#-91.1833344#2136#-6
+Guatemala#Sumpango#14.646389#-90.7338867#1880#-6
+Guatemala#Tecpan Guatemala#14.766944#-90.9941635#2354#-6
+Guatemala#Totonicapan#14.916667#-91.3666687#2480#-6
+Guatemala#Villa Canales#14.481389#-90.5316696#1277#-6
+Guatemala#Villa Nueva#14.526944#-90.5875015#1363#-6
+Guatemala#Zacapa#14.966667#-89.5333328#232#-6

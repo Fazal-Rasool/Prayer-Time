@@ -1,0 +1,127 @@
+﻿
+Dominican Republic#Acosta#19.2167#-69.3167#0#-4
+Dominican Republic#Bani#18.2667#-70.3333#0#-4
+Dominican Republic#Bavaro#18.7167#-68.45#0#-4
+Dominican Republic#Boca Chica#18.45#-69.6#0#-4
+Dominican Republic#Esperanza#19.6333#-71.05#0#-4
+Dominican Republic#Fabian#18.2167#-71.2#0#-4
+Dominican Republic#Florida#18.4#-71.6833#0#-4
+Dominican Republic#Fransua Congo#17.965#-71.6264#0#-4
+Dominican Republic#Geronimo Lopez#18.4167#-70.1833#0#-4
+Dominican Republic#Gran Diablo#19.8#-71.1167#0#-4
+Dominican Republic#Inaje#19.4333#-71.45#0#-4
+Dominican Republic#Isla Cabras#19.8667#-70.7833#0#-4
+Dominican Republic#Jeremies#19.2167#-70.4833#0#-4
+Dominican Republic#Jobo Corcobado#19.7#-71.4667#0#-4
+Dominican Republic#Jobo de Agua#19.2833#-69.2833#0#-4
+Dominican Republic#Jose E. Bisono#19.5667#-70.8667#0#-4
+Dominican Republic#Jose Joaquin#18.1333#-71.2#0#-4
+Dominican Republic#Kelli#18.45#-69.1167#0#-4
+Dominican Republic#Kilometro 11#18.4833#-69.9833#0#-4
+Dominican Republic#Kilometro 56#18.7167#-70.2333#0#-4
+Dominican Republic#Kilometro Ocho#18.8167#-69.3#0#-4
+Dominican Republic#Kilometro Seis#19.2833#-71.7#0#-4
+Dominican Republic#La Romana#18.4#-68.9333#0#-4
+Dominican Republic#La Romana#19.0667#-70.35#0#-4
+Dominican Republic#La Vega#19.2#-70.5#0#-4
+Dominican Republic#Mao#19.5833#-71.0833#0#-4
+Dominican Republic#Mao Adentro#19.5333#-71.0833#0#-4
+Dominican Republic#Mellizo#18.5833#-70.4167#0#-4
+Dominican Republic#Mende#18.4833#-70.4833#0#-4
+Dominican Republic#Miguel#18.4667#-70.15#0#-4
+Dominican Republic#Miguelito#18.4667#-71.8333#0#-4
+Dominican Republic#Mirapato#18.5167#-68.85#0#-4
+Dominican Republic#Ochoa#19.5#-69.9167#0#-4
+Dominican Republic#Ochoa#18.55#-70.1333#0#-4
+Dominican Republic#Ocoa#18.7167#-70.9333#0#-4
+Dominican Republic#Ocoa Bay#18.3667#-70.65#0#-4
+Dominican Republic#Ocoa Hill#18.2667#-70.5667#0#-4
+Dominican Republic#Ojo de Agua (Espaillat)#19.6#-70.4167#0#-4
+Dominican Republic#Ojo de Agua (Peravia)#18.55#-70.4833#0#-4
+Dominican Republic#Ojo de Agua (La Altagracia)#18.5833#-68.5833#0#-4
+Dominican Republic#Ojo de Agua (Salcedo)#19.3667#-70.4#0#-4
+Dominican Republic#Ojos de Agua (Valverde)#19.65#-70.9833#0#-4
+Dominican Republic#Ojos de Agua (Monte Plata)#18.8667#-69.7167#0#-4
+Dominican Republic#Olguin#19.7333#-70.5667#0#-4
+Dominican Republic#Olivaris#18.5#-69.2167#0#-4
+Dominican Republic#Olivero#18.9#-71.6167#0#-4
+Dominican Republic#Oregano#18.4333#-71.1167#0#-4
+Dominican Republic#Oregano Grande#18.5833#-71.15#0#-4
+Dominican Republic#Oregano Grande#18.6#-71.0167#0#-4
+Dominican Republic#Ortega#19.3833#-70.6#0#-4
+Dominican Republic#Ortiz#18.4833#-69.3#0#-4
+Dominican Republic#Oscar Duna#18.5667#-69.2333#0#-4
+Dominican Republic#Otana#18.8167#-69.8#0#-4
+Dominican Republic#Otra Banda (Santiago)#19.45#-70.7167#0#-4
+Dominican Republic#Otra Banda (La Altagracia)#18.65#-68.6667#0#-4
+Dominican Republic#Otra Banda (Samana)#19.2833#-69.4333#0#-4
+Dominican Republic#Oveja#18.7333#-69.3833#0#-4
+Dominican Republic#Oviedo#17.7833#-71.3667#0#-4
+Dominican Republic#Ozama Arriba#18.8167#-70.2167#0#-4
+Dominican Republic#Puerto Plata#19.7833#-70.6667#0#-4
+Dominican Republic#Puerto Plata International#19.75#-70.5667#0#-4
+Dominican Republic#Punta Bavaro#18.6667#-68.4#0#-4
+Dominican Republic#Punta Cana (La Romana)#18.1167#-68.5667#0#-4
+Dominican Republic#Punta Cana (La Altagracia)#18.5333#-68.3667#0#-4
+Dominican Republic#Punta Cana (San Juan)#18.8833#-71.35#0#-4
+Dominican Republic#Quebrada Honda#19.6#-70.1667#0#-4
+Dominican Republic#Quebrada Llana (Santiago)#19.3#-71#0#-4
+Dominican Republic#Quebrada Llana (Maria Trinidad Sanchez)#19.35#-70.0333#0#-4
+Dominican Republic#Quebrada Mala#19.0833#-70.6833#0#-4
+Dominican Republic#Quebradita#18.8833#-70.2167#0#-4
+Dominican Republic#Quezada#19.55#-70.2667#0#-4
+Dominican Republic#Quiabon#18.4#-68.8833#0#-4
+Dominican Republic#Quiebra Hacha#18.2167#-71.1833#0#-4
+Dominican Republic#Quimbamba#18.8#-70.3833#0#-4
+Dominican Republic#Quina Sueno#19.05#-70.1833#0#-4
+Dominican Republic#Quinigua#19.5833#-70.7167#0#-4
+Dominican Republic#Quintana#19.2667#-69.1833#0#-4
+Dominican Republic#Quiro#19.1833#-70.3667#0#-4
+Dominican Republic#Quisquella#18.4333#-71.2333#0#-4
+Dominican Republic#Quisqueya#18.55#-69.4#0#-4
+Dominican Republic#Quita Coraza#18.4667#-71.05#0#-4
+Dominican Republic#Quita Pena#18.7667#-70.5167#0#-4
+Dominican Republic#Quita Sueno (Peravia)#18.7167#-70.5#0#-4
+Dominican Republic#Quita Sueno (Monte Plata)#18.7#-70.0167#0#-4
+Dominican Republic#Santiago (Dajabon)#19.4667#-70.7#0#-4
+Dominican Republic#Santiago#19.4167#-70.7#0#-4
+Dominican Republic#Santiago de La Cruz#19.4833#-71.6333#0#-4
+Dominican Republic#Santiago Rodriguez#19.3833#-71.35#0#-4
+Dominican Republic#Santo Domingo (Distrito Nacional)#18.5833#-69.8333#0#-4
+Dominican Republic#Santo Domingo#19#-70.6667#0#-4
+Dominican Republic#Santo Domingo City#18.4667#-69.9#0#-4
+Dominican Republic#Santo Domingo De Las Americas#18.4167#-69.6667#0#-4
+Dominican Republic#Sudadero#18.8#-69.3833#0#-4
+Dominican Republic#Sumbi#18.7667#-70.3#0#-4
+Dominican Republic#Tubagua#19.6667#-70.6167#0#-4
+Dominican Republic#Tumbacoco#18.8531#-71.5236#0#-4
+Dominican Republic#Ubilla#18.3667#-71.2167#0#-4
+Dominican Republic#Ulloa#18.6#-69.4#0#-4
+Dominican Republic#Un Didero#19.4667#-70.9#0#-4
+Dominican Republic#Unijica#19.7833#-71.0333#0#-4
+Dominican Republic#Uveral#19.4167#-70.6167#0#-4
+Dominican Republic#Uvero Alto#18.8167#-68.5833#0#-4
+Dominican Republic#Vuelta Grande (Barahona)#18.5167#-71.0167#0#-4
+Dominican Republic#Vuelta Grande (Distrito Nacional)#18.5833#-69.75#0#-4
+Dominican Republic#Vuelta Larga#19.5833#-70.8333#0#-4
+Dominican Republic#Walterio#19.75#-71.6167#0#-4
+Dominican Republic#Zafarralla#19.3667#-70.4833#0#-4
+Dominican Republic#Zalamanca#18.6#-70.05#0#-4
+Dominican Republic#Zalaya#19.3833#-70.7833#0#-4
+Dominican Republic#Zamba#19.5333#-71.3333#0#-4
+Dominican Republic#Zamba Arriba#19.5167#-71.3167#0#-4
+Dominican Republic#Zambrana Abajo#18.9667#-70.1333#0#-4
+Dominican Republic#Zanja Siete#19.7333#-71.6167#0#-4
+Dominican Republic#Zanjon (Santiago)#19.2833#-70.7333#0#-4
+Dominican Republic#Zanjon (Hato Mayor)#18.9833#-69.35#0#-4
+Dominican Republic#Zapote#19.0167#-69.8667#0#-4
+Dominican Republic#Zapotillo#17.9667#-71.3333#0#-4
+Dominican Republic#Zarzal#18.8833#-70.4167#0#-4
+Dominican Republic#Zayas#18.7833#-70.15#0#-4
+Dominican Republic#Zolaya#19.3667#-70.7667#0#-4
+Dominican Republic#Zorro Muerto#17.95#-71.2833#0#-4
+Dominican Republic#Zumba#19.2#-69.8833#0#-4
+Dominican Republic#Zumbador (La Vega)#19.0833#-70.7333#0#-4
+Dominican Republic#Zumbador (Monsenor Nouel)#18.75#-70.3333#0#-4
+Dominican Republic#Zumbi#18.5#-70.2833#0#-4
+Dominican Republic#Zumbon#18.5#-70.2667#0#-4

@@ -1,0 +1,100 @@
+﻿
+Philippines#Angono#14.52556#121.1497#19#8
+Philippines#Antipolo#14.58639#121.1753#200#8
+Philippines#Apalit#14.95333#120.77#9#8
+Philippines#Arayat#15.15083#120.7731#9#8
+Philippines#Bacoor#14.45778#120.9425#5#8
+Philippines#Bago#10.53778#122.8333#1#8
+Philippines#Baguio#16.41639#120.5931#1448#8
+Philippines#Balanga#14.67611#120.5361#23#8
+Philippines#Baliuag#14.95472#120.8969#24#8
+Philippines#Batangas#13.75944#121.06#13#8
+Philippines#Binangonan#14.46556#121.1919#15#8
+Philippines#Binonga#10.77306#122.9828#12#8
+Philippines#Bocaue#14.79833#120.9261#14#8
+Philippines#Bulaon#15.08833#120.6672#27#8
+Philippines#Cabanatuan#15.48694#120.9675#34#8
+Philippines#Cadiz Viejo#10.95056#123.2856#14#8
+Philippines#Cagayan de Oro#8.482222#124.6472#8#8
+Philippines#Cainta#14.58#121.1169#38#8
+Philippines#Calamba#14.21167#121.1653#29#8
+Philippines#Calumpit#14.91639#120.7658#8#8
+Philippines#Capas#15.3275#120.5908#43#8
+Philippines#Cavite#14.4825#120.9169#-9999#8
+Philippines#Cebu City#10.31111#123.8917#27#8
+Philippines#Cotabato#7.223611#124.2464#4#8
+Philippines#Daet#14.11278#122.9558#8#8
+Philippines#Dasmarinas#14.32944#120.9367#78#8
+Philippines#Davao#7.073056#125.6128#3#8
+Philippines#Digos#6.749722#125.3572#5#8
+Philippines#Dipolog#8.589444#123.3414#-9999#8
+Philippines#Dumaguete#9.310278#123.3081#13#8
+Philippines#Gapan#15.3075#120.9453#19#8
+Philippines#General Trias#14.38694#120.8817#21#8
+Philippines#Guiguinto#14.83333#120.8833#11#8
+Philippines#Guyong#14.83861#120.9797#19#8
+Philippines#Hagonoy#14.8325#120.7333#8#8
+Philippines#Ilagan#17.14806#121.8908#63#8
+Philippines#Iloilo#10.69694#122.5644#-9999#8
+Philippines#Imus#14.42972#120.9367#16#8
+Philippines#Iriga#13.425#123.4178#27#8
+Philippines#Jolo#6.052222#121.0022#21#8
+Philippines#Kabankalan#9.988889#122.8122#12#8
+Philippines#Kawit#14.44556#120.905#3#8
+Philippines#Kidapawan#7.008333#125.0894#263#8
+Philippines#Koronadal#6.503056#124.8469#50#8
+Philippines#Laoag#18.19889#120.5936#18#8
+Philippines#Lapu-Lapu City#10.31028#123.9494#1#8
+Philippines#Legaspi Port#13.14667#123.7558#5#8
+Philippines#Libertad#8.944167#125.5019#17#8
+Philippines#Lipa#13.93944#121.1739#288#8
+Philippines#Los Banos#14.17889#121.2256#28#8
+Philippines#Lucena#13.93139#121.6172#15#8
+Philippines#Mabalacat#15.22333#120.5792#96#8
+Philippines#Malolos#14.84194#120.8117#9#8
+Philippines#Mandaue City#10.32361#123.9222#6#8
+Philippines#Mangaldan#16.06917#120.4064#32#8
+Philippines#Manila#14.60417#120.9822#4#8
+Philippines#Mansilingan#10.63111#122.9789#50#8
+Philippines#Mantampay#8.166667#124.2167#248#8
+Philippines#Marawi#7.998611#124.2928#700#8
+Philippines#Marilao#14.75778#120.9483#8#8
+Philippines#Mariveles#14.43361#120.4853#13#8
+Philippines#Mati#6.952778#126.2158#7#8
+Philippines#Meycauayan#14.73694#120.9608#12#8
+Philippines#Muricay#7.826389#123.4797#11#8
+Philippines#Naga#13.61917#123.1814#3#8
+Philippines#Norzagaray#14.91056#121.0489#56#8
+Philippines#Olongapo#14.82917#120.2828#17#8
+Philippines#Ormoc#11.00639#124.6075#1#8
+Philippines#Ozamis#8.145833#123.8444#2#8
+Philippines#Panabo#7.308056#125.6842#3#8
+Philippines#Panalanoy#11.25111#125.0064#1#8
+Philippines#Puerto Princesa#9.739167#118.7353#8#8
+Philippines#Pulilan#14.90167#120.8492#16#8
+Philippines#Rodriguez#14.7325#121.145#49#8
+Philippines#Roxas City#11.58528#122.7511#8#8
+Philippines#Sagay#10.94472#123.4242#5#8
+Philippines#San Fernando#15.03028#120.6856#16#8
+Philippines#San Jose del Monte#14.81389#121.0453#48#8
+Philippines#San Mateo#14.69694#121.1219#47#8
+Philippines#San Pablo#14.06694#121.3258#101#8
+Philippines#San Pedro#14.36472#121.0556#16#8
+Philippines#Santa Cruz#14.27861#121.4156#15#8
+Philippines#Santa Rosa#14.31222#121.1114#13#8
+Philippines#Santiago#16.68808#121.5487#78#8
+Philippines#Santol#15.16222#120.5675#120#8
+Philippines#Silang#14.23056#120.975#299#8
+Philippines#Sorsogon#12.97389#123.9933#13#8
+Philippines#Surigao#9.783889#125.4889#6#8
+Philippines#Tagbilaran#9.6475#123.8556#-9999#8
+Philippines#Talisay#10.24472#123.8494#5#8
+Philippines#Tanza#14.67528#120.9389#2#8
+Philippines#Tarlac#15.48889#120.5986#42#8
+Philippines#Taytay#14.56917#121.1325#37#8
+Philippines#Toledo#10.37917#123.6419#24#8
+Philippines#Tuguegarao City#17.61306#121.7269#58#8
+Philippines#Urdaneta#15.97611#120.5711#23#8
+Philippines#Valencia#7.906389#125.0942#270#8
+Philippines#Victorias City#10.9#123.0778#5#8
+Philippines#Zamboanga#6.910278#122.0739#2#8

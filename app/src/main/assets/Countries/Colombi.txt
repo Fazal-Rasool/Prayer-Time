@@ -1,0 +1,101 @@
+﻿
+Colombi#Acacias#3.9875#-73.7566681#579#-5
+Colombi#Aguachica#8.3125#-73.6269455#151#-5
+Colombi#Agustin Codazzi#10.035833#-73.2388916#183#-5
+Colombi#Apartado#7.8855556#-76.6347198#57#-5
+Colombi#Arauca#7.0902778#-70.7616653#119#-5
+Colombi#Arjona#10.254444#-75.3438873#58#-5
+Colombi#Armenia#4.5338889#-75.6811142#1349#-5
+Colombi#Baranoa#10.799722#-74.918335#124#-5
+Colombi#Barrancabermeja#7.0652778#-73.8547211#45#-5
+Colombi#Barranquilla#10.963889#-74.7963867#33#-5
+Colombi#Bello#6.3388889#-75.5622253#1489#-5
+Colombi#Bogota#4.6#-74.0833359#2620#-5
+Colombi#Bucaramanga#7.1297222#-73.1258316#967#-5
+Colombi#Buenaventura#3.8933333#-77.069725#1#-5
+Colombi#Buga#3.9022222#-76.3027802#722#-5
+Colombi#Calarca#4.5325#-75.6436081#1459#-5
+Colombi#Caldas#6.09#-75.6374969#1929#-5
+Colombi#Cali#3.4372222#-76.5224991#758#-5
+Colombi#Cartagena#10.399722#-75.5144424#36#-5
+Colombi#Cartago#4.7463889#-75.9116669#722#-5
+Colombi#Caucasia#7.9869444#-75.1972198#65#-5
+Colombi#Cerete#8.8855556#-75.796669#15#-5
+Colombi#Chia#4.8666667#-74.0666656#2325#-5
+Colombi#Chigorodo#7.6769444#-76.6863861#109#-5
+Colombi#Chinchina#4.9825#-75.6036148#1488#-5
+Colombi#Chiquinquira#5.6188889#-73.8199997#2713#-5
+Colombi#Cienaga#11.009444#-74.2541656#12#-5
+Colombi#Copacabana#6.3488889#-75.5130539#1498#-5
+Colombi#Corozal#9.3177778#-75.2958298#154#-5
+Colombi#Cucuta#7.8833333#-72.5052795#314#-5
+Colombi#Dos Quebradas#4.8347222#-75.6725006#1500#-5
+Colombi#Duitama#5.8269444#-73.0202789#2501#-5
+Colombi#El Bagre#7.5941667#-74.8119431#51#-5
+Colombi#El Banco#9.0047222#-73.9780579#21#-5
+Colombi#El Carmen de Bolivar#9.7222222#-75.1330566#154#-5
+Colombi#El Cerrito#3.6880556#-76.3166656#851#-5
+Colombi#Envigado#6.1730556#-75.5638885#1784#-5
+Colombi#Espinal#4.1527778#-74.8886108#329#-5
+Colombi#Facatativa#4.8166667#-74.3666687#2816#-5
+Colombi#Florencia#1.6175#-75.6175003#579#-5
+Colombi#Florida#3.3275#-76.2386093#894#-5
+Colombi#Floridablanca#7.0647222#-73.0897217#1026#-5
+Colombi#Fundacion#10.521389#-74.1866684#55#-5
+Colombi#Funza#4.7166667#-74.2166672#2276#-5
+Colombi#Fusagasuga#4.3438889#-74.367775#1745#-5
+Colombi#Girardot#4.3030556#-74.8008347#328#-5
+Colombi#Giron#7.0708333#-73.1730576#712#-5
+Colombi#Ibague#4.4388889#-75.2322235#1082#-5
+Colombi#Ipiales#0.8302778#-77.6444473#2954#-5
+Colombi#Itagui#6.1719444#-75.6113892#1637#-5
+Colombi#Jamundi#3.2638889#-76.5444412#890#-5
+Colombi#La Dorada#5.4522222#-74.6691666#152#-5
+Colombi#La Estrella#6.1605556#-75.6469421#1887#-5
+Colombi#Lorica#9.2316667#-75.819725#7#-5
+Colombi#Los Patios#7.8383333#-72.5133362#385#-5
+Colombi#Madrid#4.7344444#-74.2683334#2400#-5
+Colombi#Magangue#9.2413889#-74.753334#18#-5
+Colombi#Maicao#11.384167#-72.2441635#44#-5
+Colombi#Malambo#10.858889#-74.773056#5#-5
+Colombi#Manizales#5.07#-75.5205536#1935#-5
+Colombi#Medellin#6.2913889#-75.5361099#2076#-5
+Colombi#Monteria#8.7575#-75.8899994#25#-5
+Colombi#Neiva#2.9305556#-75.3302765#507#-5
+Colombi#Ocana#8.2363889#-73.3577805#1272#-5
+Colombi#Palmira#3.5394444#-76.3036118#863#-5
+Colombi#Pamplona#7.3780556#-72.6524963#2516#-5
+Colombi#Pasto#1.2136111#-77.2811127#2569#-5
+Colombi#Pereira#4.8133333#-75.6961136#1445#-5
+Colombi#Piedecuesta#6.9894444#-73.0536118#1080#-5
+Colombi#Pitalito#1.8675#-76.0563889#1319#-5
+Colombi#Planeta Rica#8.4147222#-75.5883331#113#-5
+Colombi#Plato#9.7919444#-74.7872238#18#-5
+Colombi#Pradera#3.4211111#-76.2447205#912#-5
+Colombi#Puerto Tejada#3.2336111#-76.4194412#847#-5
+Colombi#Quibdo#5.6947222#-76.6611099#67#-5
+Colombi#Riohacha#11.544444#-72.9072189#5#-5
+Colombi#Rionegro#6.1552778#-75.3888855#2058#-5
+Colombi#Sabanalarga#10.637778#-74.9227753#88#-5
+Colombi#Sahagun#8.9494444#-75.4477768#72#-5
+Colombi#San Andres#12.584722#-81.7005539#-9999#-5
+Colombi#Santa Marta#11.247222#-74.2016678#9#-5
+Colombi#Santa Rosa de Cabal#4.8680556#-75.6213913#1827#-5
+Colombi#Santander de Quilichao#3.0130556#-76.4866638#1061#-5
+Colombi#Segovia#7.0833333#-74.7036133#638#-5
+Colombi#Sevilla#4.2688889#-75.9361115#1394#-5
+Colombi#Sincelejo#9.3047222#-75.3977814#219#-5
+Colombi#Soacha#4.5872222#-74.2213898#2413#-5
+Colombi#Sogamoso#5.7205556#-72.9297256#2419#-5
+Colombi#Soledad#10.917222#-74.7666702#10#-5
+Colombi#Tulua#4.0866667#-76.1999969#766#-5
+Colombi#Tumaco#1.7986111#-78.8155594#1#-5
+Colombi#Tunja#5.5352778#-73.367775#2717#-5
+Colombi#Turbaco#10.329444#-75.4083328#129#-5
+Colombi#Turbo#8.0980556#-76.7316666#7#-5
+Colombi#Valledupar#10.476944#-73.2505569#163#-5
+Colombi#Villa del Rosario#7.8338889#-72.4741669#381#-5
+Colombi#Villavicencio#4.1533333#-73.6350021#529#-5
+Colombi#Yopal#5.3394444#-72.394165#426#-5
+Colombi#Yumbo#3.585#-76.4958344#991#-5
+Colombi#Zipaquira#5.0283333#-74.0058365#2656#-5

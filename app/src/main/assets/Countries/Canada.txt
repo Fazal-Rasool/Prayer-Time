@@ -1,0 +1,100 @@
+﻿
+Canada#Abbotsford#49.05798#-122.253#128#-8
+Canada#Airdrie#51.30011#-114.035#1081#-7
+Canada#Alma#48.55009#-71.6491#93#-5
+Canada#Barrie#44.40011#-79.6663#252#-5
+Canada#Bradford West Gwillimbury#44.11681#-79.6163#267#-5
+Canada#Brandon#49.84692#-99.9531#378#-6
+Canada#Brantford#43.1334#-80.2664#200#-5
+Canada#Brockville#44.58341#-75.6826#75#-5
+Canada#Brossard#45.45008#-73.4658#20#-5
+Canada#Calgary#51.05011#-114.085#1052#-7
+Canada#Campbell River#50.01634#-125.245#72#-8
+Canada#Charlottetown#46.23525#-63.1267#6#-4
+Canada#Chatham-Kent#42.41679#-82.1665#180#-5
+Canada#Chilliwack#49.17468#-121.944#9#-8
+Canada#Cobourg#43.96682#-78.1662#91#-5
+Canada#Corner Brook#48.96671#-57.9484#-9999#-3.5
+Canada#Cornwall#45.03339#-74.7326#60#-5
+Canada#Courtenay#49.68294#-124.986#5#-8
+Canada#Cranbrook#49.49991#-115.769#984#-7
+Canada#Drummondville#45.88337#-72.4824#82#-5
+Canada#Duncan#48.78293#-123.703#61#-8
+Canada#Edmonton#53.55014#-113.469#640#-7
+Canada#Fredericton#45.94542#-66.6656#93#-4
+Canada#Glace Bay#46.19695#-59.957#1#-3.5
+Canada#Granby#45.40008#-72.7324#116#-5
+Canada#Grand Sudbury#46.49#-80.99#274#-5
+Canada#Grande Prairie#55.16667#-118.803#664#-7
+Canada#Guelph#43.5501#-80.2497#334#-5
+Canada#Halifax#44.65199#-63.5968#45#-4
+Canada#Hamilton#43.23341#-79.9496#208#-5
+Canada#Joliette#46.01677#-73.4492#46#-5
+Canada#Kamloops#50.66648#-120.319#457#-8
+Canada#Kelowna#49.88307#-119.486#352#-8
+Canada#Kingston#44.22976#-76.481#77#-5
+Canada#Kitchener#43.4501#-80.483#334#-5
+Canada#Leamington#42.08339#-82.5665#191#-5
+Canada#Lethbridge#49.69999#-112.819#907#-7
+Canada#Levis#46.80326#-71.1779#85#-5
+Canada#Lloydminster#53.28346#-110.002#646#-7
+Canada#London#42.98339#-81.233#251#-5
+Canada#Medicine Hat#50.05006#-110.668#708#-7
+Canada#Midland#44.7501#-79.883#202#-5
+Canada#Moncton#46.11594#-64.8019#15#-4
+Canada#Montreal#45.51678#-73.6492#47#-5
+Canada#Moose Jaw#50.40005#-105.534#553#-6
+Canada#Nanaimo#49.16634#-123.936#19#-8
+Canada#New Glasgow#45.58345#-62.6486#12#-4
+Canada#New Westminster#49.20678#-122.911#40#-8
+Canada#North Battleford#52.78344#-108.285#539#-7
+Canada#North Bay#46.3168#-79.4663#221#-5
+Canada#North Cowichan#48.84133#-123.686#61#-8
+Canada#North Vancouver#49.31636#-123.069#46#-8
+Canada#Orangeville#43.9168#-80.0997#426#-5
+Canada#Orillia#44.61681#-79.4163#219#-5
+Canada#Oshawa#43.90012#-78.8496#106#-5
+Canada#Ottawa#45.42094#-75.6903#61#-5
+Canada#Owen Sound#44.56679#-80.933#226#-5
+Canada#Parksville#49.31633#-124.319#46#-8
+Canada#Penticton#49.49977#-119.586#358#-8
+Canada#Peterborough#44.30012#-78.3162#199#-5
+Canada#Port Alberni#49.24133#-124.803#19#-8
+Canada#Prince Albert#53.20008#-105.768#420#-6
+Canada#Prince George#53.9166#-122.753#568#-8
+Canada#Quebec#46.81228#-71.2145#47#-5
+Canada#Red Deer#52.26682#-113.802#856#-7
+Canada#Regina#50.45008#-104.618#573#-6
+Canada#Richmond#49.17003#-123.137#3#-8
+Canada#Rouyn-Noranda#48.23985#-79.0288#304#-5
+Canada#Saint John#45.25935#-66.0377#-9999#-4
+Canada#Saint-Hyacinthe#45.61678#-72.9491#26#-5
+Canada#Saint-Jean-sur-Richelieu#45.31678#-73.2659#29#-5
+Canada#Saint-Jerome#45.78036#-74.0036#92#-5
+Canada#Saint-Laurent#45.50008#-73.6658#43#-5
+Canada#Salaberry-de-Valleyfield#45.25008#-74.1325#43#-5
+Canada#Sarnia#42.96678#-82.3831#186#-5
+Canada#Saskatoon#52.11679#-106.635#468#-6
+Canada#Sept-Iles#50.20011#-66.3821#2#-5
+Canada#Shawinigan#46.56675#-72.7491#137#-4
+Canada#Sherbrooke#45.40008#-71.8991#153#-5
+Canada#Sherwood Park#53.51684#-113.319#718#-7
+Canada#Sorel-Tracy#46.03336#-73.1158#7#-5
+Canada#Spruce Grove#53.53344#-113.919#703#-7
+Canada#Stratford#43.36679#-80.9497#358#-5
+Canada#Terrace#54.51634#-128.603#68#-8
+Canada#Thunder Bay#48.4001#-89.3168#215#-5
+Canada#Timmins#48.46686#-81.3331#322#-5
+Canada#Toronto#43.70011#-79.4163#173#-5
+Canada#Trois-Rivieres#46.35006#-72.5491#25#-5
+Canada#Truro#45.36685#-63.2654#30#-4
+Canada#Vancouver#49.24966#-123.119#63#-8
+Canada#Vernon#50.25809#-119.269#388#-8
+Canada#Victoria#48.43294#-123.369#1#-8
+Canada#Victoriaville#46.05007#-71.9658#124#-5
+Canada#Waterloo#43.4668#-80.5164#331#-5
+Canada#White Rock#49.01636#-122.803#-9999#-8
+Canada#Whitehorse#60.71612#-135.054#630#-8
+Canada#Windsor#42.30008#-83.0165#183#-5
+Canada#Winnipeg#49.8844#-97.147#230#-6
+Canada#Woodstock#43.1334#-80.7497#304#-5

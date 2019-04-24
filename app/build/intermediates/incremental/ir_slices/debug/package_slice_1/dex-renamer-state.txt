@@ -1,0 +1,4 @@
+#Tue Apr 09 14:46:49 PKT 2019
+base.0=D\:\\World prayers And qibla direction\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

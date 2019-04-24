@@ -1,0 +1,176 @@
+﻿
+Guadeloupe#Abymes#16.2667#-61.5#0#-4
+Guadeloupe#Baie-Mahault#16.2667#-61.5833#0#-4
+Guadeloupe#Basse-Terre#16#-61.7167#0#-4
+Guadeloupe#D Equainville#16.25#-61.3833#0#-4
+Guadeloupe#De Berard#16.25#-61.35#0#-4
+Guadeloupe#De Bouillante Faux Peak#16.1167#-61.7333#0#-4
+Guadeloupe#De Poyen#16.1833#-61.6167#0#-4
+Guadeloupe#Decostier#16.2833#-61.65#0#-4
+Guadeloupe#Degrat#16.25#-61.1833#0#-4
+Guadeloupe#Desbonnes#16.4833#-61.4333#0#-4
+Guadeloupe#Deshayes#16.3#-61.7833#0#-4
+Guadeloupe#Desmarais#16.1333#-61.7667#0#-4
+Guadeloupe#Desplan#16.2167#-61.7667#0#-4
+Guadeloupe#Desrotours Canal#16.35#-61.4833#0#-4
+Guadeloupe#Destrelan#16.25#-61.5667#0#-4
+Guadeloupe#Deuxieme Branch River#16.25#-61.6667#0#-4
+Guadeloupe#Deuxieme Chute du Carbet#16.0333#-61.6333#0#-4
+Guadeloupe#Devilet#16.0167#-61.6833#0#-4
+Guadeloupe#Diavet#16.3167#-61.7#0#-4
+Guadeloupe#Dole#15.9833#-61.6667#0#-4
+Guadeloupe#Dorilas#16.0833#-61.7667#0#-4
+Guadeloupe#Dorot#15.95#-61.25#0#-4
+Guadeloupe#Dos d Ane#16.3167#-61.75#0#-4
+Guadeloupe#Dos de Cheval#16#-61.6333#0#-4
+Guadeloupe#Douville#16.25#-61.3667#0#-4
+Guadeloupe#Du Plessis River#16.0333#-61.7333#0#-4
+Guadeloupe#Dubois#15.9167#-61.2167#0#-4
+Guadeloupe#Ducos#15.8833#-61.2833#0#-4
+Guadeloupe#Dupre#16.2167#-61.3833#0#-4
+Guadeloupe#Dupuy#16.25#-61.6#0#-4
+Guadeloupe#Duzer#16.3333#-61.7333#0#-4
+Guadeloupe#Echelle#16.0333#-61.65#0#-4
+Guadeloupe#Emilien#16.3167#-61.4333#0#-4
+Guadeloupe#Etang As de Pique#16.0167#-61.6333#0#-4
+Guadeloupe#Etang aux Poissons#18.0667#-63.0167#0#-4
+Guadeloupe#Etang Cocoyer#16.3#-61.3667#0#-4
+Guadeloupe#Etang de Simpson#18.05#-63.1#0#-4
+Guadeloupe#Etang du Vieux Fort#16.35#-61.75#0#-4
+Guadeloupe#Etang Fortin#16#-61.65#0#-4
+Guadeloupe#Etang Guichard#18.0931#-63.0667#0#-4
+Guadeloupe#Etang Zombi#16.0333#-61.6167#0#-4
+Guadeloupe#Falle Bay Point#15.9333#-61.3167#0#-4
+Guadeloupe#Faup#15.9167#-61.3#0#-4
+Guadeloupe#Fauyais#16.4#-61.5167#0#-4
+Guadeloupe#Favreau#16.25#-61.3#0#-4
+Guadeloupe#Ferry Point#16.2667#-61.8#0#-4
+Guadeloupe#Fextand#16.35#-61.4667#0#-4
+Guadeloupe#Flagstaff#18.05#-63.05#0#-4
+Guadeloupe#Flandre Bank#16.4#-60.9#0#-4
+Guadeloupe#Folle Anse#15.95#-61.3333#0#-4
+Guadeloupe#Fond-Caraibe#16.25#-61.2333#0#-4
+Guadeloupe#Fonds Cacao#16.0333#-61.5833#0#-4
+Guadeloupe#Foret de Fefe#16.0667#-61.6333#0#-4
+Guadeloupe#Fort de Marigot#18.0667#-63.1#0#-4
+Guadeloupe#Fort Karl#17.8833#-62.85#0#-4
+Guadeloupe#Fort Napoleon#15.8667#-61.5667#0#-4
+Guadeloupe#Fort Oscar#17.9#-62.85#0#-4
+Guadeloupe#Fort Richepanse#15.9833#-61.7333#0#-4
+Guadeloupe#Fouche#16.2333#-61.4#0#-4
+Guadeloupe#Fourche#17.9667#-62.9#0#-4
+Guadeloupe#Fourmis#17.8667#-62.8#0#-4
+Guadeloupe#Francoeur Bay#16.2667#-61.8167#0#-4
+Guadeloupe#Francois Point#16.4333#-61.3833#0#-4
+Guadeloupe#Fregate#16.1833#-61.55#0#-4
+Guadeloupe#Frigate Islet#15.9667#-61.2333#0#-4
+Guadeloupe#Fromager#16.3167#-61.0667#0#-4
+Guadeloupe#Gozier#16.2#-61.4833#0#-4
+Guadeloupe#Guadeloupe#16.25#-61.5833#0#-4
+Guadeloupe#Guadeloupe Channel#15.75#-61.5#0#-4
+Guadeloupe#Haut de la Montagne#16.4333#-61.4667#0#-4
+Guadeloupe#Houelmont#15.9833#-61.7#0#-4
+Guadeloupe#Jabrun#16.2333#-61.6#0#-4
+Guadeloupe#Jabrun-du-Sud#16.3#-61.45#0#-4
+Guadeloupe#Jacquelot#15.9333#-61.2#0#-4
+Guadeloupe#Jarry#16.2333#-61.55#0#-4
+Guadeloupe#Joubert#15.8833#-61.2667#0#-4
+Guadeloupe#Kahouanne#16.25#-61.2#0#-4
+Guadeloupe#Kanaal van Sint Barth s#18#-63#0#-4
+Guadeloupe#Kleine Antillen#15#-61#0#-4
+Guadeloupe#Neau#16.2#-61.6167#0#-4
+Guadeloupe#Neree#16.2667#-61.4833#0#-4
+Guadeloupe#Nez Casse#16.05#-61.6667#0#-4
+Guadeloupe#Nogent#16.35#-61.7167#0#-4
+Guadeloupe#Noire River#16.0333#-61.7#0#-4
+Guadeloupe#Nord-Ouest Bay#16.3333#-61.35#0#-4
+Guadeloupe#Old Fort Point#16.3667#-61.7667#0#-4
+Guadeloupe#Orleans#18.0667#-63.0333#0#-4
+Guadeloupe#Oyster Pond#18.05#-63.0167#0#-4
+Guadeloupe#Pointe-a-Pitre#16.2333#-61.5167#0#-4
+Guadeloupe#Quartier des Flamands#17.9167#-62.85#0#-4
+Guadeloupe#Quartier du Colombier#18.0833#-63.0667#0#-4
+Guadeloupe#Quartier du Gouverneur#17.8667#-62.8333#0#-4
+Guadeloupe#Quartier du Grand Fond#17.8833#-62.8#0#-4
+Guadeloupe#Quartier Lorient#17.9#-62.8167#0#-4
+Guadeloupe#Quatre Chemins#16.2833#-61.4833#0#-4
+Guadeloupe#Quatrieme Bras#16.2333#-61.7#0#-4
+Guadeloupe#Sable Branch#16.2333#-61.6667#0#-4
+Guadeloupe#Saiette#16.3167#-61.45#0#-4
+Guadeloupe#Saint Barts#17.9#-62.8333#0#-4
+Guadeloupe#Saint-Felix#16.2#-61.45#0#-4
+Guadeloupe#Saint-Francois#16.25#-61.2667#0#-4
+Guadeloupe#Saint-Germain#15.9667#-61.25#0#-4
+Guadeloupe#Saint-Gilles#15.9833#-61.6333#0#-4
+Guadeloupe#Saint-Jacques#16.4833#-61.45#0#-4
+Guadeloupe#Saint-Marc#15.9#-61.2667#0#-4
+Guadeloupe#Saint-Prix#16.4167#-61.4333#0#-4
+Guadeloupe#Saint-Sauveur Bay#16#-61.5833#0#-4
+Guadeloupe#Saint-Val-Labique#16#-61.75#0#-4
+Guadeloupe#Sainte-Anne#16.2333#-61.3667#0#-4
+Guadeloupe#Sainte-Claire#16.1167#-61.5667#0#-4
+Guadeloupe#Sainte-Croix#15.9333#-61.2333#0#-4
+Guadeloupe#Sainte-Madeleine#16.2833#-61.3#0#-4
+Guadeloupe#Sainte-Marguerite#16.3833#-61.4#0#-4
+Guadeloupe#Sainte-Marie#16.1#-61.55#0#-4
+Guadeloupe#Sainte-Marie des Bois#16.0667#-61.5833#0#-4
+Guadeloupe#Sainte-Marthe#16.25#-61.25#0#-4
+Guadeloupe#Sainte-Rose#16.3333#-61.6833#0#-4
+Guadeloupe#Saline Chevrise#18.1#-63.05#0#-4
+Guadeloupe#Saline Fisch#18.0833#-63.0167#0#-4
+Guadeloupe#Satge#16.0167#-61.6167#0#-4
+Guadeloupe#Savane#15.9833#-61.6167#0#-4
+Guadeloupe#Sec Pripri#16.35#-61.65#0#-4
+Guadeloupe#Secs a Chevaux#16.3333#-61.55#0#-4
+Guadeloupe#Seforge#16.2667#-61.3667#0#-4
+Guadeloupe#Seze Favreux#16.25#-61.2833#0#-4
+Guadeloupe#Siblet#15.9333#-61.3#0#-4
+Guadeloupe#Sint Maarten#18.0667#-63.0667#0#-4
+Guadeloupe#Sofaia#16.2833#-61.7167#0#-4
+Guadeloupe#Sommet a la Touffe#16.1833#-61.75#0#-4
+Guadeloupe#Sommets de Bouillante#16.1333#-61.7167#0#-4
+Guadeloupe#Souffleur#16.3167#-61.0333#0#-4
+Guadeloupe#Spaniard Rock#18.1333#-63.0167#0#-4
+Guadeloupe#Subercazeau#16.3#-61.6667#0#-4
+Guadeloupe#Sucrerie Blanchet#16.3167#-61.4#0#-4
+Guadeloupe#Sucrerie Bonne-Mere#16.2667#-61.6667#0#-4
+Guadeloupe#Sugarloaf#15.8667#-61.5833#0#-4
+Guadeloupe#Surgy#16.2667#-61.3167#0#-4
+Guadeloupe#Terre de Bas#16.1667#-61.1167#0#-4
+Guadeloupe#Terre du Bas#15.85#-61.6167#0#-4
+Guadeloupe#Tete a Boeuf#16.4667#-61.4167#0#-4
+Guadeloupe#Tete a l Anglais#16.3667#-61.75#0#-4
+Guadeloupe#Tete Allegre#16.2667#-61.7333#0#-4
+Guadeloupe#Tete Rouge#15.8667#-61.6#0#-4
+Guadeloupe#Toc Verte#17.95#-62.8167#0#-4
+Guadeloupe#Toigny#17.9#-62.8#0#-4
+Guadeloupe#Trois-Ilets#15.9333#-61.3333#0#-4
+Guadeloupe#Trois-Rivieres#15.9667#-61.6333#0#-4
+Guadeloupe#Troisieme Bras#16.25#-61.6833#0#-4
+Guadeloupe#Trou a Coa#16.2333#-61.35#0#-4
+Guadeloupe#Trou Canard#16.1667#-61.1333#0#-4
+Guadeloupe#Trou Caraibe#16.35#-61.5167#0#-4
+Guadeloupe#Trou du Souffleur#16.4833#-61.4167#0#-4
+Guadeloupe#Vaisseaux Bank#16.1333#-61.2833#0#-4
+Guadeloupe#Valeau#16.0167#-61.7#0#-4
+Guadeloupe#Vallee d Or#16.2667#-61.25#0#-4
+Guadeloupe#Vallon Vrimouth#15.9333#-61.2667#0#-4
+Guadeloupe#Vanniers#15.9167#-61.2667#0#-4
+Guadeloupe#Verdier#16.2#-61.6#0#-4
+Guadeloupe#Verge#15.9333#-61.25#0#-4
+Guadeloupe#Vermont#16.4#-61.4667#0#-4
+Guadeloupe#Vernou#16.1833#-61.65#0#-4
+Guadeloupe#Versailles#16.2167#-61.5833#0#-4
+Guadeloupe#Vezou#16.3#-61.2667#0#-4
+Guadeloupe#Vidon#15.9#-61.2333#0#-4
+Guadeloupe#Vieux Bourg#16.3333#-61.5#0#-4
+Guadeloupe#Vieux Fort Point#15.95#-61.7#0#-4
+Guadeloupe#Vieux-Fort Riviere#16.35#-61.7333#0#-4
+Guadeloupe#Vieux-Habitants#16.05#-61.75#0#-4
+Guadeloupe#Violon#15.95#-61.6833#0#-4
+Guadeloupe#Vipart#16.3333#-61.4#0#-4
+Guadeloupe#West Channel#17.9#-62.8667#0#-4
+Guadeloupe#Whale Rock#15.8833#-61.5833#0#-4
+Guadeloupe#Windward Bay#15.8833#-61.6#0#-4
+Guadeloupe#Windward Islands#13#-61#0#-4
+Guadeloupe#Zevallos#16.3#-61.2833#0#-4

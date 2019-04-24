@@ -1,0 +1,108 @@
+﻿
+Lesotho#Abele#-29.6333#27.65#0#2
+Lesotho#Alehloana#-29.55#28.2333#0#2
+Lesotho#Alwyns Kop#-30.4#27.6167#0#2
+Lesotho#Anone#-30.2833#27.7#0#2
+Lesotho#Aujong#-29.8833#27.1833#0#2
+Lesotho#Azariele#-29.7#27.2333#0#2
+Lesotho#Cairntoul#-30.6667#28.0833#0#2
+Lesotho#Cana#-29.1167#27.85#0#2
+Lesotho#Chalani#-30.0833#27.95#0#2
+Lesotho#Chere#-29.6#27.1667#0#2
+Lesotho#Cock Spur#-29.9833#27.7333#0#2
+Lesotho#Corn Exchange#-28.9833#27.9833#0#2
+Lesotho#Cutting Camp#-30.2667#27.75#0#2
+Lesotho#Digalaning Stream#-29.7167#28.4167#0#2
+Lesotho#Dihloireng#-30.2333#27.4#0#2
+Lesotho#Dikhaleng Nek#-29.2667#27.9833#0#2
+Lesotho#Dikhinbaning#-30.3333#28.1333#0#2
+Lesotho#Dikhoileng#-29.6#28.65#0#2
+Lesotho#Dikolobeng#-30.1333#27.6667#0#2
+Lesotho#Dilli Dilli#-30.5167#27.6667#0#2
+Lesotho#Dinakaning#-29.5167#28.8833#0#2
+Lesotho#Dinikeng River#-29.55#28.75#0#2
+Lesotho#Dinolsing River#-29.6333#28.9#0#2
+Lesotho#Dipetung Nek#-29.05#28.1167#0#2
+Lesotho#Diqonong Stream#-29.7333#28.75#0#2
+Lesotho#Ditsebi#-29.3#28.15#0#2
+Lesotho#Ditsuening#-29.8#28.3833#0#2
+Lesotho#Dukotsi#-29.3833#27.4667#0#2
+Lesotho#Emmaus#-29.7667#27.55#0#2
+Lesotho#Fako#-29.2833#27.8167#0#2
+Lesotho#Fika La Tsuene#-30.3#27.65#0#2
+Lesotho#Fikalamotho Pass#-29.95#27.7833#0#2
+Lesotho#Fikalatsoene#-30.3333#27.6167#0#2
+Lesotho#Fikalemahloana#-30.2667#27.9833#0#2
+Lesotho#Fikalemotko Stream#-30.05#28.4833#0#2
+Lesotho#Fobani Nek#-29.05#27.9167#0#2
+Lesotho#Fort Hartley#-30.3333#27.75#0#2
+Lesotho#Fosi#-29.4333#27.8667#0#2
+Lesotho#Foso#-29.2667#27.5667#0#2
+Lesotho#Furumela#-29.55#27.8#0#2
+Lesotho#Gethsemane#-29.1833#27.8833#0#2
+Lesotho#Good Shepherd#-30.1#27.5#0#2
+Lesotho#Griffiths#-30.25#27.8167#0#2
+Lesotho#Habana Morena#-29.0167#27.8#0#2
+Lesotho#Haletswa#-28.9667#28.05#0#2
+Lesotho#Haljoane#-29.0667#27.95#0#2
+Lesotho#Hameeding#-28.8167#28.55#0#2
+Lesotho#Hellspoort#-29.8667#27.4#0#2
+Lesotho#Hermon#-29.7333#27.1167#0#2
+Lesotho#Hlakametsa#-28.7#28.4333#0#2
+Lesotho#Hlakanelo#-29.7167#28.8#0#2
+Lesotho#Hlapa#-30.4667#27.7167#0#2
+Lesotho#Hleoheng#-28.9167#27.8833#0#2
+Lesotho#Hloahloeng#-30.0333#28.2#0#2
+Lesotho#Hlotse#-28.8833#28.05#0#2
+Lesotho#Hololo#-28.7167#28.4333#0#2
+Lesotho#Honeymoon Hill#-29.1333#27.7667#0#2
+Lesotho#Ino#-29.3333#27.85#0#2
+Lesotho#Isinxondo Stream#-30.5667#27.7167#0#2
+Lesotho#Jaele#-29.4667#27.8667#0#2
+Lesotho#Joels#-28.6833#28.2833#0#2
+Lesotho#John Matsaba#-29.65#27.75#0#2
+Lesotho#Jorilani#-29.4333#28.1167#0#2
+Lesotho#Kaphe#-29.9667#27.65#0#2
+Lesotho#Kelechane#-29.7333#27.7667#0#2
+Lesotho#Kena#-29.7667#27.65#0#2
+Lesotho#Kepi#-29.1667#27.7833#0#2
+Lesotho#Kepisi#-29.6167#28.1333#0#2
+Lesotho#Ketane Falls#-29.9#27.9167#0#2
+Lesotho#Ketane River#-30.1333#27.8833#0#2
+Lesotho#Kwepe#-29.85#27.5667#0#2
+Lesotho#Leribe#-28.8333#28.1#0#2
+Lesotho#Leribe District#-29#28#0#2
+Lesotho#Leribe Plateau#-28.85#28.1333#0#2
+Lesotho#Maseru#-29.3167#27.4833#0#2
+Lesotho#Na Nohama#-30.0667#27.85#0#2
+Lesotho#Nchipileng#-29.9167#27.55#0#2
+Lesotho#Ngoajane River#-28.7167#28.3667#0#2
+Lesotho#Nokong#-29.0833#28.0667#0#2
+Lesotho#Northern Karoo#-30#24#0#2
+Lesotho#Nthamaha#-29.9833#27.9167#0#2
+Lesotho#Ntjepeleng#-29.95#27.6#0#2
+Lesotho#Ntlamas#-29.1833#27.8667#0#2
+Lesotho#Ntlasing#-29.9#28.0167#0#2
+Lesotho#Ntsunyane#-29.6#27.6333#0#2
+Lesotho#Ntsupe#-29.6667#27.7667#0#2
+Lesotho#Old Mohales Hoek#-30.1#27.4833#0#2
+Lesotho#Ongeluks Nek#-30.35#28.2667#0#2
+Lesotho#Peka#-28.85#28.2#0#2
+Lesotho#Piting#-29.25#27.7333#0#2
+Lesotho#Qoatsaneng#-29.3333#27.5#0#2
+Lesotho#Raboroko#-30.15#27.35#0#2
+Lesotho#Rakhobetso#-29.65#27.5333#0#2
+Lesotho#Rakhoiti#-29.5167#27.5667#0#2
+Lesotho#Raleqheka#-29.6833#27.7#0#2
+Lesotho#Ramabitsa#-29.7333#27.7167#0#2
+Lesotho#Ramatsediso#-30.0333#28.9167#0#2
+Lesotho#Ramoihloe Store#-29.75#27.15#0#2
+Lesotho#Relye#-29#28.1833#0#2
+Lesotho#Ribaning Stream#-29.8667#27.6333#0#2
+Lesotho#Riet Vlei#-30.0167#27.3333#0#2
+Lesotho#Ubutsuane#-29.2#29.1833#0#2
+Lesotho#Upper Qeme#-29.4833#27.5167#0#2
+Lesotho#Van Rooyens Gate#-29.75#27.1167#0#2
+Lesotho#Windsor Castle#-29.0167#29.1667#0#2
+Lesotho#Yeyateyaneng#-29.1667#27.9167#0#2
+Lesotho#Zion#-29.1333#27.9667#0#2

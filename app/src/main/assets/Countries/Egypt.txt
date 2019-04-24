@@ -1,0 +1,282 @@
+﻿
+Egypt#1 `Ezbet Has Salib#30.9858#31.0036#0#2
+Egypt#10 Ramadan City#30.3#31.75#0#2
+Egypt#257Izbat Ahmad `Ali `Udah#31.2681#31.4542#0#2
+Egypt#Abo-Redis#28.85#33.2#0#2
+Egypt#Abou Kir#31.3219#30.0608#0#2
+Egypt#Abu Hammad#30.5336#31.6664#0#2
+Egypt#Abu Rudeis#28.9036#33.1875#0#2
+Egypt#Abu Tisht#26.12#32.0947#0#2
+Egypt#Abu Zenima#29.0497#33.1036#0#2
+Egypt#Aga#30.8667#31.3333#0#2
+Egypt#Akhmim#26.5667#31.7333#0#2
+Egypt#Al Abqa`ayn#30.8761#30.3519#0#2
+Egypt#Al assaniyah#30.2942#31.1975#0#2
+Egypt#Al Bahriyah#31.115#30.4744#0#2
+Egypt#Al Basrah#30.8822#29.7767#0#2
+Egypt#Al Mansurah#29.2278#31.0139#0#2
+Egypt#Al Manzalah (Ad Daqahliyah)#31.1583#31.9369#0#2
+Egypt#Al Manzalah (Al Qalyubiyah)#30.3397#31.2469#0#2
+Egypt#Al Maraghah#26.7#31.6#0#2
+Egypt#Al `Arish#31.1244#33.8006#0#2
+Egypt#Alexandria#31.1981#29.9192#0#2
+Egypt#Alexandria Governorate#31.1667#29.8833#0#2
+Egypt#Alexandria Harbour#31.1833#29.8667#0#2
+Egypt#Ar Rishah#30.8233#33.3128#0#2
+Egypt#As Sawwan#30.9211#34.3569#0#2
+Egypt#Ashmun#30.3#30.9667#0#2
+Egypt#Asiut#27.2167#31.05#0#2
+Egypt#Assiut#27.3333#30.8333#0#2
+Egypt#Aswan#24.0875#32.8989#0#2
+Egypt#Asyut#27.1828#31.1828#0#2
+Egypt#Ataqa#29.9#32.45#0#2
+Egypt#Atris#30.3333#30.8833#0#2
+Egypt#Aulad Saqr#30.93#31.6964#0#2
+Egypt#Awlad Isma`il#26.6667#31.55#0#2
+Egypt#Badr (Al Buhayrah)#30.575#30.7111#0#2
+Egypt#Badr (Al Qahirah)#30.1336#31.7303#0#2
+Egypt#Bahariya Oasis#28.25#28.95#0#2
+Egypt#Baltim#31.5544#31.0903#0#2
+Egypt#Bana Abu Sir#30.8817#31.2364#0#2
+Egypt#Banha#30.4608#31.1875#0#2
+Egypt#Bani Suwayf#29.0639#31.0889#0#2
+Egypt#Basyun#30.9403#30.8139#0#2
+Egypt#Beba#28.925#30.9833#0#2
+Egypt#Beer al-Abd#31.0167#33#0#2
+Egypt#Belbeis#30.4167#31.5667#0#2
+Egypt#Belbes#30.4333#31.55#0#2
+Egypt#Benha#30.4333#31.1667#0#2
+Egypt#Beni Mazar#28.5036#30.7992#0#2
+Egypt#Beni Suef#29.05#31.0333#0#2
+Egypt#Bilqas#31.2131#31.3575#0#2
+Egypt#Bir el Nuss#30.25#26.3#0#2
+Egypt#Birimbal el-Gedida#31.1417#31.7128#0#2
+Egypt#Biteina#30.9847#31.1975#0#2
+Egypt#Biyala#31.1744#31.2214#0#2
+Egypt#Burg el `Arab#30.9167#29.5333#0#2
+Egypt#Cairn Point#29.0333#33.1333#0#2
+Egypt#Cairo#30.05#31.25#0#2
+Egypt#Cairo Governorate#30.0333#31.2167#0#2
+Egypt#Canal Cassel#24.5167#33.0167#0#2
+Egypt#Canal Haran#24.55#33.0167#0#2
+Egypt#Cannon Reef#26.6667#34#0#2
+Egypt#Canobus#31.3167#30.05#0#2
+Egypt#Cape Banas#23.9003#35.7903#0#2
+Egypt#Cara Oasis#29.6#26.5167#0#2
+Egypt#Carrs Lake#30.2833#32.4667#0#2
+Egypt#Casius Mons#31.22#33.0725#0#2
+Egypt#Chantier Island#31.25#32.3167#0#2
+Egypt#Charing Cross#31.25#27.1167#0#2
+Egypt#Chatby#31.2#29.9167#0#2
+Egypt#Cheops#29.9833#31.1333#0#2
+Egypt#Chobba Shad-el-Ayun#29.8667#32.6#0#2
+Egypt#Cicely Hill#29.5167#27.5667#0#2
+Egypt#Cleopatra Beach#31.2269#29.9369#0#2
+Egypt#Colossi of Memnon#25.7167#32.6167#0#2
+Egypt#Conical Hill (Matruh)#29.4167#29.8#0#2
+Egypt#Conical Hill (Al Jizah)#28.3833#29.4167#0#2
+Egypt#Contellet Garaiyeh#30.19#34.4214#0#2
+Egypt#Contra Apollonos#24.9325#32.8919#0#2
+Egypt#Contra Latopolis#25.2836#32.5825#0#2
+Egypt#Coptos#26#32.8167#0#2
+Egypt#Corvette Pass#31.1833#29.8333#0#2
+Egypt#Culloden Reef#31.3667#30.1#0#2
+Egypt#Cusae#27.4444#30.8167#0#2
+Egypt#Cygnet Rock#23.9#35.9167#0#2
+Egypt#Cynopolis#28.475#30.7833#0#2
+Egypt#Dahab#28.4833#34.5#0#2
+Egypt#Dakahlieh#30.9167#31.5#0#2
+Egypt#Dakhla#25.5#29.1667#0#2
+Egypt#Damanhour#31.0333#30.4667#0#2
+Egypt#Damanhur (Asyut)#27.3833#30.95#0#2
+Egypt#Damanhur (Al Qalyubiyah)#30.1192#31.2325#0#2
+Egypt#Damas#30.8053#31.3261#0#2
+Egypt#Damietta#31.4194#31.815#0#2
+Egypt#Damietta Nile#31.5333#31.85#0#2
+Egypt#Dekernes#31.0883#31.5969#0#2
+Egypt#Dessouk#31.1294#30.6464#0#2
+Egypt#Diarb Negm#30.7542#31.4406#0#2
+Egypt#Domyat#31.3333#31.75#0#2
+Egypt#Edfu#24.9667#32.8667#0#2
+Egypt#Edkou#31.3056#30.2992#0#2
+Egypt#Egypt#27#30#0#2
+Egypt#El Agami#31.1406#29.7853#0#2
+Egypt#El Alamein#30.5#28.75#0#2
+Egypt#El Hammam#30.8333#29.3833#0#2
+Egypt#El Kuraimat#29.2944#31.2183#0#2
+Egypt#El Mahalla el Kubra#31.0333#31.0833#0#2
+Egypt#El-Bagalat#31.1653#31.6275#0#2
+Egypt#El-Mansura#31.0167#31.5#0#2
+Egypt#El-Manzala#31.1667#31.8333#0#2
+Egypt#El-Nakkariya#30.6#31.4667#0#2
+Egypt#El-Rehab#30.0622#31.4772#0#2
+Egypt#Esna#25.2931#32.5528#0#2
+Egypt#Fakous#30.7297#31.7972#0#2
+Egypt#Fanar el- Burullus#31.5989#31.0811#0#2
+Egypt#Farshut#26.055#32.1617#0#2
+Egypt#Fayoum#29.3167#30.8#0#2
+Egypt#Fowa#31.2025#30.5472#0#2
+Egypt#Gamgara el-Gedida#30.5008#31.2322#0#2
+Egypt#Gharbia#30.8333#31#0#2
+Egypt#Giza#29.7667#31.3#0#2
+Egypt#Giza Canal#30.0167#31.2333#0#2
+Egypt#Gizai#30.4667#30.85#0#2
+Egypt#Hehia#30.67#31.5872#0#2
+Egypt#Heliopolis#30.1#31.3333#0#2
+Egypt#Helwan#29.85#31.3333#0#2
+Egypt#Hod el Maarri Qibli#25.8667#32.7833#0#2
+Egypt#Hurghada#27.25#33.8167#0#2
+Egypt#Ikhtab#30.8375#31.2953#0#2
+Egypt#Iqfahs#28.7833#30.8208#0#2
+Egypt#Ismailia#30.5833#32.2667#0#2
+Egypt#Ismailia Canal#30.0667#31.2667#0#2
+Egypt#Itay al Barud#30.8867#30.665#0#2
+Egypt#Jirja#26.3458#31.8861#0#2
+Egypt#Jizzayah#30.1842#31.035#0#2
+Egypt#Kafr ad Dawwar#31.1397#30.1292#0#2
+Egypt#Kafr al-Sheikh#31.25#30.8333#0#2
+Egypt#Kafr ash Shaykh#31.1114#30.9364#0#2
+Egypt#Kafr el Sheikh#30.8006#31.5936#0#2
+Egypt#Kafr el-Sheikh#31.3333#30.8333#0#2
+Egypt#Kafr el-Zaiyat#30.8333#30.8333#0#2
+Egypt#Kafr el-Zayat#30.8206#30.8158#0#2
+Egypt#Kalin#31.05#30.8333#0#2
+Egypt#Kharga#25.4333#30.55#0#2
+Egypt#Kharga Oasis#25.25#30.5833#0#2
+Egypt#Khargah#25.3333#30.5833#0#2
+Egypt#Knm Abu Radi#29.3314#31.1375#0#2
+Egypt#Kom Hamada#30.7333#30.6667#0#2
+Egypt#Luxor#25.6833#32.65#0#2
+Egypt#Maghagha#28.6486#30.8403#0#2
+Egypt#Mahalla el Kubra#30.9761#31.1669#0#2
+Egypt#Mahallet Abu `Ali el-Qantara#30.9667#31.2#0#2
+Egypt# Abu `Ali el-Qantara#30.9667#31.2#0#2
+Egypt#Mahallet Misir#31.0178#30.9756#0#2
+Egypt#Mallawi#27.7319#30.8411#0#2
+Egypt#Manfalut#27.3111#30.9694#0#2
+Egypt#Mansoura#31.0431#31.3767#0#2
+Egypt#Mansuria#31.05#31.4#0#2
+Egypt#Marsa Abu Dabbab#25.3333#34.7333#0#2
+Egypt#Marsa al `Alam#25.0833#34.9#0#2
+Egypt#Marsa Matruh#31.3667#27.2333#0#2
+Egypt#Matrouh#30#28#0#2
+Egypt#Ma`adi#29.9667#31.25#0#2
+Egypt#Menouf#30.4667#30.9333#0#2
+Egypt#Menoufiya#30.5#31#0#2
+Egypt#Minia#28.4333#30.7#0#2
+Egypt#Minya#28.1194#30.7444#0#2
+Egypt#Mit Ghamr#30.7167#31.2525#0#2
+Egypt#Mit Habib#30.4497#31.5161#0#2
+Egypt#Mit Habib ash Sharqiyah#30.8797#31.2136#0#2
+Egypt#Mit Salsil#31.1625#31.8119#0#2
+Egypt#Nabaroh#31.0986#31.3047#0#2
+Egypt#Nabq#28.0786#34.4272#0#2
+Egypt#Naga Hamadi#26.0514#32.2386#0#2
+Egypt#Naj` Kawm Jabir#26.1214#32.0336#0#2
+Egypt#Nasr City#30.0667#31.3#0#2
+Egypt#New Valley#25#29#0#2
+Egypt#North Sinai#31.5#34#0#2
+Egypt#Nuwaybi` at Tarabin#29.05#34.6667#0#2
+Egypt#Nuweiba#29.0333#34.6667#0#2
+Egypt#Oasi di Giarabub#29.6833#24.7167#0#2
+Egypt#Oasi di Melfa#29.7667#24.8#0#2
+Egypt#Oasis Junction#26.0833#32.1#0#2
+Egypt#6-Oct#29.8167#31.05#0#2
+Egypt#oEzbet el- Qirdahi#31.1333#30.2333#0#2
+Egypt#Ofedinah#23.0833#32.6833#0#2
+Egypt#Offeduniya#23.0667#32.6833#0#2
+Egypt#Ogla#29.1833#28.7#0#2
+Egypt#Om Bogma#28.9914#33.3544#0#2
+Egypt#Om el Zein#30.6478#31.3975#0#2
+Egypt#Om Elgharadeek#29.9167#28#0#2
+Egypt#Ombos (Qina)#29.9833#32.7333#0#2
+Egypt#Ombos (Aswan)#24.4792#32.9436#0#2
+Egypt#Omm el Kyaman#27.8333#33.5833#0#2
+Egypt#Ophira#28#34.45#0#2
+Egypt#Owstons Dump#29.4167#28.8667#0#2
+Egypt#Oxford Circus#31.2167#26.0667#0#2
+Egypt#Oxyrynkhos#28.5353#30.6583#0#2
+Egypt#Port Fouad#31.2508#32.3172#0#2
+Egypt#Port Said#31.2667#32.3#0#2
+Egypt#Port Said Free Zone#31.2167#32.3167#0#2
+Egypt#Port Said Salt Association Limited Lake#31.1797#32.3489#0#2
+Egypt#Pyramid of Onnos#29.8667#31.2167#0#2
+Egypt#Qaha#30.28#31.2036#0#2
+Egypt#Qarun#29.4167#30.4167#0#2
+Egypt#Qena#25.8333#32.75#0#2
+Egypt#Qina#26.17#32.7272#0#2
+Egypt#Quesna Station#30.55#31.1333#0#2
+Egypt#Qus#25.9167#32.75#0#2
+Egypt#Qusayr al Qadim#26.15#34.25#0#2
+Egypt#Quseir#26.1#34.2833#0#2
+Egypt#Quwaysina#30.5667#31.15#0#2
+Egypt#Ra s Abu Bakr#28.55#32.9333#0#2
+Egypt#Ra s Abu Sawmah#26.85#33.9833#0#2
+Egypt#Ra s Badran#28.9333#33.1667#0#2
+Egypt#Ra s Bakr#28.4833#32.95#0#2
+Egypt#Ra s Gharib#28.3553#33.1008#0#2
+Egypt#Ra s Shukhayr#28.1333#33.2667#0#2
+Egypt#Rafah#31.2833#34.2333#0#2
+Egypt#Ras Ghareb#28.3739#33.0628#0#2
+Egypt#Ras Gharib Anchorage#28.35#33.1#0#2
+Egypt#Ras Shukhair#28.1342#33.2736#0#2
+Egypt#Ras-el-Hikma#31.1333#27.8333#0#2
+Egypt#Red Sea#25#35#0#2
+Egypt#Red Sea (Al Bahr al Ahmar)#26#34#0#2
+Egypt#Rosetta#31.4044#30.4164#0#2
+Egypt#Sadat City#30.375#30.5003#0#2
+Egypt#Safaga#26.7333#33.9333#0#2
+Egypt#Safaga Island#26.75#33.9833#0#2
+Egypt#Saint Catherine s Monastery of Mount Sinai#28.5539#33.9733#0#2
+Egypt#Sallum#31.5667#25.15#0#2
+Egypt#Samalut#28.3#30.7#0#2
+Egypt#Samannud#30.9628#31.2444#0#2
+Egypt#Sanbukht#30.9756#31.2903#0#2
+Egypt#Shabin al Qanatir#30.3128#31.3211#0#2
+Egypt#Sharkia#30.8#31.8#0#2
+Egypt#Sharm al Shaikh#27.8636#34.2881#0#2
+Egypt#Sharm el- Moiya#27.8544#34.2967#0#2
+Egypt#Sharm el- Naqa#26.9#33.9667#0#2
+Egypt#Sharm el- Sheikh#27.8519#34.2831#0#2
+Egypt#Shebin al-Kom#30.5586#31.01#0#2
+Egypt#Sherbin#31.1939#31.5244#0#2
+Egypt#Shoubra#30.0833#31.2333#0#2
+Egypt#Shubra al Khaymah#30.1286#31.2422#0#2
+Egypt#Shubra Khet#31.0281#30.7128#0#2
+Egypt#Sidi Barrani#31.6#25.9167#0#2
+Egypt#Sidi Salim#31.2719#30.7872#0#2
+Egypt#Siwa#29.1667#25.6667#0#2
+Egypt#Sohag (Suhaj)#26.55#31.65#0#2
+Egypt#Sohag (Matruh)#26.55#31.7#0#2
+Egypt#South Sinai#29#34#0#2
+Egypt#Suez#29.9667#32.55#0#2
+Egypt#Suez Bay#29.9167#32.5333#0#2
+Egypt#Suez Canal#29.9167#32.55#0#2
+Egypt#Suez Creek#29.95#32.5667#0#2
+Egypt#Suez Governorate#29.9833#32.55#0#2
+Egypt#Taba#29.4864#34.9019#0#2
+Egypt#Tahta#26.7681#31.4939#0#2
+Egypt#Tala (Al Minufiyah)#30.6819#30.9475#0#2
+Egypt#Tala (Bani Suwayf)#28.8792#30.8514#0#2
+Egypt#Talkha#31.0531#31.3739#0#2
+Egypt#Tamit#22.4#31.7#0#2
+Egypt#Tanah#31.0353#31.5544#0#2
+Egypt#Tanta#30.7911#30.9981#0#2
+Egypt#Tima#26.9086#31.4328#0#2
+Egypt#Tor#28.2372#33.6139#0#2
+Egypt#Toshka#22.5#31.8833#0#2
+Egypt#Toukh#30.3483#31.1581#0#2
+Egypt#Verdan Bridge#30.6833#32.3333#0#2
+Egypt#Vetus Hydreuma#24.05#35.3#0#2
+Egypt#Victoria College Halt#31.2497#29.9814#0#2
+Egypt#Victorieuse Rock#30.9833#29.4#0#2
+Egypt#Xois#31.0867#30.9469#0#2
+Egypt#Yasdenia#30.95#30.0667#0#2
+Egypt#Yihya#31.1711#30.1036#0#2
+Egypt#Yotvat Island#27.9333#34.5667#0#2
+Egypt#Yusri Canal#31.0667#30.0667#0#2
+Egypt#Zagazig#30.5667#31.5#0#2
+Egypt#Zamalek#30.0667#31.2167#0#2
+Egypt#Zaqaziq#30.5914#31.5103#0#2
+Egypt#Zeit Bay#27.8#33.5167#0#2
+Egypt#Zifta#30.7136#31.2439#0#2

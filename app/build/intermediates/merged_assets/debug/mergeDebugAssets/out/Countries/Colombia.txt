@@ -1,0 +1,101 @@
+﻿
+Colombia#Acacias#3.9875#-73.7567#579#-5
+Colombia#Aguachica#8.3125#-73.6269#151#-5
+Colombia#Agustin Codazzi#10.03583#-73.2389#183#-5
+Colombia#Apartado#7.885556#-76.6347#57#-5
+Colombia#Arauca#7.090278#-70.7617#119#-5
+Colombia#Arjona#10.25444#-75.3439#58#-5
+Colombia#Armenia#4.533889#-75.6811#1349#-5
+Colombia#Baranoa#10.79972#-74.9183#124#-5
+Colombia#Barrancabermeja#7.065278#-73.8547#45#-5
+Colombia#Barranquilla#10.96389#-74.7964#33#-5
+Colombia#Bello#6.338889#-75.5622#1489#-5
+Colombia#Bogota#4.6#-74.0833#2620#-5
+Colombia#Bucaramanga#7.129722#-73.1258#967#-5
+Colombia#Buenaventura#3.893333#-77.0697#1#-5
+Colombia#Buga#3.902222#-76.3028#722#-5
+Colombia#Calarca#4.5325#-75.6436#1459#-5
+Colombia#Caldas#6.09#-75.6375#1929#-5
+Colombia#Cali#3.437222#-76.5225#758#-5
+Colombia#Cartagena#10.39972#-75.5144#36#-5
+Colombia#Cartago#4.746389#-75.9117#722#-5
+Colombia#Caucasia#7.986944#-75.1972#65#-5
+Colombia#Cerete#8.885556#-75.7967#15#-5
+Colombia#Chia#4.866667#-74.0667#2325#-5
+Colombia#Chigorodo#7.676944#-76.6864#109#-5
+Colombia#Chinchina#4.9825#-75.6036#1488#-5
+Colombia#Chiquinquira#5.618889#-73.82#2713#-5
+Colombia#Cienaga#11.00944#-74.2542#12#-5
+Colombia#Copacabana#6.348889#-75.5131#1498#-5
+Colombia#Corozal#9.317778#-75.2958#154#-5
+Colombia#Cucuta#7.883333#-72.5053#314#-5
+Colombia#Dos Quebradas#4.834722#-75.6725#1500#-5
+Colombia#Duitama#5.826944#-73.0203#2501#-5
+Colombia#El Bagre#7.594167#-74.8119#51#-5
+Colombia#El Banco#9.004722#-73.9781#21#-5
+Colombia#El Carmen de Bolivar#9.722222#-75.1331#154#-5
+Colombia#El Cerrito#3.688056#-76.3167#851#-5
+Colombia#Envigado#6.173056#-75.5639#1784#-5
+Colombia#Espinal#4.152778#-74.8886#329#-5
+Colombia#Facatativa#4.816667#-74.3667#2816#-5
+Colombia#Florencia#1.6175#-75.6175#579#-5
+Colombia#Florida#3.3275#-76.2386#894#-5
+Colombia#Floridablanca#7.064722#-73.0897#1026#-5
+Colombia#Fundacion#10.52139#-74.1867#55#-5
+Colombia#Funza#4.716667#-74.2167#2276#-5
+Colombia#Fusagasuga#4.343889#-74.3678#1745#-5
+Colombia#Girardot#4.303056#-74.8008#328#-5
+Colombia#Giron#7.070833#-73.1731#712#-5
+Colombia#Ibague#4.438889#-75.2322#1082#-5
+Colombia#Ipiales#0.830278#-77.6444#2954#-5
+Colombia#Itagui#6.171944#-75.6114#1637#-5
+Colombia#Jamundi#3.263889#-76.5444#890#-5
+Colombia#La Dorada#5.452222#-74.6692#152#-5
+Colombia#La Estrella#6.160556#-75.6469#1887#-5
+Colombia#Lorica#9.231667#-75.8197#7#-5
+Colombia#Los Patios#7.838333#-72.5133#385#-5
+Colombia#Madrid#4.734444#-74.2683#2400#-5
+Colombia#Magangue#9.241389#-74.7533#18#-5
+Colombia#Maicao#11.38417#-72.2442#44#-5
+Colombia#Malambo#10.85889#-74.7731#5#-5
+Colombia#Manizales#5.07#-75.5206#1935#-5
+Colombia#Medellin#6.291389#-75.5361#2076#-5
+Colombia#Monteria#8.7575#-75.89#25#-5
+Colombia#Neiva#2.930556#-75.3303#507#-5
+Colombia#Ocana#8.236389#-73.3578#1272#-5
+Colombia#Palmira#3.539444#-76.3036#863#-5
+Colombia#Pamplona#7.378056#-72.6525#2516#-5
+Colombia#Pasto#1.213611#-77.2811#2569#-5
+Colombia#Pereira#4.813333#-75.6961#1445#-5
+Colombia#Piedecuesta#6.989444#-73.0536#1080#-5
+Colombia#Pitalito#1.8675#-76.0564#1319#-5
+Colombia#Planeta Rica#8.414722#-75.5883#113#-5
+Colombia#Plato#9.791944#-74.7872#18#-5
+Colombia#Pradera#3.421111#-76.2447#912#-5
+Colombia#Puerto Tejada#3.233611#-76.4194#847#-5
+Colombia#Quibdo#5.694722#-76.6611#67#-5
+Colombia#Riohacha#11.54444#-72.9072#5#-5
+Colombia#Rionegro#6.155278#-75.3889#2058#-5
+Colombia#Sabanalarga#10.63778#-74.9228#88#-5
+Colombia#Sahagun#8.949444#-75.4478#72#-5
+Colombia#San Andres#12.58472#-81.7006#-9999#-5
+Colombia#Santa Marta#11.24722#-74.2017#9#-5
+Colombia#Santa Rosa de Cabal#4.868056#-75.6214#1827#-5
+Colombia#Santander de Quilichao#3.013056#-76.4867#1061#-5
+Colombia#Segovia#7.083333#-74.7036#638#-5
+Colombia#Sevilla#4.268889#-75.9361#1394#-5
+Colombia#Sincelejo#9.304722#-75.3978#219#-5
+Colombia#Soacha#4.587222#-74.2214#2413#-5
+Colombia#Sogamoso#5.720556#-72.9297#2419#-5
+Colombia#Soledad#10.91722#-74.7667#10#-5
+Colombia#Tulua#4.086667#-76.2#766#-5
+Colombia#Tumaco#1.798611#-78.8156#1#-5
+Colombia#Tunja#5.535278#-73.3678#2717#-5
+Colombia#Turbaco#10.32944#-75.4083#129#-5
+Colombia#Turbo#8.098056#-76.7317#7#-5
+Colombia#Valledupar#10.47694#-73.2506#163#-5
+Colombia#Villa del Rosario#7.833889#-72.4742#381#-5
+Colombia#Villavicencio#4.153333#-73.635#529#-5
+Colombia#Yopal#5.339444#-72.3942#426#-5
+Colombia#Yumbo#3.585#-76.4958#991#-5
+Colombia#Zipaquira#5.028333#-74.0058#2656#-5

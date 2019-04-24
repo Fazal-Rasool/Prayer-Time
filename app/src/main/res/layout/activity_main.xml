@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/prayer_bg"
+    android:orientation="vertical"
+    tools:context="com.capsa.prayer.activtites.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/prayerTimeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="visible"
+        android:weightSum="10">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical">
+
+            <ListView
+                android:layout_marginTop="@dimen/_20sdp"
+                android:id="@+id/prayerListView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="5dp"
+                android:listSelector="@android:color/transparent"></ListView>
+
+           <!-- <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:gravity="bottom|center"
+                ads:adSize="SMART_BANNER"
+                app:adUnitId="ca-app-pub-2530669520505137/4807369200"></com.google.android.gms.ads.AdView>-->
+        </LinearLayout>
+
+        <!--  <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center"
+              android:layout_weight="2"
+              android:orientation="vertical" >
+
+              <TextView
+                  android:id="@+id/locationTextView"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginBottom="3dp"
+                  android:text="Lahore, Pakistan"
+                  android:textAppearance="?android:attr/textAppearanceSmall"
+                  android:textColor="@color/text_highlight"
+                  android:textStyle="bold" />
+
+           &lt;!&ndash;   <TextView
+                  android:id="@+id/englishDateTextView_main"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="Thursday 12 December, 2013"
+                  android:textAppearance="?android:attr/textAppearanceSmall"
+                  android:textColor="@color/text_highlight"
+                  android:textStyle="bold" />
+
+              <TextView
+                  android:id="@+id/hijriDateTextView"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="3dp"
+                  android:text="05 Suffer, 1435"
+                  android:textAppearance="?android:attr/textAppearanceSmall"
+                  android:textColor="@color/text_highlight"
+                  android:textStyle="bold" />
+
+              <TextView
+                  android:id="@+id/currentTimeTextView"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginBottom="3dp"
+                  android:text="05:52 PM"
+                  android:textAppearance="?android:attr/textAppearanceLarge"
+                  android:textColor="@color/text_highlight"
+                  android:textStyle="bold" />
+
+              <TextView
+                  android:id="@+id/timeRemainingTextView"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:gravity="center"
+                  android:text="Isha after 30 mins"
+                  android:textAppearance="?android:attr/textAppearanceSmall"
+                  android:textColor="@color/text_highlight"
+                  android:textStyle="bold" />&ndash;&gt;
+          </LinearLayout>-->
+
+        <!-- <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom|center"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-2530669520505137/4807369200" >
+        </com.google.android.gms.ads.AdView>-->
+    </LinearLayout>
+
+</RelativeLayout>

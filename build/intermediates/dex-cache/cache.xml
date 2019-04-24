@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\9cab9976d280bbf7db09663d13355b5e175edef9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5030fc640fe4594750a6aec10f322eddb9d1e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bcdae9790a2253ae5c977b5d42908b9a3e05369e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64c0c47109a1c7cb1eb16f654c4617417fbeef11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f3f903ae93224c62543621c8986215f003c5df76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5f6e226152c8af2e3705483efeda1bda8cf7b53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_5f98cd5a2505d5d03d585bbc0079d08f0c287c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2869595564b541a44a7eddb8d5338c7e07a36076\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6bb8b389cd3ff84f726722a786d278130545d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\92786b92a2a3bd9ae7209ac2cbf9308d28267b47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef0cafc04e03bc157ef925cc0ca4c5f6040f7777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\384ad6a5f57e353cf040f023e1ea32e6c3d86e7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee3b8c1083aef95fabd2a4747965cfe51c38e954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d7e34d018dd8c4cbba6344f480ba3a0b2e5b1ec6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5294f3d635dac0de88ebca22f130658dffb01d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\64e649a4b943963a4274acfe229b15d7b76f4a36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_722e18e8b70bbeb95daf0e5cd0cea0fd5b3421a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bd3b75844b80c819f6c4f85c223352d195911089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_beec1b0a8ed96cba236a11d3c387fca6be76cb1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\04f9a0324f90057cb67b9c3edac3ac6d55abfe95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44b82e508634359d7ff5f6c6e07170cfb05095fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\eea6e040419cefefcb218c471750a7d712a97f54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b40759c57780061316811ee41d941c0c9190b632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\83e26f37da096492c3221de64fc082015e1de37e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0820ff1dab92fc074310217577166748b60fb6de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2ec8ea4d27931b9a50105b392282a4caa8aac932\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8206d927473bf3d4d3f40f71c58f8ccff973571b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\01faccfc730acefafda8dda9a28614e66a7fe9e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c3e749eb60a9ac7ebe87f03c376b69bec562530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\18e6da077d137d097bc3b83cb4f01081642a6a52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41a6f9299aef4f97890ce72cca4e6f1649e8e632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\0f738ee2fe3648afdad0d89c47090c23f2a73198\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e64b3dfe01afba8a7194ca4eaf493d118192fa1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\75c87a23880627b8da74bbfde200a22652a07002\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29e8149a24ef23631d3cbb74c486509ff08b99b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\0e4e511404beabaea55418ef37d853bb36073aa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22a090470f924ae07689412341998dbffd5b3a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\fdfa12948f158e4fceb7b12000baffd44054b2e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1174aaa35bdc71cf295d0617994825c4ccc69689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\53fe251c2651830fafac0a616ee84781b81ca5c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ddd2e8288b318a5fbfcb71acb9cad9850cf08da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\6235839c68783d7f3c131e0f5c764c7c55aca712\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dd836b026dfb324b76a3df48f4bcaef1abade57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1e652ed9ed0fa3d63aebd02c213f27385aae691f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7809b91ef434be94cacbf82ebaedb58ec5883849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1639f4ecef4033502b1a78b881d812fc9d9e0dd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aeb4a95d32e798cdda7a773214d504c331751ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1e652ed9ed0fa3d63aebd02c213f27385aae691f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7809b91ef434be94cacbf82ebaedb58ec5883849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1d57c8260204b9fba3e25a75b0df065fabbb52f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a90cf0e6dc3c656a98cc055647d3d4923a483198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\libs\common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_72a8d3f034dd2a9f241d4117eefa1d245e301cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\929e5ef3486ceb68a4afe5b1f137684850bcf574\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b50e4407bbff254826d743dfca3a7193c4b0f4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\461b063f97b7bab5f937ef3f4dcaa5b5047fdf56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84347537377b3c3da19258a6ad8e279537842c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e5c9e24176614d5391387bf68d56688edef5f9b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3fdb93edf6fc1cd234d75bb76abb2866211f070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\cc92801d3a7b369fbed3a822d89ff5bd38eea816\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbcfc56eb9950e8caad93b3d7b7c0d5fb3da1173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\75c87a23880627b8da74bbfde200a22652a07002\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29e8149a24ef23631d3cbb74c486509ff08b99b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f17b878378ff8a994f7a942476e89ed6a051d01e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2547c753f9d0d70a4d4830dfac86919462ac6b73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\eea6e040419cefefcb218c471750a7d712a97f54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b40759c57780061316811ee41d941c0c9190b632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\3fc7a1a87fb07622f2d0138194fde6936d960d93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaed77479c404b960dcae59944105fbc5a2e8ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e4d26f80a2b5a00b2692d38939700239c67dff39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ce5234d584eb10a46fe992aa09e6de71f2f6ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c6904a048c98c1ef9e85f14ec4f4fb88b00d9dd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0ff00ce70db5feebd72fd77a2fded337805c424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e2f679d7acfaa447ca1aac24c88be30628b271e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_304bbee13697328132a92acaf872f92957234fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\88808e30aa1b2346b254ffaf62e0eabaeead32da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f3f3959121573abe22f68bca229ca1c87b845ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\92b133c7731d34f1284e096f96db64ff1b20c4e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b20f0656aa3096311a1290bc9f4d6babeeefe85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d168981bee74d959391577ebba7a86bca3e0908c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4853a6fd7d35503c16d26a141d1b701787f69931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ef54b20b69defb111821ab2ab2167b200a1ed647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79d32570019b46365335e1d071f488a94c4e47b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d9a37bde59cdd36c334a461198bb5d43062423b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb7fb83474eb69aa37603144845cce30fb641226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\64e649a4b943963a4274acfe229b15d7b76f4a36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_722e18e8b70bbeb95daf0e5cd0cea0fd5b3421a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e4f75a6f645877ae2fbd3dd71b196767cefdda51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72df6e35e0e785c24848c53c33c9f696abe9624a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\384ad6a5f57e353cf040f023e1ea32e6c3d86e7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee3b8c1083aef95fabd2a4747965cfe51c38e954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bcdae9790a2253ae5c977b5d42908b9a3e05369e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64c0c47109a1c7cb1eb16f654c4617417fbeef11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\01faccfc730acefafda8dda9a28614e66a7fe9e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c3e749eb60a9ac7ebe87f03c376b69bec562530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_53d861bb31060250f3ca7fb29498c6bbac2f5107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2869595564b541a44a7eddb8d5338c7e07a36076\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6bb8b389cd3ff84f726722a786d278130545d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2ec8ea4d27931b9a50105b392282a4caa8aac932\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8206d927473bf3d4d3f40f71c58f8ccff973571b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f3ffae52f751dbd8d731e2c7f0eb5b7ad5155eb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1589fa8606e8a764f65904320891c4434674069c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\04f9a0324f90057cb67b9c3edac3ac6d55abfe95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44b82e508634359d7ff5f6c6e07170cfb05095fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\003ad6a5e006926643f12270052117e3800092bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0312838c8b1b8f0362d6ab11b4535d0a6d4df26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\cd76267ed2ba1147a980f54f70cb8ad8000b5a09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47f40a138b2b343de128e1cfde7b88e01d5d6c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\0e4e511404beabaea55418ef37d853bb36073aa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22a090470f924ae07689412341998dbffd5b3a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d800cc39e9be339984060f677a7bf3a315f2350e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f5304bb0c8a1624f1501fc8660e997abd566cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e855b647e304b85e659ce1b82277d234932d5ce8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8a6fd29611cdab202cd6f381509e2cfd332f685e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.4_45ce04ff10b95e3d446b7045d1cca80221290797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\18e6da077d137d097bc3b83cb4f01081642a6a52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41a6f9299aef4f97890ce72cca4e6f1649e8e632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\3fc7a1a87fb07622f2d0138194fde6936d960d93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaed77479c404b960dcae59944105fbc5a2e8ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ea3db294724204e49f6f84437a230e0831666163\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa91823764b55e08bd94ca5a125a436958d69a2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c35453bbbc6b4786fd64389375b5138ce30c4bf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b81e482367dfc982928a334be8e6ecf1a977166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c6904a048c98c1ef9e85f14ec4f4fb88b00d9dd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0ff00ce70db5feebd72fd77a2fded337805c424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\b349daa4b01c808b4dbe42daf2f238f4fe04f992\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a8254d84cbb8e58b690233eacded2b13b35a08f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e2f679d7acfaa447ca1aac24c88be30628b271e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_304bbee13697328132a92acaf872f92957234fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\53fe251c2651830fafac0a616ee84781b81ca5c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ddd2e8288b318a5fbfcb71acb9cad9850cf08da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2984dcb82640107271746c24775dd1a6000cc319\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_882c1f1f80c49089af7133291c7e03abcd17e036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\89cd569b668943116bf1b8fd511435fd79e7eaf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d951fd60fe098d3ced3aae375ce0595bff9a23b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\461b063f97b7bab5f937ef3f4dcaa5b5047fdf56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84347537377b3c3da19258a6ad8e279537842c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\929e5ef3486ceb68a4afe5b1f137684850bcf574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b50e4407bbff254826d743dfca3a7193c4b0f4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ba89153ac3f615aa41faa12acd8f76edbfea6c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5889e3e61a055fca6f446c44c5f058bcd322d404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f6f9d6d611bea7f86f474b0e2041db6a88c3e404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\53a9dd237c2aa07f7c9639792f50349b3c909d9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f145047b1b67f8571f0015f6732da70205f3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\15196f86681705a82d04c05a893d698940fed24b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5cf436a5cc363a7221fc8e0a92d78c6474cbe97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ef54b20b69defb111821ab2ab2167b200a1ed647\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79d32570019b46365335e1d071f488a94c4e47b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f3f903ae93224c62543621c8986215f003c5df76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5f6e226152c8af2e3705483efeda1bda8cf7b53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\9cab9976d280bbf7db09663d13355b5e175edef9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5030fc640fe4594750a6aec10f322eddb9d1e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\fba208f7cde33d81ddc400a2a26fd11b317c4e27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ddfd0c5c44b1e754aa73d1cfa3b1021d06cb440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\5c9fb37a6a77f349903694fbc04de1435add499f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_744b2743fbf9c8288a653780e0b4ff31f331b0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_53d861bb31060250f3ca7fb29498c6bbac2f5107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\cd76267ed2ba1147a980f54f70cb8ad8000b5a09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47f40a138b2b343de128e1cfde7b88e01d5d6c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d9a37bde59cdd36c334a461198bb5d43062423b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb7fb83474eb69aa37603144845cce30fb641226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f3ffae52f751dbd8d731e2c7f0eb5b7ad5155eb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1589fa8606e8a764f65904320891c4434674069c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.4_45ce04ff10b95e3d446b7045d1cca80221290797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e4f75a6f645877ae2fbd3dd71b196767cefdda51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72df6e35e0e785c24848c53c33c9f696abe9624a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\4c72f5c83cb5bd3d66ceeddd424ab9b9b60715be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c11a220c0d327ad644cee324b9a1eadceb25150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1c58beab2aaa254a735e97f4f91d551629a8b6f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80511091776bbe86859b2fcb9365f0d3b71df843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c1a78d8c96e9e5ff949d05d159c31edbad342cbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d0d3862b58a82bcfa638886780f46c47c5f3c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\003ad6a5e006926643f12270052117e3800092bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0312838c8b1b8f0362d6ab11b4535d0a6d4df26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bd98e6bd3fe8782b53530fd731beea3192d28850\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc502e4140a97272f015f135c67facd22eb6ad1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\4c72f5c83cb5bd3d66ceeddd424ab9b9b60715be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c11a220c0d327ad644cee324b9a1eadceb25150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\313bda751c51876de0a5082456528cbde9cb4814\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec994d96a28006461eb9c55b384137f29b871e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\3f015957641dc9cfe391aea029b272d62a02ead6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2134f501f0e26e0b4e6d9565eae4f601635d688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bb5715080a4ee0c1d3676674efd657d77d850139\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97596bbbb2908217583799e160e0272892f20f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\2984dcb82640107271746c24775dd1a6000cc319\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_882c1f1f80c49089af7133291c7e03abcd17e036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\89cd569b668943116bf1b8fd511435fd79e7eaf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d951fd60fe098d3ced3aae375ce0595bff9a23b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\53a9dd237c2aa07f7c9639792f50349b3c909d9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f145047b1b67f8571f0015f6732da70205f3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ba89153ac3f615aa41faa12acd8f76edbfea6c32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5889e3e61a055fca6f446c44c5f058bcd322d404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\fba208f7cde33d81ddc400a2a26fd11b317c4e27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ddfd0c5c44b1e754aa73d1cfa3b1021d06cb440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\b349daa4b01c808b4dbe42daf2f238f4fe04f992\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a8254d84cbb8e58b690233eacded2b13b35a08f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c35453bbbc6b4786fd64389375b5138ce30c4bf7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b81e482367dfc982928a334be8e6ecf1a977166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\081b9e9113e9c4a99bd3e8341c60aa65738298fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_221ae096c85b94d02610d41747de3a08b7690a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bd3b75844b80c819f6c4f85c223352d195911089\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_beec1b0a8ed96cba236a11d3c387fca6be76cb1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c0036758e04f68385abad75dcf6f9188bff771ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9e899dc22a454a911e0d7726afad550812b9f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\15196f86681705a82d04c05a893d698940fed24b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5cf436a5cc363a7221fc8e0a92d78c6474cbe97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\92786b92a2a3bd9ae7209ac2cbf9308d28267b47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef0cafc04e03bc157ef925cc0ca4c5f6040f7777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c1a78d8c96e9e5ff949d05d159c31edbad342cbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d0d3862b58a82bcfa638886780f46c47c5f3c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\0f738ee2fe3648afdad0d89c47090c23f2a73198\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e64b3dfe01afba8a7194ca4eaf493d118192fa1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\5c9fb37a6a77f349903694fbc04de1435add499f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_744b2743fbf9c8288a653780e0b4ff31f331b0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e4d26f80a2b5a00b2692d38939700239c67dff39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ce5234d584eb10a46fe992aa09e6de71f2f6ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\83e26f37da096492c3221de64fc082015e1de37e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0820ff1dab92fc074310217577166748b60fb6de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d7e34d018dd8c4cbba6344f480ba3a0b2e5b1ec6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5294f3d635dac0de88ebca22f130658dffb01d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\fdfa12948f158e4fceb7b12000baffd44054b2e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1174aaa35bdc71cf295d0617994825c4ccc69689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\e5c9e24176614d5391387bf68d56688edef5f9b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3fdb93edf6fc1cd234d75bb76abb2866211f070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_5f98cd5a2505d5d03d585bbc0079d08f0c287c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1c58beab2aaa254a735e97f4f91d551629a8b6f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80511091776bbe86859b2fcb9365f0d3b71df843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\ea3db294724204e49f6f84437a230e0831666163\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa91823764b55e08bd94ca5a125a436958d69a2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1639f4ecef4033502b1a78b881d812fc9d9e0dd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aeb4a95d32e798cdda7a773214d504c331751ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\3f015957641dc9cfe391aea029b272d62a02ead6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2134f501f0e26e0b4e6d9565eae4f601635d688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d800cc39e9be339984060f677a7bf3a315f2350e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f5304bb0c8a1624f1501fc8660e997abd566cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\World prayers And qibla direction\app\libs\common-lang3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_72a8d3f034dd2a9f241d4117eefa1d245e301cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\1d57c8260204b9fba3e25a75b0df065fabbb52f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a90cf0e6dc3c656a98cc055647d3d4923a483198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\cc92801d3a7b369fbed3a822d89ff5bd38eea816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbcfc56eb9950e8caad93b3d7b7c0d5fb3da1173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bd98e6bd3fe8782b53530fd731beea3192d28850\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc502e4140a97272f015f135c67facd22eb6ad1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\bb5715080a4ee0c1d3676674efd657d77d850139\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97596bbbb2908217583799e160e0272892f20f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\6235839c68783d7f3c131e0f5c764c7c55aca712\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dd836b026dfb324b76a3df48f4bcaef1abade57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\f17b878378ff8a994f7a942476e89ed6a051d01e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2547c753f9d0d70a4d4830dfac86919462ac6b73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\313bda751c51876de0a5082456528cbde9cb4814\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec994d96a28006461eb9c55b384137f29b871e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\c0036758e04f68385abad75dcf6f9188bff771ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9e899dc22a454a911e0d7726afad550812b9f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\88808e30aa1b2346b254ffaf62e0eabaeead32da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f3f3959121573abe22f68bca229ca1c87b845ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\d168981bee74d959391577ebba7a86bca3e0908c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4853a6fd7d35503c16d26a141d1b701787f69931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\081b9e9113e9c4a99bd3e8341c60aa65738298fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_221ae096c85b94d02610d41747de3a08b7690a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Developer\.android\build-cache\92b133c7731d34f1284e096f96db64ff1b20c4e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\World prayers And qibla direction\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b20f0656aa3096311a1290bc9f4d6babeeefe85\classes.dex" />
+    </item>
+
+</items>

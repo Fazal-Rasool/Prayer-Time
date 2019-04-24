@@ -1,0 +1,10 @@
+﻿
+Gibraltar#Alboran Sea#35.6667#-3#0#1
+Gibraltar#Bahia de Algeciras#36.15#-5.4333#0#1
+Gibraltar#Blackstrap Bay#36.1833#-5.3333#0#1
+Gibraltar#Elliots Memorial#36.1167#-5.35#0#1
+Gibraltar#Europa Point#36.1106#-5.3458#0#1
+Gibraltar#Fretum Herculeum#35.95#-5.6#0#1
+Gibraltar#Frontier Gate#36.15#-5.3333#0#1
+Gibraltar#Gibraltar#36.1333#-5.35#0#1
+Gibraltar#Levant Cave#36.1167#-5.3333#0#1

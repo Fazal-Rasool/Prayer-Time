@@ -1,0 +1,65 @@
+﻿
+Faroe Islands#Aarskardh#62.25#-6.55#0#0
+Faroe Islands#Akrabyrgi#61.4#-6.6667#0#0
+Faroe Islands#Dimon Sogn#61.7#-6.75#0#0
+Faroe Islands#Dirvisgjogv#62.1#-6.6333#0#0
+Faroe Islands#Djupadalsgjogv#62.35#-6.7667#0#0
+Faroe Islands#Doshellugjogv#62.0667#-6.9833#0#0
+Faroe Islands#Drangarnir#62.0667#-7.4#0#0
+Faroe Islands#Eggjastakkur#61.95#-6.9#0#0
+Faroe Islands#Egilsnaes#62.1333#-7.1667#0#0
+Faroe Islands#Eidesvig#62.35#-6.5#0#0
+Faroe Islands#Eidhidh#62.0167#-6.65#0#0
+Faroe Islands#Eidhisa#62.2#-6.7333#0#0
+Faroe Islands#Eidhisskardh#67.2833#-7#0#0
+Faroe Islands#Ejde#62.2833#-6.9667#0#0
+Faroe Islands#Elduvik#62.2833#-6.9#0#0
+Faroe Islands#Enni#61.5167#-6.7833#0#0
+Faroe Islands#Enniberg#62.4#-6.55#0#0
+Faroe Islands#Ennini#61.6333#-6.95#0#0
+Faroe Islands#Eriksfjeld#61.8667#-6.9#0#0
+Faroe Islands#Eysturoy#62.2167#-6.8667#0#0
+Faroe Islands#Eysturtindur#62.1167#-7.4#0#0
+Faroe Islands#I Botni#61.4833#-6.7833#0#0
+Faroe Islands#I Famara#61.4667#-6.8667#0#0
+Faroe Islands#I Horg#61.4167#-6.7167#0#0
+Faroe Islands#I Husi#62.05#-7.1667#0#0
+Faroe Islands#Illitangi#62.35#-6.3#0#0
+Faroe Islands#Innaranes#62.0833#-7.5833#0#0
+Faroe Islands#Innarigalgi#61.55#-6.7833#0#0
+Faroe Islands#Isaksskardh#62.2333#-6.45#0#0
+Faroe Islands#Islendingatangi#61.7667#-6.85#0#0
+Faroe Islands#Jatnagardhar#62.1333#-7.2667#0#0
+Faroe Islands#Jensegaerde#62.0333#-7.1833#0#0
+Faroe Islands#Jokilsgjogv#62.1#-6.85#0#0
+Faroe Islands#Jokladalur#62.2333#-6.8167#0#0
+Faroe Islands#Joklaskardh#62.2167#-6.85#0#0
+Faroe Islands#Paetursfjeld#62.2167#-7.2#0#0
+Faroe Islands#Pikarsdrangur#62.0833#-7.6833#0#0
+Faroe Islands#Poddlen#62.25#-6.6#0#0
+Faroe Islands#Porkere#61.4833#-6.7333#0#0
+Faroe Islands#Porkere-Naes#61.4833#-6.6833#0#0
+Faroe Islands#Porkeri#61.4833#-7.2333#0#0
+Faroe Islands#Porkerisvatn#61.9667#-6.7833#0#0
+Faroe Islands#Postulakirkja#62.1833#-7.2#0#0
+Faroe Islands#Praedikastolur#61.9833#-6.75#0#0
+Faroe Islands#Praestefjeld#61.5667#-6.9333#0#0
+Faroe Islands#Prestgjogv#61.5333#-6.8833#0#0
+Faroe Islands#Presttangi#62.0333#-7.1333#0#0
+Faroe Islands#Punthavn#61.55#-6.8167#0#0
+Faroe Islands#Torshavn#62.05#-7.1167#0#0
+Faroe Islands#Uppsalanes#62.3#-7.1333#0#0
+Faroe Islands#Upsalon#62.2167#-6.5667#0#0
+Faroe Islands#Upsartangi#62.35#-6.7#0#0
+Faroe Islands#Urdarbue#62.0833#-7.55#0#0
+Faroe Islands#Urdarfjeld#62.2833#-6.6333#0#0
+Faroe Islands#Urdhannagjogv#62.1333#-7.3833#0#0
+Faroe Islands#Urdhara#62.1167#-6.8167#0#0
+Faroe Islands#Urdhnhamar#62.3#-7.1833#0#0
+Faroe Islands#Uti a Bo#61.95#-6.75#0#0
+Faroe Islands#Uti a Flotum#62.0333#-6.95#0#0
+Faroe Islands#Ytralidh#62.1833#-6.65#0#0
+Faroe Islands#Ytri Skali#62.15#-6.75#0#0
+Faroe Islands#Ytstidalur#62.35#-6.65#0#0
+Faroe Islands#Yvir a Dal#62.2833#-6.3#0#0
+Faroe Islands#Yvir i Dal#62.25#-6.3667#0#0

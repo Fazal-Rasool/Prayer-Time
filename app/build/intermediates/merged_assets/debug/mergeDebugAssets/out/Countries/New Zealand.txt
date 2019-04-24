@@ -1,0 +1,101 @@
+﻿
+New Zealand#Amberley#-43.1667#172.7333#40#12
+New Zealand#Auckland#-36.8667#174.7667#26#12
+New Zealand#Balclutha#-46.2339#169.75#55#12
+New Zealand#Blenheim#-41.516#173.9528#6#12
+New Zealand#Bluff#-46.6#168.3333#1#12
+New Zealand#Brightwater#-41.3833#173.1167#8#12
+New Zealand#Bulls#-40.1667#175.3833#67#12
+New Zealand#Burnham#-43.6167#172.3167#66#12
+New Zealand#Christchurch#-43.5333#172.6333#7#12
+New Zealand#Coromandel#-36.7667#175.5#50#12
+New Zealand#Darfield#-43.4833#172.1167#212#12
+New Zealand#Dargaville#-35.9333#173.8833#17#12
+New Zealand#Dunedin#-45.8742#170.5036#94#12
+New Zealand#Edgecumbe#-37.9833#176.8333#3#12
+New Zealand#Eltham#-39.4292#174.3#233#12
+New Zealand#Foxton#-40.4667#175.3#15#12
+New Zealand#Gisborne#-38.6533#178.0042#19#12
+New Zealand#Gore#-46.1028#168.9436#78#12
+New Zealand#Greymouth#-42.4667#171.2#43#12
+New Zealand#Hamilton#-37.7833#175.2833#28#12
+New Zealand#Hastings#-39.6381#176.8492#11#12
+New Zealand#Hawera#-39.5917#174.2833#86#12
+New Zealand#Hokitika#-42.7167#170.9667#4#12
+New Zealand#Invercargill#-46.4#168.35#9#12
+New Zealand#Katikati#-37.55#175.9167#3#12
+New Zealand#Kawakawa#-35.3833#174.0667#101#12
+New Zealand#Kawerau#-38.1#176.7#38#12
+New Zealand#Kerikeri#-35.2167#173.9667#18#12
+New Zealand#Leeston#-43.7667#172.3#20#12
+New Zealand#Levin#-40.6333#175.275#24#12
+New Zealand#Lincoln#-43.65#172.4833#14#12
+New Zealand#Lower Hutt#-41.2167#174.9167#15#12
+New Zealand#Manakau#-40.7167#175.2167#48#12
+New Zealand#Mapua#-41.25#173.1#-9999#12
+New Zealand#Masterton#-40.9597#175.6575#121#12
+New Zealand#Methven#-43.6333#171.65#324#12
+New Zealand#Milton#-46.1208#169.9695#21#12
+New Zealand#Moerewa#-35.3833#174.0333#142#12
+New Zealand#Motueka#-41.1333#173.0167#3#12
+New Zealand#Muriwai Beach#-36.8167#174.45#70#12
+New Zealand#Murupara#-38.4667#176.7#182#12
+New Zealand#Napier#-39.4833#176.9167#-9999#12
+New Zealand#New Plymouth#-39.0667#174.0833#27#12
+New Zealand#Ngatea#-37.2833#175.5#3#12
+New Zealand#Ngunguru#-35.6167#174.5#77#12
+New Zealand#North Shore#-36.8#174.75#8#12
+New Zealand#Oamaru#-45.0784#170.9801#49#12
+New Zealand#Opotiki#-38.0833#177.2833#10#12
+New Zealand#Opunake#-39.4556#173.8583#43#12
+New Zealand#Otaki#-40.7583#175.15#28#12
+New Zealand#Otorohanga#-38.1833#175.2#45#12
+New Zealand#Oxford#-43.3#172.1833#256#12
+New Zealand#Paeroa#-37.3667#175.6667#22#12
+New Zealand#Paihia#-35.2833#174.0833#5#12
+New Zealand#Palmerston North#-40.35#175.6167#30#12
+New Zealand#Parakai#-36.65#174.4333#4#12
+New Zealand#Patea#-39.7583#174.4833#39#12
+New Zealand#Picton#-41.2883#174.0102#13#12
+New Zealand#Pleasant Point#-44.2667#171.1333#68#12
+New Zealand#Porirua#-41.1333#174.85#27#12
+New Zealand#Pukekohe East#-37.2#174.95#141#12
+New Zealand#Queenstown#-45.0302#168.6627#520#12
+New Zealand#Raglan#-37.8#174.8833#10#12
+New Zealand#Riverton#-46.35#168.0167#16#12
+New Zealand#Rolleston#-43.5833#172.3833#69#12
+New Zealand#Rotorua#-38.1387#176.2452#269#12
+New Zealand#Taipa#-34.9833#173.4667#-9999#12
+New Zealand#Tairua#-37.0167#175.85#10#12
+New Zealand#Takaka#-40.85#172.8#44#12
+New Zealand#Taupo#-38.6833#176.0833#384#12
+New Zealand#Tauranga#-37.6861#176.1667#1#12
+New Zealand#Te Anau#-45.4167#167.7167#213#12
+New Zealand#Te Kauwhata#-37.4#175.15#24#12
+New Zealand#Thames#-37.1333#175.5333#157#12
+New Zealand#Timaru#-44.4#171.25#1#12
+New Zealand#Tokoroa#-38.2333#175.8667#326#12
+New Zealand#Turangi#-39#175.9333#536#12
+New Zealand#Upper Hutt#-41.1383#175.0502#57#12
+New Zealand#Waihi#-37.3833#175.8333#326#12
+New Zealand#Waihi Beach#-37.4#175.9333#175#12
+New Zealand#Waimate North#-35.3167#173.8833#133#12
+New Zealand#Waiouru#-39.4833#175.6667#821#12
+New Zealand#Waipawa#-41.4122#175.5153#124#12
+New Zealand#Wairoa#-39.0333#177.3667#28#12
+New Zealand#Waitakere#-36.85#174.55#66#12
+New Zealand#Waitara#-38.925#174.25#-9999#12
+New Zealand#Waiuku#-37.25#174.75#51#12
+New Zealand#Wakefield#-41.4#173.05#129#12
+New Zealand#Wanaka#-44.7#169.15#345#12
+New Zealand#Wanganui#-39.9333#175.05#31#12
+New Zealand#Warkworth#-36.4#174.6667#58#12
+New Zealand#Wellington#-41.2785#174.7766#51#12
+New Zealand#Wellsford#-36.2833#174.5167#35#12
+New Zealand#Westport#-41.7526#171.6037#5#12
+New Zealand#Whakatane#-37.9833#177#139#12
+New Zealand#Whangamata#-37.2#175.8667#23#12
+New Zealand#Whangarei#-35.7317#174.3239#50#12
+New Zealand#Whitianga#-36.8333#175.7#-9999#12
+New Zealand#Winton#-46.15#168.3333#54#12
+New Zealand#Woodend#-43.3167#172.6667#10#12

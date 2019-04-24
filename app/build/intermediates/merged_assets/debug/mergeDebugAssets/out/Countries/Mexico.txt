@@ -1,0 +1,101 @@
+﻿
+Mexico#Acapulco de Juarez#16.86336#-99.8901#37#-6
+Mexico#Aguascalientes#21.88333#-102.3#1879#-6
+Mexico#Apodaca#25.76667#-100.2#435#-6
+Mexico#Campeche#19.85#-90.5333#1#-6
+Mexico#Cancun#21.17429#-86.8466#5#-6
+Mexico#Celaya#20.51667#-100.817#1765#-6
+Mexico#Chalco de Diaz Covarrubias#19.26667#-98.9#2243#-6
+Mexico#Chetumal#18.5#-88.3#1#-6
+Mexico#Chihuahua#28.63333#-106.083#1434#-7
+Mexico#Chilpancingo de los Bravos#17.55#-99.5#1262#-6
+Mexico#Cholula#19.06407#-98.3035#2156#-6
+Mexico#Ciudad Acuna#29.3#-100.917#294#-6
+Mexico#Ciudad del Carmen#18.63333#-91.8333#1#-6
+Mexico#Ciudad Juarez#31.73333#-106.483#1144#-7
+Mexico#Ciudad Lopez Mateos#19.55833#-99.2614#2326#-6
+Mexico#Ciudad Madero#22.26667#-97.8333#10#-6
+Mexico#Ciudad Nezahualcoyotl#19.41361#-99.0331#2214#-6
+Mexico#Ciudad Obregon#27.48333#-109.933#38#-7
+Mexico#Ciudad Valles#21.98333#-99.0167#66#-6
+Mexico#Ciudad Victoria#23.73333#-99.1333#298#-6
+Mexico#Coacalco#19.63167#-99.1103#2264#-6
+Mexico#Coatzacoalcos#18.15#-94.4167#1#-6
+Mexico#Colima#19.23333#-103.717#482#-6
+Mexico#Cordoba#18.88333#-96.9333#824#-6
+Mexico#Cuautitlan Izcalli#19.64694#-99.2467#2300#-6
+Mexico#Cuautla Morelos#18.8#-98.95#1313#-6
+Mexico#Cuernavaca#18.91667#-99.25#1510#-6
+Mexico#Culiacan#24.79944#-107.39#71#-7
+Mexico#Durango#24.03333#-104.667#1895#-6
+Mexico#Ecatepec#19.60111#-99.0525#2259#-6
+Mexico#Ensenada#31.86667#-116.617#27#-8
+Mexico#Garza Garcia#25.66667#-100.4#614#-6
+Mexico#General Escobedo#25.81667#-100.333#505#-6
+Mexico#Gomez Palacio#25.56667#-103.5#1139#-6
+Mexico#Guadalajara#20.66667#-103.333#1545#-6
+Mexico#Guadalupe#25.68333#-100.25#488#-6
+Mexico#Hermosillo#29.06667#-110.967#195#-8
+Mexico#Heroica Nogales#31.33333#-110.933#1273#-7
+Mexico#Huixquilucan#19.36028#-99.3514#2694#-6
+Mexico#Iguala de la Independencia#18.35#-99.5333#761#-6
+Mexico#Irapuato#20.68333#-101.35#1755#-6
+Mexico#Ixtapaluca#19.31667#-98.8833#2252#-6
+Mexico#Jalapa Enriquez#19.53333#-96.9167#1397#-6
+Mexico#Jiutepec#18.86667#-99.1833#1430#-6
+Mexico#La Paz#24.16667#-110.3#42#-7
+Mexico#Leon#21.11667#-101.667#1801#-6
+Mexico#Los Mochis#25.76667#-108.967#15#-7
+Mexico#Los Reyes#19.35#-98.9667#2340#-6
+Mexico#Manzanillo#19.05011#-104.319#70#-6
+Mexico#Matamoros#25.88333#-97.5#6#-6
+Mexico#Mazatlan#23.21667#-106.417#1#-7
+Mexico#Merida#20.96667#-89.6167#10#-6
+Mexico#Metepec#19.25361#-99.6078#2627#-6
+Mexico#Mexicali#32.65194#-115.468#2#-8
+Mexico#Mexico City#19.43417#-99.1386#2216#-6
+Mexico#Minatitlan#17.98333#-94.5167#4#-6
+Mexico#Monclova#26.9#-101.417#614#-6
+Mexico#Monterrey#25.66667#-100.317#563#-6
+Mexico#Morelia#19.70078#-101.184#1906#-6
+Mexico#Naucalpan de Juarez#19.47851#-99.2396#2290#-6
+Mexico#Nicolas Romero#19.62194#-99.3131#2371#-6
+Mexico#Nuevo Laredo#27.5#-99.5167#110#-6
+Mexico#Oaxaca de Juarez#17.05#-96.7167#1550#-6
+Mexico#Orizaba#18.85#-97.1#1216#-6
+Mexico#Pachuca de Soto#20.11697#-98.7333#2409#-6
+Mexico#Piedras Negras#28.7#-100.517#222#-6
+Mexico#Poza Rica de Hidalgo#20.53315#-97.4595#72#-6
+Mexico#Puebla de Zaragoza#19.05#-98.2#2175#-6
+Mexico#Puerto Vallarta#20.62041#-105.231#32#-6
+Mexico#Queretaro#20.6#-100.383#1868#-6
+Mexico#Reynosa#26.08333#-98.2833#35#-6
+Mexico#Salamanca#20.56667#-101.2#1715#-6
+Mexico#Saltillo#25.41667#-101#1596#-6
+Mexico#San Cristobal de Las Casas#16.75#-92.6333#2190#-6
+Mexico#San Juan del Rio#20.38333#-100#1970#-6
+Mexico#San Luis Potosi#22.15#-100.983#1893#-6
+Mexico#San Luis Rio Colorado#32.46306#-114.777#34#-7
+Mexico#San Nicolas de los Garzas#25.75#-100.3#501#-6
+Mexico#San Pablo de las Salinas#19.66583#-99.0964#2237#-6
+Mexico#Santa Catarina#25.68333#-100.467#699#-6
+Mexico#Soledad Diez Gutierrez#22.2#-100.95#1851#-6
+Mexico#Tampico#22.21667#-97.85#4#-6
+Mexico#Tapachula#14.9#-92.2833#135#-6
+Mexico#Tehuacan#18.45#-97.3833#1555#-6
+Mexico#Tepic#21.5#-104.9#966#-6
+Mexico#Texcoco de Mora#19.51667#-98.8833#2254#-6
+Mexico#Tijuana#32.53333#-117.017#32#-8
+Mexico#Tlalnepantla#19.52694#-99.2217#2277#-6
+Mexico#Tlaquepaque#20.65#-103.317#1572#-6
+Mexico#Toluca#19.28833#-99.6672#2686#-6
+Mexico#Tonala#20.61667#-103.233#1595#-6
+Mexico#Torreon#25.55#-103.433#1129#-6
+Mexico#Tuxtla Gutierrez#16.75#-93.1167#571#-6
+Mexico#Uruapan del Progreso#19.41667#-102.067#1664#-6
+Mexico#Veracruz#19.2#-96.1333#1#-6
+Mexico#Villahermosa#17.98333#-92.9167#9#-6
+Mexico#Xico#19.26667#-98.9333#2239#-6
+Mexico#Zacatecas#22.77559#-102.572#2483#-6
+Mexico#Zamora de Hidalgo#19.98333#-102.267#1590#-6
+Mexico#Zapopan#20.71667#-103.4#1571#-6

@@ -1,0 +1,18 @@
+﻿
+No Mans Land#Ash Shaykh Sulayman#31.8667#35.0333#0#2
+No Mans Land#Bi r Mazzah#31.8333#35.0333#0#2
+No Mans Land#Bir et Tina#31.8333#35#0#2
+No Mans Land#Bir Khatula#31.8167#35.0167#0#2
+No Mans Land#Deir Aiyub#31.8333#35.0167#0#2
+No Mans Land#Demilitarized Zone#31.8333#34.9667#0#2
+No Mans Land#El Manatir#31.85#35.0667#0#2
+No Mans Land#Khirbat Baradah#31.8667#35.0167#0#2
+No Mans Land#Khirbat Dayr Nahlah#31.8667#34.9833#0#2
+No Mans Land#Khirbat Kureikur#31.9167#35.0333#0#2
+No Mans Land#Khirbat Sabhah#31.75#35.2333#0#2
+No Mans Land#Khirbat Shibli#31.85#35.05#0#2
+No Mans Land#Khirbat Umm Rujman#31.8833#35.0333#0#2
+No Mans Land#Montefiore#31.7833#35.2#0#2
+No Mans Land#Sanhedriya#31.8#35.2167#0#2
+No Mans Land#Talpiot#31.75#35.2167#0#2
+No Mans Land#Wadi ar Rababi#31.7667#35.2333#0#2

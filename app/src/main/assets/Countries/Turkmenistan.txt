@@ -1,0 +1,45 @@
+﻿Turkmenistan#Ashgabat#37.95#58.3833#0#5
+Turkmenistan#Ashgabat#37.9428#58.3961#0#5
+Turkmenistan#Ashgabat Oblasty#38.25#59.75#0#5
+Turkmenistan#Cheleken#39.2167#53.1#0#5
+Turkmenistan#Cheleken (Balkan)#39.4447#53.115#0#5
+Turkmenistan#Eason-Ali#38.3#54.7#0#5
+Turkmenistan#Egri#38.0167#65.1333#0#5
+Turkmenistan#Esenguly#37.4656#53.9725#0#5
+Turkmenistan#Esenguly Demirgazyk#37.5139#53.9922#0#5
+Turkmenistan#Esenguly Reydy#37.4347#53.8556#0#5
+Turkmenistan#Farab#39.1333#63.6667#0#5
+Turkmenistan#Farab (Lebap)#39.1714#63.6031#0#5
+Turkmenistan#Ferma Shal-Cheken#38.2833#56.6#0#5
+Turkmenistan#Firyuza#37.9158#58.0911#0#5
+Turkmenistan#Fistashkovyy Khrebet#35.2733#62.4297#0#5
+Turkmenistan#Gyaurs#37.7961#58.7286#0#5
+Turkmenistan#Gyaurskiy Rayon#37.8667#58.5167#0#5
+Turkmenistan#Hari Rod#37.3908#60.5169#0#5
+Turkmenistan#Leninizm#38.5114#64.0608#0#5
+Turkmenistan#Mary#37.6#61.8333#0#5
+Turkmenistan#Maryyskiy Rayon#38#61.75#0#5
+Turkmenistan#Nebitdag#39.5119#54.365#0#5
+Turkmenistan#Qara Bel#36.2#63.5833#0#5
+Turkmenistan#Qareh Tikan Su#37.0717#60.5242#0#5
+Turkmenistan#Qura Gel#39.3789#53.1819#0#5
+Turkmenistan#Sarakhs#36.5231#61.2139#0#5
+Turkmenistan#Tagta#41.65#59.9#0#5
+Turkmenistan#Turkmenabad#39.1014#63.575#0#5
+Turkmenistan#Turkmenbashy#40.0231#52.9697#0#5
+Turkmenistan#Vpadina Akchakaya#41.05#58.25#0#5
+Turkmenistan#Yak-Kala#38.1167#57.95#0#5
+Turkmenistan#Yakeper#38.2172#62.0994#0#5
+Turkmenistan#Yangi-Kuyu#37.15#62.7333#0#5
+Turkmenistan#Yangi-Su#41#54.7667#0#5
+Turkmenistan#Yashguch#37.2667#60.6333#0#5
+Turkmenistan#Yaskhan#39.6667#55.55#0#5
+Turkmenistan#Yasman#38.0667#58.2167#0#5
+Turkmenistan#Yasydepe#37.5231#54.7375#0#5
+Turkmenistan#Yaz-Tepe#39.0833#63.3833#0#5
+Turkmenistan#Yerazli#37.7333#59.45#0#5
+Turkmenistan#Yerbent#39.3167#58.6#0#5
+Turkmenistan#Yesheksiyen#38.8333#58.65#0#5
+Turkmenistan#Yoloten#37.3#62.35#0#5
+Turkmenistan#Yuldy-Dere#38.2833#56.75#0#5
+Turkmenistan#Yurta-Baba#37.6008#54.4244#0#5

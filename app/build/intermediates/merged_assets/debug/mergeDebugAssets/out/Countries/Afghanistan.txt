@@ -1,0 +1,85 @@
+﻿
+Afghanistan#`Alaqehdari Deh-e Shu#30.434722#63.3072205#584#4.5
+Afghanistan#Achin#34.12#70.6999969#997#4.5
+Afghanistan#Anar Darreh#32.762222#61.6525002#801#4.5
+Afghanistan#Andkhvoy#36.9525#65.1236115#319#4.5
+Afghanistan#Ashkasham#36.683333#71.5333328#3037#4.5
+Afghanistan#Asmar#35.03#71.3499985#934#4.5
+Afghanistan#At Khvajeh#37.084167#69.4805527#474#4.5
+Afghanistan#Baghlan#36.12#68.6999969#565#4.5
+Afghanistan#Balkh#36.758611#66.8961105#328#4.5
+Afghanistan#Baraki Barak#33.9675#68.9486084#1937#4.5
+Afghanistan#Char Burj#34.24#62.1899986#967#4.5
+Afghanistan#Charikar#35.013611#69.1713867#1534#4.5
+Afghanistan#Chiras#35.416667#65.9833298#2828#4.5
+Afghanistan#Cool urhajo#34.265445#67.3451614#2733#4.5
+Afghanistan#Dahaneh-ye Ghowri#35.9075#68.4938889#758#4.5
+Afghanistan#Darvishan#31.133333#64.1924973#719#4.5
+Afghanistan#Darwazkay#35.02#71.0400009#2508#4.5
+Afghanistan#Darzab#35.978333#65.3791656#1224#4.5
+Afghanistan#Dasht-e Archi#37.133333#69.1666641#372#4.5
+Afghanistan#Dorufchah#36.439722#70.0838852#4290#4.5
+Afghanistan#Emam Saheb#37.182222#68.9124985#340#4.5
+Afghanistan#Eslam Qal`eh#34.666667#61.0666656#721#4.5
+Afghanistan#Farakh#32.37#62.1100006#653#4.5
+Afghanistan#Farkhar#36.572222#69.8580551#1135#4.5
+Afghanistan#Feyzabad#37.1175#70.5797195#1235#4.5
+Afghanistan#Gardez#33.59#69.2200012#2279#4.5
+Afghanistan#Gereshk#31.818889#64.5647202#844#4.5
+Afghanistan#Ghazni#33.553555#68.4268875#2175#4.5
+Afghanistan#Herat#34.34#62.1899986#927#4.5
+Afghanistan#Hokumati Azraw#34.17#69.6399994#2278#4.5
+Afghanistan#Jabal os Saraj#35.118333#69.2377777#1575#4.5
+Afghanistan#Jalalabad#34.42#70.4499969#573#4.5
+Afghanistan#Jorm#36.866667#70.8344421#1508#4.5
+Afghanistan#Kabul#34.516667#69.1833344#1808#4.5
+Afghanistan#Kalat-i-Ghilzai#32.1#66.9100037#1535#4.5
+Afghanistan#Kandahar#31.61#65.6999969#1015#4.5
+Afghanistan#Karokh#34.479167#62.5869446#1309#4.5
+Afghanistan#Khanabad#36.68#69.1100006#490#4.5
+Afghanistan#Khandud#36.948889#72.3169479#2918#4.5
+Afghanistan#Khash#31.529167#62.7924995#578#4.5
+Afghanistan#Khost#33.338056#69.9202805#1178#4.5
+Afghanistan#Konduz#36.72#68.8600006#394#4.5
+Afghanistan#Kuhestan#34.653889#61.1977768#734#4.5
+Afghanistan#Kushk#33.296111#61.9527779#1126#4.5
+Afghanistan#Lab-Sar#36.026111#66.8386078#1043#4.5
+Afghanistan#Lar Gerd#35.489722#66.6636124#1867#4.5
+Afghanistan#Mazar-e Sharif#36.706944#67.1122208#369#4.5
+Afghanistan#Mehtar Lam#34.671389#70.2094421#768#4.5
+Afghanistan#Mir Bachcheh Kowt#34.748889#69.1191635#1691#4.5
+Afghanistan#Mirabad#30.435278#61.8347206#499#4.5
+Afghanistan#Mohmand Darrah#34.24#70.8700027#481#4.5
+Afghanistan#Mulkanah#34.94#71.0599976#1181#4.5
+Afghanistan#Munay#34.98#71.25#995#4.5
+Afghanistan#Nahrin#36.065278#69.1338882#1156#4.5
+Afghanistan#Nawab City#31.58#64.3600006#775#4.5
+Afghanistan#Paghman#34.5875#68.953331#2276#4.5
+Afghanistan#Panjab#34.3875#67.0233307#2707#4.5
+Afghanistan#Pol-e Khomri#35.9425#68.7191696#832#4.5
+Afghanistan#Pul-i-Alam#33.98#69.0299988#1916#4.5
+Afghanistan#Qal`eh Shahr#35.548333#65.5677795#2159#4.5
+Afghanistan#Qaravol#37.221111#68.7799988#327#4.5
+Afghanistan#Qarchi Gak#37.035556#66.788887#298#4.5
+Afghanistan#Qareh Bagh#34.940556#61.7775002#950#4.5
+Afghanistan#Qarqin#37.412778#66.047226#250#4.5
+Afghanistan#Rostaq#37.1275#69.8305588#1323#4.5
+Afghanistan#Rudbar#30.15#62.5999985#573#4.5
+Afghanistan#Samangan#36.265278#68.0166702#960#4.5
+Afghanistan#Sang-e Charak#35.849722#66.4369431#1547#4.5
+Afghanistan#Sangin#32.073333#64.8338852#892#4.5
+Afghanistan#Sar-e Pol#36.215556#65.9363861#629#4.5
+Afghanistan#Shahrag#34.108333#64.3033371#2393#4.5
+Afghanistan#Sheberghan#36.667222#65.7536087#362#4.5
+Afghanistan#Sindand#33.3#62.1399994#1071#4.5
+Afghanistan#Tagao#34.85#69.6399994#1453#4.5
+Afghanistan#Tagow Bay#35.701667#66.0613861#1845#4.5
+Afghanistan#Taloqan#36.736051#69.5345078#788#4.5
+Afghanistan#Tashqorghan#36.695278#67.6980591#460#4.5
+Afghanistan#Tir Pol#34.595278#61.2669449#768#4.5
+Afghanistan#Tokzar#35.948889#66.4199982#1253#4.5
+Afghanistan#Uruzgan#32.92#66.6299973#2010#4.5
+Afghanistan#Yengi Qal`eh#37.467222#69.609169#481#4.5
+Afghanistan#Zareh Sharan#33.146667#68.7916641#2141#4.5
+Afghanistan#Zarghun Shahr#32.847222#68.4458313#2114#4.5
+Afghanistan#Zendeh Jan#34.345556#61.7316666#844#4.5

@@ -1,0 +1,183 @@
+﻿
+Jersey#Aiguillon#49.1667#-2.2167#0#0
+Jersey#Albert Pier#49.1789#-2.1131#0#0
+Jersey#Anne Port#49.2#-2.0167#0#0
+Jersey#Bailhache#49.1569#-2.0994#0#0
+Jersey#Baleine#49.1747#-2.135#0#0
+Jersey#Banc de Saint Brelade#49.1669#-2.2072#0#0
+Jersey#Banc De Violet#49.15#-2.0333#0#0
+Jersey#Banc Desormes#49.3125#-2.275#0#0
+Jersey#Banc du Chateau#49.1917#-1.9833#0#0
+Jersey#Banc Le Fret#49.165#-2.1886#0#0
+Jersey#Beau Port#49.1794#-2.2061#0#0
+Jersey#Beaumont#49.2#-2.1667#0#0
+Jersey#Bel Royal#49.2#-2.15#0#0
+Jersey#Belcroute Bay#49.1833#-2.1667#0#0
+Jersey#Belle Hougue Point#49.25#-2.1#0#0
+Jersey#Belle Vue#49.2#-2.1833#0#0
+Jersey#Belval Cove#49.2217#-2.0231#0#0
+Jersey#Bouley Bay#49.25#-2.0667#0#0
+Jersey#Brayes Rocks#49.2344#-2.0203#0#0
+Jersey#Chevel Rock#49.2542#-2.1139#0#0
+Jersey#Clump Rock#49.3125#-2.0275#0#0
+Jersey#Corbiere Point#49.1833#-2.25#0#0
+Jersey#Cormorant Rock#49.2564#-2.1292#0#0
+Jersey#Cotil Point#49.2544#-2.1331#0#0
+Jersey#Coupe Rock#49.2325#-2.0136#0#0
+Jersey#Crabbe#49.2492#-2.1822#0#0
+Jersey#Crabiere Rock#49.1728#-2.1061#0#0
+Jersey#Crapaud of the Castle#49.1742#-2.1197#0#0
+Jersey#Crapaud of the Mangeuse#49.1719#-2.1164#0#0
+Jersey#Crow Rock#49.1731#-2.1247#0#0
+Jersey#Danger Rock#49.1494#-2.1464#0#0
+Jersey#Demie de la Tour#49.2456#-2.0497#0#0
+Jersey#Demie de Pas#49.1514#-2.1008#0#0
+Jersey#Demie Rock#49.2589#-2.1214#0#0
+Jersey#Diamond Rock#49.17#-2.1436#0#0
+Jersey#Dirouilles#49.3#-2.0333#0#0
+Jersey#Dog s Nest Rock#49.1678#-2.1139#0#0
+Jersey#Douet de la Mer#49.2333#-2.0333#0#0
+Jersey#East La Cloche#49.1653#-2.1208#0#0
+Jersey#East Pier#49.1789#-2.115#0#0
+Jersey#Ecreviere Bank#49.275#-1.8992#0#0
+Jersey#Eureka#49.2219#-2.0031#0#0
+Jersey#Fairway Rock#49.1539#-2.13#0#0
+Jersey#Fiquet Bay#49.1772#-2.2128#0#0
+Jersey#Fliquet Bay#49.2333#-2.0167#0#0
+Jersey#Fort Elizabeth#49.1769#-2.1253#0#0
+Jersey#Fort Henry#49.1872#-2.0331#0#0
+Jersey#Fort Regent#49.1819#-2.1039#0#0
+Jersey#Fourche#49.1747#-2.1967#0#0
+Jersey#Fournier du Havre#49.1792#-2.1989#0#0
+Jersey#Fournier Rock#49.175#-2.2064#0#0
+Jersey#Fremont Point#49.25#-2.1167#0#0
+Jersey#Frouquie#49.2969#-2.0394#0#0
+Jersey#Frouquie des Vracheres#49.1439#-2.1964#0#0
+Jersey#Grand Becquet#49.255#-2.2103#0#0
+Jersey#Havre de Fontaines#49.1667#-2.0644#0#0
+Jersey#Havre des Pas#49.1767#-2.1025#0#0
+Jersey#Hermitage#49.1667#-2.1167#0#0
+Jersey#Hermitage Breakwater#49.1728#-2.1228#0#0
+Jersey#Hiaux#49.2411#-2.0408#0#0
+Jersey#Hinguette#49.155#-2.125#0#0
+Jersey#Hougue Bie#49.2#-2.0667#0#0
+Jersey#Hubaut#49.1525#-2.1931#0#0
+Jersey#Icho Bank#49.1144#-2.0717#0#0
+Jersey#Isle Agois#49.25#-2.1806#0#0
+Jersey#Jersey#49.2167#-2.1167#0#0
+Jersey#Jinquet Rock#49.1453#-2.0603#0#0
+Jersey#Joli#49.2919#-2.0472#0#0
+Jersey#Jument#49.1783#-2.2397#0#0
+Jersey#L Etac#49.2333#-2.2333#0#0
+Jersey#L teton#49.1622#-2.0381#0#0
+Jersey#La Boue#49.1836#-2.2575#0#0
+Jersey#La Coniere#49.1583#-2.0308#0#0
+Jersey#La Cotte Point#49.1833#-2.1833#0#0
+Jersey#La Grune#49.2439#-2.0794#0#0
+Jersey#La Joie#49.3108#-2.0325#0#0
+Jersey#La Plaine#49.2592#-2.1639#0#0
+Jersey#La Platte#49.2956#-2.015#0#0
+Jersey#La Rousse#49.1511#-2.0472#0#0
+Jersey#La Sambue#49.1556#-2.0797#0#0
+Jersey#La Villaise#49.2422#-2.2347#0#0
+Jersey#La Vrachere#49.1825#-2.1244#0#0
+Jersey#Le Col de la Rocque#49.2514#-2.1783#0#0
+Jersey#Le Giffard#49.1756#-1.9819#0#0
+Jersey#Le Graveur#49.2222#-2.0181#0#0
+Jersey#Le Ruquet#49.3067#-1.9736#0#0
+Jersey#Les Boiteaux#49.1794#-2.26#0#0
+Jersey#Les Burons#49.2992#-2.0339#0#0
+Jersey#Les Creux#49.1819#-2.2042#0#0
+Jersey#Les Ecrehou#49.3#-1.9167#0#0
+Jersey#Les Grunes#49.3119#-2.04#0#0
+Jersey#Les Troupeurs#49.2472#-2.0639#0#0
+Jersey#Maitre Ile#49.2833#-1.9278#0#0
+Jersey#Margaret Rock#49.1475#-2.075#0#0
+Jersey#Marmotier#49.2917#-1.9278#0#0
+Jersey#Millbrook#49.2#-2.1333#0#0
+Jersey#Mont Fiquet#49.1806#-2.2128#0#0
+Jersey#Mouilliere Rock#49.2444#-2.265#0#0
+Jersey#Moulet Rock#49.1681#-2.1172#0#0
+Jersey#Mount Bingham#49.1775#-2.1075#0#0
+Jersey#Mount Mado#49.2478#-2.1225#0#0
+Jersey#Mourier Bay#49.2583#-2.1428#0#0
+Jersey#Nez du Guet#49.2408#-2.0425#0#0
+Jersey#Nipple Rock#49.1642#-2.1097#0#0
+Jersey#Noire Roque#49.3042#-2.0319#0#0
+Jersey#Noirmont Point#49.1667#-2.1667#0#0
+Jersey#Noirmontaise Reef#49.1794#-2.255#0#0
+Jersey#Noirs Hommes#49.1594#-2.1561#0#0
+Jersey#North Quay#49.1803#-2.1103#0#0
+Jersey#Old Harbour#49.1806#-2.1092#0#0
+Jersey#Ouaisne Bay#49.18#-2.1861#0#0
+Jersey#Oyster Rocks#49.2419#-2.0628#0#0
+Jersey#Passage Rock#49.1592#-2.2011#0#0
+Jersey#Passe de l Etoc#49.3#-2#0#0
+Jersey#Perruque#49.2519#-2.1406#0#0
+Jersey#Petite Etaquerel#49.2406#-2.2483#0#0
+Jersey#Petite Grune#49.1592#-2.1897#0#0
+Jersey#Petite Mangeuse#49.1722#-2.1128#0#0
+Jersey#Petite Rousse#49.2917#-1.9667#0#0
+Jersey#Pierre de Lecq#49.2833#-2.2167#0#0
+Jersey#Pignonet#49.1656#-2.1594#0#0
+Jersey#Pillon Rock#49.2236#-2.0047#0#0
+Jersey#Plat Rocque Point#49.1667#-2.0333#0#0
+Jersey#Plateau de la Frouquie#49.1#-1.9667#0#0
+Jersey#Platte Rock#49.1833#-2.1564#0#0
+Jersey#Pleinmont Point#49.2667#-2.2333#0#0
+Jersey#Plemont Deep#49.2667#-2.2#0#0
+Jersey#Point La Moye#49.1833#-2.2167#0#0
+Jersey#Point Le Croc#49.1667#-2.0833#0#0
+Jersey#Point Le Fret#49.1667#-2.1833#0#0
+Jersey#Point le Grouin#49.1828#-2.1883#0#0
+Jersey#Portelet Ledge#49.1672#-2.1775#0#0
+Jersey#Portinfer#49.2519#-2.2236#0#0
+Jersey#Quereme Rock#49.1697#-2.1142#0#0
+Jersey#Rigdon Bank#49.2394#-2.2881#0#0
+Jersey#Rocque Herbeuse#49.1644#-2.0597#0#0
+Jersey#Rocque Larron#49.1606#-2.0639#0#0
+Jersey#Rocquemin#49.1783#-2.1311#0#0
+Jersey#Ronez Point#49.2667#-2.15#0#0
+Jersey#Rouge Nez#49.25#-2.2#0#0
+Jersey#Round Rouget#49.1553#-2.0883#0#0
+Jersey#Rousse#49.1667#-2.2#0#0
+Jersey#Royal Bay of Grouville#49.1833#-2.0167#0#0
+Jersey#Rozel#49.2333#-2.05#0#0
+Jersey#Ruaudiere Rock#49.1631#-2.1417#0#0
+Jersey#Saint Aubins Bay#49.1833#-2.1333#0#0
+Jersey#Saint Aubins Fort#49.1853#-2.1597#0#0
+Jersey#Saint Brelade#49.1833#-2.2#0#0
+Jersey#Saint Catherines Bay#49.2167#-2.0167#0#0
+Jersey#Saint Clement#49.175#-2.0556#0#0
+Jersey#Saint Clements Bay#49.1667#-2.0667#0#0
+Jersey#Saint Helier#49.1833#-2.1#0#0
+Jersey#Saint Helier Harbour#49.1778#-2.1117#0#0
+Jersey#Saint Helier Marina#49.1822#-2.11#0#0
+Jersey#Saint Johns Bay#49.25#-2.1333#0#0
+Jersey#Saint Ouen#49.2267#-2.2056#0#0
+Jersey#Saint Ouens Bay#49.2167#-2.25#0#0
+Jersey#Saint Ouens Pond#49.2167#-2.2167#0#0
+Jersey#Saint Peters Church#49.2167#-2.1833#0#0
+Jersey#Saint Saviour#49.1981#-2.0922#0#0
+Jersey#Shamrock Bank#49.2625#-2.1272#0#0
+Jersey#Sillette#49.1536#-2.1606#0#0
+Jersey#Six Rues#49.2333#-2.15#0#0
+Jersey#Sorel Point#49.2667#-2.1667#0#0
+Jersey#South West Grune#49.285#-2.2044#0#0
+Jersey#Southeast Rock#49.1744#-2.1214#0#0
+Jersey#Southwest Rock#49.1447#-2.1697#0#0
+Jersey#Swashway Channel#49.2333#-2.2833#0#0
+Jersey#Tas de Pois#49.1578#-2.1039#0#0
+Jersey#The Demies#49.2528#-2.1981#0#0
+Jersey#The Quennevais#49.2#-2.2#0#0
+Jersey#Tour de Rozel#49.25#-2.05#0#0
+Jersey#Trinity#49.2347#-2.09#0#0
+Jersey#Trois Grunes#49.1594#-2.1083#0#0
+Jersey#Valley des Vaux#49.2#-2.1#0#0
+Jersey#Vicard Harbour#49.2492#-2.0856#0#0
+Jersey#Vicard Point#49.25#-2.0833#0#0
+Jersey#Victoria Pier#49.1767#-2.1117#0#0
+Jersey#Ville Bagot#49.2447#-2.2053#0#0
+Jersey#Ville es Nouaux#49.1956#-2.1267#0#0
+Jersey#Vinchelez de Haut#49.25#-2.2167#0#0
+Jersey#West La Cloche#49.1653#-2.1239#0#0

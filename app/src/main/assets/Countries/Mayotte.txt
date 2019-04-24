@@ -1,0 +1,189 @@
+﻿
+Mayotte#Accua#-12.7225#45.0564#0#3
+Mayotte#Analavato#-12.7575#45.0744#0#3
+Mayotte#Andembe#-12.9644#45.1208#0#3
+Mayotte#Andilabe#-12.8717#45.1519#0#3
+Mayotte#Andimaka#-12.7564#45.0889#0#3
+Mayotte#Andrema#-12.6786#45.0978#0#3
+Mayotte#Anketabe#-12.7489#45.0892#0#3
+Mayotte#Anse Bambo#-12.9239#45.1853#0#3
+Mayotte#Anse Hajangoua#-12.8572#45.2036#0#3
+Mayotte#Anse Mounyambani#-12.9447#45.1714#0#3
+Mayotte#Apandzo#-12.8306#45.1303#0#3
+Mayotte#Baie d Acoua#-12.7281#45.0433#0#3
+Mayotte#Baie de Boueni#-12.9111#45.1203#0#3
+Mayotte#Baie de Chiconi#-12.8372#45.0972#0#3
+Mayotte#Baie de Handrema#-12.665#45.0956#0#3
+Mayotte#Baie de Kani#-12.9672#45.0992#0#3
+Mayotte#Baie de Longoni#-12.7139#45.1475#0#3
+Mayotte#Baie de Mzouazia#-12.9408#45.0842#0#3
+Mayotte#Baie de Tsingoni#-12.7917#45.0969#0#3
+Mayotte#Bambo Est#-12.9261#45.1739#0#3
+Mayotte#Bambo Ouest#-12.9219#45.0872#0#3
+Mayotte#Banc Boa Sadia#-12.6833#45.0372#0#3
+Mayotte#Bandraboua#-12.7017#45.1206#0#3
+Mayotte#Bandrajou#-12.7453#45.2186#0#3
+Mayotte#Bandramaji#-12.7528#45.1497#0#3
+Mayotte#Bandrani#-12.845#45.1019#0#3
+Mayotte#Bandrele#-12.9067#45.1914#0#3
+Mayotte#Bejamoudou#-12.8233#45.1608#0#3
+Mayotte#Boueni#-12.9025#45.0761#0#3
+Mayotte#Boungoube#-12.8536#45.1478#0#3
+Mayotte#Bouyouni#-12.7356#45.1383#0#3
+Mayotte#Cap Douamougno#-12.6494#45.1033#0#3
+Mayotte#Carrefour de Chiconi#-12.8381#45.1194#0#3
+Mayotte#Carrefour de Dzoumonye#-12.7225#45.1208#0#3
+Mayotte#Carrefour de Handrema#-12.6844#45.1017#0#3
+Mayotte#Carrefour de Soulou#-12.7622#45.1028#0#3
+Mayotte#Carriere de Hajangoua#-12.8544#45.1939#0#3
+Mayotte#Chaoueni#-12.7789#45.19#0#3
+Mayotte#Charifou#-12.9939#45.1483#0#3
+Mayotte#Chembenyoumba#-12.7622#45.0753#0#3
+Mayotte#Chiconi#-12.8333#45.1106#0#3
+Mayotte#Chirongui#-12.9319#45.1483#0#3
+Mayotte#Chissimani#-12.7822#45.0992#0#3
+Mayotte#Chissioua Karoni#-12.9172#45.1392#0#3
+Mayotte#Chissioua Kolo Issa#-12.8353#45.2322#0#3
+Mayotte#Chissioua Mbouzi#-12.8086#45.2322#0#3
+Mayotte#Chissioua Mtiti#-12.6858#45.1167#0#3
+Mayotte#Chissioua Pengoua#-12.8364#45.2442#0#3
+Mayotte#Chissioua Sada#-12.8439#45.0869#0#3
+Mayotte#Choungui#-12.8011#45.105#0#3
+Mayotte#Choungui Keli#-12.9686#45.1308#0#3
+Mayotte#Col d Ongojou#-12.835#45.1592#0#3
+Mayotte#Col de Chirongui#-12.935#45.1581#0#3
+Mayotte#Combani#-12.7864#45.1336#0#3
+Mayotte#Dapani#-12.9692#45.1589#0#3
+Mayotte#Djivani#-12.8314#45.12#0#3
+Mayotte#Doujani#-12.8422#45.1064#0#3
+Mayotte#Dzaoudzi#-12.7794#45.2536#0#3
+Mayotte#Dziani Dzaha#-12.7681#45.2861#0#3
+Mayotte#Dziani Karihani#-12.7939#45.1192#0#3
+Mayotte#Dzoumonye#-12.7172#45.1128#0#3
+Mayotte#Florence#-12.8597#45.1917#0#3
+Mayotte#Foungoujou#-12.7839#45.2589#0#3
+Mayotte#Gnambo#-12.7069#45.1206#0#3
+Mayotte#Gogorakandza#-12.8633#45.2056#0#3
+Mayotte#Grand Recif du Nord Est#-12.6908#45.2325#0#3
+Mayotte#Hachenoua#-12.7872#45.1111#0#3
+Mayotte#Hachiroungou#-12.7103#45.0625#0#3
+Mayotte#Hajangoua#-12.8656#45.1933#0#3
+Mayotte#Hamaha#-12.7694#45.2303#0#3
+Mayotte#Hamjago#-12.6858#45.0719#0#3
+Mayotte#Hamouro#-12.8786#45.2133#0#3
+Mayotte#Hanyoundrou#-12.9006#45.0986#0#3
+Mayotte#Ile Andrema#-12.6725#45.1122#0#3
+Mayotte#Ile Blanche#-12.7158#45.1714#0#3
+Mayotte#Ile M Zamboro#-12.6414#45.0275#0#3
+Mayotte#Ile Mogne Amiri#-12.7683#45.2489#0#3
+Mayotte#Ile Verte#-12.7236#45.1436#0#3
+Mayotte#Iles Choazil#-12.6719#45.0508#0#3
+Mayotte#Iloni#-12.8411#45.1889#0#3
+Mayotte#Ilot de Sable Blanc#-12.9828#45.2139#0#3
+Mayotte#Ironi Be#-12.8306#45.1886#0#3
+Mayotte#Jetee M Goudajou#-12.7186#45.1292#0#3
+Mayotte#Kahani#-12.8208#45.1294#0#3
+Mayotte#Kakazou#-12.7681#45.2564#0#3
+Mayotte#Kangani#-12.7272#45.185#0#3
+Mayotte#Kani Be#-12.9614#45.1092#0#3
+Mayotte#Kani Keli#-12.9536#45.1033#0#3
+Mayotte#Kaoueni#-12.7703#45.2181#0#3
+Mayotte#Karoni#-12.9289#45.1172#0#3
+Mayotte#Kavani#-12.7789#45.2189#0#3
+Mayotte#Ketabe#-12.6928#45.0744#0#3
+Mayotte#Kombeni#-12.8489#45.1792#0#3
+Mayotte#Kouale#-12.8022#45.1964#0#3
+Mayotte#Kouale Dzindzano#-12.7811#45.1842#0#3
+Mayotte#Kouale-Legion#-12.795#45.1861#0#3
+Mayotte#Koungou#-12.7336#45.2042#0#3
+Mayotte#La Ferme#-12.7844#45.2775#0#3
+Mayotte#La Vigie#-12.7889#45.2886#0#3
+Mayotte#Labattoir#-12.785#45.2703#0#3
+Mayotte#Les Quatre Freres#-12.7558#45.2486#0#3
+Mayotte#Longoni#-12.7317#45.1611#0#3
+Mayotte#Mamoudzou#-12.7794#45.2272#0#3
+Mayotte#Mayotte#-12.8078#45.1603#0#3
+Mayotte#Namohakou#-12.76#45.2042#0#3
+Mayotte#Ngouja#-12.9592#45.0836#0#3
+Mayotte#Ngoumbili#-12.9497#45.1569#0#3
+Mayotte#Nyambadao#-12.8906#45.2008#0#3
+Mayotte#Ongojou#-12.8347#45.1564#0#3
+Mayotte#Ouangani#-12.8464#45.1361#0#3
+Mayotte#Pamandzi#-12.7964#45.2736#0#3
+Mayotte#Passamainti#-12.7989#45.2103#0#3
+Mayotte#Passe de Bandrele#-12.8872#45.2492#0#3
+Mayotte#Passe Longogori#-12.8617#45.2678#0#3
+Mayotte#Passe Sazile du Milieu#-12.9647#45.2222#0#3
+Mayotte#Passe Sazile du Nord#-12.9531#45.2167#0#3
+Mayotte#Passe Sazile du Sud#-13.0017#45.2322#0#3
+Mayotte#Pengoua Bole#-12.8531#45.1078#0#3
+Mayotte#Pengoualajou#-12.9036#45.1742#0#3
+Mayotte#Petite-Terre#-12.7569#45.2825#0#3
+Mayotte#Plage de Hamaha#-12.7611#45.235#0#3
+Mayotte#Plage de Handrema#-12.6672#45.0867#0#3
+Mayotte#Plage de Koungou#-12.7275#45.2003#0#3
+Mayotte#Plage de la Bonne Maree#-12.8519#45.195#0#3
+Mayotte#Plage de Longoni#-12.7236#45.1619#0#3
+Mayotte#Plage de Papani#-12.7714#45.2917#0#3
+Mayotte#Plage de Sohoa#-12.8144#45.1036#0#3
+Mayotte#Plage de Soulou#-12.7778#45.0992#0#3
+Mayotte#Plage de Trevani#-12.7281#45.1925#0#3
+Mayotte#Plages de Moya#-12.78#45.295#0#3
+Mayotte#Pointe Bandaboi#-12.7#45.1281#0#3
+Mayotte#Pointe de Koungou#-12.7303#45.2117#0#3
+Mayotte#Pointe de Longoni#-12.7161#45.1631#0#3
+Mayotte#Pointe Mahabo#-12.78#45.2356#0#3
+Mayotte#Pointe Mohila#-12.7194#45.0383#0#3
+Mayotte#Pointe Sazile#-12.9719#45.2014#0#3
+Mayotte#Poroani#-12.8894#45.1383#0#3
+Mayotte#Rampe Cannelle#-12.9364#45.14#0#3
+Mayotte#Rassi Amagouizi#-12.6742#45.1019#0#3
+Mayotte#Rassi Bambo#-12.9397#45.1764#0#3
+Mayotte#Rassi Bouekoundrouni#-12.6786#45.0644#0#3
+Mayotte#Rassi Chodoni#-12.8972#45.0714#0#3
+Mayotte#Rassi Domonyombe#-12.8694#45.2189#0#3
+Mayotte#Rassi Kome#-12.6539#45.0253#0#3
+Mayotte#Rassi Maoussi#-12.9914#45.1753#0#3
+Mayotte#Rassi Mavoule#-12.6592#45.1028#0#3
+Mayotte#Rassi Mounyendre#-12.9172#45.2011#0#3
+Mayotte#Rassi Ngouja#-12.9594#45.0778#0#3
+Mayotte#Rassi ya Chifouni#-12.6975#45.0503#0#3
+Mayotte#Recif Bambo#-12.9444#45.2178#0#3
+Mayotte#Recif Bandrakouni#-12.8781#45.0694#0#3
+Mayotte#Recif Bandrele#-12.9014#45.2444#0#3
+Mayotte#Recif Boueni#-12.8975#45.0447#0#3
+Mayotte#Recif Domouali#-12.8472#45.0783#0#3
+Mayotte#Recif du Laminoir#-12.9053#45.2122#0#3
+Mayotte#Recif du Sable Blanc#-12.9842#45.2197#0#3
+Mayotte#Recif du Sud#-13.0064#45.2386#0#3
+Mayotte#Recif Hajangoua#-12.8781#45.2581#0#3
+Mayotte#Recif Lepoe#-12.9572#45.0592#0#3
+Mayotte#Recif Matre#-12.8625#45.0378#0#3
+Mayotte#Recif Mtiti#-12.9186#45.0594#0#3
+Mayotte#Recif Mtsanga#-12.8539#45.0381#0#3
+Mayotte#Recif Ndrane#-12.8292#45.0725#0#3
+Mayotte#Recif Rani#-12.9361#45.0569#0#3
+Mayotte#Recif Rocchi#-12.9881#45.0539#0#3
+Mayotte#Recif Sazile#-12.9581#45.2183#0#3
+Mayotte#Reserve Forestiere de Benara#-12.9008#45.1703#0#3
+Mayotte#Sada#-12.8481#45.0975#0#3
+Mayotte#Satra Gori#-12.9136#45.1697#0#3
+Mayotte#Sazile#-12.9819#45.1789#0#3
+Mayotte#Sazile Be#-12.9736#45.1972#0#3
+Mayotte#Sohoa#-12.8197#45.1036#0#3
+Mayotte#Sohoa Kavani#-12.8186#45.1061#0#3
+Mayotte#Sohoa Keli#-12.8211#45.1033#0#3
+Mayotte#Soulo#-12.7581#45.1006#0#3
+Mayotte#Tahiti Plage#-12.8622#45.11#0#3
+Mayotte#Tanaraki#-12.7561#45.0667#0#3
+Mayotte#Trevani#-12.7308#45.1961#0#3
+Mayotte#Tririni#-12.7283#45.1675#0#3
+Mayotte#Tsararano#-12.8339#45.1725#0#3
+Mayotte#Tsingoni#-12.7872#45.1028#0#3
+Mayotte#Tsiraka Apondra#-12.7414#45.0419#0#3
+Mayotte#Tsiraka Be#-12.9894#45.1258#0#3
+Mayotte#Tsoha#-12.7033#45.06#0#3
+Mayotte#Tsoundzou 1#-12.8042#45.2036#0#3
+Mayotte#Vahibeni#-12.7883#45.1772#0#3
+Mayotte#Vatou#-12.7706#45.2578#0#3
+Mayotte#Vatounkaridi#-12.9631#45.1386#0#3

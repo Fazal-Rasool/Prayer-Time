@@ -1,0 +1,116 @@
+﻿
+Usbekistan#Andijan#40.7831#72.3439#0#5
+Usbekistan#Bukhara#39.7747#64.4286#0#5
+Usbekistan#Edzhan#40.1667#65.5667#0#5
+Usbekistan#El tamgaly#40.8333#68.9333#0#5
+Usbekistan#El tay#41.2064#66.0947#0#5
+Usbekistan#Ellikkala#41.8667#61.1333#0#5
+Usbekistan#Ellikkalinskiy Rayon#42.1667#61.6667#0#5
+Usbekistan#Erjar#40.6619#68.1722#0#5
+Usbekistan#Erlga#41.4167#69.75#0#5
+Usbekistan#Esat#38.9481#66.5839#0#5
+Usbekistan#Eshonguzar#41.2544#69.1544#0#5
+Usbekistan#Eshquduq Quduk#41.5256#66.115#0#5
+Usbekistan#Eski#40.8667#72.1#0#5
+Usbekistan#Eski Ghazalkent#41.5694#69.7842#0#5
+Usbekistan#Eski-Alimkent#40.9486#69.1467#0#5
+Usbekistan#Eski-Tashkent#41.0194#68.9408#0#5
+Usbekistan#Eskiabad#40.9#71.15#0#5
+Usbekistan#Eskiarab#40.3697#71.4186#0#5
+Usbekistan#Farghona#40.3933#71.7794#0#5
+Usbekistan#Farghona Oblasti#40.5#71.25#0#5
+Usbekistan#Farghona Rayon#40.25#71.75#0#5
+Usbekistan#Farg`ona Shahri#40.3842#71.7889#0#5
+Usbekistan#Farish#40.5833#66.8667#0#5
+Usbekistan#Farkhad#40.2508#68.9008#0#5
+Usbekistan#Fayzabad#40.6889#72.2775#0#5
+Usbekistan#Fayziabad#40.4078#71.6075#0#5
+Usbekistan#Fayzova#38.1911#67.965#0#5
+Usbekistan#Fayzyabad#38.7781#65.7422#0#5
+Usbekistan#Fazyl -Kushty#38.4833#67.9544#0#5
+Usbekistan#Fedchenko#40.5603#72.0719#0#5
+Usbekistan#Feok-Tau#42.0167#60.4667#0#5
+Usbekistan#Fergana#40.5667#68.3667#0#5
+Usbekistan#Forish Rayoni#40.6667#67.25#0#5
+Usbekistan#Frunze Rayoni#41.3333#69.3#0#5
+Usbekistan#Hamza#40.4264#71.4956#0#5
+Usbekistan#Hamza Tumani#41.2956#69.3464#0#5
+Usbekistan#Haqqulobod#40.9167#72.1167#0#5
+Usbekistan#Hazorasp#41.3194#61.0742#0#5
+Usbekistan#Hazorasp Tumani#41.25#61.1667#0#5
+Usbekistan#Hishrov#39.6514#66.8931#0#5
+Usbekistan#Jagsak-Kum Sandwuste#39.5333#64.25#0#5
+Usbekistan#Jaihun#43.6667#59.0167#0#5
+Usbekistan#Jan-Cheka#38.35#68.0667#0#5
+Usbekistan#Janschabad#39.7167#64.1667#0#5
+Usbekistan#Janub Wokzali#41.2658#69.2556#0#5
+Usbekistan#Janubiy Surxon Suv Ombori#37.8558#67.6572#0#5
+Usbekistan#Jarqo rg on#37.5089#67.4233#0#5
+Usbekistan#Jau#40.5833#71.1167#0#5
+Usbekistan#Jizzakh Shahri#40.1158#67.8422#0#5
+Usbekistan#Jizzakh Wiloyati#40.3333#67.6667#0#5
+Usbekistan#Jizzax Tumani#40.0833#67.8333#0#5
+Usbekistan#Jo ynoy#38.9311#65.2675#0#5
+Usbekistan#Jomashuy#40.8658#71.4625#0#5
+Usbekistan#Jomboy Shahri#39.6989#67.0933#0#5
+Usbekistan#Jomboy Tumani#39.75#67.1667#0#5
+Usbekistan#Joncheka#38.35#68.0833#0#5
+Usbekistan#Jondor#39.74#64.1794#0#5
+Usbekistan#Juma Shahri#39.7122#66.6697#0#5
+Usbekistan#Juma-Bazar#39.5103#67.1992#0#5
+Usbekistan#Jumabozor#41.2339#69.5075#0#5
+Usbekistan#Karshi#38.8633#65.7978#0#5
+Usbekistan#Karshinskaya Step#39.1667#65.6667#0#5
+Usbekistan#Karshinskiy Rayon#38.8333#65.75#0#5
+Usbekistan#Langar#40.5239#71.65#0#5
+Usbekistan#Laylik#37.7167#66.95#0#5
+Usbekistan#Lenin Yuly#41.2167#71.4833#0#5
+Usbekistan#Leskhoz#41.8833#61.0833#0#5
+Usbekistan#Lok-Kazak#38.8#66.2667#0#5
+Usbekistan#Loyish#39.8839#66.7481#0#5
+Usbekistan#Luchak#38.3786#67.425#0#5
+Usbekistan#Lugumbek#40.9694#72.215#0#5
+Usbekistan#Lukman#39.8#64.1667#0#5
+Usbekistan#Lunacharskiy#41.3369#69.3217#0#5
+Usbekistan#Lyagin#40.15#68.8833#0#5
+Usbekistan#Lyangar#39.35#66.6667#0#5
+Usbekistan#Namangan Shahri#41#71.6667#0#5
+Usbekistan#Navoiy Shahri#40.0844#65.3792#0#5
+Usbekistan#Samarkand#40.4333#67.9667#0#5
+Usbekistan#Samarkand (Samarqand)#39.6542#66.9597#0#5
+Usbekistan#Samarkand Oblast#39.5833#66.5833#0#5
+Usbekistan#Tashbulak (Qashqadaryo)#38.9661#67.1392#0#5
+Usbekistan#Tashbulak (Namangan)#40.92#71.58#0#5
+Usbekistan#Tashbulak#40.2833#65.9167#0#5
+Usbekistan#Tashkent#40.1333#68.3667#0#5
+Usbekistan#Tashkent (Toshkent Shahri)#41.3167#69.25#0#5
+Usbekistan#Tashkent Oblast#41#69.6667#0#5
+Usbekistan#Tashkent Passazhirskiy#41.2911#69.2878#0#5
+Usbekistan#Tashkentskiy Kanal#40.8167#69.3778#0#5
+Usbekistan#Tashkentskiy Rayon#41.4#69.2#0#5
+Usbekistan#Tashkentskoye More#40.9681#69.3178#0#5
+Usbekistan#Termez#37.2242#67.2783#0#5
+Usbekistan#Urganch Shahri#41.55#60.6333#0#5
+Usbekistan#Vakhshivar#38.3283#67.6278#0#5
+Usbekistan#Vandob#37.7#66.6167#0#5
+Usbekistan#Vardanzi#40.15#64.4333#0#5
+Usbekistan#Varganzi#39.2333#67.0167#0#5
+Usbekistan#Varsin#39.6333#67.05#0#5
+Usbekistan#Varzak#40.5333#71.7333#0#5
+Usbekistan#Wobkent#40.0303#64.515#0#5
+Usbekistan#Wobkent Tumani#40#64.5#0#5
+Usbekistan#Wodil#40.1739#71.7275#0#5
+Usbekistan#Wozrojdeniye Orol#45.05#59.2#0#5
+Usbekistan#Xalqobod#37.4611#66.9219#0#5
+Usbekistan#Xatirchi Tumani#40.1667#66#0#5
+Usbekistan#Xisorak#38.5667#67.8#0#5
+Usbekistan#Xo jakulusun#38.2292#68.3414#0#5
+Usbekistan#Xonjizza#38.5883#67.5736#0#5
+Usbekistan#Xorazm Viloyati#41.5#60.5#0#5
+Usbekistan#Xovat#38.7558#67.8069#0#5
+Usbekistan#Xo`japiryox Tog`#38.7597#67.5853#0#5
+Usbekistan#Xufar#38.5419#67.7622#0#5
+Usbekistan#Zarafshan#39.5333#63.75#0#5
+Usbekistan#Zarafshan (Navoiy)#41.5792#64.2075#0#5
+Usbekistan#Zarafshanskiy Oazis#40.1667#65.3333#0#5
+Usbekistan#Zyadin#40.0333#65.6667#0#5

@@ -1,0 +1,51 @@
+﻿
+British Virgin Islands#Alphy Rock#18.4#-64.6833#0#-4
+British Virgin Islands#Arundel Ghut#18.4167#-64.65#0#-4
+British Virgin Islands#Bail s Ground#18.4667#-64.5333#0#-4
+British Virgin Islands#British Virgin Islands#18.5#-64.5#0#-4
+British Virgin Islands#Dead Chest#18.3667#-64.5667#0#-4
+British Virgin Islands#Diamond Cay#18.4333#-64.7167#0#-4
+British Virgin Islands#Dim Don Point#18.45#-64.7333#0#-4
+British Virgin Islands#East End#18.4406#-64.5583#0#-4
+British Virgin Islands#East End Bay#18.4333#-64.55#0#-4
+British Virgin Islands#East Point#18.7167#-64.2667#0#-4
+British Virgin Islands#Ginger Garden Point#18.3833#-64.4667#0#-4
+British Virgin Islands#Ginger Island#18.4#-64.4667#0#-4
+British Virgin Islands#Great Governor Ghut#18.4833#-64.3833#0#-4
+British Virgin Islands#Great Harbour Point#18.3667#-64.5833#0#-4
+British Virgin Islands#Great Mountain#18.4333#-64.6167#0#-4
+British Virgin Islands#Great Thatch Islet#18.3833#-64.7167#0#-4
+British Virgin Islands#Guana Hole#18.5167#-64.3833#0#-4
+British Virgin Islands#Guano Island#18.4833#-64.5667#0#-4
+British Virgin Islands#Half Moon Point#18.4167#-64.5833#0#-4
+British Virgin Islands#Iles des Vierges#18.3333#-64.75#0#-4
+British Virgin Islands#James Ghut#18.4167#-64.6#0#-4
+British Virgin Islands#Lances Bluff#18.4833#-64.3667#0#-4
+British Virgin Islands#Lee Bay#18.3667#-64.5333#0#-4
+British Virgin Islands#Long Point#18.4833#-64.5833#0#-4
+British Virgin Islands#Long Swamp#18.4333#-64.5667#0#-4
+British Virgin Islands#Loose Cay#18.4833#-64.5167#0#-4
+British Virgin Islands#Machineel Bay#18.45#-64.7167#0#-4
+British Virgin Islands#Man Head#18.3833#-64.5333#0#-4
+British Virgin Islands#Manchioneel Bay#18.3833#-64.5#0#-4
+British Virgin Islands#North East East End#18.4833#-64.55#0#-4
+British Virgin Islands#North East East Land#18.4667#-64.5#0#-4
+British Virgin Islands#Port Purcell#18.425#-64.6092#0#-4
+British Virgin Islands#Road Town#18.4167#-64.6167#0#-4
+British Virgin Islands#Saba Rock#18.5#-64.45#0#-4
+British Virgin Islands#Sabu Mathila Bay#18.3#-64.6167#0#-4
+British Virgin Islands#Saddle Bay#18.4333#-64.7667#0#-4
+British Virgin Islands#Salt Ghut#18.4#-64.6333#0#-4
+British Virgin Islands#Salt Island Bay#18.3667#-64.5167#0#-4
+British Virgin Islands#Salt Island Passage#18.35#-64.5333#0#-4
+British Virgin Islands#Sandy Point#18.3833#-64.7#0#-4
+British Virgin Islands#Scotch Bank#18.4136#-64.6014#0#-4
+British Virgin Islands#Scrub Island#18.4667#-64.5167#0#-4
+British Virgin Islands#Slaney Hill#18.4103#-64.6197#0#-4
+British Virgin Islands#Soldier East Point#18.7333#-64.3167#0#-4
+British Virgin Islands#Sound Reef#18.4667#-64.3833#0#-4
+British Virgin Islands#South Bay#18.5#-64.3833#0#-4
+British Virgin Islands#South East East Land#18.4667#-64.55#0#-4
+British Virgin Islands#South East End Point#18.4833#-64.45#0#-4
+British Virgin Islands#Walkover Set Bay#18.7333#-64.4#0#-4
+British Virgin Islands#Wesley Will#18.4333#-64.6#0#-4

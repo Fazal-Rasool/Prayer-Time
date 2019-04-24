@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2011 Iranian Supreme Council of ICT, The FarsiTel Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASICS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- Never ever ever change this array sequentiality, or you get unpredictable results -->
+<resources>
+
+    <string-array name="state_names">
+        <item>Lahore</item>
+        <item>Ardabil</item>
+        <item>Orumiyeh</item>
+        <item>Esfehan</item>
+        <item>Ahvaz</item>
+        <item>Ilam</item>
+        <item>Bojnurd</item>
+        <item>Bandar Abbas</item>
+        <item>Bushehr</item>
+        <item>Birjand</item>
+        <item>Tabriz</item>
+        <item>Tehran</item>
+        <item>Khoram Abad</item>
+        <item>Rasht</item>
+        <item>Zahedan</item>
+        <item>Zanjan</item>
+        <item>Sari</item>
+        <item>Semnan</item>
+        <item>Sanandaj</item>
+        <item>Shahr-e-kord</item>
+        <item>Shiraz</item>
+        <item>Ghazvin</item>
+        <item>Qom</item>
+        <item>Karaj</item>
+        <item>Kerman</item>
+        <item>Kermanshah</item>
+        <item>Gorgan</item>
+        <item>Mashhad</item>
+        <item>Hamedan</item>
+        <item>Yasuj</item>
+        <item>Yazd</item>
+    </string-array>
+
+    <string-array name="islamic_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi-Al-Awwal</item>
+        <item>Rabi-Al-Thani</item>
+        <item>Jumada-Al-Awwal</item>
+        <item>Jumada-Al-Thani</item>
+        <item>Rajab</item>
+        <item>Sha\'aban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qa\'ida</item>
+        <item>Dhul Hijjah</item>
+    </string-array>
+
+    <string-array name="calc_methods_array">
+        <item>جعفري</item>
+        <item>كراتشي</item>
+        <item>إسنا</item>
+        <item>الرابطة</item>
+        <item>مكة المكرمة</item>
+        <item>مصر</item>
+        <item>تھران</item>
+    </string-array>
+    <string-array name="juristics_array">
+        <item>حنفي</item>
+        <item>الشافعي</item>
+        <item>مالکی</item>
+        <item>الحنبلي</item>
+    </string-array>
+    <string-array name="language_array">
+        <item>الإنجليزية</item>
+        <item>الأسبانية</item>
+        <item>الروسية</item>
+        <item>الفرنسية</item>
+        <item>التركية</item>
+        <item>العربية</item>
+        <item>الصينية</item>
+    </string-array>
+
+</resources>

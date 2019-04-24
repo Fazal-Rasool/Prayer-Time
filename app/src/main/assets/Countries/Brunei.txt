@@ -1,0 +1,6 @@
+﻿
+Brunei#Bandar Seri Begawan#4.8833333#114.9333344#1#8
+Brunei#Bangar#4.7166667#115.0666656#45#8
+Brunei#Kuala Belait#4.5833333#114.1833344#1#8
+Brunei#Seria#4.6166667#114.3166656#1#8
+Brunei#Tutong#4.8#114.6500015#1#8

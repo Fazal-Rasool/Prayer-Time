@@ -1,0 +1,196 @@
+﻿
+United Arab Emirates#Abadilah#25.4383#56.1914#0#4
+United Arab Emirates#Abu al Aby#24.1775#53.7861#0#4
+United Arab Emirates#Abu Dhabi#24.4667#54.3667#0#4
+United Arab Emirates#Ad Dab`iyah#24.325#54.1444#0#4
+United Arab Emirates#Ad Dafrah#23.4167#53.4167#0#4
+United Arab Emirates#Adh Dhibah#24.9833#55.0833#0#4
+United Arab Emirates#Ajima#25.4025#56.1431#0#4
+United Arab Emirates#Ajman (`Ajman)#25.3833#55.5167#0#4
+United Arab Emirates#Ajman#25.4061#55.4428#0#4
+United Arab Emirates#Al A lim#25.0419#55.1806#0#4
+United Arab Emirates#Al Ail#25.55#55.7167#0#4
+United Arab Emirates#Al Ain#24.2167#55.7667#0#4
+United Arab Emirates#Al Hamriyah#25.4808#55.4983#0#4
+United Arab Emirates#Al Qusays#25.2703#55.4031#0#4
+United Arab Emirates#Asab Field#23.3333#54.1667#0#4
+United Arab Emirates#Bani Yas#23.8494#52.6353#0#4
+United Arab Emirates#Barr Dubayy#25.2625#55.2944#0#4
+United Arab Emirates#Bidyah#25.4314#56.3483#0#4
+United Arab Emirates#Bid` Sa`id#23.65#52.4833#0#4
+United Arab Emirates#Bu Hasa#23.5333#53.3#0#4
+United Arab Emirates#Camp Island#24.5478#54.5481#0#4
+United Arab Emirates#Castle Rock#25.2442#54.2275#0#4
+United Arab Emirates#Chabtiya#24.6333#55.5667#0#4
+United Arab Emirates#Chebra#23.9358#53.6742#0#4
+United Arab Emirates#Chitha#24.3333#55.65#0#4
+United Arab Emirates#Chuwais#25.7747#55.9697#0#4
+United Arab Emirates#Cobb Rock#24.1492#52.3753#0#4
+United Arab Emirates#Dalmah Island#24.5106#52.3103#0#4
+United Arab Emirates#Das Island#25.15#52.8833#0#4
+United Arab Emirates#Deira#25.2722#55.3111#0#4
+United Arab Emirates#Dhaid#25.2822#55.8903#0#4
+United Arab Emirates#Diba#25.6169#56.2581#0#4
+United Arab Emirates#Diba al Hisn#25.6167#56.2667#0#4
+United Arab Emirates#Duaida#24.6133#54.7#0#4
+United Arab Emirates#Dub#25.6106#56.2811#0#4
+United Arab Emirates#Dubai#25.2522#55.28#0#4
+United Arab Emirates#Dubaiba#23.4333#54.5#0#4
+United Arab Emirates#Dubayy#25#55.3333#0#4
+United Arab Emirates#El Bunduq#25.1#53.6#0#4
+United Arab Emirates#El Fazaya#24.3031#51.6611#0#4
+United Arab Emirates#Fa iyah#25.0333#55.8#0#4
+United Arab Emirates#Fairsh#24.525#55.4894#0#4
+United Arab Emirates#Faiya Pass#25.0375#55.7989#0#4
+United Arab Emirates#Falaaha#23.5769#53.8672#0#4
+United Arab Emirates#Falahiyah#23.0617#53.8547#0#4
+United Arab Emirates#Falaiyah#25.7403#55.98#0#4
+United Arab Emirates#Falaj#25#56.2167#0#4
+United Arab Emirates#Falaj al Mu`alla#25.35#55.85#0#4
+United Arab Emirates#Falaj as Salj#25.4472#55.9828#0#4
+United Arab Emirates#Falaj Dayd#25.2833#55.8833#0#4
+United Arab Emirates#Falaj Wasit#25.3586#55.4447#0#4
+United Arab Emirates#Falariyah#25.2#55.8667#0#4
+United Arab Emirates#Faliya#23.7#54.8667#0#4
+United Arab Emirates#Falq Al Ali#25.3531#55.8533#0#4
+United Arab Emirates#Faqi#25.4106#56.1353#0#4
+United Arab Emirates#Fara#25.4122#56.0897#0#4
+United Arab Emirates#Faraijdat#24.3833#51.7167#0#4
+United Arab Emirates#Farashah#23.4667#54.6667#0#4
+United Arab Emirates#Farfar#25.1478#56.2219#0#4
+United Arab Emirates#Fariq#24.1981#53.5344#0#4
+United Arab Emirates#Fariq Tarif#24.05#53.7833#0#4
+United Arab Emirates#Fashra#24.88#56.2064#0#4
+United Arab Emirates#Fasht al Bazm#24.2853#53.3781#0#4
+United Arab Emirates#Fasht `Azizi#24.4644#51.7203#0#4
+United Arab Emirates#Fata ir#24.3667#52.85#0#4
+United Arab Emirates#Fateh#25.5833#54.3333#0#4
+United Arab Emirates#Fayyad#24.9581#56.2033#0#4
+United Arab Emirates#Ferda#24.85#54.9667#0#4
+United Arab Emirates#Feteisi#24.3667#54.3167#0#4
+United Arab Emirates#Fiyya#24.2933#53.1975#0#4
+United Arab Emirates#Fujairah#25.1333#56.25#0#4
+United Arab Emirates#Funud#22.9333#53.3167#0#4
+United Arab Emirates#Fuqqa#24.6872#55.5703#0#4
+United Arab Emirates#Furaykh#25.35#55.9167#0#4
+United Arab Emirates#Fuwayhij#23.1667#54.25#0#4
+United Arab Emirates#Ghantut#24.9042#54.92#0#4
+United Arab Emirates#Ghayyafi#23.8403#52.8458#0#4
+United Arab Emirates#Habshan#23.9361#53.6428#0#4
+United Arab Emirates#Hatta#24.78#56.4442#0#4
+United Arab Emirates#Ibeidil#24.5167#51.3333#0#4
+United Arab Emirates#Idhn#25.4586#56.0156#0#4
+United Arab Emirates#Imarat Abu Zaby#23.6667#54#0#4
+United Arab Emirates#Imshash#24.55#51.35#0#4
+United Arab Emirates#Irhib#22.8667#53.3333#0#4
+United Arab Emirates#Irkut#23.1078#53.9567#0#4
+United Arab Emirates#Ish#24.3044#52.8781#0#4
+United Arab Emirates#Isteiha#23.3167#54.0667#0#4
+United Arab Emirates#Jabal `Ali#25.0258#55.1275#0#4
+United Arab Emirates#Jebel Ali#24.9994#55.0506#0#4
+United Arab Emirates#Jumaira#25.2097#55.2478#0#4
+United Arab Emirates#Kalba#25.0833#56.3333#0#4
+United Arab Emirates#Khor al Fakkan#25.3658#56.3633#0#4
+United Arab Emirates#Khor Fakkan#25.3392#56.3561#0#4
+United Arab Emirates#Ladhaynah#22.9167#54.25#0#4
+United Arab Emirates#Lafat#24.3267#55.5911#0#4
+United Arab Emirates#Lafayd#24.2919#55.5867#0#4
+United Arab Emirates#Laghbibah#22.8333#53.3167#0#4
+United Arab Emirates#Lahamma#24.0167#55.3719#0#4
+United Arab Emirates#Lahmizi#23.0533#53.545#0#4
+United Arab Emirates#Lahwir#22.9167#53.3#0#4
+United Arab Emirates#Laifaar#24.6#55.8167#0#4
+United Arab Emirates#Laiya#24.3667#55.0333#0#4
+United Arab Emirates#Laiyis#24.95#55.2333#0#4
+United Arab Emirates#Lakayym#25.7708#56.2611#0#4
+United Arab Emirates#Lakkaliyah#24.2631#53.8772#0#4
+United Arab Emirates#Latir#23.1639#53.7353#0#4
+United Arab Emirates#Layyah#25.3508#55.3714#0#4
+United Arab Emirates#Lazimah#25.5861#55.5633#0#4
+United Arab Emirates#Librayr#22.8833#53.4167#0#4
+United Arab Emirates#Libreir#23.0647#53.7164#0#4
+United Arab Emirates#Liffah#24.2956#53.2283#0#4
+United Arab Emirates#Likemela#23.0889#53.9383#0#4
+United Arab Emirates#Lilja#25.4072#56.0761#0#4
+United Arab Emirates#Limaha#25.4675#55.7853#0#4
+United Arab Emirates#Lisaili#25.6167#56#0#4
+United Arab Emirates#Liwa#23#54#0#4
+United Arab Emirates#Liwa Villages#23.1333#53.75#0#4
+United Arab Emirates#Lu lu iyah#25.3906#56.3547#0#4
+United Arab Emirates#Lufuk#23.8233#53.9325#0#4
+United Arab Emirates#Lufuq#23.7722#53.9722#0#4
+United Arab Emirates#Lughzi#22.85#53.3833#0#4
+United Arab Emirates#Lumweijah#24.2017#55.7164#0#4
+United Arab Emirates#Madinat Zayid#23.6167#53.75#0#4
+United Arab Emirates#Margham#24.9044#55.6325#0#4
+United Arab Emirates#Masfut#24.81#56.1094#0#4
+United Arab Emirates#Mirfa#24.0911#53.4947#0#4
+United Arab Emirates#Musaffah#24.3725#54.5111#0#4
+United Arab Emirates#Odaid#24.6167#51.4#0#4
+United Arab Emirates#Palhain#25.6842#55.9667#0#4
+United Arab Emirates#Petty Patches#24.4833#52.45#0#4
+United Arab Emirates#Pirate Coast#24#53#0#4
+United Arab Emirates#Port Rashid#25.2706#55.2908#0#4
+United Arab Emirates#Port Saqr#25.7917#55.9533#0#4
+United Arab Emirates#Port Zayed#24.5333#54.3833#0#4
+United Arab Emirates#Qidfa`#25.3#56.3583#0#4
+United Arab Emirates#Ra s al Khaimah#25.8333#55.9833#0#4
+United Arab Emirates#Rak al Hajji#24.5#53.3667#0#4
+United Arab Emirates#Ras Abu Kashasha#24.3106#54.1681#0#4
+United Arab Emirates#Ras al Khaima#25.6667#56#0#4
+United Arab Emirates#Ras al Khaimah#25.7911#55.9428#0#4
+United Arab Emirates#Ruwais#24.1103#52.7306#0#4
+United Arab Emirates#Shaam#26.0244#56.0839#0#4
+United Arab Emirates#Shah#22.85#53.9167#0#4
+United Arab Emirates#Sharjah#25.3622#55.3911#0#4
+United Arab Emirates#Sharjah State#25#55.75#0#4
+United Arab Emirates#Sha`biyah#24.2833#54.4833#0#4
+United Arab Emirates#Sila#24.0333#51.7667#0#4
+United Arab Emirates#Smeih#24.7233#54.7756#0#4
+United Arab Emirates#Taiyibah#25.4133#56.1686#0#4
+United Arab Emirates#Tarif#24.0539#53.7658#0#4
+United Arab Emirates#Umm al Qaiwain#25.5653#55.5533#0#4
+United Arab Emirates#Umm al Qawain#25.5#55.75#0#4
+United Arab Emirates#United Arab Emirates#24#54#0#4
+United Arab Emirates#Wusha#25.2303#55.9117#0#4
+United Arab Emirates#Yafnah#25.7367#56.1#0#4
+United Arab Emirates#Yafur#24.2861#54.6389#0#4
+United Arab Emirates#Yahiliyah#23.75#52.55#0#4
+United Arab Emirates#Yahli#23.9833#54.7#0#4
+United Arab Emirates#Yaif#23.1622#53.7744#0#4
+United Arab Emirates#Yairad#24.8064#55.0325#0#4
+United Arab Emirates#Yakhun#24.8903#55.7222#0#4
+United Arab Emirates#Yarirah#22.8667#54.2#0#4
+United Arab Emirates#Yasat Safli#24.1853#51.9981#0#4
+United Arab Emirates#Yathi#23.1064#53.8794#0#4
+United Arab Emirates#Yilaiyis#23.85#55.4333#0#4
+United Arab Emirates#Yilak#23.065#53.6725#0#4
+United Arab Emirates#Yinainir#25.9081#56.17#0#4
+United Arab Emirates#Yinas#25.7414#56.1303#0#4
+United Arab Emirates#Yuwaybir#22.9167#54.3333#0#4
+United Arab Emirates#Zabia#24.9667#55.0667#0#4
+United Arab Emirates#Zahr#24.3594#52.6058#0#4
+United Arab Emirates#Zahrani#23.2167#54.1833#0#4
+United Arab Emirates#Zahuriyin#26.05#56.1333#0#4
+United Arab Emirates#Zakum#24.8333#53.75#0#4
+United Arab Emirates#Zaraf#23.7833#54.2#0#4
+United Arab Emirates#Zarakkuh#24.8842#53.0722#0#4
+United Arab Emirates#Zararah#22.6667#54.1333#0#4
+United Arab Emirates#Zarqa#25.35#55.8667#0#4
+United Arab Emirates#Zarub#25.0181#56.21#0#4
+United Arab Emirates#Zawr#25.5275#55.5967#0#4
+United Arab Emirates#Zayqat#23.3667#52.15#0#4
+United Arab Emirates#Za`bil#25.2097#55.2836#0#4
+United Arab Emirates#Zidm#25.4833#56.15#0#4
+United Arab Emirates#Ziffah#25.0333#56.2667#0#4
+United Arab Emirates#Zihum#25.25#56.0667#0#4
+United Arab Emirates#Zikt#25.5122#56.3156#0#4
+United Arab Emirates#Zinad#24.5#55.2333#0#4
+United Arab Emirates#Zira`ah#24.0667#55.5333#0#4
+United Arab Emirates#Zi`ab#25.0333#56.3667#0#4
+United Arab Emirates#Zubarah#25.4025#56.3614#0#4
+United Arab Emirates#Zubayyah#24.3261#54.1497#0#4
+United Arab Emirates#Zubbaya#24.2#53.9667#0#4
+United Arab Emirates#Zulaymah#24.65#55.5333#0#4
+United Arab Emirates#Zuwayghir#24.0833#55.2667#0#4
+United Arab Emirates#Zuyud#25.2#56.2167#0#4

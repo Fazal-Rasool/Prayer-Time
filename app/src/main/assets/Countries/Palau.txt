@@ -1,0 +1,12 @@
+﻿
+Palau#Airai#7.3575#134.5578#-9999#9
+Palau#Imeong#7.5275#134.5256#20#9
+Palau#Kloulklubed#7.039444#134.2525#1#9
+Palau#Melekeok#7.493333#134.6342#1#9
+Palau#Meyungs#7.351944#134.4544#1#9
+Palau#Ngaramasch#6.901389#134.1294#1#9
+Palau#Ngermechau#7.551389#134.6331#11#9
+Palau#Ngetkib#7.361944#134.5122#-9999#9
+Palau#Oikull#7.365556#134.5836#1#9
+Palau#Ollei#7.717222#134.6122#1#9
+Palau#Ulimang#7.621667#134.6389#1#9

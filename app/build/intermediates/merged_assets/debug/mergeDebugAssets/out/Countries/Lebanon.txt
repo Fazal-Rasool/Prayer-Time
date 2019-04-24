@@ -1,0 +1,13 @@
+﻿
+Lebanon#Ain Ebel#33.11023#35.40251#829#2
+Lebanon#Baalbek#34.00583#36.21806#1220#2
+Lebanon#Batroun#34.25528#35.65805#-9999#2
+Lebanon#Beirut#33.87194#35.50972#56#2
+Lebanon#Cheikhlar#34.62111#36.27306#367#2
+Lebanon#Habbouch#33.4075#35.48278#404#2
+Lebanon#Jbail#34.12111#35.64806#-9999#2
+Lebanon#Jounie#33.98083#35.61778#74#2
+Lebanon#Sidon#33.56306#35.36889#-9999#2
+Lebanon#Tripoli#34.43667#35.84972#31#2
+Lebanon#Tyre#33.27333#35.19389#-9999#2
+Lebanon#Zahle#33.84972#35.90417#952#2

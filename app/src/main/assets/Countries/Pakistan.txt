@@ -1,0 +1,101 @@
+﻿
+Pakistan#Ahmadpur East#29.15#71.26667#103#5
+Pakistan#Arifwala#30.28333#73.06667#148#5
+Pakistan#Attock City#33.77222#72.36833#349#5
+Pakistan#Badin#24.65#68.83334#4#5
+Pakistan#Bahawalnagar#29.98333#73.26667#144#5
+Pakistan#Bahawalpur#29.4#71.68333#116#5
+Pakistan#Bhakkar#31.63333#71.06667#160#5
+Pakistan#Bhalwal#32.26583#72.90083#184#5
+Pakistan#Burewala#30.16667#72.65#132#5
+Pakistan#Chakwal#32.93333#72.86667#499#5
+Pakistan#Chaman#30.91694#66.45972#1336#5
+Pakistan#Charsadda#34.14528#71.73139#282#5
+Pakistan#Chichawatni#30.53333#72.7#159#5
+Pakistan#Chiniot#31.72#72.97889#179#5
+Pakistan#Chishtian Mandi#29.8#72.86667#147#5
+Pakistan#Chuhar Kana#31.75#73.8#205#5
+Pakistan#Dadu#26.73333#67.78333#24#5
+Pakistan#Daska#32.33333#74.35#235#5
+Pakistan#Dera Ghazi Khan#30.05611#70.63445#121#5
+Pakistan#Dera Ismail Khan#31.83278#70.9025#166#5
+Pakistan#Dipalpur#30.66667#73.65#169#5
+Pakistan#Faisalabad#31.41667#73.08334#175#5
+Pakistan#Gojra#31.15#72.68333#165#5
+Pakistan#Gujar Khan#33.26667#73.31667#438#5
+Pakistan#Gujranwala#32.15#74.18333#223#5
+Pakistan#Gujrat#32.56667#74.08334#228#5
+Pakistan#Hafizabad#32.06667#73.68333#207#5
+Pakistan#Harunabad#29.61333#73.13889#151#5
+Pakistan#Hasilpur#29.71222#72.55528#123#5
+Pakistan#Haveli#30.45#73.7#165#5
+Pakistan#Hyderabad#25.36667#68.36667#13#5
+Pakistan#Islamabad#33.61005#73.05908#497#5
+Pakistan#Jacobabad#28.28389#68.43611#59#5
+Pakistan#Jalalpur#32.63333#74.2#233#5
+Pakistan#Jaranwala#31.33333#73.43333#183#5
+Pakistan#Jhang Sadr#31.27417#72.31194#158#5
+Pakistan#Jhelum#32.93333#73.73333#222#5
+Pakistan#Kahror Pakka#29.61667#71.91666#117#5
+Pakistan#Kamalia#30.73333#72.65#153#5
+Pakistan#Kambar#27.6#68#41#5
+Pakistan#Kamoke#31.97444#74.22444#226#5
+Pakistan#Kandhkot#28.23333#69.18333#71#5
+Pakistan#Karachi#24.86667#67.05#14#5
+Pakistan#Kasur#31.11556#74.44666#201#5
+Pakistan#Khairpur#27.53333#68.76667#50#5
+Pakistan#Khanpur#28.65#70.65#88#5
+Pakistan#Kharian#32.81667#73.86667#287#5
+Pakistan#Khushab#32.29667#72.3525#174#5
+Pakistan#Khuzdar#27.8#66.61667#1211#5
+Pakistan#Kohat#33.58694#71.44222#508#5
+Pakistan#Kot Addu#30.47#70.96445#134#5
+Pakistan#Kot Malik#30.19583#66.9975#1659#5
+Pakistan#Kotri#25.36667#68.3#17#5
+Pakistan#Lahore#31.54972#74.34361#210#5
+Pakistan#Lala Musa#32.7#73.96667#254#5
+Pakistan#Larkana#27.55#68.21667#45#5
+Pakistan#Leiah#30.96667#70.93333#141#5
+Pakistan#Lodhran#29.53333#71.63333#111#5
+Pakistan#Mailsi#29.80028#72.17583#123#5
+Pakistan#Mandi Bahauddin#32.58333#73.5#223#5
+Pakistan#Mansehra#34.33333#73.2#1067#5
+Pakistan#Mardan#34.19833#72.04583#285#5
+Pakistan#Mian Channun#30.45#72.36667#148#5
+Pakistan#Mianwali#32.58333#71.55#212#5
+Pakistan#Mingaora#34.77611#72.36111#921#5
+Pakistan#Mirpur Khas#25.53333#69#14#5
+Pakistan#Moro#26.66667#68#34#5
+Pakistan#Multan#30.19556#71.47528#125#5
+Pakistan#Muridke#31.8025#74.26167#211#5
+Pakistan#Muzaffargarh#30.06667#71.2#114#5
+Pakistan#Narowal#32.1#74.88333#229#5
+Pakistan#Nawabshah#26.25#68.41666#20#5
+Pakistan#Nowshera Cantonment#33.99667#72.01305#294#5
+Pakistan#Okara#30.80806#73.44583#174#5
+Pakistan#Pakpattan#30.35#73.4#155#5
+Pakistan#Pano Aqil#27.85#69.11667#61#5
+Pakistan#Pattoki#31.01667#73.85#191#5
+Pakistan#Peshawar#34.00778#71.57333#315#5
+Pakistan#Quetta#30.18722#67.0125#1671#5
+Pakistan#Rawalpindi#33.6#73.06667#484#5
+Pakistan#Sadiqabad#28.3#70.13333#76#5
+Pakistan#Sahiwal#30.66667#73.1#172#5
+Pakistan#Sargodha#32.08361#72.67111#193#5
+Pakistan#Shabqadar#34.21528#71.55528#312#5
+Pakistan#Shahdadkot#27.85#67.9#48#5
+Pakistan#Shahdadpur#25.93333#68.61667#16#5
+Pakistan#Shekhupura#31.71306#73.97833#214#5
+Pakistan#Shikarpur#27.95#68.63333#63#5
+Pakistan#Shorko#31.91028#70.87778#170#5
+Pakistan#Shujaabad#29.88333#71.3#107#5
+Pakistan#Sialkot#32.5#74.51667#256#5
+Pakistan#Sukkur#27.7#68.86667#79#5
+Pakistan#Swabi#34.12#72.47222#321#5
+Pakistan#Tando Adam#25.76667#68.66666#23#5
+Pakistan#Tando Allahyar#25.46667#68.71667#17#5
+Pakistan#Tando Muhammad Khan#25.13333#68.53333#12#5
+Pakistan#Toba Tek Singh#30.96667#72.48333#155#5
+Pakistan#Turbat#26.00278#63.05056#142#5
+Pakistan#Vihari#30.03333#72.35#136#5
+Pakistan#Wazirabad#32.45#74.11667#222#5

@@ -1,0 +1,148 @@
+﻿
+Bahamas#15 Feet Cay#24.0833#-77.5333#0#-5
+Bahamas#Abraham Bay#22.4#-73.95#0#-5
+Bahamas#Adeline Cay#22.1786#-75.7092#0#-5
+Bahamas#Allons Cay#26.9833#-77.6667#0#-5
+Bahamas#Ambergris Cay#25.6667#-77.8333#0#-5
+Bahamas#Angel Cays#26.45#-77.05#0#-5
+Bahamas#Arthurs Town#24.6333#-75.6667#0#-5
+Bahamas#Eagle Rock#26.55#-76.9667#0#-5
+Bahamas#East Barracouta Rock#23.6833#-76.2#0#-5
+Bahamas#East Entrance#22#-74.3333#0#-5
+Bahamas#East Issac Island#25.95#-78.85#0#-5
+Bahamas#East Wells#25.7333#-77.2333#0#-5
+Bahamas#Eastern Bay#24.6#-75.8833#0#-5
+Bahamas#Egg Island Reef#25.5667#-76.8167#0#-5
+Bahamas#Elbow Bank#25.3833#-78.8667#0#-5
+Bahamas#Elbow Cay (Bimini)#23.95#-80.4833#0#-5
+Bahamas#Elbow Cay (Elbow Cay)#26.5333#-76.9667#0#-5
+Bahamas#Elbow Cays#23.9333#-80.45#0#-5
+Bahamas#Eleuthera Point#24.6667#-76.1833#0#-5
+Bahamas#Elizabeth Harbour#23.5#-75.7167#0#-5
+Bahamas#Englerston#25.05#-77.3333#0#-5
+Bahamas#Exuma#23.5333#-75.8333#0#-5
+Bahamas#Exuma Bank#23.5833#-76.1667#0#-5
+Bahamas#Exuma District#24.0333#-76.4833#0#-5
+Bahamas#Exuma Harbour#23.5667#-75.8#0#-5
+Bahamas#Exuma Islands#24.25#-76.5#0#-5
+Bahamas#Fairfield#22.7833#-74.2167#0#-5
+Bahamas#Falcon Cays#26.4#-76.9667#0#-5
+Bahamas#Fanny Cay#25.6833#-77.8333#0#-5
+Bahamas#Farmers Cay Cut#23.95#-76.3167#0#-5
+Bahamas#Farquharson#24#-74.4667#0#-5
+Bahamas#Fat Turtle Sound#24.4#-77.7333#0#-5
+Bahamas#Fiddle Cay#26.8#-77.35#0#-5
+Bahamas#Finley Cay#25.1167#-76.7667#0#-5
+Bahamas#Fish Cay#22.5#-74.2667#0#-5
+Bahamas#Fish Hawk Cay#26.6167#-77.0333#0#-5
+Bahamas#Fishing Cays#24.9833#-77.4667#0#-5
+Bahamas#Flamingo Cay#22.9#-75.8667#0#-5
+Bahamas#Flamingo Pond (Mayaguana)#22.4167#-73.0167#0#-5
+Bahamas#Flamingo Pond (Fresh Creek)#24.5#-77.7333#0#-5
+Bahamas#Fleeming Channel#25.2667#-76.9333#0#-5
+Bahamas#Fleeming Point#24.9833#-77.5#0#-5
+Bahamas#Florida Strait#25#-79.75#0#-5
+Bahamas#Foots Cay#26.65#-77.1167#0#-5
+Bahamas#Forbes#23.4667#-75.65#0#-5
+Bahamas#Fort Charlotte#25.0833#-77.3833#0#-5
+Bahamas#Fort Fincastle#25.0833#-77.3667#0#-5
+Bahamas#Fowl Cay#24.2667#-76.5333#0#-5
+Bahamas#Frankfort Point#24.1333#-75.4#0#-5
+Bahamas#Freeport#26.6667#-78.75#0#-5
+Bahamas#Freeport Harbour#26.5#-78.7667#0#-5
+Bahamas#Freeport International Airport#26.55#-78.7#0#-5
+Bahamas#Freetown#24.2833#-75.4167#0#-5
+Bahamas#French Wells#22.6833#-74.2833#0#-5
+Bahamas#Frozen Cay#25.55#-77.7#0#-5
+Bahamas#Icely Rock#22.0167#-75.7#0#-5
+Bahamas#Iguana Cay#24.0333#-77.7167#0#-5
+Bahamas#Ile Andros#24.4333#-77.95#0#-5
+Bahamas#Ile Bahama#26.6333#-78.4167#0#-5
+Bahamas#Ile Crooked#22.75#-74.2167#0#-5
+Bahamas#Ile de la Fortune#22.6167#-74.3333#0#-5
+Bahamas#Ile George#25.55#-76.7667#0#-5
+Bahamas#Ile Longue#23.25#-75.1167#0#-5
+Bahamas#Ile Mariguana#22.3833#-72.95#0#-5
+Bahamas#Iles Berry#25.5667#-77.75#0#-5
+Bahamas#Iles de Bahama#24.25#-76#0#-5
+Bahamas#Iles Planes#22.6167#-73.55#0#-5
+Bahamas#Inagua#21.0833#-73.3#0#-5
+Bahamas#Industrious Hill#24.45#-75.55#0#-5
+Bahamas#Iron Cay#26.4167#-77.0333#0#-5
+Bahamas#Ishmael#22.32#-75.775#0#-5
+Bahamas#Island of Eleuthera#25.1667#-76.2333#0#-5
+Bahamas#Island of New Providence#25.0333#-77.4#0#-5
+Bahamas#Isle Royale#25.5167#-76.85#0#-5
+Bahamas#Israel Creek#26.5667#-77.1833#0#-5
+Bahamas#James Cistern#25.3167#-76.3667#0#-5
+Bahamas#Joes Cays#27.1#-78.05#0#-5
+Bahamas#John Millars#24.6833#-76.1833#0#-5
+Bahamas#Josephs Cay#24.9333#-76.15#0#-5
+Bahamas#Joulter Cays#25.3#-78.1333#0#-5
+Bahamas#Kemp Cay (Exuma)#24.2333#-76.5#0#-5
+Bahamas#Kemp Cay (Nichollstown and Berry Islands)#25.7#-77.8167#0#-5
+Bahamas#Kemps Bay#24.0333#-77.55#0#-5
+Bahamas#Kemps Bay (Governor s Harbour)#25.1#-76.15#0#-5
+Bahamas#Kerr Mount#24.0167#-74.4833#0#-5
+Bahamas#Kidds Cove#23.5#-75.7667#0#-5
+Bahamas#Killarney#25.05#-77.4167#0#-5
+Bahamas#Killarney Lake#25.05#-77.45#0#-5
+Bahamas#Kit Cays#24.5667#-77.7333#0#-5
+Bahamas#Knowles#24.4#-75.4833#0#-5
+Bahamas#Krall Creek#23.8167#-77.7833#0#-5
+Bahamas#Macaras Shoal#22.2#-77.2667#0#-5
+Bahamas#Nassau#25.0833#-77.35#0#-5
+Bahamas#Nassau Estate#25.0333#-77.2833#0#-5
+Bahamas#Nassau Harbour#25.1#-77.3667#0#-5
+Bahamas#Nassau International Airport#25.05#-77.4667#0#-5
+Bahamas#O Brien Cay#24.3333#-76.55#0#-5
+Bahamas#O Neils#23.5#-75.2167#0#-5
+Bahamas#Oakes Field#25.05#-77.3667#0#-5
+Bahamas#Ocean Bight (Long Island)#23.5833#-75.85#0#-5
+Bahamas#Ocean Bight (Inagua)#21.25#-73.25#0#-5
+Bahamas#Ocean Cay#25.4167#-79.2167#0#-5
+Bahamas#Ocean Point#26.2833#-77.0167#0#-5
+Bahamas#Okra Cross Point#23.3#-75.1167#0#-5
+Bahamas#Old Bahama Channel#22.5#-78.8333#0#-5
+Bahamas#Old Bight#24.25#-75.35#0#-5
+Bahamas#Old Bight Landing#24.2167#-75.3833#0#-5
+Bahamas#Old Culmers Point#24.8167#-76.15#0#-5
+Bahamas#Old Fort Bay#25.05#-77.5333#0#-5
+Bahamas#Old Fort Point#25.05#-77.4833#0#-5
+Bahamas#Old Grays#23.2167#-75.0833#0#-5
+Bahamas#Old House Point#26.55#-77.05#0#-5
+Bahamas#Old Place#23.9667#-74.4833#0#-5
+Bahamas#Old Yankee Cay#27.9333#-78.0167#0#-5
+Bahamas#Orange Cays#24.9333#-79.15#0#-5
+Bahamas#Orange Creek#24.65#-75.7167#0#-5
+Bahamas#Orange Creek Point#24.6333#-75.7333#0#-5
+Bahamas#Oree Bay#21.2833#-73.0667#0#-5
+Bahamas#Outer Point Cay#26.55#-77.0667#0#-5
+Bahamas#Over Yonder Cay#24.2167#-76.4667#0#-5
+Bahamas#Owens Town#24.8833#-78.0333#0#-5
+Bahamas#Oyster Cay#24.7167#-76.8167#0#-5
+Bahamas#Quarters#24.1#-74.5167#0#-5
+Bahamas#Queen s Cove#26.55#-78.7167#0#-5
+Bahamas#Queens Channel#23.3333#-77#0#-5
+Bahamas#Quintus Rocks#25.2833#-76.8833#0#-5
+Bahamas#Tee Cay#24.5667#-75.8833#0#-5
+Bahamas#Thompson Cay#25.4167#-77.8333#0#-5
+Bahamas#Thrift Harbour Creek#26.55#-77.85#0#-5
+Bahamas#Treasure Cay#26.6667#-77.2667#0#-5
+Bahamas#Turtle Rock#23.2333#-75.2833#0#-5
+Bahamas#Turtle Rocks#25.6667#-79.3333#0#-5
+Bahamas#Twin Cay#24.2#-76.5#0#-5
+Bahamas#Twin Cays#22.3361#-75.78#0#-5
+Bahamas#Umbrella Cay#27.0167#-77.7167#0#-5
+Bahamas#United Estates#24.1#-74.45#0#-5
+Bahamas#Upper Bogue#25.45#-76.6667#0#-5
+Bahamas#Upper Conch Point#26.5333#-78.5667#0#-5
+Bahamas#Upper Samphire Cay#25.2#-76.9667#0#-5
+Bahamas#Upper Sandy Harbour#26.8167#-78.5#0#-5
+Bahamas#Upper Wreck Point#25.1167#-76.1#0#-5
+Bahamas#Vigilant Cay#25.4333#-77.7667#0#-5
+Bahamas#Yamacraw Beach#25.0167#-77.25#0#-5
+Bahamas#Yellow Cay#24.2333#-77.9667#0#-5
+Bahamas#Young Islet#23.8167#-76.1833#0#-5
+Bahamas#Zanicles Settlement#24.1333#-75.3667#0#-5
+Bahamas#Zion Hill#24.6167#-75.65#0#-5

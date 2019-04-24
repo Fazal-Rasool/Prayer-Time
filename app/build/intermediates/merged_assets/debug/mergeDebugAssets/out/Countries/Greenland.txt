@@ -1,0 +1,49 @@
+﻿
+Greenland#16 September Gletscher#66.2667#-36.5#0#-3
+Greenland#5 Maj Soen#81.2#-26.6667#0#-3
+Greenland#Astro Pynt#76.5478#-68.8428#0#-3
+Greenland#Axeblade#81.4167#-53.5#0#-3
+Greenland#B.G. Schley Fjord#82.85#-25#0#-3
+Greenland#Edla Skaer#73.8833#-19.9667#0#-3
+Greenland#Holsteinsborg#66.9333#-53.6833#0#-3
+Greenland#Jyske Aas#81.5333#-24.0833#0#-3
+Greenland#Kap Farvel#59.7792#-43.9117#0#-3
+Greenland#McCormick Bugt#78.2333#-72.7667#0#-3
+Greenland#Nanortalik#60.1167#-45.2167#0#-3
+Greenland#Ngigtoq#60.7333#-46.3667#0#-3
+Greenland#Nord#81.7167#-17.8#0#-3
+Greenland#Nuuk#64.1833#-51.75#0#-3
+Greenland#W. Bishop So#76.3167#-18.8333#0#-3
+Greenland#W. Lynge Skaer#76.7167#-18.5333#0#-3
+Greenland#Walrus Bay#70.5#-22.05#0#-3
+Greenland#Wandel Dal#82.25#-35.25#0#-3
+Greenland#Wechmar Point#76.8567#-70.8131#0#-3
+Greenland#Wegener Oer#80.6667#-17.3333#0#-3
+Greenland#Wendel Pynt#76.75#-18.7#0#-3
+Greenland#Wild Sound#83.3#-41#0#-3
+Greenland#Wilkins Nunatakker#74.1#-27.25#0#-3
+Greenland#Wollaston Forland#74.5#-20#0#-3
+Greenland#Wyckoff Land#82.8333#-24.5#0#-3
+Greenland#Yderbugten#76.8167#-18.5#0#-3
+Greenland#Yderdalen#73.85#-20.3833#0#-3
+Greenland#Yderste Parry Skaer#69.1333#-53.8833#0#-3
+Greenland#Ydre Oer#60.75#-48.4#0#-3
+Greenland#Ydun Gletscher#83.25#-28.1667#0#-3
+Greenland#Ydun Gletscher#63.7167#-40.9833#0#-3
+Greenland#Ygdrasil#63.3167#-42.2833#0#-3
+Greenland#Ymer Bjerg#65.6#-37.75#0#-3
+Greenland#Ymer Gletscher#82.65#-36#0#-3
+Greenland#Ymer Nunatak#77.45#-24.6167#0#-3
+Greenland#Ymer O#73.15#-24.3333#0#-3
+Greenland#Yngvar Knutzons Fjeld#73.9333#-23.7667#0#-3
+Greenland#Yngvar Nielsen Brae#76.3347#-64.1378#0#-3
+Greenland#Young Sund#74.3167#-20.35#0#-3
+Greenland#Yrsas Fjord#63.25#-41.2333#0#-3
+Greenland#Zachariaes Brae#78.9167#-21.1667#0#-3
+Greenland#Zackenberg#74.5#-20.7667#0#-3
+Greenland#Zackenberg Bay#74.45#-20.6667#0#-3
+Greenland#Zamiteselv#70.8667#-22.6833#0#-3
+Greenland#Zebrafjaeld#64.3333#-40.7833#0#-3
+Greenland#Zig-Zag Dalen#81#-26#0#-3
+Greenland#Zoolog Elv#82.1833#-31#0#-3
+Greenland#Zoologdalen#73.3167#-24.3#0#-3

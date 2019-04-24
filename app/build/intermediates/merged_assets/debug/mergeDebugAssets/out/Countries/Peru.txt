@@ -1,0 +1,101 @@
+﻿
+Peru#Abancay#-13.6339#-72.8814#2690#-5
+Peru#Andahuaylas#-13.6556#-73.3872#3052#-5
+Peru#Arequipa#-16.3989#-71.535#2397#-5
+Peru#Ayacucho#-13.1583#-74.2239#2819#-5
+Peru#Ayaviri#-14.8864#-70.5889#3919#-5
+Peru#Bagua Grande#-5.75611#-78.4411#746#-5
+Peru#Barranca#-10.75#-77.7667#64#-5
+Peru#Cajamarca#-7.16378#-78.5003#2609#-5
+Peru#Callao#-12.0667#-77.15#1#-5
+Peru#Camana#-16.6228#-72.7111#52#-5
+Peru#Catacaos#-5.26667#-80.6833#11#-5
+Peru#Cerro de Pasco#-10.6833#-76.2667#4363#-5
+Peru#Chachapoyas#-6.23169#-77.869#1851#-5
+Peru#Chancay#-11.5714#-77.2672#77#-5
+Peru#Chaupimarca#-10.4333#-76.5333#3456#-5
+Peru#Chepen#-7.21667#-79.45#77#-5
+Peru#Chiclayo#-6.77361#-79.8417#1#-5
+Peru#Chimbote#-9.08528#-78.5783#1#-5
+Peru#Chincha Alta#-13.45#-76.1333#72#-5
+Peru#Chocope#-7.79139#-79.2217#119#-5
+Peru#Chongoyape#-6.64056#-79.3892#53#-5
+Peru#Chosica#-11.9431#-76.7094#923#-5
+Peru#Chulucanas#-5.0925#-80.1625#120#-5
+Peru#Cusco#-13.5183#-71.9781#3360#-5
+Peru#Ferrenafe#-6.63889#-79.7889#127#-5
+Peru#Guadalupe#-7.25#-79.4833#83#-5
+Peru#Huacho#-11.1067#-77.605#61#-5
+Peru#Hualmay#-11.0964#-77.6139#40#-5
+Peru#Huamachuco#-7.8#-78.0667#3072#-5
+Peru#Huancavelica#-12.7667#-74.9833#3981#-5
+Peru#Huancayo#-12.0667#-75.2333#3496#-5
+Peru#Huanta#-12.9333#-74.25#2943#-5
+Peru#Huanuco#-9.91667#-76.2333#1794#-5
+Peru#Huaral#-11.495#-77.2078#221#-5
+Peru#Huaraz#-9.53333#-77.5333#2829#-5
+Peru#Huarmey#-10.0681#-78.1522#105#-5
+Peru#Huaura#-11.07#-77.5994#42#-5
+Peru#Ica#-14.0681#-75.7256#421#-5
+Peru#Ilave#-16.0833#-69.6667#3844#-5
+Peru#Ilo#-17.6394#-71.3375#117#-5
+Peru#Imperial#-13.0667#-76.35#111#-5
+Peru#Iquitos#-3.74806#-73.2472#107#-5
+Peru#Jaen#-5.70806#-78.8047#840#-5
+Peru#Jauja#-11.8#-75.5#3860#-5
+Peru#Juanjui#-7.18333#-76.75#328#-5
+Peru#Juliaca#-15.5#-70.1333#3894#-5
+Peru#La Breita#-4.26083#-80.8875#291#-5
+Peru#La Oroya#-11.5333#-75.9#3990#-5
+Peru#La Peca#-5.61111#-78.435#1143#-5
+Peru#La Union#-5.4#-80.75#6#-5
+Peru#Lambayeque#-6.70111#-79.9061#2#-5
+Peru#Laredo#-8.1#-78.95#83#-5
+Peru#Lima#-12.05#-77.05#108#-5
+Peru#Mala#-12.6581#-76.6308#130#-5
+Peru#Marcavelica#-4.87778#-80.7053#65#-5
+Peru#Moche#-8.17111#-79.0092#109#-5
+Peru#Mollendo#-17.0231#-72.0147#1#-5
+Peru#Monsefu#-6.87806#-79.8722#1#-5
+Peru#Moquegua#-17.1956#-70.9353#1481#-5
+Peru#Moyobamba#-6.05#-76.9667#760#-5
+Peru#Nazca#-14.8333#-74.95#595#-5
+Peru#Nuevo Imperial#-13.0833#-76.3333#141#-5
+Peru#Pacasmayo#-7.40056#-79.5714#3#-5
+Peru#Paijan#-7.73333#-79.3022#117#-5
+Peru#Paita#-5.08917#-81.1144#1#-5
+Peru#Paramonga#-10.6667#-77.8333#41#-5
+Peru#Picsi#-6.71778#-79.7697#60#-5
+Peru#Pimentel#-6.83667#-79.9342#1#-5
+Peru#Pisco#-13.7#-76.2167#3#-5
+Peru#Piura#-5.2#-80.6333#25#-5
+Peru#Pucallpa#-8.37915#-74.5539#158#-5
+Peru#Puerto Maldonado#-12.6#-69.1833#193#-5
+Peru#Puno#-15.8333#-70.0333#3792#-5
+Peru#Querecotillo#-4.83778#-80.6456#76#-5
+Peru#Rioja#-6.05861#-77.165#789#-5
+Peru#San Clemente#-13.6667#-76.15#72#-5
+Peru#San Pedro de Lloc#-7.43278#-79.5058#1#-5
+Peru#San Vicente de Canete#-13.0833#-76.4#36#-5
+Peru#Santa Ana#-12.8667#-72.7167#857#-5
+Peru#Santiago de Cao#-7.95889#-79.2392#1#-5
+Peru#Satipo#-11.2522#-74.6386#627#-5
+Peru#Sechura#-5.55694#-80.8222#1#-5
+Peru#Sicuani#-14.2694#-71.2261#3716#-5
+Peru#Sullana#-4.90389#-80.6853#67#-5
+Peru#Tacna#-18.0056#-70.2483#601#-5
+Peru#Talara#-4.57722#-81.2719#14#-5
+Peru#Tambo Grande#-4.92694#-80.3447#96#-5
+Peru#Tambopata#-12.7333#-69.1833#200#-5
+Peru#Tarma#-11.4197#-75.6908#4058#-5
+Peru#Tingo Maria#-9.3#-75.9833#706#-5
+Peru#Tocache Nuevo#-8.18417#-76.5125#457#-5
+Peru#Trujillo#-8.11599#-79.03#36#-5
+Peru#Tumbes#-3.56667#-80.4414#8#-5
+Peru#Uchiza#-8.45917#-76.4633#615#-5
+Peru#Viru#-8.41667#-78.75#65#-5
+Peru#Yanacancha#-10.2411#-76.6456#3986#-5
+Peru#Yunguyo#-16.25#-69.0833#3826#-5
+Peru#Yurimaguas#-5.9#-76.0833#185#-5
+Peru#Zana#-6.92222#-79.5842#95#-5
+Peru#Zarumilla#-3.50306#-80.2731#35#-5

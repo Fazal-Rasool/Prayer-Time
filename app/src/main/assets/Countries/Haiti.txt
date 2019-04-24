@@ -1,0 +1,101 @@
+﻿
+Haiti#Abricots#18.633333#-74.3000031#221#-5
+Haiti#Acul du Nord#19.683333#-72.3166656#34#-5
+Haiti#Anse a Galets#18.831667#-72.8641663#17#-5
+Haiti#Anse Rouge#19.633333#-73.0500031#51#-5
+Haiti#Anse-a-Pitres#18.05#-71.75#21#-5
+Haiti#Anse-a-Veau#18.516667#-73.3499985#-9999#-5
+Haiti#Aquin#18.283333#-73.4000015#3#-5
+Haiti#Arcahaie#19.816667#-72.9166641#157#-5
+Haiti#Bahon#19.466667#-72.1166687#163#-5
+Haiti#Baie de Henne#19.662778#-73.2094421#20#-5
+Haiti#Baraderes#18.4825#-73.6386108#92#-5
+Haiti#Belle-Anse#18.237222#-72.0655594#14#-5
+Haiti#Bombardopolis#19.7#-73.3333359#417#-5
+Haiti#Cabaret#18.735833#-72.4175034#65#-5
+Haiti#Cap-Haitien#19.757778#-72.2041702#1#-5
+Haiti#Caracol#19.690833#-72.0161133#4#-5
+Haiti#Carice#19.383333#-71.8333359#647#-5
+Haiti#Carrefour#18.54114#-72.3992157#19#-5
+Haiti#Cayes Jacmel#18.230278#-72.3961105#1#-5
+Haiti#Cerca la Source#19.166667#-71.7833328#402#-5
+Haiti#Chambellan#18.566667#-74.3166656#485#-5
+Haiti#Chantal#18.2#-73.8833313#41#-5
+Haiti#Chardonniere#18.266667#-74.1666641#-9999#-5
+Haiti#Corail#18.567222#-73.8922195#-9999#-5
+Haiti#Cornillon#18.674722#-71.953331#1039#-5
+Haiti#Coteaux#18.2#-74.0333328#17#-5
+Haiti#Cotes-de-Fer#18.183333#-73#21#-5
+Haiti#Croix des Bouquets#18.575#-72.2249985#68#-5
+Haiti#Dame-Marie#18.566667#-74.4166641#-9999#-5
+Haiti#Delmas 73#18.544722#-72.3027802#127#-5
+Haiti#Derac#19.65#-71.8166656#7#-5
+Haiti#Desarmes#18.991667#-72.3888855#56#-5
+Haiti#Dessalines#19.283333#-72.5#159#-5
+Haiti#Dondon#19.533333#-72.2333298#565#-5
+Haiti#Ennery#19.483333#-72.4833298#366#-5
+Haiti#Ferrier#19.616667#-71.7833328#9#-5
+Haiti#Fond Bassin Bleu#19.8#-72.8000031#273#-5
+Haiti#Fond des Blancs#18.283333#-73.1333313#300#-5
+Haiti#Fond Parisien#18.505833#-71.9766693#39#-5
+Haiti#Fond Verrettes#18.391389#-71.8569412#951#-5
+Haiti#Fort Liberte#19.667778#-71.8397217#1#-5
+Haiti#Gonaives#19.45#-72.6833344#7#-5
+Haiti#Grand Goave#18.428889#-72.7705536#7#-5
+Haiti#Grande Riviere du Nord#19.583333#-72.1833344#92#-5
+Haiti#Grande Saline#19.25#-72.7833328#-9999#-5
+Haiti#Gressier#18.55#-72.5166702#33#-5
+Haiti#Gros Morne#19.666667#-72.6833344#232#-5
+Haiti#Hinche#19.15#-72.0166702#230#-5
+Haiti#Jacmel#18.234167#-72.5347214#29#-5
+Haiti#Jean-Rabel#19.853333#-73.1916656#82#-5
+Haiti#Jeremie#18.65#-74.1166687#17#-5
+Haiti#Kenscoff#18.450556#-72.2869415#1325#-5
+Haiti#Lascahobas#18.829444#-71.9363861#231#-5
+Haiti#Le Borgne#19.85#-72.5333328#13#-5
+Haiti#Leogane#18.510833#-72.6338882#13#-5
+Haiti#Les Anglais#18.3#-74.2166672#-9999#-5
+Haiti#Les Cayes#18.2#-73.75#1#-5
+Haiti#Les Irois#18.4#-74.4499969#111#-5
+Haiti#Limbe#19.7#-72.4000015#67#-5
+Haiti#Limonade#19.669722#-72.1252747#17#-5
+Haiti#Maissade#19.166667#-72.1333313#261#-5
+Haiti#Marigot#18.233889#-72.3166656#93#-5
+Haiti#Marmelade#19.516667#-72.3499985#640#-5
+Haiti#Milot#19.616667#-72.2166672#96#-5
+Haiti#Miragoane#18.45#-73.0999985#-9999#-5
+Haiti#Mirebalais#18.833333#-72.105278#164#-5
+Haiti#Mole Saint-Nicolas#19.8#-73.3833313#32#-5
+Haiti#Mont Organise#19.4#-71.7833328#651#-5
+Haiti#Moron#18.566667#-74.25#60#-5
+Haiti#Ouanaminthe#19.55#-71.7333298#38#-5
+Haiti#Perches#19.516667#-71.9166641#100#-5
+Haiti#Petionville#18.5125#-72.2852783#392#-5
+Haiti#Petit Goave#18.431389#-72.8669434#32#-5
+Haiti#Petit Trou de Nippes#18.533333#-73.5166702#-9999#-5
+Haiti#Petite Anse#19.629722#-73.1544418#37#-5
+Haiti#Petite Riviere de Nippes#18.483333#-73.25#-9999#-5
+Haiti#Phaeton#19.674167#-71.8972244#1#-5
+Haiti#Pignon#19.333333#-72.1166687#338#-5
+Haiti#Pilate#19.666667#-72.5500031#336#-5
+Haiti#Plaine du Nord#19.683333#-72.2666702#10#-5
+Haiti#Plaisance#19.6#-72.4666672#426#-5
+Haiti#Port Margot#19.75#-72.4333344#109#-5
+Haiti#Port-a-Piment#18.25#-74.0999985#-9999#-5
+Haiti#Port-au-Prince#18.539167#-72.3349991#65#-5
+Haiti#Quartier Morin#19.696667#-72.1569443#9#-5
+Haiti#Ranquitte#19.416667#-72.0833359#541#-5
+Haiti#Roche-a-Bateau#18.183333#-74#98#-5
+Haiti#Saint-Louis du Nord#19.933333#-72.7166672#13#-5
+Haiti#Saint-Louis du Sud#18.266667#-73.5500031#106#-5
+Haiti#Saint-Marc#19.116667#-72.6999969#105#-5
+Haiti#Saint-Raphael#19.433333#-72.1999969#367#-5
+Haiti#Thiote#18.25#-71.8499985#957#-5
+Haiti#Thomassique#19.083333#-71.8333359#300#-5
+Haiti#Thomazeau#18.651944#-72.0947189#36#-5
+Haiti#Thomonde#19.016667#-71.9666672#285#-5
+Haiti#Ti Port-de-Paix#19.933333#-72.8333359#83#-5
+Haiti#Tiburon#18.333333#-74.4000015#66#-5
+Haiti#Torbeck#18.166667#-73.8119431#3#-5
+Haiti#Trou du Nord#19.633333#-72.0166702#25#-5
+Haiti#Verrettes#19.05#-72.4666672#76#-5

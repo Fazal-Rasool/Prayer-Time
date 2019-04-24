@@ -1,0 +1,100 @@
+﻿
+Spain#A Coruna#43.37135#-8.396#1#1
+Spain#Alacant#38.34517#-0.48149#1#1
+Spain#Albacete#38.98333#-1.85#677#1
+Spain#Alcala de Henares#40.48333#-3.36667#578#1
+Spain#Alcobendas#40.54746#-3.64197#674#1
+Spain#Alcorcon#40.34583#-3.82487#668#1
+Spain#Algeciras#36.1275#-5.45389#1#1
+Spain#Algorta#43.34928#-3.0094#30#1
+Spain#Almeria#36.83814#-2.45974#-9999#1
+Spain#Aviles#43.55694#-5.92472#5#1
+Spain#Badajoz#38.88333#-6.96667#168#1
+Spain#Badalona#41.45005#2.247412#6#1
+Spain#Barakaldo#43.29564#-2.99729#17#1
+Spain#Barcelona#41.38879#2.158985#41#1
+Spain#Benidorm#38.53816#-0.13098#1#1
+Spain#Bilbao#43.26271#-2.92528#33#1
+Spain#Burgos#42.35#-3.7#861#1
+Spain#Caceres#39.47649#-6.37224#403#1
+Spain#Cadiz#36.53361#-6.29944#36#1
+Spain#Cartagena#37.6#-0.98333#-9999#1
+Spain#Castello de la Plana#39.98333#-0.03333#18#1
+Spain#Ceuta#35.88933#-5.31979#-9999#1
+Spain#Chiclana de la Frontera#36.41667#-6.13333#42#1
+Spain#Ciudad Real#38.98333#-3.93333#630#1
+Spain#Ciutat Vella#41.38022#2.17319#24#1
+Spain#Cordoba#37.88333#-4.76667#116#1
+Spain#Cornella de Llobregat#41.35#2.083333#13#1
+Spain#Coslada#40.43333#-3.56667#599#1
+Spain#Delicias#41.64774#-0.91474#206#1
+Spain#Dos Hermanas#37.28444#-5.92417#32#1
+Spain#Eixample#41.38896#2.16179#41#1
+Spain#El Ejido#36.77629#-2.81456#95#1
+Spain#El Puerto de Santa Maria#36.59389#-6.23298#1#1
+Spain#Elx#38.26218#-0.70107#77#1
+Spain#Ferrol#43.48333#-8.23333#5#1
+Spain#Fuenlabrada#40.28333#-3.8#647#1
+Spain#Getafe#40.30571#-3.73295#601#1
+Spain#Gijon#43.54111#-5.66444#11#1
+Spain#Girona#41.98311#2.824935#117#1
+Spain#Granada#37.18817#-3.60667#658#1
+Spain#Guadalajara#40.63333#-3.16667#708#1
+Spain#Huelva#37.25833#-6.95083#1#1
+Spain#Jaen#37.76667#-3.78333#537#1
+Spain#Jerez de la Frontera#36.68333#-6.13333#50#1
+Spain#La Laguna#28.48333#-16.3167#625#1
+Spain#Las Palmas de Gran Canaria#28.1#-15.4167#114#1
+Spain#Las Rozas de Madrid#40.49292#-3.87371#696#1
+Spain#Leganes#40.32718#-3.7635#628#1
+Spain#Leon#42.6#-5.56667#816#1
+Spain#Lleida#41.61667#0.616667#147#1
+Spain#Logrono#42.46667#-2.45#364#1
+Spain#Lorca#37.66667#-1.7#307#1
+Spain#Lugo#43#-7.56667#370#1
+Spain#Madrid#40.4165#-3.70256#638#1
+Spain#Malaga#36.72016#-4.42034#1#1
+Spain#Manresa#41.72498#1.826563#273#1
+Spain#Marbella#36.51543#-4.88583#75#1
+Spain#Mataro#41.53333#2.45#-9999#1
+Spain#Melilla#35.29369#-2.93833#70#1
+Spain#Mostoles#40.32234#-3.86496#651#1
+Spain#Murcia#37.98333#-1.11667#28#1
+Spain#Nou Barris#41.44163#2.177267#45#1
+Spain#Orihuela#38.08333#-0.95#20#1
+Spain#Ourense#42.33333#-7.85#327#1
+Spain#Oviedo#43.36667#-5.83333#179#1
+Spain#Palencia#42.01667#-4.53333#737#1
+Spain#Palma#39.56939#2.650237#13#1
+Spain#Pamplona#42.81687#-1.64323#425#1
+Spain#Parla#40.23333#-3.76667#625#1
+Spain#Ponferrada#42.55#-6.58333#508#1
+Spain#Pontevedra#42.431#-8.64435#27#1
+Spain#Pozuelo de Alarcon#40.43333#-3.81667#695#1
+Spain#Reus#41.15612#1.106873#126#1
+Spain#Rubi#41.48333#2.033333#120#1
+Spain#Sabadell#41.55#2.1#193#1
+Spain#Salamanca#40.96667#-5.65#795#1
+Spain#San Fernando#36.46667#-6.2#48#1
+Spain#San Sebastian#43.31283#-1.97499#33#1
+Spain#Sant Cugat del Valles#41.46667#2.083333#120#1
+Spain#Sant Marti#41.41814#2.199326#13#1
+Spain#Santa Coloma de Gramenet#41.45152#2.208102#49#1
+Spain#Santa Cruz de Tenerife#28.46824#-16.2546#159#1
+Spain#Santander#43.46472#-3.80444#1#1
+Spain#Santiago de Compostela#42.88052#-8.54569#267#1
+Spain#Sevilla#37.37722#-5.98694#2#1
+Spain#Talavera de la Reina#39.95#-4.83333#365#1
+Spain#Tarragona#41.11667#1.25#56#1
+Spain#Telde#28#-15.4167#144#1
+Spain#Terrassa#41.56667#2.016667#313#1
+Spain#Toledo#39.8581#-4.02263#507#1
+Spain#Torrejon de Ardoz#40.45#-3.48333#568#1
+Spain#Torrent#39.43706#-0.46546#36#1
+Spain#Torrevieja#37.98333#-0.68333#7#1
+Spain#Valencia#39.46975#-0.37739#10#1
+Spain#Valladolid#41.65#-4.71667#694#1
+Spain#Vigo#42.23333#-8.71667#115#1
+Spain#Vitoria-Gasteiz#42.85#-2.66667#516#1
+Spain#Zamora#41.5#-5.75#617#1
+Spain#Zaragoza#41.65606#-0.87734#183#1

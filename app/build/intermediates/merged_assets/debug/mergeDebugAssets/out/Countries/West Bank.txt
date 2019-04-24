@@ -1,0 +1,81 @@
+﻿
+West Bank#Anin#32.5014#35.1633#0#2
+West Bank#Beit Hanina#31.8333#35.2#0#2
+West Bank#Beit Rima#32.0333#35.1036#0#2
+West Bank#Cedron#31.6667#35.45#0#2
+West Bank#Dhahiriya#31.4167#34.9667#0#2
+West Bank#Fahma#32.3825#35.1797#0#2
+West Bank#Farkha#32.07#35.1478#0#2
+West Bank#Far`un#32.2864#35.0231#0#2
+West Bank#Fashkhah#31.7333#35.4667#0#2
+West Bank#Fawwar Camp#31.4833#35.0667#0#2
+West Bank#Gane Modi`in#31.9167#35#0#2
+West Bank#Ghadir Burqu`#32.6167#37.9667#0#2
+West Bank#Gilgal#31.85#35.4833#0#2
+West Bank#Hablah#32.1614#34.975#0#2
+West Bank#Hadar Betar#31.7#35.1#0#2
+West Bank#Haggy#31.4833#35.0833#0#2
+West Bank#Haiyat#31.95#35.4333#0#2
+West Bank#Hajja#32.2047#35.1308#0#2
+West Bank#Hammam Shuweika#31.4#35#0#2
+West Bank#Hamra#32.2#35.4167#0#2
+West Bank#Haqw ad Darahim#31.7#35.4333#0#2
+West Bank#Haqw al Matamir#31.6667#35.4167#0#2
+West Bank#Har Adar#31.8167#35.1333#0#2
+West Bank#Har el Kabir#32.2333#35.35#0#2
+West Bank#Har Harmun#31.7667#35.4333#0#2
+West Bank#Har HaZofim#31.8#35.2333#0#2
+West Bank#Har Hordos#31.6667#35.25#0#2
+West Bank#Har Rahawat#32.0667#35.2667#0#2
+West Bank#Har Tammun#32.2667#35.4#0#2
+West Bank#Har Ziyyon#31.7667#35.2333#0#2
+West Bank#Har `Eival#32.2333#35.2667#0#2
+West Bank#Haram esh Sharif#31.7833#35.2333#0#2
+West Bank#Harayiq Dawwas#32.1833#35.1#0#2
+West Bank#Haris#32.1142#35.1425#0#2
+West Bank#Hatserot#32.1775#35.2131#0#2
+West Bank#Hebron#31.5333#35.1#0#2
+West Bank#Hemdat#32.25#35.5167#0#2
+West Bank#Hermesh#32.4167#35.1167#0#2
+West Bank#Hinnanit#32.4667#35.1667#0#2
+West Bank#Hizmah#31.8333#35.2667#0#2
+West Bank#Homesh#32.3#35.1833#0#2
+West Bank#Horbat Nakar#31.65#35#0#2
+West Bank#Huraybat an Nabi#31.3833#35.1167#0#2
+West Bank#Husan#31.7167#35.1333#0#2
+West Bank#Hyrcania#31.7167#35.3833#0#2
+West Bank#Jerusalem Airport#31.8667#35.2167#0#2
+West Bank#Lahf el Lauza#32.1167#35.45#0#2
+West Bank#Lido Yehuda#31.7667#35.5#0#2
+West Bank#Likia#31.8667#35.0667#0#2
+West Bank#Lubban#32.0336#35.0378#0#2
+West Bank#Lubban Sharqiya#32.0717#35.2417#0#2
+West Bank#Nablus#32.2211#35.2544#0#2
+West Bank#Ofra#31.95#35.3#0#2
+West Bank#Olivet#31.7833#35.25#0#2
+West Bank#Omarim#31.3667#34.95#0#2
+West Bank#Oranit#32.1333#34.9833#0#2
+West Bank#Osarin#32.1333#35.3167#0#2
+West Bank#Otni el#31.4333#35.0167#0#2
+West Bank#Pelas#32.2667#35.5167#0#2
+West Bank#Peza el#32.05#35.4167#0#2
+West Bank#Pisgat Amir#31.8167#35.2333#0#2
+West Bank#Pools of Solomon#31.6833#35.1667#0#2
+West Bank#Pundaq#32.1897#35.1339#0#2
+West Bank#Pundaqa#32.3208#35.2033#0#2
+West Bank#Qabatiyah#32.4086#35.28#0#2
+West Bank#Qalqiliya#32.1864#34.9631#0#2
+West Bank#Ram Allah#31.9#35.2#0#2
+West Bank#Salfit#32.0808#35.1761#0#2
+West Bank#Tul Kerem#32.3108#35.0258#0#2
+West Bank#Tulkarem#32.3167#35.0333#0#2
+West Bank#Yanun#32.1458#35.3522#0#2
+West Bank#Yasid#32.2944#35.2769#0#2
+West Bank#Yirihu#31.8667#35.45#0#2
+West Bank#Yuta#31.45#35.0833#0#2
+West Bank#Zababida#32.3847#35.3225#0#2
+West Bank#Zahrat al Middah#32.0167#35.3333#0#2
+West Bank#Zahrat Umm al Kasrun#31.7167#35.2833#0#2
+West Bank#Zahrat Zayn ad Din#31.75#35.25#0#2
+West Bank#Zaytun al Karm#32.4167#35.2667#0#2
+West Bank#Zor el Madrasa#32.1833#35.5667#0#2

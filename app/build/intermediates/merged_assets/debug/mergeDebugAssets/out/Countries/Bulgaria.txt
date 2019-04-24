@@ -1,0 +1,50 @@
+﻿
+Bulgaria#Aitos#42.7#27.25#0#2
+Bulgaria#Aitoska#42.5#27.35#0#2
+Bulgaria#Blagoevgrad#42.0167#23.1#0#2
+Bulgaria#Burgas#42.5#27.4667#0#2
+Bulgaria#Gabrovo ( or BU36)#41.8928#22.935#0#2
+Bulgaria#Gabrovo#43#25.2667#0#2
+Bulgaria#Gabrovo ( or BU31)#42.6167#25.1667#0#2
+Bulgaria#Gabrovo ( or BU34)#41.55#24.7667#0#2
+Bulgaria#Gotse Delchev#41.5667#23.7333#0#2
+Bulgaria#Hablkovo#43.6#27.6167#0#2
+Bulgaria#Hadzi-Jeiles#42.1#25.2167#0#2
+Bulgaria#Hagichioi#43.85#27.85#0#2
+Bulgaria#Hagiolar#43.9167#26.8667#0#2
+Bulgaria#Hajar#43.3667#26.2833#0#2
+Bulgaria#Hamzalar#43.4333#28.0167#0#2
+Bulgaria#Hanishta Predel#41.8333#23.3#0#2
+Bulgaria#Harman#42.25#27.3833#0#2
+Bulgaria#Harmanata#42.0167#27.8333#0#2
+Bulgaria#Haskovska#41.9#25.7167#0#2
+Bulgaria#Herakovo#42.7833#23.1167#0#2
+Bulgaria#Hermanli#41.9333#25.9#0#2
+Bulgaria#Horlec#43.7#23.8333#0#2
+Bulgaria#Hristo-Danovo#42.7333#24.6#0#2
+Bulgaria#Husar#42.5#24.7#0#2
+Bulgaria#Pernik#42.6#23.0333#0#2
+Bulgaria#Pleven#43.4167#24.6167#0#2
+Bulgaria#Plovdiv#42.15#24.75#0#2
+Bulgaria#Plovdivtsi#41.4167#24.8#0#2
+Bulgaria#Ribnowo#41.7167#23.7667#0#2
+Bulgaria#Ruse (Razgrad)#43.6333#26.5167#0#2
+Bulgaria#Ruse#43.8564#25.9708#0#2
+Bulgaria#Rusekastrenska#42.4#27.3#0#2
+Bulgaria#Rusenovtsi#42.9167#25.5167#0#2
+Bulgaria#Rusenski Lom#43.8333#25.95#0#2
+Bulgaria#Shumen#43.2767#26.9292#0#2
+Bulgaria#Shumenski Visochini#43.2833#26.8167#0#2
+Bulgaria#Shumentsi#43.9667#26.6#0#2
+Bulgaria#Sliven#42.6858#26.3292#0#2
+Bulgaria#Smolyan#41.5853#24.6919#0#2
+Bulgaria#Sofia#42.6833#23.3167#0#2
+Bulgaria#Sofiya-Grad#42.6667#23.3667#0#2
+Bulgaria#Stara Zagora#42.4328#25.6419#0#2
+Bulgaria#Tolbukhin#43.6833#27.9#0#2
+Bulgaria#Varna#43.2167#27.9167#0#2
+Bulgaria#Varna Bay#43.1833#27.9333#0#2
+Bulgaria#Varna Lake#43.1833#27.8333#0#2
+Bulgaria#Varna-Devnya#43.2#27.8#0#2
+Bulgaria#Xanne Sandanski#41.5667#23.2833#0#2
+Bulgaria#XII-i Rayon#42.6744#23.4292#0#2

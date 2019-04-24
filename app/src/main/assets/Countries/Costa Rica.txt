@@ -1,0 +1,95 @@
+﻿
+Costa Rica#Alajuela#10.01667#-84.2167#928#-6
+Costa Rica#Alajuelita#9.9#-84.1#1144#-6
+Costa Rica#Aserri#9.866667#-84.1#1331#-6
+Costa Rica#Atenas#9.983333#-84.3833#677#-6
+Costa Rica#Bagaces#10.53333#-85.25#84#-6
+Costa Rica#Batan#10.08333#-83.3333#35#-6
+Costa Rica#Belen#10.4#-85.6#43#-6
+Costa Rica#Buenos Aires#9.166667#-83.3333#383#-6
+Costa Rica#Calle Blancos#9.95#-84.0667#1155#-6
+Costa Rica#Canas#10.43333#-85.1#64#-6
+Costa Rica#Canoas#8.533333#-82.8333#107#-6
+Costa Rica#Carrillos#10.03333#-84.2667#850#-6
+Costa Rica#Cartago#9.866667#-83.9167#1489#-6
+Costa Rica#Chacarita#9.983333#-84.7833#5#-6
+Costa Rica#Ciudad Cortes#8.966667#-83.5333#33#-6
+Costa Rica#Colima#9.95#-84.0833#1138#-6
+Costa Rica#Colon#9.914913#-84.2417#796#-6
+Costa Rica#Concepcion#9.933333#-84#1395#-6
+Costa Rica#Corredor#8.633333#-82.95#66#-6
+Costa Rica#Cot#9.9#-83.8667#1842#-6
+Costa Rica#Curridabat#9.916667#-84.0333#1229#-6
+Costa Rica#Daniel Flores#9.333333#-83.6667#646#-6
+Costa Rica#Desamparados#9.95#-84.5#377#-6
+Costa Rica#Escazu#9.916667#-84.1333#1110#-6
+Costa Rica#Esparza#9.983333#-84.6667#145#-6
+Costa Rica#Fortuna#10.48333#-84.65#270#-6
+Costa Rica#Golfito#8.65#-83.15#279#-6
+Costa Rica#Granadilla#9.933333#-84.0167#1294#-6
+Costa Rica#Guacimo#10.21667#-83.6833#91#-6
+Costa Rica#Guadalupe#9.946111#-84.0528#1184#-6
+Costa Rica#Guapiles#10.21667#-83.7833#248#-6
+Costa Rica#Heredia#10#-84.1167#1155#-6
+Costa Rica#Ipis#9.966667#-84.0167#1318#-6
+Costa Rica#Jaco#9.616667#-84.6333#12#-6
+Costa Rica#Juntas#10.28333#-84.95#208#-6
+Costa Rica#La Asuncion#9.983333#-84.1667#953#-6
+Costa Rica#La Cruz#11.06667#-85.6333#222#-6
+Costa Rica#Liberia#10.63333#-85.4333#176#-6
+Costa Rica#Llorente#10#-84.15#1099#-6
+Costa Rica#Los Chiles#11.03333#-84.7167#31#-6
+Costa Rica#Mercedes#10.01667#-84.1333#1152#-6
+Costa Rica#Miramar#10.1#-84.7333#342#-6
+Costa Rica#Naranjo#10.1#-84.3833#1000#-6
+Costa Rica#Nicoya#10.15#-85.45#125#-6
+Costa Rica#Orosi#9.8#-83.85#1105#-6
+Costa Rica#Orotina#9.9#-84.5333#161#-6
+Costa Rica#Paraiso#9.833333#-83.8667#1319#-6
+Costa Rica#Parrita#9.516667#-84.3167#7#-6
+Costa Rica#Patarra#9.883333#-84.0333#1271#-6
+Costa Rica#Pocora#10.18333#-83.6#62#-6
+Costa Rica#Pocosol#10.36667#-84.6167#485#-6
+Costa Rica#Puerto Limon#10#-83.0333#2#-6
+Costa Rica#Puntarenas#9.976247#-84.8384#1#-6
+Costa Rica#Purral#9.95#-84.0333#1292#-6
+Costa Rica#Quepos#9.45#-84.15#25#-6
+Costa Rica#Quesada#10.33333#-84.4333#616#-6
+Costa Rica#Rio Segundo#10.23333#-84.3#1435#-6
+Costa Rica#Sabanilla#9.95#-84.0333#1292#-6
+Costa Rica#Salitral#9.916667#-84.1833#958#-6
+Costa Rica#Salitrillos#9.85#-84.1#1450#-6
+Costa Rica#San Antonio#9.983333#-84.1833#920#-6
+Costa Rica#San Diego#9.9#-84#1290#-6
+Costa Rica#San Felipe#9.9#-84.1#1144#-6
+Costa Rica#San Francisco#9.983333#-84.1333#1046#-6
+Costa Rica#San Ignacio#9.8#-84.1667#1134#-6
+Costa Rica#San Isidro#9.383333#-83.7#752#-6
+Costa Rica#San Jose#9.933333#-84.0833#1147#-6
+Costa Rica#San Josecito#10.01667#-84.1#1303#-6
+Costa Rica#San Juan#9.966667#-84.0833#1099#-6
+Costa Rica#San Juan de Dios#9.883333#-84.0833#1176#-6
+Costa Rica#San Marcos#9.666667#-84.0333#1536#-6
+Costa Rica#San Miguel#9.883333#-84.0667#1180#-6
+Costa Rica#San Pablo#10#-84.0833#1236#-6
+Costa Rica#San Pedro#9.933333#-84.05#1229#-6
+Costa Rica#San Rafael#9.933333#-84.1333#1059#-6
+Costa Rica#San Rafael Abajo#9.833333#-84.2833#675#-6
+Costa Rica#San Rafael Arriba#9.883333#-84.0833#1176#-6
+Costa Rica#San Ramon#10.08333#-84.4667#1021#-6
+Costa Rica#San Vicente#9.966667#-84.05#1201#-6
+Costa Rica#San Vicente de Moravia#9.961644#-84.0488#1227#-6
+Costa Rica#San Vito#8.833333#-82.9667#993#-6
+Costa Rica#Santa Ana#9.933333#-84.1833#916#-6
+Costa Rica#Santa Cruz#10.26667#-85.5833#57#-6
+Costa Rica#Santiago#9.85#-84.3167#1085#-6
+Costa Rica#Santo Domingo#10.06667#-84.15#1399#-6
+Costa Rica#Sardinal#10.51667#-85.65#59#-6
+Costa Rica#Siquirres#10.1#-83.5167#120#-6
+Costa Rica#Tejar#9.75#-84.2333#999#-6
+Costa Rica#Tilaran#10.46667#-84.9667#526#-6
+Costa Rica#Tobosi#9.833333#-83.9833#1580#-6
+Costa Rica#Tres Rios#9.9#-83.9833#1422#-6
+Costa Rica#Turrialba#9.9#-83.6833#639#-6
+Costa Rica#Upala#10.9#-85.0333#52#-6
+Costa Rica#Zarcero#10.18333#-84.4#1672#-6

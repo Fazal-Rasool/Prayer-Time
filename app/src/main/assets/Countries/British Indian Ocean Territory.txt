@@ -1,0 +1,12 @@
+﻿
+British Indian Ocean Territory#Barton Pass#-7.2167#72.4167#0#5
+British Indian Ocean Territory#British Indian Ocean Territory#-6#72#0#5
+British Indian Ocean Territory#Colvocoresses Reef#-4.9667#72.6#0#5
+British Indian Ocean Territory#Cust Point#-7.2833#72.4833#0#5
+British Indian Ocean Territory#Danger#-6.3833#71.2653#0#5
+British Indian Ocean Territory#Great Chagos Bank#-6.3147#71.9022#0#5
+British Indian Ocean Territory#Leconte Point#-7.2667#72.4667#0#5
+British Indian Ocean Territory#Main Pass#-7.25#72.3833#0#5
+British Indian Ocean Territory#Nelsons Island#-5.6833#72.3333#0#5
+British Indian Ocean Territory#Observatory Point#-7.2333#72.4333#0#5
+British Indian Ocean Territory#Victory Bank#-5.55#72.2333#0#5

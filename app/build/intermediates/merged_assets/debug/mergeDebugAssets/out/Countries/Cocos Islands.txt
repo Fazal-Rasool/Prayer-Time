@@ -1,0 +1,32 @@
+﻿
+Cocos Islands#Alor Batu Kapala#-12.1167#96.8167#0#6.5
+Cocos Islands#Alor Pinyu#-12.1625#96.8208#0#6.5
+Cocos Islands#Bechat Besar#-12.15#96.8256#0#6.5
+Cocos Islands#Burial Island#-12.2#96.8667#0#6.5
+Cocos Islands#Cocos Islands#-12#96.8333#0#6.5
+Cocos Islands#East Cay#-12.1833#96.8667#0#6.5
+Cocos Islands#Home Island#-12.1167#96.8833#0#6.5
+Cocos Islands#Horsburgh Island#-12.0667#96.8333#0#6.5
+Cocos Islands#Keche Pecha#-12.2#96.8333#0#6.5
+Cocos Islands#Klapa Tuju#-12.2083#96.8458#0#6.5
+Cocos Islands#North Keeling#-11.8333#96.8167#0#6.5
+Cocos Islands#North Lagoon#-12.1733#96.825#0#6.5
+Cocos Islands#Port Refuge#-12.0833#96.8667#0#6.5
+Cocos Islands#Possession Point#-12.0833#96.85#0#6.5
+Cocos Islands#Pulo Ampang Kechil#-12.125#96.9028#0#6.5
+Cocos Islands#Pulo Atas#-12.2#96.9167#0#6.5
+Cocos Islands#Pulo Jambatan#-12.15#96.9167#0#6.5
+Cocos Islands#Pulo Labu#-12.1583#96.9181#0#6.5
+Cocos Islands#Pulo Pandang#-12.1333#96.9167#0#6.5
+Cocos Islands#Pulo Panjang#-12.1667#96.8333#0#6.5
+Cocos Islands#Pulo Wa-idas#-12.1292#96.9069#0#6.5
+Cocos Islands#Pulu Ampang#-12.1278#96.9042#0#6.5
+Cocos Islands#Pulu Blekok#-12.1306#96.9069#0#6.5
+Cocos Islands#Pulu Kembang#-12.1333#96.9069#0#6.5
+Cocos Islands#South Keeling Island#-12.15#96.8667#0#6.5
+Cocos Islands#South Lagoon#-12.2#96.85#0#6.5
+Cocos Islands#Ujong Pulo Jau#-12.1958#96.8875#0#6.5
+Cocos Islands#Ujong Tanjong#-12.1333#96.8167#0#6.5
+Cocos Islands#West Cay#-12.1833#96.85#0#6.5
+Cocos Islands#Workhouse Island#-12.1#96.8833#0#6.5
+Cocos Islands#Wreck Point#-11.8167#96.8167#0#6.5

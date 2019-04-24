@@ -1,0 +1,146 @@
+﻿
+Cote Dlvoire#18 Montagnes#7.3333#-7.6667#0#0
+Cote Dlvoire#Abidjan#5.3411#-4.0281#0#0
+Cote Dlvoire#Bandakanyi-Sokoura#8.1#-3.6333#0#0
+Cote Dlvoire#Bondoukou#7.5889#-5.27#0#0
+Cote Dlvoire#Bondoukou (or IV68)#5.2106#-3.4192#0#0
+Cote Dlvoire#Bondoukou (Zanzan)#8.0333#-2.8#0#0
+Cote Dlvoire#Bondoukoue#8.8#-7.6833#0#0
+Cote Dlvoire#Bouake#9.6167#-7.4167#0#0
+Cote Dlvoire#Bouake (Vallee du Bandama)#7.6833#-5.0331#0#0
+Cote Dlvoire#Cablake#4.4167#-7.3667#0#0
+Cote Dlvoire#Cacala#9.5333#-3.5#0#0
+Cote Dlvoire#Canal D Acces#5.2564#-4.0139#0#0
+Cote Dlvoire#Canal d Assagny#5.1528#-4.9497#0#0
+Cote Dlvoire#Canal d Assini#5.1614#-3.4703#0#0
+Cote Dlvoire#Cavaly#6.4167#-7.5#0#0
+Cote Dlvoire#Ce#5.8617#-7.4583#0#0
+Cote Dlvoire#Cechi#6.2442#-4.4244#0#0
+Cote Dlvoire#Cehelo#7.9544#-6.4767#0#0
+Cote Dlvoire#Chele#8.95#-6.2167#0#0
+Cote Dlvoire#Chiasso#5.9675#-3.6606#0#0
+Cote Dlvoire#Chienhodi#8.2667#-2.6833#0#0
+Cote Dlvoire#Chiepo#5.6833#-5.0472#0#0
+Cote Dlvoire#Chue#7.1667#-7.4667#0#0
+Cote Dlvoire#Chutes Naoua#5.7889#-6.6447#0#0
+Cote Dlvoire#Chutes Seledio#5.7089#-7.4303#0#0
+Cote Dlvoire#Chwalokou#8.1167#-6.6167#0#0
+Cote Dlvoire#Cochem#5.5281#-5.4297#0#0
+Cote Dlvoire#Cocody#5.3489#-4.0117#0#0
+Cote Dlvoire#Colline de Mblibo#6.2303#-4.4836#0#0
+Cote Dlvoire#Colline Willet#4.4#-7.5333#0#0
+Cote Dlvoire#Collines d Assinie#5.1667#-3.0833#0#0
+Cote Dlvoire#Collines Fresco#5.15#-5.5667#0#0
+Cote Dlvoire#Collines Kakraba#5.2167#-5.3667#0#0
+Cote Dlvoire#Comembo#5.5219#-3.6392#0#0
+Cote Dlvoire#Comoe#5.2019#-3.7289#0#0
+Cote Dlvoire#Comoe Noua#7.1986#-3.6208#0#0
+Cote Dlvoire#Congoti#7.1539#-3.9419#0#0
+Cote Dlvoire#Coreragui#7.4108#-6.1267#0#0
+Cote Dlvoire#Cosru#5.3211#-4.6614#0#0
+Cote Dlvoire#Costa dell Avorio#5#-5#0#0
+Cote Dlvoire#Cote d Ivoire#8#-5#0#0
+Cote Dlvoire#Coti#5.6186#-3.5533#0#0
+Cote Dlvoire#Courcouratou#6.4094#-4.3228#0#0
+Cote Dlvoire#Couve#5.1833#-4.7333#0#0
+Cote Dlvoire#Daloa#6.8747#-6.4519#0#0
+Cote Dlvoire#Fafala#10.2419#-6.8803#0#0
+Cote Dlvoire#Guiglo#6.5403#-7.4858#0#0
+Cote Dlvoire#Hahivi#8.9667#-3.2#0#0
+Cote Dlvoire#Hahoun#8.6833#-3.2#0#0
+Cote Dlvoire#Hairo#5.1328#-7.2022#0#0
+Cote Dlvoire#Half Berebi#4.55#-7.0333#0#0
+Cote Dlvoire#Hana#5.3267#-7.3575#0#0
+Cote Dlvoire#Hanha#8.95#-3.2833#0#0
+Cote Dlvoire#Hanion#9.8167#-3.7167#0#0
+Cote Dlvoire#Heke#4.7167#-7.1167#0#0
+Cote Dlvoire#Herebo#7.9547#-3.0625#0#0
+Cote Dlvoire#Herne#9.75#-3.1833#0#0
+Cote Dlvoire#Hetyonkaha#8#-5.1333#0#0
+Cote Dlvoire#Hevero#9.7167#-3.6833#0#0
+Cote Dlvoire#Himbie#9.2#-2.85#0#0
+Cote Dlvoire#Hire#4.65#-7.4#0#0
+Cote Dlvoire#Hobo#4.7333#-6.9#0#0
+Cote Dlvoire#Hogoukaha#8.0667#-5.25#0#0
+Cote Dlvoire#Homikaye#9.7833#-3.55#0#0
+Cote Dlvoire#Houne#7.0167#-6.25#0#0
+Cote Dlvoire#Hourou#6.9#-3.85#0#0
+Cote Dlvoire#Hue#8.1167#-8#0#0
+Cote Dlvoire#Hueflambota#6.6333#-5.9333#0#0
+Cote Dlvoire#Jack Lahou#5.1956#-4.4697#0#0
+Cote Dlvoire#Jackville#5.2006#-4.4122#0#0
+Cote Dlvoire#Jamokou#6.5708#-3.3344#0#0
+Cote Dlvoire#Jego#6.1333#-5.15#0#0
+Cote Dlvoire#Jimbo#6.2833#-4.6833#0#0
+Cote Dlvoire#Juen Lagoon#5.1317#-3.0825#0#0
+Cote Dlvoire#Man (or IV47)#7.3786#-7.5272#0#0
+Cote Dlvoire#Man (Dix-Huit Montagnes)#7.4053#-7.5475#0#0
+Cote Dlvoire#Manaboue#5.2817#-5.9217#0#0
+Cote Dlvoire#Manabri#8.6669#-6.6186#0#0
+Cote Dlvoire#Manambogo#9.5833#-6.9167#0#0
+Cote Dlvoire#Manandougou#9.0222#-6.4097#0#0
+Cote Dlvoire#Mango#8.7833#-3.1833#0#0
+Cote Dlvoire#Mangrekan#7.7406#-5.4603#0#0
+Cote Dlvoire#Manidougou#7.68#-4.2044#0#0
+Cote Dlvoire#Manimakouro#7.8333#-3.75#0#0
+Cote Dlvoire#Manseki#9.55#-7.8833#0#0
+Cote Dlvoire#Manyi#5.03#-5.8614#0#0
+Cote Dlvoire#Qua#7.4456#-8.1633#0#0
+Cote Dlvoire#Quibie#5.5192#-3.8006#0#0
+Cote Dlvoire#Uakre#6.6#-5.3167#0#0
+Cote Dlvoire#Ume#6.3833#-5.4167#0#0
+Cote Dlvoire#Upper Guinea#7#-4#0#0
+Cote Dlvoire#Vaafla#7.4181#-6.6486#0#0
+Cote Dlvoire#Vabouesso#8.6#-7.45#0#0
+Cote Dlvoire#Vadolinyi#5.5936#-5.7508#0#0
+Cote Dlvoire#Vae#5.4333#-6.3667#0#0
+Cote Dlvoire#Vafindougou#8.7667#-7.6833#0#0
+Cote Dlvoire#Vaidougou#8.2167#-7.9167#0#0
+Cote Dlvoire#Vakabadougou#8.75#-7.7#0#0
+Cote Dlvoire#Vakbemandougou#8.8667#-7.5833#0#0
+Cote Dlvoire#Vakesedougou#8.8833#-7.45#0#0
+Cote Dlvoire#Vakouroudougou#8.4167#-7.9333#0#0
+Cote Dlvoire#Vamela#9.5833#-7.2167#0#0
+Cote Dlvoire#Vampleu#7.0833#-7.8167#0#0
+Cote Dlvoire#Vanievotifla#7.35#-6.0167#0#0
+Cote Dlvoire#Vaoukana#9.3156#-6.3447#0#0
+Cote Dlvoire#Varbo#9.4167#-2.8#0#0
+Cote Dlvoire#Vareassue#6.7333#-3.7833#0#0
+Cote Dlvoire#Vaseriso#8.4#-7.85#0#0
+Cote Dlvoire#Vaseso#8.2667#-7.35#0#0
+Cote Dlvoire#Vatouo#7.0792#-8.1136#0#0
+Cote Dlvoire#Vavoua#7.3819#-6.4778#0#0
+Cote Dlvoire#Vayaso#8.0667#-7.9#0#0
+Cote Dlvoire#Vegouin#7.1425#-8.0172#0#0
+Cote Dlvoire#Veitouo#6.9586#-8.1236#0#0
+Cote Dlvoire#Verelo#9.35#-6.5833#0#0
+Cote Dlvoire#Vialadougou#8.55#-7.2167#0#0
+Cote Dlvoire#Vieux Ousrou#5.4139#-4.5361#0#0
+Cote Dlvoire#Vigoli#9.35#-3.15#0#0
+Cote Dlvoire#Vigrifouta#6.9333#-6.0461#0#0
+Cote Dlvoire#Vilayo#9.4333#-3.2333#0#0
+Cote Dlvoire#Vinbango#8.5#-3.1667#0#0
+Cote Dlvoire#Vipleu#7.1242#-8.2058#0#0
+Cote Dlvoire#Virale#9.6667#-3.2833#0#0
+Cote Dlvoire#Vle#6.85#-7.5333#0#0
+Cote Dlvoire#Vodeloby#6.1572#-7.4883#0#0
+Cote Dlvoire#Vodieko#4.9167#-6.1333#0#0
+Cote Dlvoire#Vohou#8.5128#-6.5261#0#0
+Cote Dlvoire#Vohousso#5.6558#-5.8492#0#0
+Cote Dlvoire#Vongouin#7.4167#-7.4833#0#0
+Cote Dlvoire#Vonkoro#9.1667#-2.75#0#0
+Cote Dlvoire#Vorosanisso#8.8167#-7.7333#0#0
+Cote Dlvoire#Voueboufla#7.6239#-5.9525#0#0
+Cote Dlvoire#Vouo#5.85#-6.6942#0#0
+Cote Dlvoire#Vovo#6.5528#-6.9469#0#0
+Cote Dlvoire#Vovodou#6.7856#-6.7264#0#0
+Cote Dlvoire#Vrasse#7.3667#-3.3667#0#0
+Cote Dlvoire#Vreheufla#7.35#-6.1167#0#0
+Cote Dlvoire#Vrenzue#7.2333#-4.5333#0#0
+Cote Dlvoire#Vridi#5.2467#-4.0342#0#0
+Cote Dlvoire#Vrigri#6.7531#-6.1008#0#0
+Cote Dlvoire#Vrom#5.0953#-5.6064#0#0
+Cote Dlvoire#Vrouo#7.6764#-6.6725#0#0
+Cote Dlvoire#Yamoussoukro#6.8167#-5.2833#0#0
+Cote Dlvoire#Ygbe#7.2283#-7.8483#0#0
+Cote Dlvoire#Yuala#7.5667#-6.5167#0#0

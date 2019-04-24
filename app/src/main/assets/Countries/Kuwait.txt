@@ -1,0 +1,19 @@
+﻿
+Kuwait#Ad Dasmah#29.365#48.00139#8#3
+Kuwait#Al Farwaniyah#29.2775#47.95861#47#3
+Kuwait#Al Fintas#29.17389#48.12111#17#3
+Kuwait#Al Fuhayhil#29.0825#48.13028#9#3
+Kuwait#Al Funaytis#29.22528#48.10167#1#3
+Kuwait#Al Mahbulah#29.145#48.13028#5#3
+Kuwait#Al Manqaf#29.09611#48.13278#25#3
+Kuwait#Al Wafrah#28.63917#47.93056#174#3
+Kuwait#Ar Rabiyah#29.295#47.93306#25#3
+Kuwait#Ar Riqqah#29.14583#48.09472#39#3
+Kuwait#As Salimiyah#29.33389#48.07611#7#3
+Kuwait#Ash Shamiyah#29.34722#47.96167#9#3
+Kuwait#Az Zawr#29.4425#48.27472#-9999#3
+Kuwait#Bayan#29.31806#48.03917#28#3
+Kuwait#Janub as Surrah#29.26917#47.97805#51#3
+Kuwait#Kuwait#29.36972#47.97833#12#3
+Kuwait#Sabah as Salim#29.25722#48.05722#45#3
+Kuwait#Salwa#29.29583#48.07861#12#3

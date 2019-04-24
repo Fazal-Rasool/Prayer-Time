@@ -1,0 +1,21 @@
+﻿
+Swaziland#Bhunya#-26.55#31.01667#1019#2
+Swaziland#Big Bend#-26.8167#31.93333#138#2
+Swaziland#Bulembu#-25.9667#31.13333#1028#2
+Swaziland#Darkton#-26.2333#31.03333#1396#2
+Swaziland#Hlatikulu#-26.9667#31.31667#1115#2
+Swaziland#Hluti#-27.2167#31.61667#611#2
+Swaziland#Kubuta#-26.8833#31.48333#555#2
+Swaziland#Kwaluseni#-26.4833#31.33333#638#2
+Swaziland#Lavumisa#-27.3167#31.9#167#2
+Swaziland#Lobamba#-26.4667#31.2#651#2
+Swaziland#Malkerns#-26.5667#31.18333#731#2
+Swaziland#Manzini#-26.4833#31.36667#617#2
+Swaziland#Mbabane#-26.3167#31.13333#1156#2
+Swaziland#Mhlambanyatsi#-26.45#31.01667#1266#2
+Swaziland#Mhlume#-26.0333#31.85#273#2
+Swaziland#Nsoko#-27.0333#31.95#185#2
+Swaziland#Piggs Peak#-25.9667#31.25#1058#2
+Swaziland#Sidvokodvo#-26.6167#31.45#341#2
+Swaziland#Siteki#-26.45#31.95#620#2
+Swaziland#Tshaneni#-25.9833#31.71667#304#2

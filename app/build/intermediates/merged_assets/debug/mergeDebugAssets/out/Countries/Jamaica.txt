@@ -1,0 +1,82 @@
+﻿
+Jamaica#Albert Town#18.283333#-77.5500031#611#-5
+Jamaica#Alexandria#18.3#-77.3499985#648#-5
+Jamaica#Alligator Pond#17.866667#-77.5666656#38#-5
+Jamaica#Anchovy#18.4#-77.9333344#275#-5
+Jamaica#Balaclava#18.166667#-77.6500015#305#-5
+Jamaica#Bamboo#18.383333#-77.2666702#642#-5
+Jamaica#Bath#17.95#-76.3499985#56#-5
+Jamaica#Bethel Town#18.3#-77.9499969#305#-5
+Jamaica#Black River#18.016667#-77.8499985#-9999#-5
+Jamaica#Bluefields#18.166667#-78.0333328#77#-5
+Jamaica#Bog Walk#18.102048#-77.0054016#78#-5
+Jamaica#Buff Bay#18.233333#-76.6666641#41#-5
+Jamaica#Bull Savanna#17.883333#-77.5999985#218#-5
+Jamaica#Cambridge#18.316667#-77.9000015#323#-5
+Jamaica#Cascade#18.4#-78.0999985#258#-5
+Jamaica#Chapelton#18.083333#-77.2666702#255#-5
+Jamaica#Coleyville#18.2#-77.5166702#873#-5
+Jamaica#Constant Spring#18.05#-76.8000031#155#-5
+Jamaica#Dalvey#17.916667#-76.2333298#12#-5
+Jamaica#Darliston#18.233333#-77.9666672#383#-5
+Jamaica#Discovery Bay#18.466667#-77.4000015#1#-5
+Jamaica#Duncans#18.466667#-77.5333328#116#-5
+Jamaica#Easington#17.916667#-76.5999985#92#-5
+Jamaica#Ewarton#18.180838#-77.0766449#197#-5
+Jamaica#Falmouth#18.5#-77.6500015#-9999#-5
+Jamaica#Frome#18.3#-78.1500015#26#-5
+Jamaica#Gayle#18.316667#-77.0166702#331#-5
+Jamaica#Golden Grove#17.916667#-76.2666702#31#-5
+Jamaica#Gordon Town#18.033333#-76.7166672#586#-5
+Jamaica#Half Way Tree#18#-76.8000031#54#-5
+Jamaica#Hayes#17.866667#-77.2333298#74#-5
+Jamaica#Hope Bay#18.2#-76.5666656#81#-5
+Jamaica#Islington#18.3#-76.8499985#133#-5
+Jamaica#Kellits#18.15#-77.2333298#406#-5
+Jamaica#Kingston#17.997019#-76.7935791#54#-5
+Jamaica#Lacovia#18.066667#-77.75#52#-5
+Jamaica#Linstead#18.136829#-77.0317154#131#-5
+Jamaica#Lionel Town#17.8#-77.2333298#8#-5
+Jamaica#Lluidas Vale#18.133333#-77.1500015#383#-5
+Jamaica#Lucea#18.45#-78.1666641#1#-5
+Jamaica#Lucky Hill#18.3#-77.0166702#434#-5
+Jamaica#Maggotty#18.15#-77.7666702#314#-5
+Jamaica#Malvern#17.966667#-77.6999969#576#-5
+Jamaica#Manchioneal#18.033333#-76.2833328#1#-5
+Jamaica#Mandeville#18.033333#-77.5#619#-5
+Jamaica#Maroon Town#18.35#-77.8000031#510#-5
+Jamaica#Mavis Bank#18.033333#-76.6666641#887#-5
+Jamaica#May Pen#17.966667#-77.2333298#69#-5
+Jamaica#Mona Heights#18.013753#-76.7518616#179#-5
+Jamaica#Moneague#18.266667#-77.1166687#327#-5
+Jamaica#Montego Bay#18.466667#-77.9166641#53#-5
+Jamaica#Moore Town#18.066667#-76.4333344#211#-5
+Jamaica#Morant Bay#17.883333#-76.4166641#3#-5
+Jamaica#Nain#17.966667#-77.5999985#248#-5
+Jamaica#New Kingston#18.007468#-76.7831879#114#-5
+Jamaica#Ocho Rios#18.402501#-77.1047974#42#-5
+Jamaica#Old Harbour#17.933333#-77.1166687#20#-5
+Jamaica#Old Harbour Bay#17.9#-77.0833359#-9999#-5
+Jamaica#Petersfield#18.266667#-78.0666656#65#-5
+Jamaica#Point Hill#18.083333#-77.0999985#491#-5
+Jamaica#Port Maria#18.366667#-76.9000015#13#-5
+Jamaica#Port Royal#17.933333#-76.8499985#-9999#-5
+Jamaica#Portmore#17.970242#-76.867218#1#-5
+Jamaica#Porus#18.033333#-77.4166641#151#-5
+Jamaica#Race Course#17.833333#-77.2833328#21#-5
+Jamaica#Richmond#18.233333#-76.9000015#176#-5
+Jamaica#Riversdale#18.166667#-76.9666672#184#-5
+Jamaica#Rocky Point#17.766667#-77.25#10#-5
+Jamaica#Runaway Bay#18.466667#-77.3333359#-9999#-5
+Jamaica#Sandy Bay#18.45#-78.0833359#64#-5
+Jamaica#Santa Cruz#18.05#-77.6999969#33#-5
+Jamaica#Seaforth#17.95#-76.4666672#127#-5
+Jamaica#Siloah#18.166667#-77.7166672#131#-5
+Jamaica#Southfield#17.883333#-77.6666641#553#-5
+Jamaica#Spanish Town#17.983333#-76.9499969#24#-5
+Jamaica#Stony Hill#18.075368#-76.7910843#429#-5
+Jamaica#Trinity Ville#17.95#-76.5333328#359#-5
+Jamaica#Ulster Spring#18.316667#-77.5166702#516#-5
+Jamaica#Wakefield#18.416667#-77.7166672#125#-5
+Jamaica#Williamsfield#18.066667#-77.4666672#401#-5
+Jamaica#Yallahs#17.866667#-76.5666656#-9999#-5

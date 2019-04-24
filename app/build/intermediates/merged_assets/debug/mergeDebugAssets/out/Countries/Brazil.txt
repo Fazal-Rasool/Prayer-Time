@@ -1,0 +1,101 @@
+﻿
+Brazil#Ananindeua#-1.36556#-48.3722#12#-3
+Brazil#Anapolis#-16.3267#-48.9528#917#-3
+Brazil#Aracaju#-10.9111#-37.0717#5#-3
+Brazil#Barueri#-23.5106#-46.8761#647#-3
+Brazil#Bauru#-22.3147#-49.0606#534#-3
+Brazil#Belem#-1.45583#-48.5044#1#-3
+Brazil#Belford Roxo#-22.7642#-43.3994#26#-3
+Brazil#Belo Horizonte#-19.9208#-43.9378#877#-3
+Brazil#Betim#-19.9678#-44.1983#800#-3
+Brazil#Blumenau#-26.9194#-49.0661#136#-3
+Brazil#Boa Vista#2.819722#-60.6733#76#-3
+Brazil#Brasilia#-15.7797#-47.9297#1092#-3
+Brazil#Campina Grande#-7.23056#-35.8811#445#-3
+Brazil#Campinas#-22.9056#-47.0608#670#-3
+Brazil#Campo Grande#-20.4428#-54.6464#602#-4
+Brazil#Campos#-21.75#-41.3#1#-3
+Brazil#Canoas#-29.9178#-51.1836#19#-3
+Brazil#Carapicuiba#-23.5225#-46.8356#630#-3
+Brazil#Caruaru#-8.28333#-35.9761#494#-3
+Brazil#Cascavel#-24.9558#-53.4553#647#-3
+Brazil#Caucaia#-3.73611#-38.6531#20#-3
+Brazil#Caxias do Sul#-29.1681#-51.1794#737#-3
+Brazil#Contagem#-19.9317#-44.0536#878#-3
+Brazil#Cuiaba#-15.5961#-56.0967#173#-4
+Brazil#Curitiba#-25.4278#-49.2731#913#-3
+Brazil#Diadema#-23.6861#-46.6228#723#-3
+Brazil#Duque de Caxias#-22.7856#-43.3117#7#-3
+Brazil#Feira de Santana#-12.2667#-38.9667#166#-3
+Brazil#Florianopolis#-27.5967#-48.5492#149#-3
+Brazil#Fortaleza#-3.71722#-38.5431#1#-3
+Brazil#Foz do Iguacu#-25.5478#-54.5881#174#-3
+Brazil#Franca#-20.5386#-47.4008#920#-3
+Brazil#Goiania#-16.6786#-49.2539#790#-3
+Brazil#Governador Valadares#-18.8511#-41.9494#132#-3
+Brazil#Gravatai#-29.9444#-50.9919#75#-3
+Brazil#Guaruja#-23.9931#-46.2564#1#-3
+Brazil#Guarulhos#-23.4628#-46.5333#704#-3
+Brazil#Ipatinga#-19.4683#-42.5367#213#-3
+Brazil#Itaquaquecetuba#-23.4861#-46.3483#674#-3
+Brazil#Jaboatao#-8.18028#-35.0014#62#-3
+Brazil#Jaboatao dos Guararapes#-8.11278#-35.0147#12#-3
+Brazil#Joao Pessoa#-7.115#-34.8631#3#-3
+Brazil#Joinville#-26.3044#-48.8456#167#-3
+Brazil#Juazeiro do Norte#-7.21306#-39.3153#590#-3
+Brazil#Juiz de Fora#-21.7642#-43.3503#678#-3
+Brazil#Jundiai#-23.1864#-46.8842#1006#-3
+Brazil#Limeira#-22.5647#-47.4017#610#-3
+Brazil#Londrina#-23.3103#-51.1628#563#-3
+Brazil#Macapa#0.038889#-51.0664#1#-3
+Brazil#Maceio#-9.66583#-35.7353#1#-3
+Brazil#Manaus#-3.10194#-60.025#37#-4
+Brazil#Maringa#-23.4253#-51.9386#444#-3
+Brazil#Maua#-23.6678#-46.4614#763#-3
+Brazil#Moji das Cruzes#-23.5228#-46.1883#710#-3
+Brazil#Montes Claros#-16.735#-43.8617#750#-3
+Brazil#Natal#-5.795#-35.2094#2#-3
+Brazil#Niteroi#-22.8833#-43.1036#8#-3
+Brazil#Nova Iguacu#-22.7592#-43.4511#154#-3
+Brazil#Novo Hamburgo#-29.6783#-51.1306#97#-3
+Brazil#Olinda#-8.00889#-34.8553#2#-3
+Brazil#Osasco#-23.5325#-46.7917#633#-3
+Brazil#Paulista#-7.94083#-34.8731#23#-3
+Brazil#Pelotas#-31.7719#-52.3425#7#-3
+Brazil#Petropolis#-22.505#-43.1786#883#-3
+Brazil#Piracicaba#-22.7253#-47.6492#532#-3
+Brazil#Ponta Grossa#-25.095#-50.1619#913#-3
+Brazil#Porto Alegre#-30.0331#-51.23#1#-3
+Brazil#Porto Velho#-8.76194#-63.9039#86#-4
+Brazil#Praia Grande#-24.0058#-46.4028#8#-3
+Brazil#Recife#-8.05389#-34.8811#1#-3
+Brazil#Ribeirao das Neves#-19.7669#-44.0867#905#-3
+Brazil#Ribeirao Preto#-21.1775#-47.8103#593#-3
+Brazil#Rio Branco#-9.97472#-67.81#157#-3
+Brazil#Rio de Janeiro#-22.9028#-43.2075#19#-3
+Brazil#Salvador#-12.9711#-38.5108#1#-3
+Brazil#Santa Luzia#-19.7697#-43.8514#807#-3
+Brazil#Santa Maria#-29.6842#-53.8069#136#-3
+Brazil#Santo Andre#-23.6639#-46.5383#765#-3
+Brazil#Santos#-23.9608#-46.3336#2#-3
+Brazil#Sao Bernardo do Campo#-23.6939#-46.565#760#-3
+Brazil#Sao Joao de Meriti#-22.8039#-43.3722#27#-3
+Brazil#Sao Jose do Rio Preto#-20.8197#-49.3794#457#-3
+Brazil#Sao Jose dos Campos#-23.1794#-45.8869#572#-3
+Brazil#Sao Luis#-2.52972#-44.3028#1#-3
+Brazil#Sao Paulo#-23.5475#-46.6361#631#-3
+Brazil#Sao Vicente#-23.9631#-46.3919#1#-3
+Brazil#Serra#-20.1286#-40.3078#70#-3
+Brazil#Sorocaba#-23.5017#-47.4581#601#-3
+Brazil#Sumare#-22.8219#-47.2669#610#-3
+Brazil#Suzano#-23.5425#-46.3108#704#-3
+Brazil#Taubate#-23.0264#-45.5553#578#-3
+Brazil#Teresina#-5.08917#-42.8019#58#-3
+Brazil#Uberaba#-19.7483#-47.9319#750#-3
+Brazil#Uberlandia#-18.9186#-48.2772#690#-3
+Brazil#Varzea Grande#-15.6467#-56.1325#142#-3
+Brazil#Viamao#-30.0811#-51.0233#51#-3
+Brazil#Vila Velha#-20.3297#-40.2925#1#-3
+Brazil#Vitoria#-20.3194#-40.3378#12#-3
+Brazil#Vitoria da Conquista#-14.8661#-40.8394#947#-3
+Brazil#Volta Redonda#-22.5231#-44.1042#279#-3

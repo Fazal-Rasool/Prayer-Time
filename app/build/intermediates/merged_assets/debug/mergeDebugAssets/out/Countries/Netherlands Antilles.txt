@@ -1,0 +1,77 @@
+﻿
+Netherlands Antilles#Aruba#12.15#-68.25#0#-4
+Netherlands Antilles#Awa Blanco#12.0333#-68.7833#0#-4
+Netherlands Antilles#Bonaire#12.2#-68.25#0#-4
+Netherlands Antilles#Cupe Coy#18.05#-63.1333#0#-4
+Netherlands Antilles#Curacao#12.1667#-69#0#-4
+Netherlands Antilles#Daaibooibaai#12.2#-69.0833#0#-4
+Netherlands Antilles#Dorp Lagun#12.3167#-69.1667#0#-4
+Netherlands Antilles#Dorp Rincon#12.2333#-68.3333#0#-4
+Netherlands Antilles#Dorp Soto#12.2667#-69.1#0#-4
+Netherlands Antilles#Dorp Tera Cora#12.1333#-68.2667#0#-4
+Netherlands Antilles#Eiland Penso#12.0772#-68.8567#0#-4
+Netherlands Antilles#Emmastad#12.1333#-68.9167#0#-4
+Netherlands Antilles#Fence Quarter#17.6#-63.2333#0#-4
+Netherlands Antilles#Flaminco Pond#18.0333#-63.1#0#-4
+Netherlands Antilles#Fort de Windt#17.45#-62.95#0#-4
+Netherlands Antilles#Fortuna Abou#12.1667#-68.9167#0#-4
+Netherlands Antilles#Fuik#12.0667#-68.8#0#-4
+Netherlands Antilles#Habai#12.1264#-68.9483#0#-4
+Netherlands Antilles#Hato Baai#12.25#-69#0#-4
+Netherlands Antilles#Heintje Kool#12.1333#-68.9333#0#-4
+Netherlands Antilles#Hermanus#12.2#-69.0333#0#-4
+Netherlands Antilles#Hobao#12.2833#-68.3833#0#-4
+Netherlands Antilles#Hofi Abou#12.3#12.3#0#-4
+Netherlands Antilles#Hogsty#17.4667#-62.9667#0#-4
+Netherlands Antilles#Hoop#12.1167#-68.2833#0#-4
+Netherlands Antilles#Huur#12.2167#-68.3667#0#-4
+Netherlands Antilles#Industrie#18.0333#-63.0667#0#-4
+Netherlands Antilles#Industry#17.4833#-62.95#0#-4
+Netherlands Antilles#Isla Makuaku#12.1167#-68.8#0#-4
+Netherlands Antilles#Jan Doran#12.2167#-68.35#0#-4
+Netherlands Antilles#Jan Kok#12.2167#-69.0333#0#-4
+Netherlands Antilles#Jan Thielbaai#12.0667#-68.8667#0#-4
+Netherlands Antilles#Jan Zoutvat#12.0917#-68.85#0#-4
+Netherlands Antilles#Jarabi Mangel#12.2833#-68.3667#0#-4
+Netherlands Antilles#Kralendijk#12.15#-68.2667#0#-4
+Netherlands Antilles#Maho Bay#18.0333#-63.1167#0#-4
+Netherlands Antilles#Negro Path#17.5#-63#0#-4
+Netherlands Antilles#Nieuwpoort#12.05#-68.8167#0#-4
+Netherlands Antilles#Noordkant#12.1667#-68.9#0#-4
+Netherlands Antilles#Oranjeberg#12.0833#-68.7833#0#-4
+Netherlands Antilles#Oranjestad#17.4667#-62.9833#0#-4
+Netherlands Antilles#Philipsburg#18.0167#-63.0333#0#-4
+Netherlands Antilles#Saba#17.6333#-63.2333#0#-4
+Netherlands Antilles#Saba Island#17.6333#-63.2167#0#-4
+Netherlands Antilles#Tent Point#17.6167#-63.25#0#-4
+Netherlands Antilles#Thais Hill#17.6167#-63.2333#0#-4
+Netherlands Antilles#Torrens Point#17.65#-63.25#0#-4
+Netherlands Antilles#Tra i Montana#12.2#-68.2667#0#-4
+Netherlands Antilles#Venus#17.5#-62.9833#0#-4
+Netherlands Antilles#Vlakke Hoek#17.65#-63.2167#0#-4
+Netherlands Antilles#Vlijt#12.1667#-68.2667#0#-4
+Netherlands Antilles#Wacao#12.3167#-69.05#0#-4
+Netherlands Antilles#Wamari#12.1667#-68.2167#0#-4
+Netherlands Antilles#Wanapa#12.1167#-68.2333#0#-4
+Netherlands Antilles#Wanico#12.2#-68.2833#0#-4
+Netherlands Antilles#Watamula#12.3833#-69.15#0#-4
+Netherlands Antilles#Waterloo#12.15#-68.9#0#-4
+Netherlands Antilles#Wecua Punt#12.2167#-68.4#0#-4
+Netherlands Antilles#Weis Afo#12.15#-68.9333#0#-4
+Netherlands Antilles#Weitje#12.0167#-68.9833#0#-4
+Netherlands Antilles#Wekoewa#12.2333#-68.4#0#-4
+Netherlands Antilles#Welbedacht#12.1333#-68.8333#0#-4
+Netherlands Antilles#Welgelegen#12.12#-68.9467#0#-4
+Netherlands Antilles#Well s Baai#17.6333#-63.25#0#-4
+Netherlands Antilles#Westpunt#12.3833#-69.1667#0#-4
+Netherlands Antilles#Westpuntbaai#12.3667#-69.1667#0#-4
+Netherlands Antilles#Wiba Hole#17.6167#-63.2167#0#-4
+Netherlands Antilles#Willebrordus#12.2167#-69.05#0#-4
+Netherlands Antilles#Willemstad#12.1#-68.9167#0#-4
+Netherlands Antilles#Witte Kaap#18#-63.0333#0#-4
+Netherlands Antilles#Witte Wal#17.4667#-62.95#0#-4
+Netherlands Antilles#Zaquito#12.1167#-68.95#0#-4
+Netherlands Antilles#Zevenbergen#12.3167#-69.1167#0#-4
+Netherlands Antilles#Zorg en Rust#18.05#-63.05#0#-4
+Netherlands Antilles#Zorgvliet#12.35#-69.1167#0#-4
+Netherlands Antilles#Zwarteberg#12.1167#-68.9667#0#-4

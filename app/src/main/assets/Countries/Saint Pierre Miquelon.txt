@@ -1,0 +1,88 @@
+﻿
+Saint Pierre Miquelon#Accore Anglaise#47.0833#-56.1569#0#-3
+Saint Pierre Miquelon#Anse a Capelan#46.85#-56.3889#0#-3
+Saint Pierre Miquelon#Anse a Dinand#46.8006#-56.2033#0#-3
+Saint Pierre Miquelon#Anse a Ross#46.8742#-56.2483#0#-3
+Saint Pierre Miquelon#Anse a Yvon#46.8967#-56.3047#0#-3
+Saint Pierre Miquelon#Anse Cherie#46.8325#-56.4081#0#-3
+Saint Pierre Miquelon#Basse Bataille#46.7742#-56.1431#0#-3
+Saint Pierre Miquelon#Basse Gelin#46.7661#-56.1342#0#-3
+Saint Pierre Miquelon#Bature#47.0564#-56.2306#0#-3
+Saint Pierre Miquelon#Belle Riviere#46.8944#-56.3028#0#-3
+Saint Pierre Miquelon#Bonnier#46.7533#-56.1908#0#-3
+Saint Pierre Miquelon#Butte Abondance#47.0489#-56.3703#0#-3
+Saint Pierre Miquelon#Cap a Baudry#46.7897#-56.1428#0#-3
+Saint Pierre Miquelon#Cap a Brossard#46.7661#-56.2372#0#-3
+Saint Pierre Miquelon#Cap a Ross#46.8681#-56.2428#0#-3
+Saint Pierre Miquelon#Cap au Diable#46.8061#-56.1989#0#-3
+Saint Pierre Miquelon#Cap Sauveur#46.8547#-56.3836#0#-3
+Saint Pierre Miquelon#Cuquemel#46.8536#-56.3572#0#-3
+Saint Pierre Miquelon#Etang Bizeuil#46.7694#-56.2289#0#-3
+Saint Pierre Miquelon#Etang Bonnier#46.7572#-56.1906#0#-3
+Saint Pierre Miquelon#Etang du Lac#47.1208#-56.3736#0#-3
+Saint Pierre Miquelon#Etang du Suet#47.0578#-56.3489#0#-3
+Saint Pierre Miquelon#Etang Durieux#46.8319#-56.2811#0#-3
+Saint Pierre Miquelon#Etang Frecker#46.7953#-56.1639#0#-3
+Saint Pierre Miquelon#Etang Goeland#46.8819#-56.3364#0#-3
+Saint Pierre Miquelon#Etang Jourdan#46.7628#-56.1881#0#-3
+Saint Pierre Miquelon#Etang Lingard#46.8319#-56.3094#0#-3
+Saint Pierre Miquelon#Etang Long#46.8278#-56.3208#0#-3
+Saint Pierre Miquelon#Etang Rond#47.0947#-56.3492#0#-3
+Saint Pierre Miquelon#Etang Thelot#46.79#-56.1722#0#-3
+Saint Pierre Miquelon#Etang Ynachi#46.8911#-56.3356#0#-3
+Saint Pierre Miquelon#Gros Nez#46.7861#-56.1417#0#-3
+Saint Pierre Miquelon#Ile Miquelon#47.0458#-56.3297#0#-3
+Saint Pierre Miquelon#Ilot Noir#46.7922#-56.1206#0#-3
+Saint Pierre Miquelon#La Baie#46.8106#-56.2414#0#-3
+Saint Pierre Miquelon#La Beugresse#46.7544#-56.1942#0#-3
+Saint Pierre Miquelon#La Carcasse#46.8642#-56.3564#0#-3
+Saint Pierre Miquelon#La Colline#46.8797#-56.3414#0#-3
+Saint Pierre Miquelon#La Coupee#46.8222#-56.4025#0#-3
+Saint Pierre Miquelon#La Dune#46.9194#-56.3292#0#-3
+Saint Pierre Miquelon#La Langue#46.7581#-56.175#0#-3
+Saint Pierre Miquelon#La Perruquere#46.7633#-56.2303#0#-3
+Saint Pierre Miquelon#La Plaine#47.0958#-56.3875#0#-3
+Saint Pierre Miquelon#La Pointe#46.7725#-56.1608#0#-3
+Saint Pierre Miquelon#La Presqu ile#46.9969#-56.32#0#-3
+Saint Pierre Miquelon#La Rade#46.7872#-56.1603#0#-3
+Saint Pierre Miquelon#La Scierie#46.8681#-56.3464#0#-3
+Saint Pierre Miquelon#La Verrue#46.7708#-56.2283#0#-3
+Saint Pierre Miquelon#Langlade#46.8428#-56.315#0#-3
+Saint Pierre Miquelon#Le Barachois#46.7742#-56.1761#0#-3
+Saint Pierre Miquelon#Le Bosworth#46.7664#-56.1567#0#-3
+Saint Pierre Miquelon#Le Boyau#47.1097#-56.4039#0#-3
+Saint Pierre Miquelon#Le Calvaire#47.1067#-56.395#0#-3
+Saint Pierre Miquelon#Le Canal Noir#46.8022#-56.3669#0#-3
+Saint Pierre Miquelon#Le Carenage#46.8219#-56.1617#0#-3
+Saint Pierre Miquelon#Le Chapeau#47.0836#-56.3417#0#-3
+Saint Pierre Miquelon#Le Coeur#46.8039#-56.3147#0#-3
+Saint Pierre Miquelon#Le Diamant#46.7472#-56.2244#0#-3
+Saint Pierre Miquelon#Le Dome#46.8083#-56.3467#0#-3
+Saint Pierre Miquelon#Le Fletan#46.785#-56.1553#0#-3
+Saint Pierre Miquelon#Le Fort#46.7881#-56.1508#0#-3
+Saint Pierre Miquelon#Le Goelette#46.8919#-56.3375#0#-3
+Saint Pierre Miquelon#Le Grand Bec#47.1292#-56.3858#0#-3
+Saint Pierre Miquelon#Le Lion#46.8083#-56.3053#0#-3
+Saint Pierre Miquelon#Le Marais#46.8319#-56.2714#0#-3
+Saint Pierre Miquelon#Le Mulou#46.78#-56.1603#0#-3
+Saint Pierre Miquelon#Le Petit Bec#47.1303#-56.3806#0#-3
+Saint Pierre Miquelon#Le Rond-Point#46.7722#-56.195#0#-3
+Saint Pierre Miquelon#Le Trepied#46.7986#-56.185#0#-3
+Saint Pierre Miquelon#Les Ardoises#46.795#-56.3528#0#-3
+Saint Pierre Miquelon#Les Canailles#46.7967#-56.1328#0#-3
+Saint Pierre Miquelon#Les Escaliers#46.8003#-56.3511#0#-3
+Saint Pierre Miquelon#Les Flacous#46.7581#-56.165#0#-3
+Saint Pierre Miquelon#Les Graves#46.8683#-56.3081#0#-3
+Saint Pierre Miquelon#Marais Giraud#46.9889#-56.2883#0#-3
+Saint Pierre Miquelon#Marais Mouton#46.815#-56.3122#0#-3
+Saint Pierre Miquelon#Nouveau Port#46.7808#-56.1681#0#-3
+Saint Pierre Miquelon#Pointe a Bigue#46.8517#-56.2411#0#-3
+Saint Pierre Miquelon#Pointe Quine#46.9953#-56.3269#0#-3
+Saint Pierre Miquelon#Quai Alysse#46.7758#-56.1769#0#-3
+Saint Pierre Miquelon#Quai de Peche#46.7833#-56.1697#0#-3
+Saint Pierre Miquelon#Quai Mimosa#46.7764#-56.175#0#-3
+Saint Pierre Miquelon#Roche a Biche#47.0947#-56.3597#0#-3
+Saint Pierre Miquelon#Rocher Hache#46.7939#-56.1289#0#-3
+Saint Pierre Miquelon#Saint-Pierre#46.7667#-56.1833#0#-3
+Saint Pierre Miquelon#Troot Pool#46.7517#-56.2206#0#-3
+Saint Pierre Miquelon#Trou a Loches#47.1333#-56.3464#0#-3

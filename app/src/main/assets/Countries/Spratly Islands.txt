@@ -1,0 +1,55 @@
+﻿
+Spratly Islands#Banc Carnatic#10.1#117.35#0#8
+Spratly Islands#Banc Lord Auckland#10.3333#117.2833#0#8
+Spratly Islands#Banc Lys#11.3167#114.5833#0#8
+Spratly Islands#Banc North Viper#8.0167#115.3667#0#8
+Spratly Islands#Banc Reed#11.45#116.9#0#8
+Spratly Islands#Banc Stag#8.4#112.95#0#8
+Spratly Islands#Bittern Reef#9.2333#113.6667#0#8
+Spratly Islands#Bombay Shoal#9.4333#116.9167#0#8
+Spratly Islands#Boxall Reef#9.6#116.1833#0#8
+Spratly Islands#Brisants Ardassier#7.9333#114.05#0#8
+Spratly Islands#Brisants Gloucester#7.8667#114.25#0#8
+Spratly Islands#Dao Ben Lac#11.1#115#0#8
+Spratly Islands#Dao Loai Ta#10.6833#114.4167#0#8
+Spratly Islands#Dao Song Tu Tay#11.4333#114.3333#0#8
+Spratly Islands#Dao Thi Tu#11.05#114.2833#0#8
+Spratly Islands#Dhaulle Shoal#9.5333#112.4#0#8
+Spratly Islands#Dido Bank#16.8167#112.8833#0#8
+Spratly Islands#Fei-hsin Tao#10.8333#115.8333#0#8
+Spratly Islands#Fu-po Chiao#9.3833#114.1833#0#8
+Spratly Islands#Fulushi Jiao#10.25#113.6167#0#8
+Spratly Islands#Ilot Nam Yit#10.1833#114.3667#0#8
+Spratly Islands#Iroquois Reef#10.65#116.1667#0#8
+Spratly Islands#Irving Reef#10.8833#114.9333#0#8
+Spratly Islands#Jackson Atoll#10.5#115.75#0#8
+Spratly Islands#Johnson Reef#9.6667#114.45#0#8
+Spratly Islands#Kalayaan Islands#10#114#0#8
+Spratly Islands#Louisa Reef#6.3333#113.2333#0#8
+Spratly Islands#Nan-hsun-chiao#10.2#114.2167#0#8
+Spratly Islands#Nan-lo An-sha#8.4667#115.5#0#8
+Spratly Islands#Nan-tzu Chiao#11.4#114.2833#0#8
+Spratly Islands#Nan-yueh T ao#10.7667#114.45#0#8
+Spratly Islands#Nansha#10.3833#114.35#0#8
+Spratly Islands#Nanshan Island#10.75#115.8167#0#8
+Spratly Islands#Nares Bank#11.4167#116.1167#0#8
+Spratly Islands#Northeast Cay#11.4667#114.35#0#8
+Spratly Islands#Northeast Shea#8.5167#115.25#0#8
+Spratly Islands#Sand Cay#9.4#115.45#0#8
+Spratly Islands#Seahorse Shoal#10.8#117.8#0#8
+Spratly Islands#Shen-hsien Chiao#11.0667#117.4667#0#8
+Spratly Islands#Shuang-tzu Chiao#11.4667#114.3333#0#8
+Spratly Islands#Sin Cowe Island#9.8833#114.3167#0#8
+Spratly Islands#Soubie Reef#10.9167#114.1667#0#8
+Spratly Islands#Southampton Reefs#10.2#115.3167#0#8
+Spratly Islands#Southern Reefs#10.4167#116.5333#0#8
+Spratly Islands#Spratley#8.6333#111.9167#0#8
+Spratly Islands#Stigant Reef#5#112.5#0#8
+Spratly Islands#Sud-Ouest Shea#7.9833#114.8667#0#8
+Spratly Islands#Viper Shoal#7.8333#115#0#8
+Spratly Islands#West Sand#16.9667#112.2#0#8
+Spratly Islands#Whitsun Reef#10#114.5833#0#8
+Spratly Islands#Yang-hsin An-sha#10.7167#114.5167#0#8
+Spratly Islands#Yang-ming Chiao#10.8#116.85#0#8
+Spratly Islands#Yung-shu Chiao#9.6333#112.95#0#8
+Spratly Islands#Yung-teng An-sha#11.5167#114.6333#0#8

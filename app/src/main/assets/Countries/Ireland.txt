@@ -1,0 +1,101 @@
+﻿
+Ireland#An Cabhan#53.990833#-7.3605556#101#0
+Ireland#An Caislean Nua#52.449167#-9.0611115#67#0
+Ireland#An Inse#53.681944#-6.2391667#-9999#0
+Ireland#An Longfort#53.733333#-7.8000002#72#0
+Ireland#An Muileann gCearr#53.533333#-7.3499999#112#0
+Ireland#An Nas#53.215833#-6.6669445#108#0
+Ireland#An Pasaiste#51.873889#-8.3444443#19#0
+Ireland#An Ros#53.522299#-6.0930777#1#0
+Ireland#An tAonach#52.861944#-8.1966667#71#0
+Ireland#An Uaimh#53.652778#-6.6813889#42#0
+Ireland#Arklow#52.793056#-6.1413889#-9999#0
+Ireland#Baile Atha Fhirdhia#53.859722#-6.5405555#31#0
+Ireland#Baile Atha I#52.991389#-6.980278#63#0
+Ireland#Baile Atha Luain#53.433333#-7.9499998#57#0
+Ireland#Baile Locha Riach#53.196944#-8.5669441#97#0
+Ireland#Baile Mhisteala#52.265833#-8.2680559#135#0
+Ireland#Balbriggan#53.612778#-6.1819444#-9999#0
+Ireland#Beal An Atha#54.116667#-9.166667#9#0
+Ireland#Beal Atha na Sluaighe#53.3275#-8.2194443#65#0
+Ireland#Bealach Feich#54.8#-7.7833333#54#0
+Ireland#Beanntrai#51.683333#-9.4499998#112#0
+Ireland#Birr#53.091389#-7.9133334#69#0
+Ireland#Bray#53.202778#-6.0983334#-9999#0
+Ireland#Bun Cranncha#55.133333#-7.4499998#63#0
+Ireland#Caher#52.376944#-7.9216666#62#0
+Ireland#Carraig Mhachaire Rois#53.972778#-6.7188888#79#0
+Ireland#Carraig Ui Leighin#51.811667#-8.3986111#17#0
+Ireland#Carrick-on-Suir#52.349167#-7.4130554#15#0
+Ireland#Castlebar#53.85#-9.3000002#49#0
+Ireland#Cathair na Mart#53.8#-9.5166664#108#0
+Ireland#Ceanannas#53.726389#-6.8791666#76#0
+Ireland#Ceatharlach#52.840833#-6.9261112#47#0
+Ireland#Cherryville#53.156944#-6.9666667#105#0
+Ireland#Cill Airne#52.05#-9.5166664#60#0
+Ireland#Cill Chainnigh#52.654167#-7.2522221#61#0
+Ireland#Cill Choca#53.402222#-6.6708331#78#0
+Ireland#Cill Dheaglain#53.510833#-6.4272223#72#0
+Ireland#Cill Droichid#53.338611#-6.543611#54#0
+Ireland#Cill Mhantain#52.975#-6.0494442#69#0
+Ireland#Cionn tSaile#51.7075#-8.5305557#1#0
+Ireland#Claonadh#53.291389#-6.6891665#83#0
+Ireland#Clonakilty#51.623056#-8.8705559#10#0
+Ireland#Clonmel#52.355#-7.7038889#36#0
+Ireland#Cobh#51.857222#-8.2991667#47#0
+Ireland#Cork#51.898611#-8.4958334#57#0
+Ireland#Donabate#53.487222#-6.1519446#1#0
+Ireland#Drogheda#53.718889#-6.3477778#1#0
+Ireland#Droichead na Bandon#51.746944#-8.7425003#70#0
+Ireland#Droichead Nua#53.181944#-6.7966666#108#0
+Ireland#Dublin#53.333056#-6.248889#9#0
+Ireland#Dun Dealgan#54#-6.4166665#3#0
+Ireland#Dun Laoghaire#53.293952#-6.1358643#1#0
+Ireland#Dunboyne#53.4#-6.4666667#76#0
+Ireland#Dungarvan#52.088056#-7.625278#1#0
+Ireland#Dunlewy#55.016667#-8.1000004#235#0
+Ireland#Dunshaughlin#53.5125#-6.54#86#0
+Ireland#Durlas#52.681944#-7.8022223#98#0
+Ireland#Edenderry#53.345278#-7.0497222#99#0
+Ireland#Eochaill#51.95#-7.8505554#1#0
+Ireland#Galway#53.271944#-9.0488892#-9999#0
+Ireland#Gaoth Dobhair#55.050278#-8.2319441#126#0
+Ireland#Gorey#52.674722#-6.2925#52#0
+Ireland#Greystones#53.140833#-6.0630555#1#0
+Ireland#Inis#52.843611#-8.9863892#18#0
+Ireland#Inis Corthaidh#52.500833#-6.5577779#57#0
+Ireland#Leixlip#53.365833#-6.4955554#48#0
+Ireland#Letterkenny#54.95#-7.7333331#53#0
+Ireland#Limerick#52.664722#-8.6230555#24#0
+Ireland#Lios Tuathail#52.446389#-9.4849997#69#0
+Ireland#Loch Garman#52.334167#-6.4575#-9999#0
+Ireland#Macroom#51.9#-8.9499998#88#0
+Ireland#Mainister na Corann#51.909444#-8.1736107#44#0
+Ireland#Mainistir Fhear Mai#52.135833#-8.2758331#35#0
+Ireland#Malahide#53.450833#-6.1544442#-9999#0
+Ireland#Mallow#52.133333#-8.6333332#74#0
+Ireland#Maynooth#53.385#-6.5936112#71#0
+Ireland#Mountmellick#53.113611#-7.3200002#109#0
+Ireland#Muineachan#54.25#-6.9666667#72#0
+Ireland#Na Sceiri#53.582778#-6.1083331#-9999#0
+Ireland#Na Sollain#53.248889#-6.666111#97#0
+Ireland#Nenagh Bridge#52.881667#-8.1958332#69#0
+Ireland#Newtown Trim#53.556111#-6.77#60#0
+Ireland#Port Lairge#52.258333#-7.1119442#8#0
+Ireland#Port Laoise#53.034414#-7.2997928#139#0
+Ireland#Portarlington#53.162222#-7.1911111#83#0
+Ireland#Portmarnock#53.423056#-6.1374998#1#0
+Ireland#Rath To#53.508056#-6.4625001#78#0
+Ireland#Ros Comain#53.633333#-8.1833334#73#0
+Ireland#Ros Mhic Thriuin#52.396667#-6.9366665#64#0
+Ireland#Roscrea#52.951111#-7.8016667#102#0
+Ireland#Sionainn#52.703889#-8.8641663#1#0
+Ireland#Sligeach#54.269692#-8.469429#5#0
+Ireland#Sord#53.459722#-6.2180557#6#0
+Ireland#Tallaght#53.285897#-6.3734436#87#0
+Ireland#Tiobraid Arann#52.473333#-8.1558332#166#0
+Ireland#Tower#51.916667#-8.6000004#70#0
+Ireland#Tra Li#52.266667#-9.7166672#37#0
+Ireland#Tra Mhor#52.16235#-7.1524429#2#0
+Ireland#Tuaim#53.516667#-8.8500004#48#0
+Ireland#Tullamore#53.273889#-7.4888887#73#0

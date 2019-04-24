@@ -1,0 +1,101 @@
+﻿
+Tunisia#Akouda#35.87083#10.56833#13#1
+Tunisia#Al `Aliyah#37.16667#10.03333#54#1
+Tunisia#Al Baqalitah#35.61667#11#13#1
+Tunisia#Al Hammamat#36.4#10.61667#-9999#1
+Tunisia#Al Karib#36.33333#9.133333#507#1
+Tunisia#Al Marsa#36.87818#10.32466#8#1
+Tunisia#Al Metlaoui#34.33333#8.4#231#1
+Tunisia#Al Qarmadah#34.75#10.78333#-9999#1
+Tunisia#Al Wardanin#35.71667#10.66667#54#1
+Tunisia#Ar Riqab#34.86667#9.783333#201#1
+Tunisia#Ar Rudayyif#34.38333#8.15#575#1
+Tunisia#As Sanad#34.46667#9.266666#642#1
+Tunisia#As Sars#36.08333#9.016666#487#1
+Tunisia#As Sayyadah#35.66667#10.9#1#1
+Tunisia#Banbalah#35.7#10.8#30#1
+Tunisia#Bani Hassan#35.56667#10.81667#58#1
+Tunisia#Bani Khallad#36.65#10.6#70#1
+Tunisia#Beja#36.73333#9.183333#222#1
+Tunisia#Beni Khiar#36.46917#10.78222#33#1
+Tunisia#Bin Qirdan#33.13333#11.21667#9#1
+Tunisia#Bizerte#37.27444#9.873889#33#1
+Tunisia#Bu `Aradah#36.35#9.616667#273#1
+Tunisia#Bu `Urqub#36.53333#10.55#77#1
+Tunisia#Chebba#35.23722#11.115#14#1
+Tunisia#Dar Chabanne#36.46944#10.75111#19#1
+Tunisia#Dawwar Tinjah#37.16667#9.75#66#1
+Tunisia#Degache#33.98583#8.220278#74#1
+Tunisia#Douane#36.44472#10.75083#1#1
+Tunisia#Douz#33.4575#9.021667#64#1
+Tunisia#El Fahs#36.36694#9.905#170#1
+Tunisia#El Golaa#33.48333#9.003612#51#1
+Tunisia#El Hamma#33.9#9.8#59#1
+Tunisia#El Jem#35.3#10.71667#107#1
+Tunisia#El Kef#36.18222#8.714723#684#1
+Tunisia#El Maamoura#36.46722#10.80583#20#1
+Tunisia#Gabes#33.88333#10.11667#1#1
+Tunisia#Gafsa#34.425#8.784166#298#1
+Tunisia#Haffouz#35.635#9.676945#278#1
+Tunisia#Hammam Sousse#35.85889#10.59389#5#1
+Tunisia#Hammam-Lif#36.73306#10.33611#1#1
+Tunisia#Harqalah#36.03333#10.5#1#1
+Tunisia#Houmt Souk#33.87472#10.85917#7#1
+Tunisia#Jabinyanah#35.03333#10.91667#31#1
+Tunisia#Jammal#35.63333#10.76667#24#1
+Tunisia#Jemna#33.57778#9.014722#37#1
+Tunisia#Jendouba#36.50111#8.779445#141#1
+Tunisia#Kairouan#35.67444#10.10167#67#1
+Tunisia#Kasserine#35.16722#8.828889#657#1
+Tunisia#Kebili#33.70194#8.973611#49#1
+Tunisia#Korba#36.57861#10.85861#1#1
+Tunisia#Ksour Essaf#35.42028#10.99806#1#1
+Tunisia#La Goulette#36.81806#10.305#1#1
+Tunisia#La Mohammedia#36.67694#10.15556#79#1
+Tunisia#La Sebala du Mornag#36.68167#10.28889#26#1
+Tunisia#Majaz al Bab#36.65#9.616667#42#1
+Tunisia#Maktar#35.86056#9.205833#908#1
+Tunisia#Manouba#36.80778#10.10111#32#1
+Tunisia#Manzil Bu Zalafah#36.68333#10.58333#43#1
+Tunisia#Manzil Kamil#35.63333#10.66667#48#1
+Tunisia#Masakin#35.73333#10.58333#44#1
+Tunisia#Mateur#37.04#9.666389#51#1
+Tunisia#Mellouleche#35.16667#11.03639#6#1
+Tunisia#Menzel Abderhaman#37.23361#9.863334#47#1
+Tunisia#Menzel Bourguiba#37.15583#9.793612#32#1
+Tunisia#Menzel Jemil#37.23583#9.9175#50#1
+Tunisia#Midoun#33.80833#10.99389#18#1
+Tunisia#Monastir#35.78333#10.83333#1#1
+Tunisia#Nefta#33.87417#7.879722#43#1
+Tunisia#Oued Lill#36.83417#10.04222#65#1
+Tunisia#Qa`fur#36.33333#9.316667#286#1
+Tunisia#Qasr Hallal#35.65#10.9#21#1
+Tunisia#Qusaybat al Madyuni#35.68333#10.85#6#1
+Tunisia#Rades#36.76806#10.27528#4#1
+Tunisia#Rafraf#37.18333#10.18333#246#1
+Tunisia#Sahline#35.75333#10.71167#15#1
+Tunisia#Sakiet Sidi Youssef#36.22472#8.356112#822#1
+Tunisia#Saqanis#35.78333#10.8#26#1
+Tunisia#Sbiba#35.54556#9.080277#643#1
+Tunisia#Sbikha#35.93389#10.02083#83#1
+Tunisia#Sfax#34.74056#10.76028#13#1
+Tunisia#Shurban#35.28333#10.38333#98#1
+Tunisia#Sidi `Ulwan#35.38333#10.93333#52#1
+Tunisia#Sidi Bou Ali#35.95667#10.47306#8#1
+Tunisia#Sidi Bouzid#35.04028#9.493611#313#1
+Tunisia#Siliana#36.08333#9.366667#420#1
+Tunisia#Skhira#34.28333#10.1#-9999#1
+Tunisia#Sousse#35.82556#10.64111#25#1
+Tunisia#Tabarka#36.95444#8.758056#79#1
+Tunisia#Tabursuq#36.46667#9.25#350#1
+Tunisia#Tajerouine#35.89139#8.555555#688#1
+Tunisia#Taklisah#36.78333#10.63333#103#1
+Tunisia#Tastur#36.55#9.45#74#1
+Tunisia#Tataouine#32.93333#10.45#247#1
+Tunisia#Thala#35.57444#8.672222#969#1
+Tunisia#Tozeur#33.92056#8.133333#42#1
+Tunisia#Tunis#36.80278#10.17972#13#1
+Tunisia#Zaghouan#36.4#10.15#198#1
+Tunisia#Zarzis#33.5#11.11667#4#1
+Tunisia#Zawiyat al Jadidi#36.65#10.58333#44#1
+Tunisia#Zouila#35.50056#11.06056#13#1

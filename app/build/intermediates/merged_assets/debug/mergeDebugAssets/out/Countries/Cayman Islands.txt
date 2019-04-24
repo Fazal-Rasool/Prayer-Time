@@ -1,0 +1,13 @@
+﻿
+Cayman Islands#Ally Land#19.3333#-81.1167#0#-5
+Cayman Islands#Bamboo Bay#19.7167#-79.8#0#-5
+Cayman Islands#Cayman Islands#19.5#-80.6667#0#-5
+Cayman Islands#Duck Pond Bight#19.3#-81.3#0#-5
+Cayman Islands#George Town#19.3#-81.3833#0#-5
+Cayman Islands#Juniper Bay#19.7#-79.8#0#-5
+Cayman Islands#Little Cayman#19.65#-80.25#0#-5
+Cayman Islands#Old Crawl#19.3333#-81.2#0#-5
+Cayman Islands#Seven Mile Beach#19.35#-81.3833#0#-5
+Cayman Islands#The Narrows#19.6833#-79.9667#0#-5
+Cayman Islands#Vidal Cay#19.3833#-81.35#0#-5
+Cayman Islands#West Bay#19.35#-81.4#0#-5

@@ -1,0 +1,10 @@
+﻿
+Nauru#Anebare Bay#-0.5333#166.95#0#12
+Nauru#Anna#-0.5#166.9333#0#12
+Nauru#Baiti District#-0.5167#166.9333#0#12
+Nauru#Boe District#-0.55#166.9167#0#12
+Nauru#Hansenide Colony#-0.55#166.95#0#12
+Nauru#Ijuh#-0.5167#166.95#0#12
+Nauru#Meneng District#-0.55#166.9333#0#12
+Nauru#Nauru#-0.5333#166.9333#0#12
+Nauru#Uaboe#-0.5167#166.9167#0#12

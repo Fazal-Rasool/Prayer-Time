@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar.Solid.Arbitheme" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_background_textured_arbitheme</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_arbitheme</item>
+        <item name="android:backgroundSplit">@drawable/ab_background_textured_arbitheme</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Arbitheme</item>
+    </style>
+    <style name="ActionBar.Transparent.Arbitheme" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_arbitheme</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Arbitheme</item>
+    </style>
+    <style name="CustomActionBarTheme" parent="android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/myActionBarTheme</item>
+        
+    </style>
+    <style name="Theme.Arbitheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_arbitheme</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Arbitheme</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Arbitheme</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Arbitheme</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Arbitheme</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Arbitheme</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_arbitheme</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_arbitheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Arbitheme</item>
+        
+                <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Arbitheme.Widget</item>
+
+    </style>
+    <style name="Theme.Arbitheme.Widget" parent="@style/Theme.AppCompat">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Arbitheme</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Arbitheme</item>
+    </style>
+    <style name="myActionBarTheme" parent="android:style/Widget.Holo.ActionBar">
+        <item name="android:titleTextStyle">@style/myActionBarTitleTextStyle</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="myActionBarTitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

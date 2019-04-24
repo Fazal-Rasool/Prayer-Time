@@ -1,0 +1,137 @@
+﻿
+Hong Kong#A Chau#22.4333#114.2167#0#8
+Hong Kong#A Chow#22.1667#113.9#0#8
+Hong Kong#A Kung Tin#22.45#114.1#0#8
+Hong Kong#A Kung Wan#22.3333#114.2667#0#8
+Hong Kong#A Ma Wat#22.5167#114.25#0#8
+Hong Kong#A Shan San Wai#22.4667#114.2#0#8
+Hong Kong#Aberdeen Bay#22.25#114.15#0#8
+Hong Kong#Afternoon Beach#22.2#114.0333#0#8
+Hong Kong#Aldrich Bay#22.2833#114.2333#0#8
+Hong Kong#Alexander Rocks#22.3#114.3167#0#8
+Hong Kong#Amah Rock#22.3667#114.1833#0#8
+Hong Kong#Ap Cheuk#22.55#114.2667#0#8
+Hong Kong#Ap Lei Chau#22.2333#114.15#0#8
+Hong Kong#Ap Tau Pai#22.5333#114.2667#0#8
+Hong Kong#Ap Tsai Wan#22.3167#114.2667#0#8
+Hong Kong#Au Pui Tong#22.5333#114.3#0#8
+Hong Kong#Au Pui Wan#22.4#114.1667#0#8
+Hong Kong#Au Tau#22.3333#114.25#0#8
+Hong Kong#Barkers Bottom#22.5333#114.1833#0#8
+Hong Kong#Basalt Island#22.3167#114.3667#0#8
+Hong Kong#Bate Head#22.4333#114.4#0#8
+Hong Kong#Baufort Island#22.1833#114.25#0#8
+Hong Kong#Belcher Bay#22.2833#114.1167#0#8
+Hong Kong#Belcher Point#22.2833#114.1333#0#8
+Hong Kong#Ben Nevis#22.55#114.2#0#8
+Hong Kong#Bolden Hill#22.3667#114.15#0#8
+Hong Kong#Braemar Reservoir#22.2833#114.2#0#8
+Hong Kong#Breaker Reef#22.4667#114.4167#0#8
+Hong Kong#Brick Hill#22.2333#114.1667#0#8
+Hong Kong#Buffalo Hill#22.3667#114.2333#0#8
+Hong Kong#Bun Sha Pai#22.4667#114.2833#0#8
+Hong Kong#Bunsansiah Rock#22.3167#114.0667#0#8
+Hong Kong#Bush Reef#22.45#114.25#0#8
+Hong Kong#Causeway Bay#22.2833#114.1833#0#8
+Hong Kong#Central District#22.2833#114.15#0#8
+Hong Kong#Chai Wan#22.2667#114.2333#0#8
+Hong Kong#Chai Wan Kok#22.3833#114.1#0#8
+Hong Kong#D Aguilar Peak#22.2167#114.25#0#8
+Hong Kong#Dahao Shuidao#22.1667#113.8333#0#8
+Hong Kong#Dapeng Wan#22.55#114.4#0#8
+Hong Kong#Datum Point#22.35#114.3333#0#8
+Hong Kong#Datum Rock#22.2667#114.0667#0#8
+Hong Kong#Dills Corner#22.5#114.1#0#8
+Hong Kong#Discovery Bay#22.3#114.0167#0#8
+Hong Kong#Dodwells Ridge#22.5#114.1167#0#8
+Hong Kong#Douglas Rock#22.3#114.0667#0#8
+Hong Kong#Duck Rocks#22.3167#114.3#0#8
+Hong Kong#Dukes Hill#22.5167#114.1667#0#8
+Hong Kong#East Arm#22.4333#114.35#0#8
+Hong Kong#East Brother#22.3333#113.9833#0#8
+Hong Kong#East Ninepin Island#22.2667#114.3667#0#8
+Hong Kong#Fa Peng#22.3333#114.05#0#8
+Hong Kong#Fa Sam Hang#22.3833#114.2167#0#8
+Hong Kong#Fan Kwai Tong#22.25#113.8667#0#8
+Hong Kong#Fan Lau#22.2#113.85#0#8
+Hong Kong#Fattong#22.2667#114.3#0#8
+Hong Kong#Fo Yeuk Chau#22.2333#114.1333#0#8
+Hong Kong#Fu Yung Shan#22.3833#114.1167#0#8
+Hong Kong#Fui Yiu Ha#22.2833#113.9333#0#8
+Hong Kong#Fuk Lok Tsuen#22.3833#114.1667#0#8
+Hong Kong#Fuk Tak Kung#22.5333#114.1#0#8
+Hong Kong#Fung Wong Shan#22.35#114.1833#0#8
+Hong Kong#Futau Chan#22.2833#114.2667#0#8
+Hong Kong#Gau Tau#22.4667#114.4333#0#8
+Hong Kong#Gin Drinkers Bay#22.35#114.1167#0#8
+Hong Kong#Goliath Hill#22.4667#114.3333#0#8
+Hong Kong#Gordon Camp#22.3833#113.9833#0#8
+Hong Kong#Grass Island#22.4833#114.3667#0#8
+Hong Kong#Grassy Hill#22.4167#114.1667#0#8
+Hong Kong#Hong Kong#22.25#114.1833#0#8
+Hong Kong#Hong Kong Special Administrative Region#22.25#114.1667#0#8
+Hong Kong#Hung Hom#22.3#114.1833#0#8
+Hong Kong#I O Tsuen#22.2333#113.85#0#8
+Hong Kong#Inner Port Shelter#22.3667#114.2833#0#8
+Hong Kong#Jan Chau#22.2667#114.2667#0#8
+Hong Kong#Jardines Lookout#22.2667#114.1833#0#8
+Hong Kong#Jin Island#22.3333#114.3167#0#8
+Hong Kong#Joss House Bay#22.2667#114.2833#0#8
+Hong Kong#Joss House Point#22.4833#114.3333#0#8
+Hong Kong#Jubilee Reservoir#22.3833#114.15#0#8
+Hong Kong#Junk Bay#22.3#114.25#0#8
+Hong Kong#Junk Rock#22.4667#114.35#0#8
+Hong Kong#Kowloon#22.3167#114.1833#0#8
+Hong Kong#Kowloon Bay#22.3167#114.2#0#8
+Hong Kong#Kowloon Peak#22.3333#114.2167#0#8
+Hong Kong#Kowloon Reservoir#22.35#114.15#0#8
+Hong Kong#Kwan Tei#22.5167#114.15#0#8
+Hong Kong#Kwun Tong#22.3167#114.2167#0#8
+Hong Kong#Lan Tau Island#22.25#113.9333#0#8
+Hong Kong#Mong Kok#22.3167#114.1667#0#8
+Hong Kong#New Territories#22.4167#114.0833#0#8
+Hong Kong#Ngau Chi Wan#22.3333#114.2#0#8
+Hong Kong#North Point#22.3#114.2#0#8
+Hong Kong#O Tau#22.4#114.2833#0#8
+Hong Kong#Obelisk Hill#22.25#114.2167#0#8
+Hong Kong#Oliver Shoals#22.1833#114.2167#0#8
+Hong Kong#On Lok Tsuen#22.5#114.1333#0#8
+Hong Kong#Otsi Kok#22.2333#114.1#0#8
+Hong Kong#Pok Fu Lam#22.2667#114.1333#0#8
+Hong Kong#Quarry Bay#22.2833#114.2167#0#8
+Hong Kong#Queens Hill#22.5#114.1667#0#8
+Hong Kong#Repulse Bay#22.2333#114.1833#0#8
+Hong Kong#River Indus#22.5333#114.1167#0#8
+Hong Kong#Rocky Bay#22.2333#114.25#0#8
+Hong Kong#Rugged Rock#22.1833#114.3#0#8
+Hong Kong#Sha Tin New Town#22.3833#114.1833#0#8
+Hong Kong#Shatin Bay#22.4#114.2#0#8
+Hong Kong#Shenzhen Wan#22.45#113.9167#0#8
+Hong Kong#Sheung Shui#22.5167#114.1167#0#8
+Hong Kong#Stanley#22.2#114.2167#0#8
+Hong Kong#Tin Shui Wai#22.4667#114#0#8
+Hong Kong#Tsing Yi#22.35#114.1#0#8
+Hong Kong#Tuen Mun#22.4#113.9833#0#8
+Hong Kong#Tung Chung#22.2833#113.95#0#8
+Hong Kong#U Kwai Sha Tsui#22.4333#114.2333#0#8
+Hong Kong#Uk Cheung#22.3833#114.25#0#8
+Hong Kong#Uk Tau#22.4333#114.3333#0#8
+Hong Kong#Un Kok#22.1833#114.15#0#8
+Hong Kong#Ung Kong Wan#22.3333#114.35#0#8
+Hong Kong#Ung Kwai Chau#22.3833#114.2833#0#8
+Hong Kong#Upper Keung Shan#22.25#113.8833#0#8
+Hong Kong#Urmston Road#22.3833#113.9#0#8
+Hong Kong#Urn Island#22.3667#114.3167#0#8
+Hong Kong#Victor Rock#22.3#114.4333#0#8
+Hong Kong#Vimy Ridge#22.5333#114.1333#0#8
+Hong Kong#Volunteer Camp#22.4833#114.1333#0#8
+Hong Kong#Wan Chai#22.2833#114.1667#0#8
+Hong Kong#Wan Chai Gap#22.2667#114.1667#0#8
+Hong Kong#Wing Lung Wai#22.4333#114.0667#0#8
+Hong Kong#Wing Ning Tsuen#22.45#114.0167#0#8
+Hong Kong#Wing Ning Wai#22.5#114.15#0#8
+Hong Kong#Wing Ping Tsuen#22.5#114.0667#0#8
+Hong Kong#Wintz Hill#22.4833#114.35#0#8
+Hong Kong#Yuen Leng#22.4833#114.15#0#8
+Hong Kong#Yuen Long#22.45#114.0333#0#8
+Hong Kong#Zuid-Chineesche Zee#15#115#0#8

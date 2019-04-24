@@ -1,0 +1,101 @@
+﻿
+Uruguay#Acegua#-31.8667#-54.2#235#-3
+Uruguay#Aigua#-34.2#-54.75#112#-3
+Uruguay#Artigas#-30.4#-56.4667#151#-3
+Uruguay#Atlantida#-34.7667#-55.75#20#-3
+Uruguay#Baltasar Brum#-30.7333#-57.3167#118#-3
+Uruguay#Barra de Carrasco#-34.8772#-56.0297#2#-3
+Uruguay#Belen#-30.7833#-57.7833#32#-3
+Uruguay#Bella Union#-30.25#-57.5833#48#-3
+Uruguay#Canelones#-34.5228#-56.2778#29#-3
+Uruguay#Cardona#-33.8833#-57.3833#163#-3
+Uruguay#Carmelo#-33.9892#-58.2856#19#-3
+Uruguay#Castillos#-34.1667#-53.8333#44#-3
+Uruguay#Casupa#-34.0333#-55.65#150#-3
+Uruguay#Cebollati#-33.2667#-53.7833#4#-3
+Uruguay#Chuy#-33.6833#-53.45#2#-3
+Uruguay#Colonia del Sacramento#-34.4667#-57.85#28#-3
+Uruguay#Colonia Nicolich#-34.8131#-56.0447#9#-3
+Uruguay#Constitucion#-31.0833#-57.8333#52#-3
+Uruguay#Delta del Tigre#-34.7633#-56.3853#19#-3
+Uruguay#Dolores#-33.5442#-58.1972#30#-3
+Uruguay#Durazno#-33.4131#-56.5006#91#-3
+Uruguay#Ecilda Paullier#-34.3667#-57.0667#61#-3
+Uruguay#Empalme Olmos#-34.7#-55.9#40#-3
+Uruguay#Florencio Sanchez#-33.8833#-57.4#156#-3
+Uruguay#Florida#-34.0956#-56.2142#74#-3
+Uruguay#Fray Bentos#-33.1325#-58.2956#43#-3
+Uruguay#Guichon#-32.35#-57.2#92#-3
+Uruguay#Isidoro Noblia#-31.8333#-54.1667#152#-3
+Uruguay#Joaquin Suarez#-34.7336#-56.0367#58#-3
+Uruguay#Jose Batlle y Ordonez#-33.4667#-55.1167#277#-3
+Uruguay#Jose Enrique Rodo#-33.6833#-57.5667#132#-3
+Uruguay#Jose Pedro Varela#-33.45#-54.5333#60#-3
+Uruguay#Juan L. Lacaze#-34.4333#-57.4167#5#-3
+Uruguay#La Paloma#-34.6667#-54.1667#1#-3
+Uruguay#La Paloma#-32.7167#-55.6#71#-3
+Uruguay#La Paz#-34.7617#-56.2236#50#-3
+Uruguay#Las Piedras#-34.7264#-56.22#81#-3
+Uruguay#Las Piedras#-30.2333#-57.5833#43#-3
+Uruguay#Las Toscas#-34.7333#-55.7167#5#-3
+Uruguay#Lascano#-33.6667#-54.2#3#-3
+Uruguay#Libertad#-34.6333#-56.6192#40#-3
+Uruguay#Los Cerrillos#-34.605#-56.3564#62#-3
+Uruguay#Maldonado#-34.9#-54.95#21#-3
+Uruguay#Mariscala#-34.05#-54.7833#92#-3
+Uruguay#Melo#-32.3667#-54.1833#81#-3
+Uruguay#Mercedes#-33.2558#-58.0192#41#-3
+Uruguay#Migues#-34.4833#-55.65#59#-3
+Uruguay#Minas#-34.37#-55.225#148#-3
+Uruguay#Minas de Corrales#-31.5833#-55.4667#111#-3
+Uruguay#Montes#-34.5#-55.5833#50#-3
+Uruguay#Montevideo#-34.8581#-56.1708#78#-3
+Uruguay#Nueva Helvecia#-34.3#-57.2333#42#-3
+Uruguay#Nueva Palmira#-33.8833#-58.4167#9#-3
+Uruguay#Nuevo Berlin#-32.9833#-58.05#20#-3
+Uruguay#Ombues de Lavalle#-33.9167#-57.7833#120#-3
+Uruguay#Pajas Blancas#-34.8017#-56.3342#44#-3
+Uruguay#Palmitas#-33.5167#-57.8333#89#-3
+Uruguay#Pan de Azucar#-34.8#-55.2333#79#-3
+Uruguay#Pando#-34.7167#-55.95#11#-3
+Uruguay#Paso de Carrasco#-34.8603#-56.0522#20#-3
+Uruguay#Paso de los Toros#-32.8167#-56.5167#54#-3
+Uruguay#Paysandu#-32.3214#-58.0756#50#-3
+Uruguay#Piriapolis#-34.8682#-55.2744#23#-3
+Uruguay#Progreso#-34.665#-56.2194#53#-3
+Uruguay#Punta del Este#-34.9667#-54.95#1#-3
+Uruguay#Quebracho#-31.95#-57.8833#39#-3
+Uruguay#Rio Branco#-32.5667#-53.4167#17#-3
+Uruguay#Rivera#-30.9#-55.5167#204#-3
+Uruguay#Rocha#-34.4833#-54.3333#8#-3
+Uruguay#Rodriguez#-34.3828#-56.5417#52#-3
+Uruguay#Rosario#-34.3167#-57.35#19#-3
+Uruguay#Salto#-31.3833#-57.9667#47#-3
+Uruguay#San Bautista#-34.4333#-55.9833#71#-3
+Uruguay#San Carlos#-34.8#-54.9167#2#-3
+Uruguay#San Jacinto#-34.55#-55.8833#48#-3
+Uruguay#San Javier#-32.6833#-58.1333#2#-3
+Uruguay#San Jose de Mayo#-34.3375#-56.7136#53#-3
+Uruguay#San Ramon#-34.3#-55.9667#51#-3
+Uruguay#Santa Clara de Olimar#-32.9167#-54.9667#304#-3
+Uruguay#Santa Lucia#-34.4533#-56.3906#35#-3
+Uruguay#Santa Rosa#-34.4975#-56.0372#63#-3
+Uruguay#Sarandi del Yi#-33.35#-55.6333#105#-3
+Uruguay#Sarandi Grande#-33.7333#-56.3333#130#-3
+Uruguay#Sauce#-34.6469#-56.0628#65#-3
+Uruguay#Soca#-34.6833#-55.6833#28#-3
+Uruguay#Solis de Mataojo#-34.6#-55.4833#12#-3
+Uruguay#Tacuarembo#-31.7333#-55.9833#140#-3
+Uruguay#Tala#-34.35#-55.7667#49#-3
+Uruguay#Tarariras#-34.2833#-57.6167#100#-3
+Uruguay#Toledo#-34.7422#-56.0983#69#-3
+Uruguay#Tomas Gomensoro#-30.4333#-57.4333#82#-3
+Uruguay#Tranqueras#-31.2#-55.75#164#-3
+Uruguay#Treinta y Tres#-33.2333#-54.3833#63#-3
+Uruguay#Trinidad#-33.5389#-56.8886#134#-3
+Uruguay#Veinticinco de Agosto#-34.4117#-56.4022#29#-3
+Uruguay#Veinticinco de Mayo#-34.1892#-56.3394#58#-3
+Uruguay#Vergara#-32.9333#-53.95#17#-3
+Uruguay#Vichadero#-31.8#-54.7167#184#-3
+Uruguay#Villa del Carmen#-33.25#-56.0167#156#-3
+Uruguay#Young#-32.6833#-57.6333#63#-3

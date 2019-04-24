@@ -1,0 +1,15 @@
+﻿
+Kiribati#Bairiki#1.329141#172.978#-9999#12
+Kiribati#Binoinano#0.416667#173.9167#-9999#12
+Kiribati#Buariki#-1.48333#175.0667#-9999#12
+Kiribati#Butaritari#3.083333#172.8167#-9999#12
+Kiribati#Ijaki#-1.91667#175.5833#-9999#12
+Kiribati#Ooma#-0.9#169.55#-9999#12
+Kiribati#Rawannawi#2.05#173.2667#1#12
+Kiribati#Rungata#-1.35#176.4333#-9999#12
+Kiribati#Tabiauea#0.9#173.0333#-9999#12
+Kiribati#Tabukiniberu#-1.34193#175.9895#1#12
+Kiribati#Taburao#1.816667#173.0167#1#12
+Kiribati#Tarawa#-0.86922#169.5406#1#12
+Kiribati#Temaraia#-0.66667#174.45#-9999#12
+Kiribati#Utiroa#-1.21667#174.75#1#12

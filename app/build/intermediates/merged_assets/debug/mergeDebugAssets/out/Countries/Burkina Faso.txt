@@ -1,0 +1,125 @@
+﻿
+Burkina Faso#Banfora#10.6333#-4.7667#0#0
+Burkina Faso#Banfora Cliffs#10.9333#-4.5#0#0
+Burkina Faso#Bobo Dioulasso#11.2#-4.3#0#0
+Burkina Faso#Caro#12.3667#-3.3#0#0
+Burkina Faso#Cascade de Koudou#11.6833#2.3167#0#0
+Burkina Faso#Cassu#11.5833#-2.05#0#0
+Burkina Faso#Cella#11.6167#-0.3667#0#0
+Burkina Faso#Chaine de l Atacora#10.75#1.5#0#0
+Burkina Faso#Chalro#13.1#-1.2667#0#0
+Burkina Faso#Chanboulga#14.0333#-2.0833#0#0
+Burkina Faso#Chapani#12.4#1.35#0#0
+Burkina Faso#Charam Charam#14.5#-0.0667#0#0
+Burkina Faso#Chedana#10.5167#-3.0667#0#0
+Burkina Faso#Cheriba#12.2667#-3.0833#0#0
+Burkina Faso#Chion#10.6667#-5.3167#0#0
+Burkina Faso#Chitikoy#14.1833#0.2667#0#0
+Burkina Faso#Chokoro#11.1833#-5.15#0#0
+Burkina Faso#Cisse#12.9#-3.7333#0#0
+Burkina Faso#Cmin-Yanga#11.6997#0.1369#0#0
+Burkina Faso#Coala#12.55#-2.0833#0#0
+Burkina Faso#Coala (Gnagna)#13.4106#-0.1369#0#0
+Burkina Faso#Comboussougou#11.4261#-0.7728#0#0
+Burkina Faso#Comoe#10.3333#-4.4167#0#0
+Burkina Faso#Comondi#12.4333#1.5833#0#0
+Burkina Faso#Compo-Yorgo#11.8667#-0.3833#0#0
+Burkina Faso#Coumbili#11.2983#-1.4483#0#0
+Burkina Faso#Coumbo#11.3325#-1.6625#0#0
+Burkina Faso#Dnya#14.2833#-1.3167#0#0
+Burkina Faso#Duo#11.6667#-3.6667#0#0
+Burkina Faso#Een#13.0833#-1.3167#0#0
+Burkina Faso#Ekacham#14.7333#-1.2667#0#0
+Burkina Faso#Ekoulkola#12.3#-2.5167#0#0
+Burkina Faso#Eledui#14.9#0.1#0#0
+Burkina Faso#Elemira#9.7833#-3.05#0#0
+Burkina Faso#Elewar#14.6833#-0.7333#0#0
+Burkina Faso#Elinga#11.9167#-2.65#0#0
+Burkina Faso#Em Mbang Em Bero#13.3167#-0.6167#0#0
+Burkina Faso#Emdemtenga#12.3242#-0.3092#0#0
+Burkina Faso#Ennesse#13.9167#-2.8333#0#0
+Burkina Faso#Ermos#14.9833#-0.6667#0#0
+Burkina Faso#Erza#14.9833#-0.6#0#0
+Burkina Faso#Etwayou#12.0333#-2.9667#0#0
+Burkina Faso#Habe#11.8667#-3.1333#0#0
+Burkina Faso#Habri#10.8667#-3.05#0#0
+Burkina Faso#Hagado#13.9#0.3833#0#0
+Burkina Faso#Haho#11.7833#-3.3167#0#0
+Burkina Faso#Haloko#13.7833#-2.15#0#0
+Burkina Faso#Halte du Grand Bale#11.7333#-3.5333#0#0
+Burkina Faso#Hamele#11#-2.75#0#0
+Burkina Faso#Hela#11#-2.6833#0#0
+Burkina Faso#Helga#13.4667#0.6#0#0
+Burkina Faso#Hella#10.4667#-3.2667#0#0
+Burkina Faso#Hello Bondou#10.4333#-3.15#0#0
+Burkina Faso#Higa#13.6167#0.7167#0#0
+Burkina Faso#Hinn#11.7333#-3.5167#0#0
+Burkina Faso#Hitte#13.75#-1.85#0#0
+Burkina Faso#Hoga#13.8167#0.05#0#0
+Burkina Faso#Hokelirou#13.7833#-2.7#0#0
+Burkina Faso#Homo#13.3#0.5333#0#0
+Burkina Faso#Houbande#13.7167#-0.6833#0#0
+Burkina Faso#Hoube#13.85#-0.9333#0#0
+Burkina Faso#Houet#11.3333#-4.25#0#0
+Burkina Faso#Houlli#10.2667#-3.25#0#0
+Burkina Faso#Jebiga#11.1344#0.5511#0#0
+Burkina Faso#Jerifoula#10.4667#-3.5833#0#0
+Burkina Faso#Jibasso#13.1167#-4.1667#0#0
+Burkina Faso#Jibo#14.1022#-1.6306#0#0
+Burkina Faso#Jimbara#12.8833#-3.15#0#0
+Burkina Faso#Jipologo#10.9333#-3.1167#0#0
+Burkina Faso#Jitoera#13.4667#-0.5667#0#0
+Burkina Faso#Jmansogo#12.4333#-2.3333#0#0
+Burkina Faso#Jntiedougou#11.1167#-3.5167#0#0
+Burkina Faso#Joungo#11.1106#-1.0633#0#0
+Burkina Faso#Joures Ouidi#12.1597#-1.5447#0#0
+Burkina Faso#Ouagadougou#12.3703#-1.5247#0#0
+Burkina Faso#Ouahigouya#13.5833#-2.4167#0#0
+Burkina Faso#Ukulu#14.5167#-1.6833#0#0
+Burkina Faso#Umboli#13.7667#0.5167#0#0
+Burkina Faso#Vagogo#12.2086#-1.5911#0#0
+Burkina Faso#Vala#10.4833#-3#0#0
+Burkina Faso#Valiou#11.95#-2.5667#0#0
+Burkina Faso#Vara#11.4667#-2.3833#0#0
+Burkina Faso#Vare#12.85#-3.7667#0#0
+Burkina Faso#Vatenga#12.6483#-1.6303#0#0
+Burkina Faso#Vato#13.45#-1.8333#0#0
+Burkina Faso#Vayaga#11.4667#-0.9#0#0
+Burkina Faso#Vedaga#12.4#-0.3667#0#0
+Burkina Faso#Vegue#11.1167#-2.4#0#0
+Burkina Faso#Veldehidi#13.8833#-1.2667#0#0
+Burkina Faso#Velia#12#-2.2167#0#0
+Burkina Faso#Vendekake#13.7833#0#0#0
+Burkina Faso#Vendeniebe#13.8#-0.2333#0#0
+Burkina Faso#Vendo Mena#14.2#-1.65#0#0
+Burkina Faso#Vendou Gorou#14.1833#-1.2#0#0
+Burkina Faso#Venogo#12.4#-0.7#0#0
+Burkina Faso#Veradji#14.5167#-0.95#0#0
+Burkina Faso#Vibourie#14.3667#0.25#0#0
+Burkina Faso#Vili#12.2833#-2.2167#0#0
+Burkina Faso#Vili Itaore#12.2667#-2.2333#0#0
+Burkina Faso#Vilibogo#11.9333#-2.45#0#0
+Burkina Faso#Viliboure#11.9#-2.4667#0#0
+Burkina Faso#Vinde Paka#14.3667#-0.75#0#0
+Burkina Faso#Vindifollo#13.35#0.7#0#0
+Burkina Faso#Vipalgo#12.115#-1.7614#0#0
+Burkina Faso#Vire Sogode#13.4167#-2.55#0#0
+Burkina Faso#Voaga#12.6556#-1.4131#0#0
+Burkina Faso#Voho#11.6167#-3.35#0#0
+Burkina Faso#Vohon#11.7#-3.4#0#0
+Burkina Faso#Volta Superior#13#-2#0#0
+Burkina Faso#Vosse ( or UV24)#12.1853#-1.4294#0#0
+Burkina Faso#Vosse ( or UV16)#12.0931#-1.0344#0#0
+Burkina Faso#Vossora#10.4#-3.0333#0#0
+Burkina Faso#Votoni#11.3833#-3.4333#0#0
+Burkina Faso#Voube#10.2#-2.8667#0#0
+Burkina Faso#Voun Hou#12.7167#-3.5167#0#0
+Burkina Faso#Vouoro#13.2833#-4.1#0#0
+Burkina Faso#Vouri#12.4167#-2.4667#0#0
+Burkina Faso#Vourou#11.4#-2.2333#0#0
+Burkina Faso#Vousnango#13.15#-1.6333#0#0
+Burkina Faso#Voyo#11.1#-3.8667#0#0
+Burkina Faso#Voyu#11.7#-2#0#0
+Burkina Faso#Vransso#12.4833#-2.5#0#0
+Burkina Faso#Vrassan#11.5833#-1.9167#0#0
+Burkina Faso#Vrou#11.35#-1.7167#0#0

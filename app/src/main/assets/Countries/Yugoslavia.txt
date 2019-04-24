@@ -1,0 +1,40 @@
+﻿
+Yugoslavia#Bar#42.0931#19.1003#0#1
+Yugoslavia#Barice#42.7522#18.9678#0#1
+Yugoslavia#Belgrade#44.8186#20.4681#0#1
+Yugoslavia#Cajetina#43.75#19.7167#0#1
+Yugoslavia#Gjilan#42.4436#21.4764#0#1
+Yugoslavia#Gusinje#42.5619#19.8339#0#1
+Yugoslavia#Kosovo#42.5833#21#0#1
+Yugoslavia#Kosovo Polje#43.1078#19.6147#0#1
+Yugoslavia#Mitrovica#42.9006#20.8803#0#1
+Yugoslavia#Mitrovica Kosovska#42.8833#20.8667#0#1
+Yugoslavia#Nis#43.5489#19.785#0#1
+Yugoslavia#Novi Pazar#43.1367#20.5122#0#1
+Yugoslavia#Novi Sad#45.2517#19.8369#0#1
+Yugoslavia#Opoje#42.1139#20.6914#0#1
+Yugoslavia#Pec#43.5797#19.5214#0#1
+Yugoslavia#Plav#42.5969#19.9456#0#1
+Yugoslavia#Plevlja#43.3519#19.3528#0#1
+Yugoslavia#Podgorica#43.7753#19.6828#0#1
+Yugoslavia#Podgorica#42.4411#19.2636#0#1
+Yugoslavia#Presheve#42.3092#21.6492#0#1
+Yugoslavia#Pristina#42.6667#21.1667#0#1
+Yugoslavia#Prizren#42.2139#20.7397#0#1
+Yugoslavia#Sjenica#43.2731#19.9994#0#1
+Yugoslavia#Sojeve#42.3736#21.2258#0#1
+Yugoslavia#Ulcinj#41.9283#19.2064#0#1
+Yugoslavia#Vladimir#42.0067#19.3128#0#1
+Yugoslavia#Wachenheim#45.94#19.1653#0#1
+Yugoslavia#Waldau an der Donau#45.5947#19.0981#0#1
+Yugoslavia#Weisskirchen#44.8975#21.4172#0#1
+Yugoslavia#Wekerle#45.33#19.4364#0#1
+Yugoslavia#Werschitz#45.1167#21.3036#0#1
+Yugoslavia#Wojwodina#45.5#20#0#1
+Yugoslavia#Wolfingen#45.495#19.1881#0#1
+Yugoslavia#Wolfsburg#45.6089#19.5264#0#1
+Yugoslavia#Xerxa#42.0789#20.6853#0#1
+Yugoslavia#Xerxe#42.3497#20.5706#0#1
+Yugoslavia#Yaqova#42.3803#20.4308#0#1
+Yugoslavia#Yastrebac#42.9167#22.1833#0#1
+Yugoslavia#Yugoslavia#43.75#20.75#0#1

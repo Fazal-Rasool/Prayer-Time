@@ -1,0 +1,14 @@
+﻿
+Liechtenstein#Balzers#47.06667#9.5#494#1
+Liechtenstein#Eschen#47.21071#9.522228#463#1
+Liechtenstein#Gamprin#47.22038#9.509354#549#1
+Liechtenstein#Malbun#47.10139#9.609861#1957#1
+Liechtenstein#Mauren#47.21805#9.544201#436#1
+Liechtenstein#Planken#47.18516#9.544373#910#1
+Liechtenstein#Ruggell#47.23333#9.516666#539#1
+Liechtenstein#Schaan#47.16498#9.508667#560#1
+Liechtenstein#Schellenberg#47.23123#9.546776#552#1
+Liechtenstein#Steg#47.11266#9.575357#1483#1
+Liechtenstein#Triesen#47.1#9.533333#648#1
+Liechtenstein#Triesenberg#47.11815#9.541969#1172#1
+Liechtenstein#Vaduz#47.14151#9.521542#711#1

@@ -1,0 +1,100 @@
+﻿
+Maldives#Air Keruh#2.266667#102.2833#14#5
+Maldives#Alor Setar#6.116667#100.3667#2#5
+Maldives#Bahau#2.816667#102.4167#62#5
+Maldives#Bakri#2.05#102.6667#25#5
+Maldives#Banting#2.816667#101.5#15#5
+Maldives#Batu Berendam#2.25#102.25#5#5
+Maldives#Batu Gajah#4.466667#101.05#44#5
+Maldives#Batu Pahat#1.85#102.9333#2#5
+Maldives#Bedung#5.733333#100.5167#54#5
+Maldives#Bentong Town#3.516667#101.9#146#5
+Maldives#Bidur#4.116667#101.2833#59#5
+Maldives#Bintulu#3.166667#113.0333#1#5
+Maldives#Bukit Mertajam#5.366667#100.4667#90#5
+Maldives#Butterworth#5.416667#100.4#8#5
+Maldives#Cukai#4.25#103.4167#1#5
+Maldives#Donggongon#5.916667#116.0833#114#5
+Maldives#George Town#5.416667#100.3333#1#5
+Maldives#Ipoh#4.583333#101.0833#47#5
+Maldives#Jenjarum#2.883333#101.5#11#5
+Maldives#Jerantut#3.933333#102.3667#109#5
+Maldives#Jitra#6.266667#100.4167#26#5
+Maldives#Johor Bahru#1.466667#103.75#5#5
+Maldives#Kampong Baharu Balakong#3.033333#101.75#76#5
+Maldives#Kampong Baharu Nilai#2.816667#101.8#59#5
+Maldives#Kampong Bukit Baru#2.216667#102.2833#37#5
+Maldives#Kampong Dungun#3.216667#101.3167#46#5
+Maldives#Kampong Masjid Tanah#2.35#102.1167#21#5
+Maldives#Kampong Pangkal Kalong#5.916667#102.2167#29#5
+Maldives#Kampong Sungai Ara#5.333333#100.2667#60#5
+Maldives#Kampung Baru Subang#3.15#101.5333#80#5
+Maldives#Kampung Pasir Gudang#1.45#103.8833#-9999#5
+Maldives#Kangar#6.433333#100.2#18#5
+Maldives#Kelebang Besar#2.216667#102.2#2#5
+Maldives#Keluang#2.033333#103.3167#29#5
+Maldives#Keningau#5.333333#116.1667#389#5
+Maldives#Kertih#4.516667#103.45#37#5
+Maldives#Klang#3.033333#101.45#6#5
+Maldives#Kota Baharu#6.133333#102.25#1#5
+Maldives#Kota Kinabalu#5.983333#116.0667#9#5
+Maldives#Kota Tinggi#1.733333#103.9#6#5
+Maldives#Kuah#6.316667#99.85#80#5
+Maldives#Kuala Kangsar#4.766667#100.9333#55#5
+Maldives#Kuala Lumpur#3.166667#101.7#62#5
+Maldives#Kuala Selangor#3.35#101.25#1#5
+Maldives#Kuala Terengganu#5.333333#103.1333#-9999#5
+Maldives#Kuantan#3.8#103.3333#2#5
+Maldives#Kuching#1.55#110.3333#5#5
+Maldives#Kudat#6.883333#116.8333#1#5
+Maldives#Kulai#1.666667#103.6#27#5
+Maldives#Kulim#5.366667#100.5667#60#5
+Maldives#Lahad Datu#5.033333#118.3167#1#5
+Maldives#Limbang#4.75#115#9#5
+Maldives#Lumut#4.233333#100.6333#51#5
+Maldives#Melaka#2.196944#102.2481#-9999#5
+Maldives#Mentekab#3.483333#102.35#61#5
+Maldives#Miri#4.383333#113.9833#3#5
+Maldives#Muar#2.033333#102.5667#4#5
+Maldives#Nibung Tebal#5.166667#100.4833#8#5
+Maldives#Parit Buntar#5.116667#100.5#4#5
+Maldives#Pekan#3.5#103.4167#-9999#5
+Maldives#Pekan Nanas#1.516667#103.5167#15#5
+Maldives#Pengkalan Kundang#3.283333#101.5167#66#5
+Maldives#Perai#5.383333#100.3833#3#5
+Maldives#Permatang Kuching#5.483333#100.4#13#5
+Maldives#Petaling Jaya#3.107263#101.6067#58#5
+Maldives#Pontian Kecil#1.483333#103.3833#-9999#5
+Maldives#Port Dickson#2.516667#101.8#1#5
+Maldives#Putatan#5.883333#116.05#17#5
+Maldives#Putrajaya#2.935273#101.6911#30#5
+Maldives#Raub#3.8#101.8667#222#5
+Maldives#Rawang#3.316667#101.5833#76#5
+Maldives#Sandakan#5.833333#118.1167#-9999#5
+Maldives#Sarikei#2.116667#111.5167#1#5
+Maldives#Segamat#2.5#102.8167#14#5
+Maldives#Sekudai#1.533333#103.6667#9#5
+Maldives#Semenyih#2.95#101.85#44#5
+Maldives#Semporna#4.481111#118.6158#2#5
+Maldives#Senai#1.6#103.65#13#5
+Maldives#Seremban#2.716667#101.9333#89#5
+Maldives#Serendah#3.366667#101.6167#78#5
+Maldives#Shah Alam#3.085066#101.5328#76#5
+Maldives#Sibu#2.3#111.8167#1#5
+Maldives#Simanggang#1.247222#111.4528#36#5
+Maldives#Simpang Empat#4.95#100.6333#206#5
+Maldives#Sungai Besar#3.666667#100.9833#1#5
+Maldives#Sungai Petani#5.65#100.5#41#5
+Maldives#Sungai Udang#2.266667#102.15#12#5
+Maldives#Taiping#4.85#100.7333#1#5
+Maldives#Tampin#2.466667#102.2333#64#5
+Maldives#Tanah Merah#5.8#102.15#25#5
+Maldives#Tangkak#2.266667#102.55#30#5
+Maldives#Tanjong Tokong#5.466667#100.3#-9999#5
+Maldives#Tapah Road#4.166667#101.2#58#5
+Maldives#Tasek Gelugur#5.483333#100.5#35#5
+Maldives#Tawau#4.25#117.9#1#5
+Maldives#Teluk Intan#4.033333#101.0167#7#5
+Maldives#Temerluh#3.45#102.4167#34#5
+Maldives#Ulu Tiram#1.6#103.8167#45#5
+Maldives#Victoria#5.276667#115.2417#1#5

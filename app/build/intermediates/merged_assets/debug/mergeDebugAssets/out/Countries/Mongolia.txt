@@ -1,0 +1,95 @@
+﻿
+Mongolia#Abaragin Khid#45.7667#111.2#0#8
+Mongolia#Adaatsag Uul#46.6333#105.7667#0#8
+Mongolia#Agutsa#49.25#112.0333#0#8
+Mongolia#Darhan (Selenge)#49.6167#106.35#0#8
+Mongolia#Darhan#49.4833#105.9167#0#8
+Mongolia#Darhan (Bulgan)#48.2333#103.95#0#8
+Mongolia#Darhan (Hentiy)#46.6167#109.4167#0#8
+Mongolia#Darhan (Darhan Uul)#49.4867#105.9228#0#8
+Mongolia#Darhan Guniy Sayr#41.8167#103.5167#0#8
+Mongolia#Darhan Guunii Datsang#46.4167#94.4333#0#8
+Mongolia#Darhan Guunii Huryee#46.6667#100.3333#0#8
+Mongolia#Darhan Jisa#46.3333#108.2333#0#8
+Mongolia#Darhan Puntsag Bayshing#46.5333#94.05#0#8
+Mongolia#Darhan Uul#46.6#109.3333#0#8
+Mongolia#Darhan Uul Aymag#49.5#106.5#0#8
+Mongolia#Darhanhaan#46.7667#113.8667#0#8
+Mongolia#Darhanta Uula#51.2833#99.8667#0#8
+Mongolia#Darhantayn Gol#50.5#101.2667#0#8
+Mongolia#Darhantayn Huree#50.5333#101.4167#0#8
+Mongolia#Djirgalantu#48.0167#91.6333#0#8
+Mongolia#Ederengen Nuru#44.25#97.75#0#8
+Mongolia#Emeelt Uul#46.65#119.1833#0#8
+Mongolia#Erdenet#49.0333#104.0833#0#8
+Mongolia#Friendship Peak#49.1333#87.8167#0#8
+Mongolia#Fu-p u-ssu-k u-li#51#100.5#0#8
+Mongolia#Fujirutu#49.3667#112.7#0#8
+Mongolia#Funa Usa Nuur#47.75#117.8333#0#8
+Mongolia#Funsu Uul#47.0667#115.7833#0#8
+Mongolia#Furufu Ho#48.6#110.75#0#8
+Mongolia#Furufu Shan#42.6442#105.4156#0#8
+Mongolia#Furumu noru Hu#46.1667#93.55#0#8
+Mongolia#Fushu mein obo#47.3#119.05#0#8
+Mongolia#Gegeen Hiid#48.2#114.75#0#8
+Mongolia#Ger Chuluu#47.55#119.1#0#8
+Mongolia#Hibing Gol#50.9167#101.6#0#8
+Mongolia#Hiid Oboo#47.15#102.1#0#8
+Mongolia#Hiliyn Toyrom#47.7167#115.8667#0#8
+Mongolia#J argalant#49.8833#107.45#0#8
+Mongolia#Jkh Tyul-bur#49.3833#102.9833#0#8
+Mongolia#K o-lu-lun#48.0667#114.5#0#8
+Mongolia#Kara-adzirga#45.8#95.75#0#8
+Mongolia#Khanbogd#43.2#107.2#0#8
+Mongolia#Knunguigo#48.8333#93.4167#0#8
+Mongolia#Lieh-ko#44.55#100.8333#0#8
+Mongolia#Lonhin Ovoo#48.3833#115.7833#0#8
+Mongolia#Looroyn Bulag#45.1#91.55#0#8
+Mongolia#Looroyn Tuuri#45.1167#91.55#0#8
+Mongolia#Loosa sumu#45.5167#105.75#0#8
+Mongolia#Lower Khobdo Nuur#48.5333#88.5333#0#8
+Mongolia#Lyung Somon#47.8667#105.25#0#8
+Mongolia#Menengiin Tal#47.3667#116.5#0#8
+Mongolia#Nyalga#46.9667#108.3#0#8
+Mongolia#Otog Uul#48.3#94.1833#0#8
+Mongolia#Qara Qum#47.2333#102.8333#0#8
+Mongolia#Qingshi Shan#45.0333#92.8333#0#8
+Mongolia#Quelle Borzson#42.5086#105.2503#0#8
+Mongolia#Schabuktai#43.3667#106.45#0#8
+Mongolia#Syowrei#43.6167#102.5333#0#8
+Mongolia#Ulan Bator#47.9167#106.9167#0#8
+Mongolia#Vaishinte#43.49#103.5244#0#8
+Mongolia#Val Chingis Khana#48.5#111.5#0#8
+Mongolia#Vandan Dashiling Khure#46.8667#95.4667#0#8
+Mongolia#Vandzet#43.1333#102.2333#0#8
+Mongolia#Vichzhin Gol#45.45#93.5333#0#8
+Mongolia#Vlaa Vula#50.6833#99.2333#0#8
+Mongolia#Vneshnyaya Mongoliya#47#103#0#8
+Mongolia#Vostochnaya Depressiya#44.5#110#0#8
+Mongolia#Vostochnyy Aymag#48#115#0#8
+Mongolia#Vozvyshennost Dariganga#45.6667#115.25#0#8
+Mongolia#Vpadina Shargain-gobi#46.25#95#0#8
+Mongolia#Xiaohongshan Gou#45#92.9833#0#8
+Mongolia#Xiaosongshu Gou#45.2833#90.7833#0#8
+Mongolia#Zafin Kawa#48.9#93.3833#0#8
+Mongolia#Zagan Nor#45.5833#99.15#0#8
+Mongolia#Zagan Tujurjuk#44.8333#110.75#0#8
+Mongolia#Zakhara#49.15#108.5#0#8
+Mongolia#Zaku goru#46.9333#99.1667#0#8
+Mongolia#Zaku Ho#46.8667#99.2833#0#8
+Mongolia#Zalatu#44.3167#107.9#0#8
+Mongolia#Zamin-fuduku#45.5333#113.2167#0#8
+Mongolia#Zaminshandi#44.5#95.3333#0#8
+Mongolia#Zamun Ude#43.75#111.9167#0#8
+Mongolia#Zavkhan#48#96#0#8
+Mongolia#Zeriku Ho#50.3#101.9167#0#8
+Mongolia#Zerin Nor#48.65#92.95#0#8
+Mongolia#Zerugin-tsagan-noru Hu#47.2167#92.75#0#8
+Mongolia#Zezen Khana#47.3167#110.65#0#8
+Mongolia#Zgyin-gol#48.7167#110.2667#0#8
+Mongolia#Zorgone Khuduk Well#47.4#115.7667#0#8
+Mongolia#Zun-fure#48#108.5#0#8
+Mongolia#Zun-Mod#47.7#106.95#0#8
+Mongolia#Zunharata ora#49.05#115.7833#0#8
+Mongolia#Zuruto Uula#46.8333#115.35#0#8
+Mongolia#Zuunkharaa#48.6333#106.7333#0#8

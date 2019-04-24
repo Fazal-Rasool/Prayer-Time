@@ -1,0 +1,283 @@
+﻿
+Norway#7 Sostre#62.1333#7.1333#0#1
+Norway#Aalesund#62.4667#6.15#0#1
+Norway#Aamot-Modum#59.9#9.9#0#1
+Norway#Akershus Fylke#60#11.1667#0#1
+Norway#Alesund#61.4667#5.4667#0#1
+Norway#Algard#58.7667#5.85#0#1
+Norway#Alta (Finnmark)#69.9667#23.2417#0#1
+Norway#Alta (Troms)#70.0167#22#0#1
+Norway#Andenes (Nordland)#69.3203#16.1428#0#1
+Norway#Andenes (Sogn og Fjordane)#61.8167#6.1333#0#1
+Norway#Ardal#61.55#6.35#0#1
+Norway#Arendal (Vestfold)#59.2833#10.25#0#1
+Norway#Arendal (Aust-Agder)#58.4603#8.7667#0#1
+Norway#As#59.6667#10.8#0#1
+Norway#Asker#59.8333#10.4333#0#1
+Norway#Askeroy#58.6189#9.1033#0#1
+Norway#Askim (Ostfold)#59.5833#11.1667#0#1
+Norway#Askim (Oppland)#60.4#10.45#0#1
+Norway#Askoy#60.4#5.1833#0#1
+Norway#Aukra#62.7833#6.9#0#1
+Norway#Aurdal#60.1833#10.3667#0#1
+Norway#Baatsfjord#70.6928#23.0375#0#1
+Norway#Baerums Verk#59.95#10.5#0#1
+Norway#Ballangen#68.3439#16.8803#0#1
+Norway#Ballstad (Nordland)#68.0667#13.55#0#1
+Norway#Ballstad (More og Romsdal)#62.8228#8.2472#0#1
+Norway#Ballstad (Sor-Trondelag)#63.2667#11#0#1
+Norway#Batnfjordsora#62.8833#7.7#0#1
+Norway#Batsfjord#70.6603#29.8122#0#1
+Norway#Begen#68.8#15.3667#0#1
+Norway#Bergan#61.45#12.5667#0#1
+Norway#Bergen#60.3333#5.3333#0#1
+Norway#Bergendal#58.6489#9.1044#0#1
+Norway#Bergenes#69.5575#19.6775#0#1
+Norway#Bergeneset#68.7914#15.9922#0#1
+Norway#Bergenhus#60.4#5.3167#0#1
+Norway#Bergensdalen#60.55#6.0167#0#1
+Norway#Bergenshalvoya#60.3333#5.4167#0#1
+Norway#Birkeland#58.3333#8.2333#0#1
+Norway#Bjerke#62.1#6.5667#0#1
+Norway#Bjorkelangen#59.8833#11.5667#0#1
+Norway#Bo i Telemark#59.4167#9.0667#0#1
+Norway#Bo i Vesteralen#68.6167#14.55#0#1
+Norway#Bodo#67.2833#14.3833#0#1
+Norway#Bomlo#59.6092#5.215#0#1
+Norway#Borkenes#68.7833#16.1833#0#1
+Norway#Brandbu#60.4333#10.4667#0#1
+Norway#Brattvag#62.6#6.45#0#1
+Norway#Brekstad#63.6833#9.6833#0#1
+Norway#Bremnes#59.7953#5.1753#0#1
+Norway#Bronnoysund#65.4667#12.2167#0#1
+Norway#Brumunddal#60.8833#10.9333#0#1
+Norway#Bryne#58.7333#5.6667#0#1
+Norway#Bygland#58.85#7.85#0#1
+Norway#Byglandsfjord#58.6833#7.8#0#1
+Norway#Drageset#61.8333#6.6333#0#1
+Norway#Drammen#59.7425#10.2117#0#1
+Norway#Drammenselva#59.7358#10.2392#0#1
+Norway#Drammensfjorden#59.6322#10.4203#0#1
+Norway#Drangedal#59.1#9.0667#0#1
+Norway#Drevsjo#61.5833#12.35#0#1
+Norway#Drobak#59.6633#10.6311#0#1
+Norway#Egersund#58.45#6#0#1
+Norway#Eid#61.9167#5.9833#0#1
+Norway#Elverum#60.8833#11.5667#0#1
+Norway#Evje#59.3667#10.6833#0#1
+Norway#Evje og Hornnes Herad#58.5833#7.75#0#1
+Norway#Fagernes#60.9833#9.25#0#1
+Norway#Farsund#58.0833#6.8#0#1
+Norway#Fauske#67.25#15.4#0#1
+Norway#Fauske#61.45#5.6667#0#1
+Norway#Finnsnes#69.2333#17.9833#0#1
+Norway#Flekke#61.3167#5.3667#0#1
+Norway#Flekkefjord#58.25#6.65#0#1
+Norway#Flora#61.5667#5.1333#0#1
+Norway#Floro#61.6#5#0#1
+Norway#Fosnavag#62.35#5.65#0#1
+Norway#Fredrikkested#63.4#10.5167#0#1
+Norway#Fredrikstad#59.2167#10.95#0#1
+Norway#Fyresdal#59.1833#8.1#0#1
+Norway#Geiranger#62.1#7.2#0#1
+Norway#Gjovik#60.8#10.7#0#1
+Norway#Gol#60.7#8.95#0#1
+Norway#Gravdal (Sogn og Fjordane)#61.4667#5.8#0#1
+Norway#Gravdal (Nordland)#68.1214#13.5031#0#1
+Norway#Greaker#59.2667#11.0333#0#1
+Norway#Grimstad#58.3406#8.5886#0#1
+Norway#Grong#64.45#12.3333#0#1
+Norway#Gvarv#59.3833#9.15#0#1
+Norway#Halden#59.15#11.3833#0#1
+Norway#Hamar#60.8#11.1#0#1
+Norway#Hamar#64.6167#12.3#0#1
+Norway#Hammerfest#70.6617#23.6883#0#1
+Norway#Haneborg#59.9167#11.5833#0#1
+Norway#Hareid#62.3667#6.0333#0#1
+Norway#Harstad (Troms)#68.8025#16.5456#0#1
+Norway#Harstad (More og Romsdal)#62.9#7.6833#0#1
+Norway#Harstad (Akershus)#60.15#11.0167#0#1
+Norway#Harstad (Sor-Trondelag)#62.8833#9.8333#0#1
+Norway#Haugalandet#59.4167#5.3333#0#1
+Norway#Haugesund#59.4119#5.2775#0#1
+Norway#Hemnesberget#66.2333#13.6333#0#1
+Norway#Hierggejavrre#67.6833#16.4#0#1
+Norway#Hjelmeland Herad#59.3#6.5#0#1
+Norway#Hjelset#62.7833#7.4833#0#1
+Norway#Holmestrand#59.4883#10.3028#0#1
+Norway#Hommelvik#63.4167#10.8#0#1
+Norway#Honefoss#60.1667#10.3#0#1
+Norway#Honningsvag#70.9833#25.9833#0#1
+Norway#Horten#59.4136#10.4669#0#1
+Norway#Hovden#59.5333#7.35#0#1
+Norway#Hurum#59.6144#10.4594#0#1
+Norway#Husnes#59.8672#5.7586#0#1
+Norway#Jessheim#60.15#11.1833#0#1
+Norway#Jorpeland#59.0167#6.05#0#1
+Norway#Karmoy#59.25#5.25#0#1
+Norway#Kautokeino#68.9833#23.1333#0#1
+Norway#Kirkenes#69.725#30.0517#0#1
+Norway#Klepp#58.7667#5.6667#0#1
+Norway#Kolbotn (Akershus)#59.8114#10.7983#0#1
+Norway#Kolbotn (Nordland)#65#12.2#0#1
+Norway#Kolgrov#61.15#5.2833#0#1
+Norway#Kongsberg (Buskerud)#59.65#9.65#0#1
+Norway#Kongsberg (Troms)#69.1333#19.0667#0#1
+Norway#Kongsvinger (Hedmark)#60.2#12#0#1
+Norway#Kongsvinger#60.25#12.25#0#1
+Norway#Konnerud#59.7167#10.15#0#1
+Norway#Kopervik#59.2833#5.3#0#1
+Norway#Koppang#61.5667#11.0667#0#1
+Norway#Krakhaug#63.1#8.95#0#1
+Norway#Kristiansand#58.1667#8#0#1
+Norway#Kristianslund#60.9#9.4333#0#1
+Norway#Kristiansund Nord#63.1167#7.75#0#1
+Norway#Krokstadelva#59.75#10.0167#0#1
+Norway#Kyrksaeterora#63.2833#9.1#0#1
+Norway#Lakselv#70.05#24.9333#0#1
+Norway#Langevag#62.45#6.2#0#1
+Norway#Langhus#58.4833#6.3167#0#1
+Norway#Larvik#59.0667#10#0#1
+Norway#Leknes (Hordaland)#60.5667#5.3833#0#1
+Norway#Leknes (Nord-Trondelag)#65.1#11.7#0#1
+Norway#Leknes (Buskerud)#60.3333#9.6333#0#1
+Norway#Leknes (More og Romsdal)#62.2167#6.5333#0#1
+Norway#Leknes (Sogn og Fjordane)#61.4667#5.4167#0#1
+Norway#Leland#66.0667#12.95#0#1
+Norway#Levanger#63.6333#11.2333#0#1
+Norway#Levanger Herad#63.6667#11.25#0#1
+Norway#Lier#59.7833#10.2333#0#1
+Norway#Lillehammer#61.1333#10.5#0#1
+Norway#Lillesand#58.2522#8.3783#0#1
+Norway#Lillestrom#59.95#11.0833#0#1
+Norway#Lisleby#59.2333#10.9833#0#1
+Norway#Lodingen#68.4072#15.9919#0#1
+Norway#Loen#61.8667#6.8667#0#1
+Norway#Lorenskog#59.9333#10.9833#0#1
+Norway#Lyngdal (Vest-Agder)#58.1333#7.0833#0#1
+Norway#Lyngdal (Finnmark)#70.2322#22.0536#0#1
+Norway#Maaloey#61.9383#5.1133#0#1
+Norway#Mandal (Rogaland)#58.7667#6.35#0#1
+Norway#Mandal (Telemark)#59.5833#8.4333#0#1
+Norway#Mandal (Vest-Agder)#58.0333#7.45#0#1
+Norway#Melbu#68.5044#14.8297#0#1
+Norway#Mo#63#9#0#1
+Norway#Mo i Rana#66.3167#14.1667#0#1
+Norway#Moelv#60.9333#10.6833#0#1
+Norway#Moi (Aust-Agder)#58.3667#8.65#0#1
+Norway#Moi (Rogaland)#58.65#5.9333#0#1
+Norway#Moi (Vest-Agder)#58.25#7.1833#0#1
+Norway#Molde (More og Romsdal)#62.7667#7.5#0#1
+Norway#Molde (Sogn og Fjordane)#60.9333#5.15#0#1
+Norway#Mosjoen#65.8333#13.2#0#1
+Norway#Moss#59.4367#10.6692#0#1
+Norway#Myre#68.9#15.0833#0#1
+Norway#Mysen#59.55#11.3333#0#1
+Norway#Naerbo#58.6667#5.65#0#1
+Norway#Naervik#61.45#5.25#0#1
+Norway#Namsos#64.4833#11.5#0#1
+Norway#Namsskogan#64.9167#13.1667#0#1
+Norway#Narvik#68.4356#17.4372#0#1
+Norway#Narvik Bay#68.4167#17.4167#0#1
+Norway#Nesan#64.8667#12.8833#0#1
+Norway#Nesna#66.2#13.0333#0#1
+Norway#Nordfjordeid#61.9#6#0#1
+Norway#Notodden#59.5667#9.2833#0#1
+Norway#Odda#60.0667#6.55#0#1
+Norway#Orkanger#63.3167#9.8667#0#1
+Norway#Orsta#62.2#6.15#0#1
+Norway#Os#67.5333#14.8333#0#1
+Norway#Os i Osterdalen#62.5#11.2#0#1
+Norway#Oslo#59.9167#10.75#0#1
+Norway#Oslo Fylke#59.9#10.7167#0#1
+Norway#Oslo-Havn#59.9#10.7667#0#1
+Norway#Oslofjord#59.3464#10.5897#0#1
+Norway#Otta#61.7667#9.5167#0#1
+Norway#Ottestad#60.7333#11.15#0#1
+Norway#Ovre Ardal#61.3167#7.8#0#1
+Norway#Porsgrunn#59.15#9.6667#0#1
+Norway#Qvandal#60.4833#6.6#0#1
+Norway#Rakkestad#59.4333#11.35#0#1
+Norway#Rana#66.4167#14.5833#0#1
+Norway#Randaberg#59#5.6#0#1
+Norway#Ringerike#60.1167#10.2667#0#1
+Norway#Risor#58.7167#9.2333#0#1
+Norway#Rjukan#59.8833#8.6#0#1
+Norway#Rognan#67.1#15.3833#0#1
+Norway#Roros#62.5833#11.4#0#1
+Norway#Rorvik#64.85#11.2333#0#1
+Norway#Rykkem#62.8767#8.4833#0#1
+Norway#Sande Fjord#59.0333#10.2667#0#1
+Norway#Sandefjord#59.1333#10.2333#0#1
+Norway#Sandnes (Nordland)#66.1833#13.05#0#1
+Norway#Sandnes (Rogaland)#58.85#5.7333#0#1
+Norway#Sandnesosen#60.8056#5.2864#0#1
+Norway#Sandnessjoen#66.0167#12.6333#0#1
+Norway#Sandvika (Hordaland)#60.4114#5.2367#0#1
+Norway#Sandvika (Akershus)#59.8917#10.5247#0#1
+Norway#Sarpsborg#59.2833#11.1167#0#1
+Norway#Selbu#63.2167#11.0333#0#1
+Norway#Setermoen#68.8667#18.3667#0#1
+Norway#Sjovegan#68.8733#17.8644#0#1
+Norway#Ski#59.7167#10.8333#0#1
+Norway#Skien#59.2#9.6#0#1
+Norway#Skorkeberg#59.6625#10.6692#0#1
+Norway#Skui#59.9333#10.4333#0#1
+Norway#Sogndal (Sogn og Fjordane)#61.2333#7.1#0#1
+Norway#Sogndal (Rogaland)#58.3333#6.3#0#1
+Norway#Sola#58.8833#5.6#0#1
+Norway#Sortland (Sor-Trondelag)#63.2667#9.9833#0#1
+Norway#Sortland (Nordland)#68.25#13.6#0#1
+Norway#Sotra#60.3011#5.0828#0#1
+Norway#Spydeberg#59.6#11.0833#0#1
+Norway#Stavanger#58.9667#5.75#0#1
+Norway#Steinkjer#64.1667#12.5#0#1
+Norway#Stjordal#63.45#10.95#0#1
+Norway#Stokke#59.2167#10.2833#0#1
+Norway#Stokke Herad#59.25#10.25#0#1
+Norway#Stokmarknes#68.5619#14.9086#0#1
+Norway#Stord#59.7889#5.5117#0#1
+Norway#Storslett#69.5833#20.5833#0#1
+Norway#Strommen#59.95#11#0#1
+Norway#Stryn#61.9167#6.7833#0#1
+Norway#Sundal#62#5.5833#0#1
+Norway#Sunndal#62.6667#8.5667#0#1
+Norway#Sunndalsora#62.6667#8.55#0#1
+Norway#Surnadal#62.9833#8.7#0#1
+Norway#Svelgen#60.4572#4.9569#0#1
+Norway#Svelgen#61.7667#5.3#0#1
+Norway#Svolvaer#68.2333#14.5667#0#1
+Norway#Sykkylven#62.4#6.5833#0#1
+Norway#Tananger#58.9333#5.6#0#1
+Norway#Tingvoll#62.9119#8.1814#0#1
+Norway#Tolga#62.4167#11#0#1
+Norway#Tolga-Os#62.4#11.2#0#1
+Norway#Tonsberg#59.2858#10.4181#0#1
+Norway#Troms Fylke#69.25#19.6667#0#1
+Norway#Tromsa#63.9214#8.8661#0#1
+Norway#Tromso#69.6667#18.9667#0#1
+Norway#Tromso Island#69.6667#18.95#0#1
+Norway#Trondheim#63.4167#10.4167#0#1
+Norway#Trondheim Bay#63.4333#10.3833#0#1
+Norway#Trysil#61.3167#12.2667#0#1
+Norway#Tynset#62.25#10.6667#0#1
+Norway#Ulsteinvik#62.3333#5.8833#0#1
+Norway#Vaagaa#61.6667#9#0#1
+Norway#Vadso#70.0731#29.7697#0#1
+Norway#Vagamo#61.8833#9.1#0#1
+Norway#Vang#61.1333#8.5833#0#1
+Norway#Vanse#58.1167#6.7#0#1
+Norway#Vardo#70.3667#31.1#0#1
+Norway#Varhaug#58.6167#5.65#0#1
+Norway#Verdal (Nord-Trondelag)#63.7833#11.5#0#1
+Norway#Verdal (Vest-Agder)#58.5#7.3333#0#1
+Norway#Vigeland#58.0833#7.3#0#1
+Norway#Vik#61.35#5.1667#0#1
+Norway#Vik i Sogn#61.0833#6.5667#0#1
+Norway#Vikersund#59.9833#10.0333#0#1
+Norway#Vikna Herad#64.9#10.9167#0#1
+Norway#Volda#62.15#6.1#0#1
+Norway#Voss#60.65#6.4333#0#1
+Norway#Western Harbor#58.1333#7.9833#0#1
+Norway#Zakariasvatn#62.3167#7.2667#0#1
+Norway#Zille Bronken#60.7#11.6167#0#1

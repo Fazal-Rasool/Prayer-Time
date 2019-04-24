@@ -1,0 +1,7 @@
+﻿
+Solomon Islands#Auki#-8.76667#160.7#158#11
+Solomon Islands#Gizo#-8.1#156.85#-9999#11
+Solomon Islands#Honiara#-9.43333#159.95#12#11
+Solomon Islands#Kirakira#-10.45#161.9167#153#11
+Solomon Islands#Lata#-10.7167#165.8333#1#11
+Solomon Islands#Tulaghi#-9.1#160.15#1#11

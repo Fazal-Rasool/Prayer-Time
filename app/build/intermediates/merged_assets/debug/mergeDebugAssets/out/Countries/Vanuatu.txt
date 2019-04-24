@@ -1,0 +1,291 @@
+﻿
+Vanuatu#Camp Chapuis#-15.5167#167.1833#0#11
+Vanuatu#Canal du Bruat#-15.6167#167.1667#0#11
+Vanuatu#Canal du Segond#-15.55#167.15#0#11
+Vanuatu#Cap Ashuk#-16.4167#167.7833#0#11
+Vanuatu#Cap Ashwell#-13.8333#167.55#0#11
+Vanuatu#Cap Cone#-16.85#168.4667#0#11
+Vanuatu#Cap Doucere#-16.4667#167.8333#0#11
+Vanuatu#Cap du Sud#-15.6667#166.8333#0#11
+Vanuatu#Cap Dzele#-14.9333#167.0167#0#11
+Vanuatu#Cap Enangiang#-19.3333#169.35#0#11
+Vanuatu#Cap Foreland#-16.7#168.1167#0#11
+Vanuatu#Cap Nord#-15.8833#167.2#0#11
+Vanuatu#Cap Ririna#-16.8#168.4833#0#11
+Vanuatu#Cap Tamitchi#-19.2167#169.6#0#11
+Vanuatu#Cap Taramotou#-19.2833#169.5833#0#11
+Vanuatu#Cape Mataavea#-15.6333#166.7667#0#11
+Vanuatu#Cape Nahoi#-14.65#166.6167#0#11
+Vanuatu#Cape Raraow#-17.6333#168.2#0#11
+Vanuatu#Cape Sinotarip#-15.65#166.85#0#11
+Vanuatu#Cape Touar#-14.9667#166.9667#0#11
+Vanuatu#Cascade de la Sarakata#-15.4333#167.1#0#11
+Vanuatu#Cascade de Nimiraduno#-19.5667#169.4#0#11
+Vanuatu#Cascadede Santa Maria#-14.2667#167.55#0#11
+Vanuatu#Casuarina Point#-15.8667#168.1667#0#11
+Vanuatu#Centre#-17.7342#168.3006#0#11
+Vanuatu#Chenal de l Est#-16.5#167.8333#0#11
+Vanuatu#Chenal du Guichen#-13.2667#166.5833#0#11
+Vanuatu#Chenal du Nord-Est#-16.4833#167.8167#0#11
+Vanuatu#Chenal du Sud-Ouest#-16.55#167.7667#0#11
+Vanuatu#Ching onponi Point#-15.9333#167.3333#0#11
+Vanuatu#Chinohouse#-16.05#167.3833#0#11
+Vanuatu#Christina Point#-18.7667#168.9833#0#11
+Vanuatu#Clemenceau Point#-15.5167#167.1667#0#11
+Vanuatu#Cliff Bay#-15.3#167.9833#0#11
+Vanuatu#Colline Carree#-15.5667#167.0167#0#11
+Vanuatu#Colline de Zirea#-17.6#168.3333#0#11
+Vanuatu#Colline Evelyn#-16.1667#167.3667#0#11
+Vanuatu#Colline Front#-15.55#166.8833#0#11
+Vanuatu#Colline Karriomba#-16.1333#167.4167#0#11
+Vanuatu#Colline Mackenzie#-17.8#168.4167#0#11
+Vanuatu#Colline Noire#-16.5833#168.1833#0#11
+Vanuatu#Colline Nub#-15.65#166.8#0#11
+Vanuatu#Colline Wainisi#-16.1167#167.3833#0#11
+Vanuatu#Constantine Bank#-20.5#171.3333#0#11
+Vanuatu#Cook Reef#-17.05#168.2667#0#11
+Vanuatu#Cooks Rock#-19.5167#169.4667#0#11
+Vanuatu#Coral Sea#-20#155#0#11
+Vanuatu#Cotamtam#-15.3667#166.7667#0#11
+Vanuatu#Crab Bay#-16.1667#167.5167#0#11
+Vanuatu#Craig Cove#-16.2667#167.9167#0#11
+Vanuatu#Creek Ai Riviere#-17.6167#168.2333#0#11
+Vanuatu#Crique Buguta#-16.8333#168.25#0#11
+Vanuatu#Cumberland#-14.7333#166.6#0#11
+Vanuatu#Dalahoum#-16.2#168.15#0#11
+Vanuatu#Dalops#-15.0167#166.7833#0#11
+Vanuatu#Dalotaropou#-14.9667#166.75#0#11
+Vanuatu#Darbel#-17.7333#168.3#0#11
+Vanuatu#Day Patches#-16.8333#168.3333#0#11
+Vanuatu#De Chauliac Bank#-16.6833#167.8333#0#11
+Vanuatu#Delap#-15.9833#168.2#0#11
+Vanuatu#Deli#-16.25#168.2#0#11
+Vanuatu#Detroit de Bougainville#-15.8333#167.1667#0#11
+Vanuatu#Detroit de Selwyn#-16.0667#168.1833#0#11
+Vanuatu#Deuriv#-14.3667#167.5333#0#11
+Vanuatu#Devel#-15.95#167.25#0#11
+Vanuatu#Diamond Passage#-15.4667#167.25#0#11
+Vanuatu#Dip Point Anchorage#-16.2167#167.9333#0#11
+Vanuatu#Dirihi#-15.6667#168.1667#0#11
+Vanuatu#Dixon Reef#-16.35#167.35#0#11
+Vanuatu#Dolphin Island#-15.0333#167.0833#0#11
+Vanuatu#Donmat#-13.5167#167.3333#0#11
+Vanuatu#Douane#-15.5333#167.15#0#11
+Vanuatu#Doubtful Bay#-15.3#168.1667#0#11
+Vanuatu#Douen#-16.3667#167.7667#0#11
+Vanuatu#Dovin Doui#-15.4#167.7667#0#11
+Vanuatu#Drivai#-16.45#167.8167#0#11
+Vanuatu#Dudley Channel#-13.8833#167.5833#0#11
+Vanuatu#Dumanoir Channel#-13.4#166.65#0#11
+Vanuatu#Faetini#-17.0833#168.35#0#11
+Vanuatu#Falan#-15.3833#167.0333#0#11
+Vanuatu#Falatasa#-15.4#167.0167#0#11
+Vanuatu#Falea#-17#168.6#0#11
+Vanuatu#Famban#-16.2167#168.1833#0#11
+Vanuatu#Fanarara#-16.2167#167.9667#0#11
+Vanuatu#Fanavat#-16.3#167.4167#0#11
+Vanuatu#Fandoue#-15.3167#167.8167#0#11
+Vanuatu#Fanebal#-16.1833#168.1#0#11
+Vanuatu#Fanmaramara Point#-15.9833#168.1833#0#11
+Vanuatu#Fanpatey#-15.4#168.1333#0#11
+Vanuatu#Fanrereo#-16.15#168.1167#0#11
+Vanuatu#Fantiekon#-16.1333#168.15#0#11
+Vanuatu#Farealapa#-17.45#168.35#0#11
+Vanuatu#Faroun#-16.5167#167.6333#0#11
+Vanuatu#Fate#-17.6667#168.4167#0#11
+Vanuatu#Fatfosafosa#-15.1833#168.1#0#11
+Vanuatu#Fatmar#-15.8833#168.2#0#11
+Vanuatu#Fatouleokakoula#-17.5#168.4#0#11
+Vanuatu#Fautem#-16.2333#167.9333#0#11
+Vanuatu#Favendao#-15.2667#168.1667#0#11
+Vanuatu#Fedmogkoum#-18.8667#169.0167#0#11
+Vanuatu#Fejian Bay#-19.5333#169.2667#0#11
+Vanuatu#Filakara#-16.8167#168.4#0#11
+Vanuatu#Fingalato#-15.35#167.8#0#11
+Vanuatu#Finoua#-16.35#167.7333#0#11
+Vanuatu#Fiourou#-15.6333#166.8667#0#11
+Vanuatu#Fitchar#-16.2667#167.6667#0#11
+Vanuatu#Fona#-16.1167#168.1167#0#11
+Vanuatu#Fonbeta#-15.95#168.25#0#11
+Vanuatu#Fonte#-16.2#167.9833#0#11
+Vanuatu#Fonteng#-16.1167#168.1833#0#11
+Vanuatu#Fontengro#-16.1167#168.1667#0#11
+Vanuatu#Fonwe#-16.1#168.15#0#11
+Vanuatu#Fonwor#-16.1667#168.2#0#11
+Vanuatu#Forari Bay#-17.6833#168.55#0#11
+Vanuatu#Foreas#-13.9333#167.45#0#11
+Vanuatu#Foreland#-16.6833#168.1333#0#11
+Vanuatu#Fortsenal#-15.45#166.8833#0#11
+Vanuatu#Foswaravo#-15.3833#167.9167#0#11
+Vanuatu#Fousroumbous#-15.45#166.9167#0#11
+Vanuatu#Framnais#-17.6833#168.2833#0#11
+Vanuatu#Futunah#-19.5333#170.2167#0#11
+Vanuatu#Fwimambwetoli#-15.3167#167.8333#0#11
+Vanuatu#Fwimatal#-15.45#167.0333#0#11
+Vanuatu#Fwimberougou#-15.3167#167.85#0#11
+Vanuatu#Garet#-14.2667#167.5#0#11
+Vanuatu#Gariroumroum#-16.1333#167.4333#0#11
+Vanuatu#Gavigamana#-13.1333#166.5667#0#11
+Vanuatu#Geregon#-13.9167#167.45#0#11
+Vanuatu#Geren#-15.6333#168.1167#0#11
+Vanuatu#Gilendoungi#-15.1167#168.0667#0#11
+Vanuatu#Gnierenioumen#-13.7#167.6167#0#11
+Vanuatu#Goat Island#-18.7#169.2833#0#11
+Vanuatu#Gog#-14.2833#167.5#0#11
+Vanuatu#Goul#-15.9333#168.2667#0#11
+Vanuatu#Goulouf#-15.8833#168.2667#0#11
+Vanuatu#Gousounransit Point#-15.9833#168.2667#0#11
+Vanuatu#Grand Quai#-17.7517#168.2847#0#11
+Vanuatu#Grande de Baie#-16.6833#168.25#0#11
+Vanuatu#Grande Passe#-13.3#166.6167#0#11
+Vanuatu#Grande Plaine de Cendres#-16.25#168.1333#0#11
+Vanuatu#Green Hill#-19.3833#169.2833#0#11
+Vanuatu#Green Point#-19.6333#169.35#0#11
+Vanuatu#Grempo#-15.2667#167.0667#0#11
+Vanuatu#Grotte Hitibrong#-16.3#167.3667#0#11
+Vanuatu#Gwei Ngak Reef#-13.0667#166.5667#0#11
+Vanuatu#Haiite Island#-15.4333#167.25#0#11
+Vanuatu#Halhal#-16.1167#168.1333#0#11
+Vanuatu#Halos#-16.5333#168.35#0#11
+Vanuatu#Halpalak#-16#167.1833#0#11
+Vanuatu#Hamelinks#-16.1167#167.4#0#11
+Vanuatu#Hampet#-16.1167#167.4333#0#11
+Vanuatu#Hangar#-16.1667#168.1#0#11
+Vanuatu#Hapuna River#-15.1667#166.85#0#11
+Vanuatu#Harbelbel#-16.2#167.5#0#11
+Vanuatu#Harimal#-16.1#168.1667#0#11
+Vanuatu#Haro Point#-14.25#167.4#0#11
+Vanuatu#Hat Island (Sanma)#-15.6333#166.9333#0#11
+Vanuatu#Hat Island (or NH08)#-17.65#168.1333#0#11
+Vanuatu#Havannah Harbour#-17.5833#168.2333#0#11
+Vanuatu#Havoumala#-16.1667#167.5#0#11
+Vanuatu#Hawor#-16.15#168.1333#0#11
+Vanuatu#Hebel#-16.2833#167.65#0#11
+Vanuatu#Helendaa#-16.2833#168#0#11
+Vanuatu#Hemebouer#-16.25#167.6167#0#11
+Vanuatu#Henaff Point#-15.35#167.2#0#11
+Vanuatu#Herat#-16.35#168.2#0#11
+Vanuatu#Hibao#-16.7667#168.15#0#11
+Vanuatu#Hideaway Island#-17.7#168.25#0#11
+Vanuatu#Hillard Channel#-17.6167#168.2167#0#11
+Vanuatu#Hinchinbrook Island#-17.4333#168.35#0#11
+Vanuatu#Hiw#-13.1333#166.55#0#11
+Vanuatu#Hog Harbour#-15.15#167.1#0#11
+Vanuatu#Hokoua#-14.6667#166.6167#0#11
+Vanuatu#Hokua#-14.7#166.6#0#11
+Vanuatu#Holen#-16.5167#168.3167#0#11
+Vanuatu#Homo Bay#-15.95#168.1833#0#11
+Vanuatu#Honeram#-16.2#167.4833#0#11
+Vanuatu#Hongrai#-18.8#169.1333#0#11
+Vanuatu#Honnfar#-16.1167#167.3#0#11
+Vanuatu#Horrok#-16.1333#167.2833#0#11
+Vanuatu#Hotnonsouban#-15.8#168.1667#0#11
+Vanuatu#Houbikou#-15.7167#168.1333#0#11
+Vanuatu#Houle#-15.85#168.25#0#11
+Vanuatu#Houne#-18.8167#169#0#11
+Vanuatu#Hounnbank#-16.6#167.45#0#11
+Vanuatu#Hourma#-16.5667#167.4833#0#11
+Vanuatu#Jardins de Deuriv#-14.35#167.5333#0#11
+Vanuatu#Jasmori#-14.9167#168.0667#0#11
+Vanuatu#Jononou#-16.2833#167.5833#0#11
+Vanuatu#Jourdain#-15.1667#166.9#0#11
+Vanuatu#Jowi#-16.6333#168.15#0#11
+Vanuatu#Kaintsouro#-15.4667#166.8833#0#11
+Vanuatu#Kaipiloa#-15.4#166.8#0#11
+Vanuatu#Kakula#-17.5167#168.4#0#11
+Vanuatu#Kamel Lewawa#-15.65#168.1167#0#11
+Vanuatu#Kamelbageo#-15.3167#167.9667#0#11
+Vanuatu#Kariamaoura#-15.7833#166.7167#0#11
+Vanuatu#Karne#-15.95#167.3167#0#11
+Vanuatu#Karo#-16.0333#167.1833#0#11
+Vanuatu#Kasserouarou#-16.2333#167.5333#0#11
+Vanuatu#Katbol#-16.1833#167.4667#0#11
+Vanuatu#Keamu#-20.2#169.8167#0#11
+Vanuatu#Kere#-14.7167#166.5667#0#11
+Vanuatu#Kereboa#-15.3#166.65#0#11
+Vanuatu#Kereliou#-14.3167#167.5833#0#11
+Vanuatu#Kerenaoura#-15.6667#166.7833#0#11
+Vanuatu#Kerenolas#-15.5833#166.7667#0#11
+Vanuatu#Kerentavou#-15.4833#166.9#0#11
+Vanuatu#Kereowia#-15.3167#166.65#0#11
+Vanuatu#Kererara#-15.6333#166.8333#0#11
+Vanuatu#Kereway#-15.5167#166.7#0#11
+Vanuatu#Khuneveo#-16.5333#167.8167#0#11
+Vanuatu#Kindou#-16.3333#167.3833#0#11
+Vanuatu#Kingdove Bay#-16.6333#168.1333#0#11
+Vanuatu#Koimarama#-13.9#167.4667#0#11
+Vanuatu#Kole#-15.2333#167.1667#0#11
+Vanuatu#Koleakar#-14.85#166.6333#0#11
+Vanuatu#Komae#-14.7167#166.5833#0#11
+Vanuatu#Konaekeun#-19.4833#169.3#0#11
+Vanuatu#Koulbaga#-15.6833#168.1333#0#11
+Vanuatu#Koulouwan#-15.4667#166.8167#0#11
+Vanuatu#Kouroumanpe#-16.8833#168.55#0#11
+Vanuatu#Kuru#-14.35#167.45#0#11
+Vanuatu#Kuwae#-16.9#168.55#0#11
+Vanuatu#Kwakea#-13.9167#167.4833#0#11
+Vanuatu#Kwanglav#-13.8#167.5333#0#11
+Vanuatu#Port Vila#-17.75#168.3#0#11
+Vanuatu#Qakea#-13.8833#167.6#0#11
+Vanuatu#Quai de la Star#-17.7517#168.2856#0#11
+Vanuatu#Quion Hill#-17.5556#168.4333#0#11
+Vanuatu#Qunassoule#-15.0833#166.6167#0#11
+Vanuatu#Quoin Hill#-17.55#168.4167#0#11
+Vanuatu#Quora#-14.8333#166.7333#0#11
+Vanuatu#Stade#-17.7417#168.3017#0#11
+Vanuatu#Star Peak#-14.45#168.05#0#11
+Vanuatu#Steaming Hill Lake#-14.2833#167.5333#0#11
+Vanuatu#Sugar Loaf Island#-13.85#167.7#0#11
+Vanuatu#Sugarloaf Point#-16.7667#168.45#0#11
+Vanuatu#Sulphur Bay#-19.5167#169.45#0#11
+Vanuatu#Sulphur River#-13.8333#167.5333#0#11
+Vanuatu#Suretimeat#-13.7833#167.4667#0#11
+Vanuatu#Surundu Bay#-15.4667#167.2167#0#11
+Vanuatu#Uduna Passage#-17.4875#168.35#0#11
+Vanuatu#Ulveah#-16.5#168.35#0#11
+Vanuatu#Um-Una#-15.4833#167.25#0#11
+Vanuatu#Umpon Yelongi#-18.9167#169.0833#0#11
+Vanuatu#Undine Bay#-17.5167#168.35#0#11
+Vanuatu#Undine Passage#-15.4#167.2333#0#11
+Vanuatu#Unpongkor#-18.8167#169.0167#0#11
+Vanuatu#Ur#-16.6#167.4667#0#11
+Vanuatu#Uranaleilei Reef#-17.5167#168.4222#0#11
+Vanuatu#Urelapa#-15.6167#167.0167#0#11
+Vanuatu#Ureparapara#-13.5333#167.3333#0#11
+Vanuatu#Uri#-16.1#167.45#0#11
+Vanuatu#Uripiv#-16.0833#167.45#0#11
+Vanuatu#Utanlangi#-17.4333#168.3222#0#11
+Vanuatu#Uvwore#-18.7833#169.2667#0#11
+Vanuatu#Yakoukak#-19.55#169.3167#0#11
+Vanuatu#Yakounetikaoulil#-19.5167#169.3167#0#11
+Vanuatu#Yamnouroue#-18.7667#169.05#0#11
+Vanuatu#Yanamahou#-19.4833#169.4167#0#11
+Vanuatu#Yanamwakel#-19.5167#169.4333#0#11
+Vanuatu#Yanaouhiya#-19.5333#169.2833#0#11
+Vanuatu#Yanavatang#-19.5667#169.4333#0#11
+Vanuatu#Yang abale#-16.2833#167.4333#0#11
+Vanuatu#Yankoula#-19.5333#169.4#0#11
+Vanuatu#Yankwaneneay#-19.6167#169.35#0#11
+Vanuatu#Yanmileun#-19.55#169.4#0#11
+Vanuatu#Yaoukouriruang#-19.5667#169.35#0#11
+Vanuatu#Yapimay#-19.5667#169.3167#0#11
+Vanuatu#Yapnawitaleng#-19.55#169.3333#0#11
+Vanuatu#Yar#-15.1#167.0833#0#11
+Vanuatu#Yarouareung#-19.65#169.3833#0#11
+Vanuatu#Yarri#-18.8167#169.0833#0#11
+Vanuatu#Yasur#-19.5333#169.4333#0#11
+Vanuatu#Yates#-15.6#166.9#0#11
+Vanuatu#Yawi#-16.6833#168.2667#0#11
+Vanuatu#Yelewar#-16.2833#167.15#0#11
+Vanuatu#Yelowouwou#-16.2833#167.9667#0#11
+Vanuatu#Yemyu Cove#-16.65#168.1333#0#11
+Vanuatu#Yeno#-16.25#167.9833#0#11
+Vanuatu#Yenseoue#-16.3#167.9667#0#11
+Vanuatu#Yentobo#-16.3#168.0167#0#11
+Vanuatu#Yerou#-19.5833#169.3333#0#11
+Vanuatu#Yetakape#-19.6333#169.45#0#11
+Vanuatu#Yetap#-19.5833#169.3167#0#11
+Vanuatu#Yeu Metenia#-13.1167#166.55#0#11
+Vanuatu#Yewao Point#-19.5333#169.5#0#11
+Vanuatu#Yimnakayip#-19.4#169.3#0#11
+Vanuatu#Yokowo#-15.2333#166.6667#0#11

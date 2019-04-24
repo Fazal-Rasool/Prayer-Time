@@ -1,0 +1,101 @@
+﻿
+Switzerland#Aarau#47.38333#8.05#406#1
+Switzerland#Adliswil#47.30997#8.524625#452#1
+Switzerland#Allschwil#47.55#7.533333#311#1
+Switzerland#Aussersihl#47.37752#8.521269#409#1
+Switzerland#Baar#47.2#8.516666#445#1
+Switzerland#Baden#47.47333#8.305922#369#1
+Switzerland#Basel#47.56667#7.6#257#1
+Switzerland#Bellinzona#46.19278#9.017029#228#1
+Switzerland#Bern#46.94809#7.447443#527#1
+Switzerland#Biel#47.1324#7.24411#433#1
+Switzerland#Binningen#47.54021#7.569323#314#1
+Switzerland#Bulach#47.52197#8.540495#421#1
+Switzerland#Burgdorf#47.05901#7.627859#592#1
+Switzerland#Carouge#46.18096#6.139212#412#1
+Switzerland#Cham#47.18333#8.466667#413#1
+Switzerland#Chur#46.84986#9.532871#631#1
+Switzerland#Dietikon#47.40165#8.400146#386#1
+Switzerland#Dubendorf#47.39724#8.618716#440#1
+Switzerland#Einsiedeln#47.11667#8.75#1036#1
+Switzerland#Emmen#47.08333#8.3#433#1
+Switzerland#Frauenfeld#47.55#8.9#478#1
+Switzerland#Freienbach#47.20534#8.758421#411#1
+Switzerland#Fribourg#46.8#7.15#562#1
+Switzerland#Geneve#46.20222#6.145692#375#1
+Switzerland#Gossau#47.41667#9.25#669#1
+Switzerland#Grenchen#47.1921#7.395859#465#1
+Switzerland#Herisau#47.38615#9.279156#804#1
+Switzerland#Horgen#47.25579#8.600272#425#1
+Switzerland#Jona#47.22983#8.838844#417#1
+Switzerland#Kloten#47.45152#8.584907#450#1
+Switzerland#Koniz#46.92436#7.41457#606#1
+Switzerland#Kreuzlingen#47.65#9.183333#407#1
+Switzerland#Kriens#47.03333#8.283333#474#1
+Switzerland#La Chaux-de-Fonds#47.09993#6.825857#1034#1
+Switzerland#Lancy#46.18981#6.114407#394#1
+Switzerland#Langenthal#47.21667#7.783333#468#1
+Switzerland#Lausanne#46.516#6.632824#429#1
+Switzerland#Le Chatelard#46.45#6.916667#822#1
+Switzerland#Littau#47.05#8.25#616#1
+Switzerland#Locarno#46.17086#8.799534#196#1
+Switzerland#Lugano#46.01008#8.960037#315#1
+Switzerland#Luzern#47.05048#8.306351#435#1
+Switzerland#Martigny-Ville#46.10276#7.072449#468#1
+Switzerland#Meyrin#46.22842#6.070976#435#1
+Switzerland#Monthey#46.25#6.95#466#1
+Switzerland#Montreux#46.43301#6.91143#394#1
+Switzerland#Morges#46.51127#6.498542#370#1
+Switzerland#Muttenz#47.52271#7.645111#363#1
+Switzerland#Neuchatel#47#6.966667#429#1
+Switzerland#Nyon#46.38318#6.239548#370#1
+Switzerland#Oberwinterthur (Kreis 2)#47.51692#8.768635#463#1
+Switzerland#Olten#47.35#7.916667#459#1
+Switzerland#Onex#46.18333#6.1#395#1
+Switzerland#Pratteln#47.52071#7.693563#292#1
+Switzerland#Pully#46.51027#6.661835#448#1
+Switzerland#Rapperswil#47.22557#8.822279#414#1
+Switzerland#Renens#46.53333#6.583334#411#1
+Switzerland#Sankt Gallen#47.42971#9.376144#671#1
+Switzerland#Schaffhausen#47.7#8.633333#399#1
+Switzerland#Schwyz#47.01667#8.65#564#1
+Switzerland#Seen (Kreis 3)#47.47646#8.769965#511#1
+Switzerland#Sierre#46.29192#7.535591#543#1
+Switzerland#Sion#46.23333#7.35#496#1
+Switzerland#Solothurn#47.20791#7.537136#435#1
+Switzerland#Stadt Winterthur (Kreis 1)#47.49494#8.719545#457#1
+Switzerland#Steffisburg#46.78333#7.633333#589#1
+Switzerland#Thalwil#47.29175#8.563505#406#1
+Switzerland#Thonex#46.18815#6.199036#417#1
+Switzerland#Thun#46.75#7.616667#560#1
+Switzerland#Uster#47.34713#8.720911#478#1
+Switzerland#Vernier#46.21702#6.084967#421#1
+Switzerland#Vevey#46.46116#6.843281#412#1
+Switzerland#Wadenswil#47.22683#8.668704#406#1
+Switzerland#Wettingen#47.46667#8.316667#420#1
+Switzerland#Wil#47.46152#9.045525#575#1
+Switzerland#Winterthur#47.5#8.75#456#1
+Switzerland#Wohlen#47.36667#8.283333#456#1
+Switzerland#Yverdon-les-Bains#46.78333#6.65#459#1
+Switzerland#Zuerich (Kreis 10)#47.40773#8.500499#540#1
+Switzerland#Zuerich (Kreis 10) / Hoengg#47.40313#8.497105#504#1
+Switzerland#Zuerich (Kreis 10) / Wipkingen#47.39503#8.525291#466#1
+Switzerland#Zuerich (Kreis 11)#47.42326#8.521659#450#1
+Switzerland#Zuerich (Kreis 11) / Affoltern#47.41814#8.5122#450#1
+Switzerland#Zuerich (Kreis 11) / Oerlikon#47.40823#8.542576#458#1
+Switzerland#Zuerich (Kreis 11) / Seebach#47.42181#8.547792#430#1
+Switzerland#Zuerich (Kreis 12)#47.40372#8.576079#428#1
+Switzerland#Zuerich (Kreis 2)#47.33756#8.521101#434#1
+Switzerland#Zuerich (Kreis 2) / Wollishofen#47.3401#8.531339#426#1
+Switzerland#Zuerich (Kreis 3)#47.35785#8.502961#462#1
+Switzerland#Zuerich (Kreis 3) / Alt-Wiedikon#47.36201#8.514973#420#1
+Switzerland#Zuerich (Kreis 3) / Sihlfeld#47.37382#8.511639#416#1
+Switzerland#Zuerich (Kreis 6)#47.39223#8.543807#530#1
+Switzerland#Zuerich (Kreis 6) / Unterstrass#47.3953#8.537212#485#1
+Switzerland#Zuerich (Kreis 7)#47.37328#8.580377#662#1
+Switzerland#Zuerich (Kreis 8)#47.3548#8.560973#467#1
+Switzerland#Zuerich (Kreis 9)#47.38245#8.479932#418#1
+Switzerland#Zuerich (Kreis 9) / Albisrieden#47.37398#8.490074#432#1
+Switzerland#Zuerich (Kreis 9) / Altstetten#47.38946#8.485329#401#1
+Switzerland#Zug#47.16667#8.516666#503#1
+Switzerland#Zurich#47.36667#8.55#472#1

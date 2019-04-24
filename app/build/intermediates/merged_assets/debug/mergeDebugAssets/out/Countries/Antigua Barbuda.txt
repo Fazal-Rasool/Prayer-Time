@@ -1,0 +1,127 @@
+﻿
+Antigua Barbuda#Aberdeen Village#17.0667#-61.8167#0#-4
+Antigua Barbuda#Addison Shoal#17.1708#-61.7708#0#-4
+Antigua Barbuda#Antigua#17.05#-61.8#0#-4
+Antigua Barbuda#Ayres Creek#17.0667#-61.7#0#-4
+Antigua Barbuda#Bannister Bank#17.1833#-61.8833#0#-4
+Antigua Barbuda#Beggars Point#17.1667#-61.8#0#-4
+Antigua Barbuda#Bellevue Heights#17.1#-61.8167#0#-4
+Antigua Barbuda#Bethesda#17.05#-61.75#0#-4
+Antigua Barbuda#Billy Point#17.7333#-61.8667#0#-4
+Antigua Barbuda#Bird Islet Reef#17.1333#-61.75#0#-4
+Antigua Barbuda#Bishops#17.0333#-61.8167#0#-4
+Antigua Barbuda#Blubber Valley#17.0667#-61.8667#0#-4
+Antigua Barbuda#Boggy Peak#17.05#-61.85#0#-4
+Antigua Barbuda#Boland Village#17.0333#-61.8833#0#-4
+Antigua Barbuda#Boon Bay#17.1667#-61.8167#0#-4
+Antigua Barbuda#Boon Channel#17.15#-61.85#0#-4
+Antigua Barbuda#Boon Point#17.1667#-61.8333#0#-4
+Antigua Barbuda#Botts Peak#17.05#-61.8667#0#-4
+Antigua Barbuda#Brooks Old Mill#17.0167#-61.85#0#-4
+Antigua Barbuda#Byam Point#17.1333#-61.7167#0#-4
+Antigua Barbuda#Codrington#17.6333#-61.8167#0#-4
+Antigua Barbuda#Codrington Bank#17.45#-61.7833#0#-4
+Antigua Barbuda#Codrington Lagoon#17.65#-61.8333#0#-4
+Antigua Barbuda#Codrington Shoals#17.4833#-61.8333#0#-4
+Antigua Barbuda#Denfields#17.1#-61.85#0#-4
+Antigua Barbuda#Dian Point#17.1#-61.6833#0#-4
+Antigua Barbuda#Dickinson Bay#17.1667#-61.85#0#-4
+Antigua Barbuda#Dodington Bank#17.5#-61.75#0#-4
+Antigua Barbuda#Doigs#17.0167#-61.8#0#-4
+Antigua Barbuda#Dow Hill#17.0167#-61.75#0#-4
+Antigua Barbuda#Dulcina#17.5833#-61.8167#0#-4
+Antigua Barbuda#Dunnings Dam#17.0667#-61.85#0#-4
+Antigua Barbuda#Emanuel#17.0667#-61.8333#0#-4
+Antigua Barbuda#Falmouth#17.0167#-61.7833#0#-4
+Antigua Barbuda#Farley Bay#17.0833#-61.7167#0#-4
+Antigua Barbuda#Fellingo Shoal#17.1358#-61.7694#0#-4
+Antigua Barbuda#Fischer Creek#17.1333#-61.7833#0#-4
+Antigua Barbuda#Fisher Hill#17.0167#-61.8167#0#-4
+Antigua Barbuda#Fort Barrington#17.1333#-61.9#0#-4
+Antigua Barbuda#Fort William#17.0333#-61.7167#0#-4
+Antigua Barbuda#Freemans#17.05#-61.7833#0#-4
+Antigua Barbuda#Freetown#17.05#-61.7#0#-4
+Antigua Barbuda#Frys Bay#17.05#-61.9#0#-4
+Antigua Barbuda#Fullerton Point#17.1#-61.9#0#-4
+Antigua Barbuda#Galley Bay#17.1167#-61.9#0#-4
+Antigua Barbuda#Gilberts#17.0833#-61.7333#0#-4
+Antigua Barbuda#Goat Point#17.7333#-61.85#0#-4
+Antigua Barbuda#Golden Grove#17.1#-61.8333#0#-4
+Antigua Barbuda#Gravenor Bay#17.55#-61.75#0#-4
+Antigua Barbuda#Grays#17.0833#-61.7#0#-4
+Antigua Barbuda#Guana Bay#17.1167#-61.7333#0#-4
+Antigua Barbuda#Guana Island#17.1#-61.7333#0#-4
+Antigua Barbuda#Hale Gate#17.15#-61.7167#0#-4
+Antigua Barbuda#Harney Shoal#17.1972#-61.8033#0#-4
+Antigua Barbuda#Hawks Bill Bay#17.1167#-61.8833#0#-4
+Antigua Barbuda#Herberts#17.0833#-61.8#0#-4
+Antigua Barbuda#Hog Cliffs#17.65#-61.75#0#-4
+Antigua Barbuda#Horse Shoe Reef#17.0167#-61.7167#0#-4
+Antigua Barbuda#Hudson Cove#17.0333#-61.6833#0#-4
+Antigua Barbuda#Hudson Landing#17.6111#-61.8408#0#-4
+Antigua Barbuda#Hurst Shoals#17.1056#-61.9167#0#-4
+Antigua Barbuda#Indian Creek#17#-61.7333#0#-4
+Antigua Barbuda#Jennings#17.0833#-61.8667#0#-4
+Antigua Barbuda#John Hughes#17.05#-61.8167#0#-4
+Antigua Barbuda#Johnson Islet#17.0167#-61.8833#0#-4
+Antigua Barbuda#Langford Bay#17.17#-61.8383#0#-4
+Antigua Barbuda#Laurys Bay#17.1#-61.7#0#-4
+Antigua Barbuda#Ledwell Point#17.15#-61.8667#0#-4
+Antigua Barbuda#Liberta#17.0333#-61.7833#0#-4
+Antigua Barbuda#Lightfoots#17.1#-61.8#0#-4
+Antigua Barbuda#Lindsay Hill#17.1167#-61.7625#0#-4
+Antigua Barbuda#Little Duer#17.0667#-61.75#0#-4
+Antigua Barbuda#Lower Lyons#17.05#-61.7333#0#-4
+Antigua Barbuda#Maiden Island#17.15#-61.7667#0#-4
+Antigua Barbuda#Marble Hill#17.15#-61.8333#0#-4
+Antigua Barbuda#Marmora Reef#17.0167#-61.7333#0#-4
+Antigua Barbuda#Martello Tower#17.5942#-61.8292#0#-4
+Antigua Barbuda#Matthews#17.0667#-61.8#0#-4
+Antigua Barbuda#McKinnons Salt Pond#17.15#-61.8517#0#-4
+Antigua Barbuda#McNish Mountain#17.05#-61.8333#0#-4
+Antigua Barbuda#Mercer Creek#17.1#-61.7167#0#-4
+Antigua Barbuda#Mill Reef#17.05#-61.6667#0#-4
+Antigua Barbuda#Moor Islet#17.1667#-61.7667#0#-4
+Antigua Barbuda#Nanny Island#17.0667#-61.6833#0#-4
+Antigua Barbuda#Nanton Point#17#-61.75#0#-4
+Antigua Barbuda#New Winthorpes#17.15#-61.8#0#-4
+Antigua Barbuda#Newfield#17.0333#-61.7333#0#-4
+Antigua Barbuda#North Channnel#17.1167#-61.7#0#-4
+Antigua Barbuda#North Whelk#17.1583#-61.7292#0#-4
+Antigua Barbuda#Osbourn#17.1333#-61.8#0#-4
+Antigua Barbuda#Palaster Reef#17.5333#-61.75#0#-4
+Antigua Barbuda#Pares Village#17.0833#-61.75#0#-4
+Antigua Barbuda#Parham#17.0833#-61.7667#0#-4
+Antigua Barbuda#Paynters#17.1167#-61.8#0#-4
+Antigua Barbuda#Pearns Bay#17.0833#-61.9#0#-4
+Antigua Barbuda#Pelican Bay#17.5667#-61.7333#0#-4
+Antigua Barbuda#Pelican Shoal#17.1#-61.9167#0#-4
+Antigua Barbuda#Picarts Bay#17.0333#-61.9#0#-4
+Antigua Barbuda#Pillar Rock#17.1333#-61.8833#0#-4
+Antigua Barbuda#Pinching Bay#17.1#-61.9333#0#-4
+Antigua Barbuda#Potters#17.0833#-61.8167#0#-4
+Antigua Barbuda#Procters Point#17#-61.7833#0#-4
+Antigua Barbuda#Rabbit Island#17.1333#-61.7333#0#-4
+Antigua Barbuda#Red Hill Dam#17.0333#-61.75#0#-4
+Antigua Barbuda#Redonda#16.9167#-62.3167#0#-4
+Antigua Barbuda#Reeds Point#17.0667#-61.8833#0#-4
+Antigua Barbuda#Ricket Harbour#17.0667#-61.6667#0#-4
+Antigua Barbuda#Saint John#17.1167#-61.85#0#-4
+Antigua Barbuda#Saint John s Road#17.15#-61.875#0#-4
+Antigua Barbuda#Saint Johns Harbor#17.1333#-61.8667#0#-4
+Antigua Barbuda#Saint Johnston#17.1167#-61.8333#0#-4
+Antigua Barbuda#The Caves#17.6833#-61.7833#0#-4
+Antigua Barbuda#The Cove#17.1333#-61.85#0#-4
+Antigua Barbuda#The Dockyard#17#-61.7667#0#-4
+Antigua Barbuda#The Pinnacle#16.9333#-62.3333#0#-4
+Antigua Barbuda#The Sisters#17.15#-61.8833#0#-4
+Antigua Barbuda#Tuson Rock#17.6167#-61.8667#0#-4
+Antigua Barbuda#Urlings#17.0333#-61.8667#0#-4
+Antigua Barbuda#Vernon Island#17.1167#-61.7667#0#-4
+Antigua Barbuda#Vernons#17.1#-61.7667#0#-4
+Antigua Barbuda#Warrington Bank#17.1458#-61.8833#0#-4
+Antigua Barbuda#Watsons#17.05#-61.6833#0#-4
+Antigua Barbuda#Weymouth Reef#17.1322#-61.9311#0#-4
+Antigua Barbuda#White Cliff#17.5333#-61.7333#0#-4
+Antigua Barbuda#Winthorp Bay#17.15#-61.7833#0#-4
+Antigua Barbuda#Woods#17.1333#-61.8167#0#-4

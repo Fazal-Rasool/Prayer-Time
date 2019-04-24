@@ -1,0 +1,12 @@
+﻿
+Micronesia#Colonia#9.514444#138.1292#-9999#11
+Micronesia#Kolonia#6.963889#158.2083#1#11
+Micronesia#Malem#5.288611#163.0239#6#11
+Micronesia#Nan Uh#6.950278#158.2711#2#11
+Micronesia#Paata#7.386111#151.8733#1#11
+Micronesia#Palikir#6.916667#158.15#159#11
+Micronesia#Tafunsak#5.363056#162.9822#181#11
+Micronesia#Tamil#9.516667#138.15#11#11
+Micronesia#Tonoas#7.366667#151.9#-9999#11
+Micronesia#Toynim#5.314722#163.0036#290#11
+Micronesia#Weno#7.445833#151.85#49#11

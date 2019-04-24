@@ -1,0 +1,111 @@
+﻿Dominica#Anse a Liane#15.4833#-61.4667#0#-4
+Dominica#Anse Bateaux#15.25#15.25#0#-4
+Dominica#Anse Du Me#15.6#-61.3833#0#-4
+Dominica#Anse Francais#15.45#-61.25#0#-4
+Dominica#Barroui#15.4333#-61.45#0#-4
+Dominica#Batali River#15.45#-61.45#0#-4
+Dominica#Bellevue Chopin#15.2667#-61.35#0#-4
+Dominica#Bellevue Mountain#15.6167#-61.4333#0#-4
+Dominica#Bells#15.4167#-61.35#0#-4
+Dominica#Belvidere#15.2833#-61.25#0#-4
+Dominica#Berekua#15.2333#-61.3167#0#-4
+Dominica#Boeri Lake#15.35#-61.3333#0#-4
+Dominica#Boetica#15.3#-61.2667#0#-4
+Dominica#Bois d Inde#15.2333#-61.3333#0#-4
+Dominica#Bornes#15.5833#-61.4167#0#-4
+Dominica#Cachacrou#15.2#-61.3833#0#-4
+Dominica#Cachacrou Souffriere#15.2167#-61.3833#0#-4
+Dominica#Cachacrou Soufriere#15.2167#-61.3667#0#-4
+Dominica#Calibishi#15.5833#-61.35#0#-4
+Dominica#Canal de la Dominique#15.1667#-61.25#0#-4
+Dominica#Canefield#15.3333#-61.4#0#-4
+Dominica#Cape Melville#15.6333#-61.4667#0#-4
+Dominica#Captain Scott Rock#15.5333#-61.2833#0#-4
+Dominica#Carib Point (Saint Patrick)#15.2333#-61.3#0#-4
+Dominica#Carib Point (Saint Andrew)#15.6333#-61.4167#0#-4
+Dominica#Carib Reserve#15.4833#-61.2667#0#-4
+Dominica#Castle Bruce#15.4333#-61.2667#0#-4
+Dominica#Charlotte Ville#15.2833#-61.4#0#-4
+Dominica#Clarke s River#15.3667#-61.2833#0#-4
+Dominica#Cochrane#15.3333#-61.3667#0#-4
+Dominica#Cocoyer#15.6167#-61.45#0#-4
+Dominica#Colony of Dominica#15.5#-61.3333#0#-4
+Dominica#Coulibistri#15.45#-61.4667#0#-4
+Dominica#Crampton Point#15.5833#-61.3#0#-4
+Dominica#Crayfish River#15.5#-61.2667#0#-4
+Dominica#Delices#15.2833#-61.2667#0#-4
+Dominica#Docteur#15.3#-61.35#0#-4
+Dominica#Douglas Bay#15.6#-61.4833#0#-4
+Dominica#Dublanc River#15.5167#-61.4667#0#-4
+Dominica#Dubuc#15.25#-61.3167#0#-4
+Dominica#En Gregg#15.4#-61.4333#0#-4
+Dominica#Espagnole River#15.5333#-61.4667#0#-4
+Dominica#Fabre Hill#15.25#-61.2833#0#-4
+Dominica#Fond Cani#15.3167#-61.3667#0#-4
+Dominica#Fond Figues River#15.4#-61.3#0#-4
+Dominica#Foundland#15.2667#-61.2833#0#-4
+Dominica#Fresh Water Lake#15.35#-61.3167#0#-4
+Dominica#Giraudet#15.2833#-61.3667#0#-4
+Dominica#Grabiere Point#15.5#-61.4833#0#-4
+Dominica#Grande Savanne#15.4333#-61.4667#0#-4
+Dominica#Grande Soufriere Hills#15.3#-61.2833#0#-4
+Dominica#Hampstead Ridge#15.5833#-61.3667#0#-4
+Dominica#Hatton Garden#15.5167#-61.2833#0#-4
+Dominica#Hermitage Bay#15.6167#-61.4667#0#-4
+Dominica#Hillsborough Bay#15.6#-61.3333#0#-4
+Dominica#Hodges River#15.5833#-61.3333#0#-4
+Dominica#Kachibona River#15.55#-61.3#0#-4
+Dominica#Kasayu Point#15.4833#-61.25#0#-4
+Dominica#Kinellan Estate#15.4333#-61.3833#0#-4
+Dominica#Kuerek River#15.4667#-61.25#0#-4
+Dominica#Kulihao#15.4833#-61.4833#0#-4
+Dominica#La Pointe#15.5667#-61.4833#0#-4
+Dominica#La Ronde River#15.3167#-61.25#0#-4
+Dominica#Lamoins River#15.55#-61.4667#0#-4
+Dominica#Laudat#15.3333#-61.3333#0#-4
+Dominica#Marigot#15.5333#-61.3#0#-4
+Dominica#New Venture Estate#15.45#-61.3333#0#-4
+Dominica#Newfoundland#15.3833#-61.2833#0#-4
+Dominica#Northern Forest Reserve#15.5167#-61.3833#0#-4
+Dominica#Picard River#15.5667#-61.4667#0#-4
+Dominica#Portsmouth#15.5833#-61.4667#0#-4
+Dominica#River Bibiay#15.35#-61.25#0#-4
+Dominica#River Bouleau#15.4667#-61.4667#0#-4
+Dominica#River Bway#15.4333#-61.3667#0#-4
+Dominica#River Canari#15.2833#-61.3833#0#-4
+Dominica#River Claire#15.3#-61.3667#0#-4
+Dominica#River Gillon#15.2667#-61.3833#0#-4
+Dominica#River Quanery#15.3333#-61.2833#0#-4
+Dominica#River Sarisari#15.3333#-61.25#0#-4
+Dominica#River Subaya#15.2667#-61.2667#0#-4
+Dominica#Riviere Ciriques#15.35#-61.2667#0#-4
+Dominica#Rollo Head#15.55#-61.4833#0#-4
+Dominica#Rosalie#15.3667#-61.2667#0#-4
+Dominica#Rosalie Bay#15.3667#-61.25#0#-4
+Dominica#Roseau#15.3#-61.4#0#-4
+Dominica#Saint Andrew#15.5667#-61.3667#0#-4
+Dominica#Saint Davids Bay#15.4333#-61.25#0#-4
+Dominica#Saint Sauveur#15.4#-61.2667#0#-4
+Dominica#Salee River#15.6#-61.35#0#-4
+Dominica#Savane River#15.25#-61.2667#0#-4
+Dominica#Soufriere#15.2333#-61.3667#0#-4
+Dominica#Stowe#15.25#-61.3#0#-4
+Dominica#Sugarloaf#15.5708#-61.4542#0#-4
+Dominica#Sylvania#15.35#-61.3667#0#-4
+Dominica#Taberi River#15.3333#-61.2667#0#-4
+Dominica#Tanetane#15.6#-61.4667#0#-4
+Dominica#Tarou Cliffs#15.3833#-61.4333#0#-4
+Dominica#Tarou River#15.3833#-61.4167#0#-4
+Dominica#Tete Morne#15.2333#-61.35#0#-4
+Dominica#Thibaud#15.6#-61.4#0#-4
+Dominica#Torite River#15.6#-61.55#0#-4
+Dominica#Trafalgar Falls#15.3167#-61.35#0#-4
+Dominica#Valley of Desolation#15.3#-61.3#0#-4
+Dominica#Vieille Case#15.6167#-61.4#0#-4
+Dominica#Walkers Rest Bay#15.5667#-61.3#0#-4
+Dominica#Warakal#15.5167#-61.2667#0#-4
+Dominica#Watt Mountain#15.3167#-61.3#0#-4
+Dominica#Wesley#15.5667#-61.3167#0#-4
+Dominica#West Cabrit#15.5833#-61.4833#0#-4
+Dominica#Woodbridge Bay#15.3167#-61.4#0#-4
+Dominica#Woodford Hill#15.5667#-61.3333#0#-4

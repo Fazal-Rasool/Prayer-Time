@@ -1,0 +1,79 @@
+﻿
+Coral Sea Islands#Abington Reef#-18#149.75#0#10
+Coral Sea Islands#Anchorage Bay#-20.9958#154.3736#0#10
+Coral Sea Islands#Banc Diane#-15.8333#149.6667#0#10
+Coral Sea Islands#Bird Islet#-22.1667#155.4667#0#10
+Coral Sea Islands#Bougainville Reef#-15.5#147.1#0#10
+Coral Sea Islands#Brodie Cay#-19.2872#152.2139#0#10
+Coral Sea Islands#Carola Cays#-19.0967#152.3917#0#10
+Coral Sea Islands#Cato Bank#-23.2333#155.5333#0#10
+Coral Sea Islands#Cato Reef#-23.25#155.5333#0#10
+Coral Sea Islands#Chilcott Islet#-16.9333#150#0#10
+Coral Sea Islands#Cod Reef#-17.7083#148.4083#0#10
+Coral Sea Islands#Coral Sea Islands#-17.5#151#0#10
+Coral Sea Islands#Coringa Islets#-16.9667#149.9667#0#10
+Coral Sea Islands#Danger Patch#-23.2292#155.6083#0#10
+Coral Sea Islands#Danger Ridge#-20.9917#154.35#0#10
+Coral Sea Islands#Dart Reef#-17.4167#148.1833#0#10
+Coral Sea Islands#Diamond Islets#-17.4167#150.9667#0#10
+Coral Sea Islands#Diamond Passage#-17.5583#151.175#0#10
+Coral Sea Islands#East Diamond Islet#-17.4417#151.075#0#10
+Coral Sea Islands#East Ribbon Reef#-17.65#148.5833#0#10
+Coral Sea Islands#Eastern Projection#-21.2583#155.8236#0#10
+Coral Sea Islands#Elizabeth Reef#-29.9417#159.0625#0#10
+Coral Sea Islands#Entrance Reef#-17.8292#148.4167#0#10
+Coral Sea Islands#False Bight#-29.4342#159.1153#0#10
+Coral Sea Islands#Flinders Reef#-17.6167#148.5167#0#10
+Coral Sea Islands#Flora Reef#-16.75#147.7333#0#10
+Coral Sea Islands#Herald Cays#-16.9667#149.15#0#10
+Coral Sea Islands#Herald Haven#-29.4583#159.0778#0#10
+Coral Sea Islands#Herald Passage#-17.3833#151.9633#0#10
+Coral Sea Islands#Herald s Surprise#-17.325#-17.325#0#10
+Coral Sea Islands#Hermit Crab Islet#-17.4167#151.8733#0#10
+Coral Sea Islands#Holmes Reef#-16.45#148#0#10
+Coral Sea Islands#Horseshoe Lagoon#-17.8333#148.4583#0#10
+Coral Sea Islands#Horseshoe Reef#-17.8833#148.5167#0#10
+Coral Sea Islands#Hutchison Rock#-23.25#155.5833#0#10
+Coral Sea Islands#Kenn Reefs#-21.2#155.7667#0#10
+Coral Sea Islands#Lick Lick Cay#-17.25#152.1667#0#10
+Coral Sea Islands#Lihou Reefs#-17.4167#151.6667#0#10
+Coral Sea Islands#Long Reef#-19.3333#152.5#0#10
+Coral Sea Islands#Magdalena Cays#-16.55#150.3#0#10
+Coral Sea Islands#Main Cay Reef#-17.7167#148.4667#0#10
+Coral Sea Islands#Malay Rock#-17.9667#149.3333#0#10
+Coral Sea Islands#Mellish Reef#-17.4167#155.8333#0#10
+Coral Sea Islands#Middle Cay#-17.1183#152.0533#0#10
+Coral Sea Islands#Middle Islet#-16.2333#150.0333#0#10
+Coral Sea Islands#Moore Reefs#-16#149.25#0#10
+Coral Sea Islands#North Cay#-16.1333#150.0333#0#10
+Coral Sea Islands#North East Cay#-21.6583#153.7667#0#10
+Coral Sea Islands#North Flinders Reefs#-17.5833#148.45#0#10
+Coral Sea Islands#North Horn#-13.75#146.6667#0#10
+Coral Sea Islands#North Passage#-16.2#150.0333#0#10
+Coral Sea Islands#North Reef Extreme#-20.9219#154.3967#0#10
+Coral Sea Islands#North-east Horn#-29.4433#159.1019#0#10
+Coral Sea Islands#Observation Cay#-21.0208#154.3742#0#10
+Coral Sea Islands#Observatory Cay#-21.2633#155.7972#0#10
+Coral Sea Islands#Paget Cay#-19.2556#152.3467#0#10
+Coral Sea Islands#Rapid Horn#-13.9167#146.6667#0#10
+Coral Sea Islands#Ridge Rock#-20.975#154.345#0#10
+Coral Sea Islands#Rif Frederik#-20.9667#154.3833#0#10
+Coral Sea Islands#Rif Marion#-19.1667#152.2833#0#10
+Coral Sea Islands#Rif Midlton#-29.4722#159.1194#0#10
+Coral Sea Islands#Rif Ospri#-13.9167#146.6333#0#10
+Coral Sea Islands#Sand Cay#-15.75#149.5833#0#10
+Coral Sea Islands#Saumarez Reef#-21.8333#153.6667#0#10
+Coral Sea Islands#Shark Reef#-14.1333#146.8#0#10
+Coral Sea Islands#South Diamond Islet#-17.6583#151.827#0#10
+Coral Sea Islands#South East Elbow#-21.92#153.6069#0#10
+Coral Sea Islands#South Passage#-16.2667#150.0167#0#10
+Coral Sea Islands#The Sound#-29.4514#159.0917#0#10
+Coral Sea Islands#Toe Reef#-17.7028#148.5167#0#10
+Coral Sea Islands#Tregrosse Islets#-17.6833#150.7167#0#10
+Coral Sea Islands#Tregrosse Reefs#-17.6667#150.6667#0#10
+Coral Sea Islands#Turtle Island#-17.1167#152.0036#0#10
+Coral Sea Islands#Wansfell Reefs#-19.2333#152.1889#0#10
+Coral Sea Islands#West Islet#-22.1833#155.1667#0#10
+Coral Sea Islands#Willis Islets#-16.3#150#0#10
+Coral Sea Islands#Wreck Reef#-22.2167#155.2833#0#10
+Coral Sea Islands#Zenobia Rock#-21.7433#153.5367#0#10

@@ -1,0 +1,198 @@
+﻿
+French Guiana#Cayenne#4.9333#-52.3333#0#-3
+French Guiana#Eau Badet#4.8833#-52.3#0#-3
+French Guiana#Eau Blanche#5.0667#-53.4833#0#-3
+French Guiana#Eau Claire#3.6667#-53.2167#0#-3
+French Guiana#Edmont#4.6#-52.4333#0#-3
+French Guiana#Edouard#3.4#-53.8333#0#-3
+French Guiana#Edwin#4.6833#-53.9#0#-3
+French Guiana#Eiland Oronobo#5.4667#-54.0667#0#-3
+French Guiana#Ekeny#4.05#-52.4667#0#-3
+French Guiana#Elassapa Itou#2.2#-52.9#0#-3
+French Guiana#Elelelepou#2.75#-54.2333#0#-3
+French Guiana#Elysee#4.75#-54.05#0#-3
+French Guiana#Embouchure Yaroupi#2.7833#-52.4833#0#-3
+French Guiana#Emerillon#3.4167#-53.0667#0#-3
+French Guiana#Enene Patatpe#2.3333#-54.5#0#-3
+French Guiana#Enfants perdus#3.8667#-54.2167#0#-3
+French Guiana#Enfin Pepita#4.7333#-53.9333#0#-3
+French Guiana#Entoucas#3.4833#-54.0167#0#-3
+French Guiana#Eponoe Soela#3.5167#-54#0#-3
+French Guiana#Esperance#4.6667#-54.3167#0#-3
+French Guiana#Espoir#5#-53.0833#0#-3
+French Guiana#Etats-Unis#3.4167#-53.4167#0#-3
+French Guiana#Etienne#4.45#-52.55#0#-3
+French Guiana#Jalbot#4.2#-52.6167#0#-3
+French Guiana#Janvier#5.1667#-54.15#0#-3
+French Guiana#Japoc#4.1333#-51.6667#0#-3
+French Guiana#Javouhey#5.6#-53.8167#0#-3
+French Guiana#Jean-Jean Remission#4.2333#-52#0#-3
+French Guiana#Jejo#5.4#-53#0#-3
+French Guiana#John#4.9667#-53.5833#0#-3
+French Guiana#Joli Saut#2.3833#-52.9833#0#-3
+French Guiana#Kagnouma#2.6333#-52.55#0#-3
+French Guiana#Kainwa Itou#2.2167#-52.8833#0#-3
+French Guiana#Kalara Itou#2.2#-52.9333#0#-3
+French Guiana#Kanguelarou Itou#2.8333#-52.45#0#-3
+French Guiana#Kantali#5.4167#-54.3167#0#-3
+French Guiana#Kariakou#4.8833#-53.7333#0#-3
+French Guiana#Kassiaba Soula#3.3167#-54.0667#0#-3
+French Guiana#Kaw#4.4833#-52.0333#0#-3
+French Guiana#Kaw River#4.8#-52.15#0#-3
+French Guiana#Keierekourou#3.0167#-53.65#0#-3
+French Guiana#Kepioudou Soula#4.9833#-54.45#0#-3
+French Guiana#Kerrenroch#5.1#-53.05#0#-3
+French Guiana#Koffi Camisa Soula#4.2167#-54.3833#0#-3
+French Guiana#Kofi Kamiza#4.1833#-54.4#0#-3
+French Guiana#Kokioko#4.9167#-53.5#0#-3
+French Guiana#Kokoye#4.0667#-54.15#0#-3
+French Guiana#Koo Soula#3.6333#-53.8333#0#-3
+French Guiana#Korekore Kreek#2.4333#-54.4667#0#-3
+French Guiana#Kormotibo#3.8#-54.1333#0#-3
+French Guiana#Kotioko#3.4#-52.9#0#-3
+French Guiana#Kouachi#5.6167#-53.7167#0#-3
+French Guiana#Kouachinana#5.6333#-53.6833#0#-3
+French Guiana#Koulimapopane#2.3333#-54.6#0#-3
+French Guiana#Kouloumouli Eoukou#2.7667#-54.2167#0#-3
+French Guiana#Koumakou Soula#3.1#-53.6833#0#-3
+French Guiana#Koumalawa Itou#2.5667#-52.5333#0#-3
+French Guiana#Kouman-Kouman#4.0333#-51.6667#0#-3
+French Guiana#Kourou#5.15#-52.65#0#-3
+French Guiana#Kouroumouri Itou#2.4333#-52.65#0#-3
+French Guiana#Koutou#3.3#-52.7667#0#-3
+French Guiana#Koutouwao#5.5667#-53.9333#0#-3
+French Guiana#Kouyari Itou#2.6833#-52.5167#0#-3
+French Guiana#Kuru River#5.15#-52.6333#0#-3
+French Guiana#Kwaman Tapele Itou#2.55#-52.55#0#-3
+French Guiana#Kwassie#4.95#-54.4333#0#-3
+French Guiana#NAME NOT KNOWN#3.7833#-51.9#0#-3
+French Guiana#NAME NOTKNOWN#2.45#-52.6333#0#-3
+French Guiana#Nancibo#4.6667#-52.4833#0#-3
+French Guiana#Napi Soula#2.7167#-53.4333#0#-3
+French Guiana#Nassau Dede Soula#3.3#-54.0667#0#-3
+French Guiana#Neptune#4.0667#-53.0833#0#-3
+French Guiana#Niewe Rust#5.5833#-55.0333#0#-3
+French Guiana#Nouveau Camp#5.55#-53.9333#0#-3
+French Guiana#Nouvelle Angouleme#5.4#-53.65#0#-3
+French Guiana#Oiseau Fou#4.8833#-53.05#0#-3
+French Guiana#Orapu#4.65#-52.3333#0#-3
+French Guiana#Oulwa Itou#2.45#-52.6167#0#-3
+French Guiana#Quatre Carbets#3.7667#-52.2#0#-3
+French Guiana#Quesnel#4.95#-52.5#0#-3
+French Guiana#Saint Laurent du Maroni#5.4833#-54.0333#0#-3
+French Guiana#Tabikide Soula#4.7833#-54.4667#0#-3
+French Guiana#Table de Mahury#4.8667#-52.2667#0#-3
+French Guiana#Tablon#4.6667#-53.9167#0#-3
+French Guiana#Taca Malapane#2.9667#-54.1833#0#-3
+French Guiana#Taconet#4.0333#-52.5167#0#-3
+French Guiana#Tainwa Itou#2.6167#-52.7167#0#-3
+French Guiana#Tako#2.7#-53.4667#0#-3
+French Guiana#Taleouwayatou Itou#2.8667#-52.4333#0#-3
+French Guiana#Tamanwayapa Itou#2.3#-52.8333#0#-3
+French Guiana#Tamarinier#5.35#-52.8667#0#-3
+French Guiana#Tamoussiyapa Itou#2.9333#-52.4#0#-3
+French Guiana#Tampac#3.2#-52.5333#0#-3
+French Guiana#Tampoc III#2.5667#-53.55#0#-3
+French Guiana#Tampoc Riviere#3.45#-54#0#-3
+French Guiana#Tampok#3.3333#-53.8333#0#-3
+French Guiana#Tanpoc#3.3167#-53.8333#0#-3
+French Guiana#Tapere#2.7333#-52.5#0#-3
+French Guiana#Tapir Eiland#4.7#-54.4333#0#-3
+French Guiana#Taponte#3.2667#-54.1167#0#-3
+French Guiana#Tchoukouchipann#2.25#-54.4833#0#-3
+French Guiana#Terre Jaune#5.05#-52.65#0#-3
+French Guiana#Terre Rouge#5.6167#-53.75#0#-3
+French Guiana#Teufels Insel#5.2833#-52.5833#0#-3
+French Guiana#The Guianas#4#-56#0#-3
+French Guiana#Theodore#4.0333#-52.55#0#-3
+French Guiana#Theophane#3.7167#-54.0833#0#-3
+French Guiana#Three Pitons#4.2167#-51.85#0#-3
+French Guiana#Tibouron#4.5167#-52.35#0#-3
+French Guiana#Tiepi Soula#4.9833#-54.4333#0#-3
+French Guiana#Tigami#4.8667#-52.3#0#-3
+French Guiana#Timon#4.4167#-52.3833#0#-3
+French Guiana#Tintin#4.2167#-52.25#0#-3
+French Guiana#Tion Tion Soula#4.8167#-54.4667#0#-3
+French Guiana#Titine#4.2667#-52.2#0#-3
+French Guiana#Tolinche#5.2833#-54.25#0#-3
+French Guiana#Tonate#5.0167#-52.4833#0#-3
+French Guiana#Tonegrande#4.8333#-52.45#0#-3
+French Guiana#Tonkin#4.85#-53.2667#0#-3
+French Guiana#Toou Soula#4.9667#-54.4333#0#-3
+French Guiana#Topaze#4.7167#-53.95#0#-3
+French Guiana#Tortue#4.1833#-52.3833#0#-3
+French Guiana#Tour Dreyfus#5.1667#-52.6333#0#-3
+French Guiana#Toussine#4.7667#-53.8833#0#-3
+French Guiana#Triton#4.15#-53.0333#0#-3
+French Guiana#Trois Paletuviers#4.0667#-51.6667#0#-3
+French Guiana#Trois Rois#4.95#-52.5333#0#-3
+French Guiana#Trois Sauts#2.25#-52.8833#0#-3
+French Guiana#Troisieme Saut#5.2833#-54.1667#0#-3
+French Guiana#Trou Ara#5.3333#-53.1833#0#-3
+French Guiana#Trou Biron#4.9333#-52.3#0#-3
+French Guiana#Trou Caiman#5.45#-53.1833#0#-3
+French Guiana#Trou Caimans#5.45#-53.1333#0#-3
+French Guiana#Trou Leonard#5.2333#-52.7333#0#-3
+French Guiana#Trou Poisson#5.4167#-53.1#0#-3
+French Guiana#Trou Poissons#5.4333#-53.0833#0#-3
+French Guiana#Val Grankoemaranjam#4.65#-54.4167#0#-3
+French Guiana#Val Kroboi Soera#2.6667#-54.2833#0#-3
+French Guiana#Val Langatetei#3.8833#-54.25#0#-3
+French Guiana#Val Lensididde#4.0333#-54.3333#0#-3
+French Guiana#Val Mope#4.5667#-54.4167#0#-3
+French Guiana#Valentin#5.3167#-53.6667#0#-3
+French Guiana#Valide#3.8667#-53.3667#0#-3
+French Guiana#Veleda#4.75#-54.0167#0#-3
+French Guiana#Venise#4#-52.9667#0#-3
+French Guiana#Venus#5.2#-52.9833#0#-3
+French Guiana#Vichy#4.2#-52.7833#0#-3
+French Guiana#Victor#4.9333#-52.3167#0#-3
+French Guiana#Vieux Grand-Santi#4.3333#-54.4#0#-3
+French Guiana#Villaflore#4.15#-52.3667#0#-3
+French Guiana#Village Adnet#4.25#-52.2167#0#-3
+French Guiana#Village Bauge#4.2333#-52.2167#0#-3
+French Guiana#Village Blicade#3.3#-53.85#0#-3
+French Guiana#Village Chinois#4.1833#-52.8667#0#-3
+French Guiana#Village Coco#4.3#-52.1333#0#-3
+French Guiana#Village Creole#3.2167#-53.7167#0#-3
+French Guiana#Village Fracas#4.75#-53.6667#0#-3
+French Guiana#Village Gaa Caba#4.4833#-54.4333#0#-3
+French Guiana#Village Galibi#5.4#-54.1167#0#-3
+French Guiana#Village Galloni#5.2167#-54.2167#0#-3
+French Guiana#Village Guillaume#4.2667#-52.25#0#-3
+French Guiana#Village Imperatrice#4.0667#-52.45#0#-3
+French Guiana#Village Inipi#3.25#-52.95#0#-3
+French Guiana#Village La Greve#3.8667#-53.6833#0#-3
+French Guiana#Village Maffi#4.2833#-52.1333#0#-3
+French Guiana#Village Migue#4.2833#-52.15#0#-3
+French Guiana#Village Saint-Paul#4.3833#-54.3833#0#-3
+French Guiana#Village Saramaca#4.4#-52.3833#0#-3
+French Guiana#Village Sophie#3.9667#-53.4833#0#-3
+French Guiana#Vini#3.6833#-53.95#0#-3
+French Guiana#Viri Itou#2.6667#-52.5167#0#-3
+French Guiana#Waane#2.85#-52.45#0#-3
+French Guiana#Wacapou#3.6833#-54.0833#0#-3
+French Guiana#Waimikwale Itou#2.7833#-52.5667#0#-3
+French Guiana#Wakapou Soula#3.7#-54#0#-3
+French Guiana#Wataou Tilili Icholi#2.7167#-54.2667#0#-3
+French Guiana#Wawa Soula#3.2667#-53.75#0#-3
+French Guiana#Wayo Gaan Soula#2.6833#-54#0#-3
+French Guiana#Weti Soula#2.9167#-53.5833#0#-3
+French Guiana#Weti Wata Eoukou#2.8333#-53.9667#0#-3
+French Guiana#Weti-Chiton#4.75#-54.4667#0#-3
+French Guiana#White Rocks#5.4167#-52.85#0#-3
+French Guiana#Wilfried#3.7#-54.0833#0#-3
+French Guiana#Wittieston Soela#4.7667#-54.4667#0#-3
+French Guiana#Yalou Patatpeu#2.5333#-54.3333#0#-3
+French Guiana#Yamakatoupiaina Itou#2.5333#-52.55#0#-3
+French Guiana#Yanou#5.4667#-53.2667#0#-3
+French Guiana#Yaou#3.7333#-53.95#0#-3
+French Guiana#Yapimaliki Soula#4.0833#-54.3333#0#-3
+French Guiana#Yapopena Itou#2.7#-52.5167#0#-3
+French Guiana#Yawassikwa Itou#2.3167#-52.7667#0#-3
+French Guiana#Yaya#4.6167#-54.3333#0#-3
+French Guiana#Yofe#5.4333#-53.6833#0#-3
+French Guiana#Yolande#4.1#-52.95#0#-3
+French Guiana#Zaou Tabiki#3.3833#-54.05#0#-3
+French Guiana#Zidok#2.25#-52.8667#0#-3
+French Guiana#Zombi#4.6#-52.4#0#-3

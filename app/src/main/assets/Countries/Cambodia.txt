@@ -1,0 +1,21 @@
+﻿
+Cambodia#Batdambang#13.1#103.1999969#40#7
+Cambodia#Kampong Cham#12#105.4499969#21#7
+Cambodia#Kampong Chhnang#12.25#104.6666641#17#7
+Cambodia#Kampong Saom#10.633333#103.5#20#7
+Cambodia#Kampong Spoe#11.45#104.5333328#38#7
+Cambodia#Kampong Thum#12.7#104.9000015#11#7
+Cambodia#Kampot#10.616667#104.1833344#7#7
+Cambodia#Kracheh#12.483333#106.0166702#18#7
+Cambodia#Krong Kaoh Kong#11.6175#102.9805527#1#7
+Cambodia#Krong Keb#10.483333#104.3166656#-9999#7
+Cambodia#Lumphat#13.5#106.9833298#113#7
+Cambodia#Pailin#12.850556#102.609726#170#7
+Cambodia#Phnom Penh#11.55#104.9166641#16#7
+Cambodia#Phnum Tbeng Meanchey#13.816667#104.9666672#47#7
+Cambodia#Phumi Veal Sre#10.983333#104.7833328#8#7
+Cambodia#Pouthisat#12.533333#103.9166641#18#7
+Cambodia#Senmonourom#12.45#107.1999969#734#7
+Cambodia#Siemreab#13.366667#103.8499985#15#7
+Cambodia#Sisophon#13.583333#102.9833298#17#7
+Cambodia#Ta Khmau#11.483333#104.9499969#1#7

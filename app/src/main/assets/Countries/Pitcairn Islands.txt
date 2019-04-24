@@ -1,0 +1,11 @@
+﻿
+Pitcairn Islands#Adams Rock#-25.0667#-130.0667#0#-9
+Pitcairn Islands#Adamstown#-25.0667#-130.0833#0#-9
+Pitcairn Islands#Ducie#-24.6667#-124.7833#0#-9
+Pitcairn Islands#Elizabeth Island#-24.3667#-128.3167#0#-9
+Pitcairn Islands#Gudgeen#-25.0667#-130.1#0#-9
+Pitcairn Islands#Manelee#-25.0833#-130.0833#0#-9
+Pitcairn Islands#North East Point#-23.9167#-130.7333#0#-9
+Pitcairn Islands#Oeno Atoll#-23.9333#-130.7333#0#-9
+Pitcairn Islands#Tahoutumah#-24.0833#-130.0833#0#-9
+Pitcairn Islands#Youngs Rock#-25.05#-130.1#0#-9

@@ -1,0 +1,101 @@
+﻿
+Slovenia#Ajdovscina#45.8875#13.91111#167#1
+Slovenia#Ankaran#45.57861#13.73611#80#1
+Slovenia#Beltinci#46.60528#16.24055#185#1
+Slovenia#Bled#46.36917#14.11361#500#1
+Slovenia#Borovnica#45.91583#14.36306#309#1
+Slovenia#Brezice#45.90333#15.59111#166#1
+Slovenia#Brezovica#46.03333#14.4#341#1
+Slovenia#Celje#46.23611#15.2675#239#1
+Slovenia#Cerknica#45.79306#14.3625#630#1
+Slovenia#Crna na Koroskem#46.46667#15.85#277#1
+Slovenia#Crnomelj#45.57111#15.18889#151#1
+Slovenia#Domzale#46.13806#14.59778#288#1
+Slovenia#Dravograd#46.58806#15.01917#372#1
+Slovenia#Gornja Radgona#46.67333#15.99222#206#1
+Slovenia#Grosuplje#45.95556#14.65889#315#1
+Slovenia#Hrastnik#46.14611#15.08139#317#1
+Slovenia#Idrija#46.00278#14.03056#441#1
+Slovenia#Ig#45.96028#14.52889#274#1
+Slovenia#Ilirska Bistrica#45.56972#14.24083#438#1
+Slovenia#Izola#45.53694#13.66194#25#1
+Slovenia#Jagodje#45.53222#13.655#46#1
+Slovenia#Jesenice#46.43056#14.06694#544#1
+Slovenia#Kamnik#46.21972#14.60944#542#1
+Slovenia#Kocevje#45.64333#14.86333#473#1
+Slovenia#Koper#45.54694#13.72944#12#1
+Slovenia#Koroska-Bela#46.43028#14.10333#786#1
+Slovenia#Kranj#46.24111#14.36167#380#1
+Slovenia#Krsko#45.95306#15.48944#166#1
+Slovenia#Lasko#46.15194#15.23639#317#1
+Slovenia#Lenart v Slovenskih Goricah#46.57611#15.83139#231#1
+Slovenia#Lendava#46.56139#16.45056#256#1
+Slovenia#Lesce#46.36111#14.15778#515#1
+Slovenia#Limbus#46.55361#15.58361#286#1
+Slovenia#Litija#46.05861#14.8225#260#1
+Slovenia#Ljubljana#46.05528#14.51444#284#1
+Slovenia#Ljutomer#46.52083#16.1975#186#1
+Slovenia#Logatec#45.91444#14.22583#471#1
+Slovenia#Lovrenc na Pohorju#46.54056#15.39306#462#1
+Slovenia#Lucija#45.49639#13.61361#67#1
+Slovenia#Maribor#46.55472#15.64667#262#1
+Slovenia#Medvode#46.13333#14.43333#298#1
+Slovenia#Menges#46.16694#14.575#314#1
+Slovenia#Metlika#45.64722#15.31417#151#1
+Slovenia#Mezica#46.52139#14.85444#555#1
+Slovenia#Miklavz na Dravskem Polju#46.50583#15.69722#256#1
+Slovenia#Mozirje#46.33944#14.96333#325#1
+Slovenia#Murska Sobota#46.6625#16.16639#196#1
+Slovenia#Muta#46.61139#15.16611#327#1
+Slovenia#Nova Gorica#45.96139#13.64361#107#1
+Slovenia#Novo Mesto#45.7925#15.16472#187#1
+Slovenia#Ormoz#46.41139#16.15444#228#1
+Slovenia#Piran#45.52778#13.57056#1#1
+Slovenia#Pivka#45.67944#14.19667#534#1
+Slovenia#Podhom#46.4#14.1#587#1
+Slovenia#Polzela#46.28333#15.06667#295#1
+Slovenia#Portoroz#45.51611#13.58833#-9999#1
+Slovenia#Postojna#45.77694#14.21667#700#1
+Slovenia#Prevalje#46.54694#14.92083#408#1
+Slovenia#Ptuj#46.42139#15.86972#221#1
+Slovenia#Race#46.45194#15.68139#255#1
+Slovenia#Radece#46.06806#15.18389#502#1
+Slovenia#Radenci#46.64722#16.04417#205#1
+Slovenia#Radlje ob Dravi#46.61417#15.22639#350#1
+Slovenia#Radovljica#46.34444#14.17444#482#1
+Slovenia#Rakek#45.81333#14.31111#564#1
+Slovenia#Ravne#45.9625#15.01278#364#1
+Slovenia#Ribnica#45.73861#14.7275#490#1
+Slovenia#Rogaska Slatina#46.2375#15.63972#293#1
+Slovenia#Ruse#46.53944#15.51583#380#1
+Slovenia#Sempeter pri Gorici#45.9275#13.64111#77#1
+Slovenia#Sempeter v Savinjski Dolini#46.25639#15.12194#267#1
+Slovenia#Sencur#46.24556#14.41972#397#1
+Slovenia#Senovo#46.02361#15.47694#322#1
+Slovenia#Sentjur#46.21722#15.3975#333#1
+Slovenia#Sevnica#46.00778#15.31556#183#1
+Slovenia#Sezana#45.70694#13.87222#428#1
+Slovenia#Skofja Loka#46.16722#14.30889#342#1
+Slovenia#Skofljica#45.98333#14.57667#300#1
+Slovenia#Slovenj Gradec#46.51028#15.08056#428#1
+Slovenia#Slovenska Bistrica#46.39278#15.57444#306#1
+Slovenia#Slovenske Konjice#46.33667#15.42583#315#1
+Slovenia#Solkan#45.97139#13.64944#160#1
+Slovenia#Sostanj#46.38#15.04861#378#1
+Slovenia#Spodnje Hoce#46.5#15.65#267#1
+Slovenia#Straza#45.78#15.07278#167#1
+Slovenia#Tolmin#46.18304#13.73321#173#1
+Slovenia#Trbovlje#46.155#15.05333#409#1
+Slovenia#Trebnje#45.90417#15.02167#278#1
+Slovenia#Trzic#46.36667#14.31667#702#1
+Slovenia#Trzin#46.13333#14.56667#283#1
+Slovenia#Velenje#46.35917#15.11028#407#1
+Slovenia#Vir pri Sticni#45.9525#14.81778#344#1
+Slovenia#Vojnik#46.29333#15.30333#324#1
+Slovenia#Vrhnika#45.96611#14.29556#291#1
+Slovenia#Vrtojba#45.9125#13.63417#74#1
+Slovenia#Zagorje ob Savi#46.13417#15.00139#323#1
+Slovenia#Zalec#46.25361#15.1675#253#1
+Slovenia#Zelezniki#46.23333#14.16667#599#1
+Slovenia#Ziri#46.04222#14.10722#486#1
+Slovenia#Zrece#46.38222#15.37917#425#1

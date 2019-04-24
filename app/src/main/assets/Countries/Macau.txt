@@ -1,0 +1,22 @@
+﻿
+Macau#Baia de Choc-Van#22.1111#113.5583#0#8
+Macau#Baia de Hac Sa#22.125#113.575#0#8
+Macau#Barra Point#22.1833#113.5306#0#8
+Macau#Hac-Tsa#22.1222#113.5639#0#8
+Macau#Ilha Kai Kiong#22.15#113.5833#0#8
+Macau#Koho Point#22.1333#113.5833#0#8
+Macau#Koho Tao#22.1167#113.5667#0#8
+Macau#Laut Tjina#15#115#0#8
+Macau#Lui-Tchi-Van#22.125#113.55#0#8
+Macau#Macau#22.2#113.55#0#8
+Macau#Macau Island#22.3833#113.4167#0#8
+Macau#Macau-Taipa Bridge#22.1833#113.55#0#8
+Macau#Mountian da Barra#22.1833#113.5278#0#8
+Macau#Pedra d Areca#22.175#113.5333#0#8
+Macau#Penha Hill#22.1833#113.5333#0#8
+Macau#Ponta Cabrita#22.1625#113.575#0#8
+Macau#Ponta Maria#22.1667#113.5333#0#8
+Macau#Shih-Pai Wan#22.1333#113.5667#0#8
+Macau#Tai Van#22.1333#113.55#0#8
+Macau#Taipa#22.15#113.55#0#8
+Macau#Verde#22.2167#113.5333#0#8

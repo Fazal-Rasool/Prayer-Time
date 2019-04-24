@@ -1,0 +1,249 @@
+﻿
+Kyrgyzstan#Arasan#42.5667#78.3#0#6
+Kyrgyzstan#Bishkek#42.8731#74.6003#0#6
+Kyrgyzstan#Bishkek Shaary#42.9#74.6#0#6
+Kyrgyzstan#Ebenfel d#42.8#75.0167#0#6
+Kyrgyzstan#Egilik#42.75#77.75#0#6
+Kyrgyzstan#Ekachat#41.6#75.0167#0#6
+Kyrgyzstan#Elektor#42.1667#75.9167#0#6
+Kyrgyzstan#Emgektala#41.39#75.6047#0#6
+Kyrgyzstan#Emir-Kul#40.8833#73.7#0#6
+Kyrgyzstan#Engil chek#42.05#79.0833#0#6
+Kyrgyzstan#Entek-chil#41.5553#75.9717#0#6
+Kyrgyzstan#Epkin#42.1667#75.4167#0#6
+Kyrgyzstan#Erke-Kashka#40.4833#72.4833#0#6
+Kyrgyzstan#Erkintoo#40.45#73.3#0#6
+Kyrgyzstan#Eshsay#41.6833#72.5#0#6
+Kyrgyzstan#Eski-Nookat#40.2667#72.6#0#6
+Kyrgyzstan#Ferghan Mountains#41#74#0#6
+Kyrgyzstan#Fol baumka#42.75#78.1167#0#6
+Kyrgyzstan#Frunze#42.7667#78.1833#0#6
+Kyrgyzstan#Frunzenskiy Rayon#40#71.5833#0#6
+Kyrgyzstan#Frunzenskoye#40.1333#71.7167#0#6
+Kyrgyzstan#Hsin-t eng-ko-li Feng#42.0364#80.1158#0#6
+Kyrgyzstan#Ichkebash#41.6167#75.9#0#6
+Kyrgyzstan#Ichkedzherges#42.5667#78.7#0#6
+Kyrgyzstan#Ichkele-Tash#42.35#79.3667#0#6
+Kyrgyzstan#Ichkesu#41.3#74.9167#0#6
+Kyrgyzstan#Ichkili-Su#40.3833#73.9333#0#6
+Kyrgyzstan#Ikazyak#39.7333#73.7833#0#6
+Kyrgyzstan#Iki-Chat#42.0167#78.8833#0#6
+Kyrgyzstan#Il chibay#42.7167#78.55#0#6
+Kyrgyzstan#Imeni Budennova#40.15#73.45#0#6
+Kyrgyzstan#Imeni Chkalova#41.7833#72.95#0#6
+Kyrgyzstan#Imeni Fedorova#40.2#73.5333#0#6
+Kyrgyzstan#Imeni Frunze#41.65#72.6667#0#6
+Kyrgyzstan#Imeni Il icha#42.7667#75.9667#0#6
+Kyrgyzstan#Imeni Kalinina#40.8167#73.4833#0#6
+Kyrgyzstan#Imeni Kirova#41.3333#72.1667#0#6
+Kyrgyzstan#Imeni Kuybysheva#41.5106#75.8544#0#6
+Kyrgyzstan#Imeni Molotova#40.8833#73.5#0#6
+Kyrgyzstan#Imeni Pervogo Maya#41.8333#73#0#6
+Kyrgyzstan#Imeni Vecheki#42.7333#78.4167#0#6
+Kyrgyzstan#Imeni Voroshilova#42.3167#76.4167#0#6
+Kyrgyzstan#In-Tyur#42.3#78.65#0#6
+Kyrgyzstan#Internatsional#40.5542#72.8767#0#6
+Kyrgyzstan#Irdyk#42.45#78.3#0#6
+Kyrgyzstan#Irgesh#40.1833#73.6#0#6
+Kyrgyzstan#Iri-Dzhilga#42.6#79.3333#0#6
+Kyrgyzstan#Iri-Su#40.4167#73.3333#0#6
+Kyrgyzstan#Irisu#40.4833#73.4167#0#6
+Kyrgyzstan#Irkishtam#39.6833#73.9167#0#6
+Kyrgyzstan#Irtash#41.8833#78.5667#0#6
+Kyrgyzstan#Isfana#39.8333#69.5167#0#6
+Kyrgyzstan#Ishan-Bulak#42.85#77.3167#0#6
+Kyrgyzstan#Ishma#40.5833#73.0167#0#6
+Kyrgyzstan#Ishtok Pass#41.5833#78.1667#0#6
+Kyrgyzstan#Issok-ata Pass#42.4167#74.8#0#6
+Kyrgyzstan#Issyk-Kul skiy Zapovednik#42.3772#77.2478#0#6
+Kyrgyzstan#Issykata#42.65#75.05#0#6
+Kyrgyzstan#Itagar#41.6333#71.8667#0#6
+Kyrgyzstan#Ivano-Alekseyevka#42.5167#72.2333#0#6
+Kyrgyzstan#Ivanovka#42.8878#75.0839#0#6
+Kyrgyzstan#Izym-Bay#40.9#73.7667#0#6
+Kyrgyzstan#Jalal-Abad#40.9333#73#0#6
+Kyrgyzstan#Jamantau Mountains#40.9167#74.5833#0#6
+Kyrgyzstan#Jan-Bulak#41.4361#75.7336#0#6
+Kyrgyzstan#Janart Pass#41.6667#78.8333#0#6
+Kyrgyzstan#Jangy Kanaly#40.5044#72.6589#0#6
+Kyrgyzstan#Jangy-Jer#39.6667#72.2667#0#6
+Kyrgyzstan#Jangy-Jer (Naryn)#41.3156#76.67#0#6
+Kyrgyzstan#Jangy-Kyshtak#40.5369#72.7767#0#6
+Kyrgyzstan#Jangy-Talap#41.4506#75.0142#0#6
+Kyrgyzstan#Japalak#40.4928#72.7642#0#6
+Kyrgyzstan#Jar#39.9667#69.3667#0#6
+Kyrgyzstan#Jergeto#41.5703#75.7869#0#6
+Kyrgyzstan#Jeryuy-bashi Pass#42.1667#72.75#0#6
+Kyrgyzstan#Jeto-Oguz#42.4333#78.2#0#6
+Kyrgyzstan#Jety-Oguz#42.5#78.0667#0#6
+Kyrgyzstan#Jida#40.3#72.4333#0#6
+Kyrgyzstan#Jiptok Pass#39.8333#72.95#0#6
+Kyrgyzstan#Jirgital#41.1#73.2167#0#6
+Kyrgyzstan#Jitom Mountains#41.5833#77#0#6
+Kyrgyzstan#Joon-Aryk#41.9814#75.7197#0#6
+Kyrgyzstan#Jumgol-tau Mountains#42.25#74.3333#0#6
+Kyrgyzstan#Jusaly#40.3167#73.4167#0#6
+Kyrgyzstan#Kashgar#40.6208#72.8306#0#6
+Kyrgyzstan#Lake Issok-Kul#42.4167#77.25#0#6
+Kyrgyzstan#Lake Sok Kul#41.8392#75.1444#0#6
+Kyrgyzstan#Lay-Tala#40.6#73.6167#0#6
+Kyrgyzstan#Laylysu#41.4667#75.5167#0#6
+Kyrgyzstan#Lebedinovka#42.8803#74.6806#0#6
+Kyrgyzstan#Lednik Aksu#42.8333#77.1167#0#6
+Kyrgyzstan#Lednik Aylyamma#42.0333#78.7333#0#6
+Kyrgyzstan#Lednik Engil chek#42.3333#80#0#6
+Kyrgyzstan#Lednik Kaindy#42.0833#79.6667#0#6
+Kyrgyzstan#Lednik Kan-Dzhaylyau#42.1333#79.5667#0#6
+Kyrgyzstan#Lednik Kay-Kap#41.9167#79.6667#0#6
+Kyrgyzstan#Lednik Kolpakovskogo#42.0833#78.2833#0#6
+Kyrgyzstan#Lednik Korzhenevskogo#39.4167#73.05#0#6
+Kyrgyzstan#Lednik Lenina#39.4#72.8833#0#6
+Kyrgyzstan#Lednik Mushketova#42.3#79.9167#0#6
+Kyrgyzstan#Lednik Petrova#41.9#78.3#0#6
+Kyrgyzstan#Lednik Semenova#42.3667#79.95#0#6
+Kyrgyzstan#Lednik Severnyy Inyl chek#42.25#79.9833#0#6
+Kyrgyzstan#Lednik Yuzhnyy Inyl chek#42.1667#80#0#6
+Kyrgyzstan#Lenin-Dzhol#41.0667#72.6333#0#6
+Kyrgyzstan#Leninpol#42.4833#71.9167#0#6
+Kyrgyzstan#Leninskoye#42.9603#74.6556#0#6
+Kyrgyzstan#Limbur#40.0667#71.1#0#6
+Kyrgyzstan#Lipenskoye#42.5333#78.2#0#6
+Kyrgyzstan#Lizogubovka#42.6667#78.8333#0#6
+Kyrgyzstan#Lugovoye#42.7667#78.2667#0#6
+Kyrgyzstan#Lyaglyan#40.3167#73.1#0#6
+Kyrgyzstan#Lyangar#39.8#72.0833#0#6
+Kyrgyzstan#Lyaylyak#39.9#69.9167#0#6
+Kyrgyzstan#Lyaylyakskiy Rayon#39.8333#69.75#0#6
+Kyrgyzstan#Lyublino#41.15#73.2833#0#6
+Kyrgyzstan#Naiza#41.5833#70.3833#0#6
+Kyrgyzstan#Nariman#40.5542#72.7911#0#6
+Kyrgyzstan#Naron#41.43#76#0#6
+Kyrgyzstan#Naryn#41.3458#72.21#0#6
+Kyrgyzstan#Naryn Oblasty#41.4333#75.9667#0#6
+Kyrgyzstan#Narynskaya Dolina#41.4167#76#0#6
+Kyrgyzstan#Narynskiy Rayon#41.5833#76.3333#0#6
+Kyrgyzstan#Naukatskiy Rayon#40.1667#72.75#0#6
+Kyrgyzstan#Naukent#41.05#72.5667#0#6
+Kyrgyzstan#Nayman#40.2833#72.3333#0#6
+Kyrgyzstan#Nazar-Makhram#40.6667#72.0667#0#6
+Kyrgyzstan#Nazyk#39.95#73.4667#0#6
+Kyrgyzstan#Nichka-Say#40.7667#73.6#0#6
+Kyrgyzstan#Nichke-Bel#39.55#73.35#0#6
+Kyrgyzstan#Nichke-Say#41.8167#73.0333#0#6
+Kyrgyzstan#Nikolayevskoye#42.7#78.3#0#6
+Kyrgyzstan#Niyaz#41.0167#72.95#0#6
+Kyrgyzstan#Nizhniy Norus#42.9236#74.7433#0#6
+Kyrgyzstan#Nizhniy Orok#42.8083#74.5358#0#6
+Kyrgyzstan#Nizhnyaya Ala-Archa#42.9189#74.5675#0#6
+Kyrgyzstan#Nookenskiy Rayon#41.25#72.5833#0#6
+Kyrgyzstan#Nora-Mau#41.6167#76.0833#0#6
+Kyrgyzstan#Noruskel#39.6167#72.3333#0#6
+Kyrgyzstan#Nov Pokrovka#42.3408#77.9981#0#6
+Kyrgyzstan#Novo-Mikhaylovka#42.8167#75.5333#0#6
+Kyrgyzstan#Novokonstantinovka#42.55#78.6667#0#6
+Kyrgyzstan#Novopavlovka#42.8706#74.4867#0#6
+Kyrgyzstan#Novopokrovka#42.8658#74.7361#0#6
+Kyrgyzstan#Novorossiyka#42.735#76.0792#0#6
+Kyrgyzstan#Novovoznesenovka#42.6#78.7333#0#6
+Kyrgyzstan#Noygut#40.0167#71.2167#0#6
+Kyrgyzstan#Nura#39.7#73.9167#0#6
+Kyrgyzstan#Osh ( or KG05)#40.5294#72.79#0#6
+Kyrgyzstan#Osh#40#73#0#6
+Kyrgyzstan#Qaichi-davan#41.5833#78.8167#0#6
+Kyrgyzstan#Qullai Lenin#39.3333#72.9167#0#6
+Kyrgyzstan#Radinan#40.2667#72.1#0#6
+Kyrgyzstan#Raut#39.75#70.9167#0#6
+Kyrgyzstan#Ravat#39.9#70.2#0#6
+Kyrgyzstan#Razdol noye#42.6167#78.7333#0#6
+Kyrgyzstan#Razvaliny Dzhangy-Telek#41.3519#75.1744#0#6
+Kyrgyzstan#Razvaliny Tuyamuyun#40.355#72.5839#0#6
+Kyrgyzstan#Reka Ak-Say#40.8889#76.5986#0#6
+Kyrgyzstan#Reka Saty#42.75#78.3333#0#6
+Kyrgyzstan#Renzhit#41.4#71.85#0#6
+Kyrgyzstan#Resha#42.1833#79.5167#0#6
+Kyrgyzstan#Rodnik Al cha-Bulak#40.8333#73.0667#0#6
+Kyrgyzstan#Rodnik Dzhida-Bulak#40.7#73.3333#0#6
+Kyrgyzstan#Rodnik Sugat#40.6833#73.3333#0#6
+Kyrgyzstan#Romanovka#42.4667#71.95#0#6
+Kyrgyzstan#Romanovskoye#42.8667#74.3333#0#6
+Kyrgyzstan#Rybach ye#42.4333#76.2#0#6
+Kyrgyzstan#Rybpunkt#42.3694#77.8953#0#6
+Kyrgyzstan#Uch-Chat#41.7833#79.2#0#6
+Kyrgyzstan#Uch-shat-Pass#41.9167#79.3333#0#6
+Kyrgyzstan#Uch-Tyube#39.9167#73.4333#0#6
+Kyrgyzstan#Uchemchek#41.8681#77.0475#0#6
+Kyrgyzstan#Ukok#42.2281#75.7736#0#6
+Kyrgyzstan#Ularly#39.8833#72.65#0#6
+Kyrgyzstan#Upa#40.8#73.9333#0#6
+Kyrgyzstan#Urta-Kyzyl#40.3#72.65#0#6
+Kyrgyzstan#Uyun-Tyur#42.3#78.4833#0#6
+Kyrgyzstan#Uyunkur#41.65#73.1667#0#6
+Kyrgyzstan#Uzgorysh#41.4167#75.3833#0#6
+Kyrgyzstan#Uzunbulak#42.1333#75.2667#0#6
+Kyrgyzstan#Valyakish#40.2#72.0833#0#6
+Kyrgyzstan#Vapalak-Tash#40.6167#73.4167#0#6
+Kyrgyzstan#Verkhne-Pokrovskoye#40.7#73.15#0#6
+Kyrgyzstan#Verkhniy Orok#42.8011#74.5233#0#6
+Kyrgyzstan#Verkhnyaya Alaarcha#42.7333#74.5167#0#6
+Kyrgyzstan#Vesheke#42.8#75.8#0#6
+Kyrgyzstan#Vidana#40.2167#72.9833#0#6
+Kyrgyzstan#Vladimirovka#42.5333#71.9#0#6
+Kyrgyzstan#Vorontsovskoye#42.7167#74.5833#0#6
+Kyrgyzstan#Voroshilovskiy Rayon#42.75#74.8333#0#6
+Kyrgyzstan#Voroshilovskoye#42.8969#74.6347#0#6
+Kyrgyzstan#Vos moye Marta#41.4564#75.4044#0#6
+Kyrgyzstan#Vostochny Karakol#42.2042#75.2472#0#6
+Kyrgyzstan#Vostochnyy#39.9167#69.65#0#6
+Kyrgyzstan#Vostochnyy Seok#42.2019#75.2467#0#6
+Kyrgyzstan#Vostok#42.8992#74.6739#0#6
+Kyrgyzstan#Voyenno-Antonovskoye#42.8667#74.4#0#6
+Kyrgyzstan#Vozhesenskoye#42.8333#73.8167#0#6
+Kyrgyzstan#Vurkhan#41.7547#77.0003#0#6
+Kyrgyzstan#Vzengegush#41.2267#78.1206#0#6
+Kyrgyzstan#Yaklikuchar-Say#41.05#72.5167#0#6
+Kyrgyzstan#Yalgiz-Alcha#40.7833#73.6167#0#6
+Kyrgyzstan#Yalgyz-Yangak#41.1#73.1833#0#6
+Kyrgyzstan#Yaman-Ail#41.0333#72.9667#0#6
+Kyrgyzstan#Yaman-Kyrchin#39.6167#72.6167#0#6
+Kyrgyzstan#Yan-Atyr#42.8333#76.3667#0#6
+Kyrgyzstan#Yanabadam#41.1167#72.7833#0#6
+Kyrgyzstan#Yangi-Aryk#40.45#72.8333#0#6
+Kyrgyzstan#Yangi-Dzhol#41.8667#74.45#0#6
+Kyrgyzstan#Yangi-Naukat#40.25#72.55#0#6
+Kyrgyzstan#Yangiturmysh#41.8442#72.7522#0#6
+Kyrgyzstan#Yar-Kurgan#40.25#72.8333#0#6
+Kyrgyzstan#Yartash#40.3333#72.6667#0#6
+Kyrgyzstan#Yaryktash#41.8333#72.0667#0#6
+Kyrgyzstan#Yash#40.1#72.4667#0#6
+Kyrgyzstan#Yasso#40.7833#73.1333#0#6
+Kyrgyzstan#Yengi-Bazar#41.6667#70.8833#0#6
+Kyrgyzstan#Yerish#41.4167#72.3667#0#6
+Kyrgyzstan#Yeshki-Su#42.75#78.4167#0#6
+Kyrgyzstan#Yshtyk#41.6017#78.2853#0#6
+Kyrgyzstan#Ysyk-Kol#42.4611#76.1803#0#6
+Kyrgyzstan#Ysyk-Kol Oblasty#42#78#0#6
+Kyrgyzstan#Yur evka#42.7136#75.0361#0#6
+Kyrgyzstan#Zaalayskiy Khrebet#39.3333#72.5#0#6
+Kyrgyzstan#Zaliv Pokrovskiy#42.3858#77.8606#0#6
+Kyrgyzstan#Zaliv Przheval skogo#42.5833#78.1667#0#6
+Kyrgyzstan#Zaliv Tong#42.19#76.9356#0#6
+Kyrgyzstan#Zaliv Tyup#42.75#78.2667#0#6
+Kyrgyzstan#Zaliv Yurduk-Udzhar#42.2667#76.7#0#6
+Kyrgyzstan#Zaluke-Dzhuka#42.3667#77.8833#0#6
+Kyrgyzstan#Zapadnoy Karakol#42.1333#74.0833#0#6
+Kyrgyzstan#Zar-Tash#40.2589#71.0289#0#6
+Kyrgyzstan#Zardale#39.65#70.95#0#6
+Kyrgyzstan#Zerger#40.8333#73.4#0#6
+Kyrgyzstan#Zhalamysh#42.6667#74.3167#0#6
+Kyrgyzstan#Zhaman-Almaty#42.9167#76.95#0#6
+Kyrgyzstan#Zhandy-Su#42.8833#76.6833#0#6
+Kyrgyzstan#Zharkynbayevo#42.7397#77.7458#0#6
+Kyrgyzstan#Zhel -Karagay#42.8667#77.5#0#6
+Kyrgyzstan#Zhel -Kil dek#42.7167#75.6333#0#6
+Kyrgyzstan#Zhuunu#42.2131#77.9694#0#6
+Kyrgyzstan#Zimovka Iskandera#42.7406#75.8964#0#6
+Kyrgyzstan#Zimovka Kara-Bulak#41.1667#73.2333#0#6
+Kyrgyzstan#Zimovka Kulyugen#41.1167#72.7#0#6
+Kyrgyzstan#Zindan#41.35#73.1833#0#6
+Kyrgyzstan#Zindan-Su#40.8667#73.6667#0#6
+Kyrgyzstan#Zor-Ayryk#39.4333#72.1167#0#6

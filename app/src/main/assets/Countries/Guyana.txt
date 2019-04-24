@@ -1,0 +1,13 @@
+﻿
+Guyana#Bartica#6.4#-58.6166649#1#-4
+Guyana#Fort Wellington#6.4#-57.5999985#1#-4
+Guyana#Georgetown#6.8#-58.1666679#1#-4
+Guyana#Lethem#3.3833333#-59.7999992#94#-4
+Guyana#Linden#6#-58.2999992#49#-4
+Guyana#Mabaruma#8.2#-59.7833328#14#-4
+Guyana#Mahaica Village#6.6833333#-57.9166679#1#-4
+Guyana#Mahaicony Village#6.55#-57.7999992#1#-4
+Guyana#New Amsterdam#6.25#-57.5166664#1#-4
+Guyana#Rosignol#6.2833333#-57.5333328#1#-4
+Guyana#Skeldon#5.8833333#-57.1333351#-9999#-4
+Guyana#Vreed en Hoop#6.8075#-58.1869431#1#-4

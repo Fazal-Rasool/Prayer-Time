@@ -1,0 +1,12 @@
+﻿
+Djibouti#`Ali Sabieh#11.155833#42.7125015#692#3
+Djibouti#`Arta#11.522222#42.8419456#741#3
+Djibouti#Alaili Dadda`#12.421667#42.8955574#333#3
+Djibouti#Dikhil#11.108611#42.3738899#562#3
+Djibouti#Djibouti#11.595#43.148056#1#3
+Djibouti#Dorra#12.149444#42.4775009#295#3
+Djibouti#Galafi#11.715833#41.836113#129#3
+Djibouti#Holhol#11.310278#42.9294434#463#3
+Djibouti#Loyada#11.461111#43.2527771#1#3
+Djibouti#Obock#11.963056#43.290554#27#3
+Djibouti#Tadjoura#11.785278#42.8844452#69#3

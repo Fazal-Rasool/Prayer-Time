@@ -1,0 +1,305 @@
+﻿
+Burundi#Aerodrome de Gihofi-Moso#-4.0339#30.1319#0#2
+Burundi#Agahotsa#-3.1058#30.5778#0#2
+Burundi#Agasenyi#-3.1967#30.1325#0#2
+Burundi#Akabizi#-2.8317#30.1156#0#2
+Burundi#Akadahoka#-2.8758#30.0858#0#2
+Burundi#Akagera#-0.95#31.7833#0#2
+Burundi#Akagogo#-3.7317#29.8967#0#2
+Burundi#Akagoma#-3.3417#29.7708#0#2
+Burundi#Akagoma#-2.9375#29.8681#0#2
+Burundi#Akagondo#-3.2653#30.8236#0#2
+Burundi#Akagoti#-3.1167#30.6903#0#2
+Burundi#Akaguhu#-3.4253#29.5703#0#2
+Burundi#Akaguya#-3.4444#30.0708#0#2
+Burundi#Akamira#-2.9364#29.9069#0#2
+Burundi#Akamurenda#-3.5994#30.2969#0#2
+Burundi#Akanweka#-2.9728#30.6006#0#2
+Burundi#Akaremera#-2.8158#29.7883#0#2
+Burundi#Akarenga#-3.0153#29.8014#0#2
+Burundi#Akashishi#-3.6111#30.3003#0#2
+Burundi#Akayogo#-3.3861#30.3692#0#2
+Burundi#Akimpama#-3.3819#30.4594#0#2
+Burundi#Athenee Bujumbura#-3.3958#29.3722#0#2
+Burundi#Athenee Gitega#-3.4214#29.9369#0#2
+Burundi#Athenee Rubanga#-3.7539#29.6981#0#2
+Burundi#Bujumbura#-3.3833#29.3289#0#2
+Burundi#Dabambe#-3.9389#30.0033#0#2
+Burundi#Dama (Makamba)#-4.2119#29.7228#0#2
+Burundi#Dama (Bururi)#-3.9628#29.4208#0#2
+Burundi#Dangara#-3.8289#29.9403#0#2
+Burundi#Daraza#-2.9417#30.2656#0#2
+Burundi#Denzwa#-4.3683#29.7269#0#2
+Burundi#Dispensaire Bujumbura#-3.3697#29.3831#0#2
+Burundi#Donge#-3.6833#29.5444#0#2
+Burundi#Donge Burasira#-3.6631#29.5564#0#2
+Burundi#Donge Ruzi#-3.7119#29.5342#0#2
+Burundi#Donzi#-3.7383#29.4694#0#2
+Burundi#Dundwe#-3.9261#29.5564#0#2
+Burundi#Dunga#-4.1506#29.9322#0#2
+Burundi#Dusasa#-2.8308#29.4572#0#2
+Burundi#Dutwaro#-3.3206#29.8611#0#2
+Burundi#Dutwe#-3.4619#30.3153#0#2
+Burundi#Echelle de crues Ndurumu#-2.7247#29.9864#0#2
+Burundi#Ecole Bujumbura#-3.4178#29.3542#0#2
+Burundi#Ecole d agriculture Gitega#-3.4008#29.9189#0#2
+Burundi#Ecole moyenne Mugera#-3.3231#29.9556#0#2
+Burundi#Ecole moyenne Muyaga#-3.2447#30.5486#0#2
+Burundi#Ecole normale Buhiga#-3.0314#30.1536#0#2
+Burundi#Ecole normale Bujumbura#-3.3608#29.3731#0#2
+Burundi#Ecole normale Bukeye#-3.1983#29.645#0#2
+Burundi#Ecole normale Busiga#-2.8789#29.7397#0#2
+Burundi#Ecole normale Kayokwe#-3.5322#29.7406#0#2
+Burundi#Ecole normale Kibimba#-3.2981#29.7928#0#2
+Burundi#Ecole normale Kiremba#-3.9392#29.6733#0#2
+Burundi#Ecole normale Mushasha#-3.4478#29.9397#0#2
+Burundi#Ecole normale Mutumba#-3.5867#29.3564#0#2
+Burundi#Ecole normale Rugari#-2.7328#30.3864#0#2
+Burundi#Ecole normale Ruyigi#-3.46#30.2353#0#2
+Burundi#Ecole pedagogique Musenyi#-2.9497#30.0381#0#2
+Burundi#Ecole primaire Nyamugari#-3.9483#29.6339#0#2
+Burundi#Faille des Allemands#-3.9033#30.1278#0#2
+Burundi#Ferme de Randa#-3.1547#29.3681#0#2
+Burundi#Ferme Karuzi#-3.1019#30.1561#0#2
+Burundi#Ferme Mparambo#-2.8297#29.0689#0#2
+Burundi#Ferme Nyabibuye#-2.9806#30.4522#0#2
+Burundi#Ferme Rugombo#-2.7992#29.0769#0#2
+Burundi#Foko#-2.3569#30.0161#0#2
+Burundi#Fota#-3.4389#29.7042#0#2
+Burundi#Fuku#-3.8661#29.6417#0#2
+Burundi#Funzwe#-3.7017#30.3594#0#2
+Burundi#Fute#-4.1092#29.6486#0#2
+Burundi#Haga#-2.4286#30.0833#0#2
+Burundi#Hanganzo#-3.3592#29.6158#0#2
+Burundi#Hangarizo#-2.8328#29.7619#0#2
+Burundi#Harudede#-2.6181#30.2108#0#2
+Burundi#Hayi#-3.7914#29.5928#0#2
+Burundi#Hayiro (Ngozi)#-2.8536#29.8303#0#2
+Burundi#Hayiro (or BY05)#-3.3853#29.6817#0#2
+Burundi#Heha#-3.6036#29.4969#0#2
+Burundi#Higiro (Bururi)#-3.8247#29.5514#0#2
+Burundi#Higiro (Gitega)#-3.4033#29.9675#0#2
+Burundi#Higiro (Bubanza)#-3.0847#29.4453#0#2
+Burundi#Hina#-2.9169#29.7586#0#2
+Burundi#Honga#-3.9803#29.5808#0#2
+Burundi#Hopital Bujumbura#-3.3861#29.365#0#2
+Burundi#Hopital Bururi#-3.9483#29.6194#0#2
+Burundi#Hopital Kayokwe#-3.5297#29.7422#0#2
+Burundi#Hopital Muyinga#-2.8422#30.3464#0#2
+Burundi#Humure#-3.1067#30.5914#0#2
+Burundi#Ibuga#-3.5283#30.4553#0#2
+Burundi#Ibuna#-3.1178#29.6744#0#2
+Burundi#Ihangiro#-3.2878#30.3867#0#2
+Burundi#Ijenda#-3.4794#29.5675#0#2
+Burundi#Ijuru#-3.6792#29.6419#0#2
+Burundi#Ile Akayoba#-2.4272#30.2764#0#2
+Burundi#Ile Kigwa#-2.5042#30.1264#0#2
+Burundi#Inacavu#-2.9611#29.3869#0#2
+Burundi#Inadjaga#-3.5292#29.8439#0#2
+Burundi#Inakigogo#-2.8111#29.7528#0#2
+Burundi#Inamurambi#-2.825#29.3628#0#2
+Burundi#Inanjororo#-3.0903#29.3653#0#2
+Burundi#Inanzegwe#-4.0683#29.7314#0#2
+Burundi#iProvense ya Kirundo#-2.5833#30.1667#0#2
+Burundi#iProvense ya Ngozi#-2.875#29.925#0#2
+Burundi#iProvense ya Ruyigi#-3.45#30.3167#0#2
+Burundi#Irimwa#-3.4033#29.6169#0#2
+Burundi#Isale#-3.3506#29.4892#0#2
+Burundi#Isare#-3.3486#29.4833#0#2
+Burundi#Isigi#-3.5881#29.5114#0#2
+Burundi#Itaba#-3.6597#30.0139#0#2
+Burundi#Itahe#-3.4456#30.5311#0#2
+Burundi#Iteka (Ruyigi)#-3.4903#30.4483#0#2
+Burundi#Iteka (or BY05)#-3.4972#29.6928#0#2
+Burundi#Iteme#-3.0303#29.9864#0#2
+Burundi#Iyogera#-3.5211#30.4411#0#2
+Burundi#Jabiro#-2.6642#29.9953#0#2
+Burundi#Jaga#-3.4606#29.85#0#2
+Burundi#Jagamba#-2.7028#29.2486#0#2
+Burundi#Janda#-3.6978#29.4503#0#2
+Burundi#Janga#-3.2703#29.7108#0#2
+Burundi#Jani#-2.8156#30.1831#0#2
+Burundi#Janja#-3.5317#29.9328#0#2
+Burundi#Jarama#-3.0003#30.285#0#2
+Burundi#Jembegeti#-2.8764#29.5903#0#2
+Burundi#Jenda (Gitega)#-3.2906#29.9106#0#2
+Burundi#Jenda (Bururi)#-3.8669#29.6586#0#2
+Burundi#Jenda (Makamba)#-4.0453#29.8086#0#2
+Burundi#Jene#-2.8594#29.6172#0#2
+Burundi#Jerama (Gitega)#-3.7442#29.8786#0#2
+Burundi#Jerama (Bururi)#-3.8872#29.5139#0#2
+Burundi#Jerijeri#-3.6089#29.8631#0#2
+Burundi#Jiji#-3.8869#29.5589#0#2
+Burundi#Jimbi (Makamba)#-4.2883#29.8769#0#2
+Burundi#Jimbi (Ngozi)#-2.8589#29.8769#0#2
+Burundi#Jimbi (Gitega)#-3.4731#29.8931#0#2
+Burundi#Jimbi (Kayanza)#-3.0533#29.7589#0#2
+Burundi#Jobe#-3.9039#29.9692#0#2
+Burundi#Jogo#-3.2194#30.1775#0#2
+Burundi#Jomati#-3.9139#30.0331#0#2
+Burundi#Jubete#-3.8242#30.0028#0#2
+Burundi#Jugwe#-3.5247#29.8853#0#2
+Burundi#Jungwe (Makamba)#-4.1128#29.6928#0#2
+Burundi#Jungwe (Bururi)#-3.9686#29.7786#0#2
+Burundi#Jurugati#-3.8367#30.1558#0#2
+Burundi#Lac Dogodogo#-2.8403#29.0972#0#2
+Burundi#Lac Gacamirinda#-2.4569#30.0111#0#2
+Burundi#Lac Gitamo#-2.505#30.0144#0#2
+Burundi#Lac Kanzigiri#-2.4583#30.3625#0#2
+Burundi#Lac Kibenga#-3.2367#29.4114#0#2
+Burundi#Lac Mwungere#-2.5775#29.9456#0#2
+Burundi#Lac Narungazi#-2.5442#29.9975#0#2
+Burundi#Lac Nyamuziba#-2.8486#29.1247#0#2
+Burundi#Lac Rwihinda#-2.55#30.0778#0#2
+Burundi#Lugongo#-3.2614#30.7097#0#2
+Burundi#Luhwa#-2.7333#29.0333#0#2
+Burundi#Lutare#-3.4544#30.5625#0#2
+Burundi#Luvusi#-3.6167#30.5333#0#2
+Burundi#Lycee Bujumbura#-3.385#29.3911#0#2
+Burundi#Lycee Bururi#-3.9458#29.6247#0#2
+Burundi#Lycee Gisanze#-2.7822#30.1758#0#2
+Burundi#Lycee Ijenda#-3.4794#29.5639#0#2
+Burundi#Ngozi (Gitega)#-3.485#29.9003#0#2
+Burundi#Ngozi#-2.9114#29.8306#0#2
+Burundi#Ngozi (Rutana)#-3.9056#30.0544#0#2
+Burundi#OCIBU Nyamugari#-3.0114#29.8964#0#2
+Burundi#Parc national de la Kibira#-3#29.5#0#2
+Burundi#Petit Seminaire Bujumbura#-3.4167#29.3614#0#2
+Burundi#Petit Seminaire Buta#-3.9528#29.7094#0#2
+Burundi#Pfunyangeso#-3.5606#30.0614#0#2
+Burundi#Phare Bujumbura#-3.3797#29.3444#0#2
+Burundi#Plage Bujumbura#-3.3806#29.3461#0#2
+Burundi#Plage Kibenga#-3.4214#29.3389#0#2
+Burundi#Pompage Rutoka#-2.7456#30.3969#0#2
+Burundi#Port Bujumbura#-3.3761#29.3417#0#2
+Burundi#Prison Muyange-Gashoho#-2.8128#30.1256#0#2
+Burundi#Province de Bubanza#-3.1167#29.4#0#2
+Burundi#Province de Bururi#-3.85#29.6333#0#2
+Burundi#Province de Cankuzo#-3.1333#30.5833#0#2
+Burundi#Province de Cibitoke#-2.8833#29.25#0#2
+Burundi#Province de Gitega#-3.5#29.95#0#2
+Burundi#Province de Karuzi#-3.125#30.1333#0#2
+Burundi#Province de Kayanza#-3.0667#29.6667#0#2
+Burundi#Province de Makamba#-4.1667#29.7528#0#2
+Burundi#Province de Muramvya#-3.25#29.6667#0#2
+Burundi#Province de Muyinga#-2.8333#30.3333#0#2
+Burundi#Province de Mwaro#-3.5#29.6667#0#2
+Burundi#Province de Rutana#-3.8667#30.1#0#2
+Burundi#Pukeye#-4.35#29.6#0#2
+Burundi#Tabi (Gitega)#-3.4469#29.8661#0#2
+Burundi#Tabi (Bujumbura)#-3.6417#29.3989#0#2
+Burundi#Tagara#-3.8833#29.6153#0#2
+Burundi#Tahiro#-3.9142#29.8992#0#2
+Burundi#Takwe#-4.1467#29.7594#0#2
+Burundi#Tamba#-3.0064#30.5933#0#2
+Burundi#Tanganika#-2.51#30.1828#0#2
+Burundi#Tangara#-2.9222#29.9736#0#2
+Burundi#Tara (Bururi)#-3.8264#29.6631#0#2
+Burundi#Tara (Kayanza)#-3.2008#29.7233#0#2
+Burundi#Tarire#-3.9756#29.6142#0#2
+Burundi#Tawe#-3.7875#29.9531#0#2
+Burundi#Teka#-3.2233#29.7125#0#2
+Burundi#Temba#-2.8583#29.2522#0#2
+Burundi#Tenga#-3.3056#29.4153#0#2
+Burundi#Terera#-3.8875#30.0236#0#2
+Burundi#Tetero#-3.0075#30.7803#0#2
+Burundi#Teza#-3.2153#29.5625#0#2
+Burundi#Timbura#-4.0322#29.9508#0#2
+Burundi#Titi (Bubanza)#-3.0822#29.4336#0#2
+Burundi#Titi (Ruyigi)#-3.6575#30.1492#0#2
+Burundi#Tongwe#-3.9956#29.5683#0#2
+Burundi#Tora#-3.6875#29.5611#0#2
+Burundi#Tribunal Kayanza#-2.9353#29.6283#0#2
+Burundi#Tribunal Mabanda#-4.2733#29.7789#0#2
+Burundi#Tribunal Ndego#-3.1025#29.6719#0#2
+Burundi#Tribunal Rutovu#-3.8836#29.8575#0#2
+Burundi#Tribunaux Kayokwe#-3.5125#29.7269#0#2
+Burundi#Tubiri#-2.8522#29.6525#0#2
+Burundi#Tukitse#-2.8489#29.4347#0#2
+Burundi#Tura#-2.4069#30.4894#0#2
+Burundi#Twe#-3.5453#29.6208#0#2
+Burundi#Twinkwavu#-3.2858#30.6583#0#2
+Burundi#Twinyambo#-3.1211#30.1922#0#2
+Burundi#Twinyoni#-2.6786#29.3258#0#2
+Burundi#Tyazo#-2.7903#29.7692#0#2
+Burundi#Ubuyumbu#-2.8333#29.3833#0#2
+Burundi#Umwogere#-2.8#29.6#0#2
+Burundi#Universite Bujumbura#-3.3789#29.3803#0#2
+Burundi#Urundi#-3.5#30#0#2
+Burundi#Urwagongwe#-3.3622#30.0461#0#2
+Burundi#Usine Theicole Teza#-3.2164#29.5642#0#2
+Burundi#Usugi#-3.4556#29.4208#0#2
+Burundi#Usumbura#-3.3333#29.2569#0#2
+Burundi#Uwibiti#-3.5978#29.5994#0#2
+Burundi#Uwimpene#-3.8472#29.6475#0#2
+Burundi#Uwimpfizi#-3.6089#29.7856#0#2
+Burundi#Uwinryame#-3.6142#29.5589#0#2
+Burundi#Uwinzovu#-3.67#29.6078#0#2
+Burundi#Uwiteme#-3.3439#29.6014#0#2
+Burundi#Uwuruganda#-3.3828#29.5583#0#2
+Burundi#Uwurugo#-3.6061#29.5608#0#2
+Burundi#Vubi#-3.5864#30.2419#0#2
+Burundi#Vugizo (Makamba)#-4.1714#29.71#0#2
+Burundi#Vugizo (Kayanza)#-3.1119#29.7644#0#2
+Burundi#Vugizo (Bujumbura)#-3.3878#29.3867#0#2
+Burundi#Vuma#-3.3225#29.5158#0#2
+Burundi#Vumasi#-2.4183#30.4131#0#2
+Burundi#Vumbaganya#-3.8253#29.3633#0#2
+Burundi#Vumbi#-2.4311#29.9847#0#2
+Burundi#Vumbi-Bukuba#-2.6978#30.1042#0#2
+Burundi#Vumbiro#-3.5125#29.4525#0#2
+Burundi#Vumwe#-3.625#30.3167#0#2
+Burundi#Vuna#-2.7397#30.1758#0#2
+Burundi#Vungu#-4.2681#29.7392#0#2
+Burundi#Vyambo#-3.3078#29.5267#0#2
+Burundi#Vyampa#-3.3228#30.5817#0#2
+Burundi#Vyanda#-4.1031#29.6056#0#2
+Burundi#Vyanzo#-2.4222#30.2417#0#2
+Burundi#Vyero#-2.9606#30.0083#0#2
+Burundi#Vyerwa#-3.0722#30.1633#0#2
+Burundi#Vyiniro#-2.9872#30.1753#0#2
+Burundi#Vyinkona (Muyinga)#-2.7819#30.0842#0#2
+Burundi#Vyinkona (Gitega)#-3.4503#29.9425#0#2
+Burundi#Vyinkora#-3.2017#30.6044#0#2
+Burundi#Vyintare#-2.9872#30.215#0#2
+Burundi#Vyirongoza#-3.1439#30.3314#0#2
+Burundi#Vyoga#-3.5211#29.8564#0#2
+Burundi#Vyondo#-2.9489#30.3561#0#2
+Burundi#Vyugazo#-2.7867#29.8239#0#2
+Burundi#Vyuma (or BY05)#-3.4592#29.7231#0#2
+Burundi#Vyuma (Karuzi)#-2.9728#30.1869#0#2
+Burundi#Vyuma (Rutana)#-3.8072#30.0256#0#2
+Burundi#Vyuma (Muyinga)#-2.4828#30.4453#0#2
+Burundi#Vyuya#-3.6781#29.6556#0#2
+Burundi#Wabitega#-2.9975#29.3128#0#2
+Burundi#Wabivumu#-3.7283#29.8103#0#2
+Burundi#Waga#-3.5236#29.8097#0#2
+Burundi#Wambogo#-3.5417#30.3392#0#2
+Burundi#Wangoma#-3.0794#30.5114#0#2
+Burundi#Warukera#-2.8042#29.4306#0#2
+Burundi#Warukwega#-3.0272#29.6969#0#2
+Burundi#Wingoma#-2.675#30.3675#0#2
+Burundi#Yaba#-4.045#29.8978#0#2
+Burundi#Yabuhaga#-2.7417#30.2928#0#2
+Burundi#Yagizo#-3.2006#30.2028#0#2
+Burundi#Yamuremye#-3.2069#29.8053#0#2
+Burundi#Yandaro#-2.8469#29.5806#0#2
+Burundi#Yanza (or BY05)#-3.3928#29.6089#0#2
+Burundi#Yanza (Kayanza)#-2.93#29.5769#0#2
+Burundi#Yanza (Kirundo)#-2.4217#30.2233#0#2
+Burundi#Yaranda#-2.5217#30.0983#0#2
+Burundi#Yatsinda#-3.4556#30.2611#0#2
+Burundi#Yenda#-3.7144#30.1086#0#2
+Burundi#Yengero#-3.8225#29.6956#0#2
+Burundi#Yoga#-2.6958#29.9889#0#2
+Burundi#Yonga#-2.4194#30.4722#0#2
+Burundi#Yove (Bururi)#-3.8931#29.4789#0#2
+Burundi#Yove (Rutana)#-3.6756#30.1006#0#2
+Burundi#Zaga#-2.7694#30.2181#0#2
+Burundi#Zanandore#-3.2553#30.1081#0#2
+Burundi#Zina (Muyinga)#-2.63#30.4044#0#2
+Burundi#Zina (Bubanza)#-3.0417#29.305#0#2
+Burundi#Zina#-3.0681#29.2969#0#2
+Burundi#Zingati#-3.6583#29.6572#0#2
+Burundi#Zingure#-4.2906#29.6383#0#2
+Burundi#Zorya#-3.1589#29.4364#0#2

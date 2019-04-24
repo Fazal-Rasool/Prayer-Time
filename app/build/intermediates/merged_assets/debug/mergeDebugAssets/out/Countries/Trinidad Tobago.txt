@@ -1,0 +1,166 @@
+﻿
+Trinidad Tobago#Arima#10.6333#-61.2833#0#-4
+Trinidad Tobago#Arima Fuel Reserve#10.6667#-61.3#0#-4
+Trinidad Tobago#Arima River#10.5833#-61.2667#0#-4
+Trinidad Tobago#Avocat#10.2#-61.5333#0#-4
+Trinidad Tobago#Bamboo#10.0833#-61.8333#0#-4
+Trinidad Tobago#Barataria#10.65#-61.4667#0#-4
+Trinidad Tobago#Barrackpore#10.2#-61.4#0#-4
+Trinidad Tobago#Caroni#10.6#-61.3833#0#-4
+Trinidad Tobago#Caroni River#10.6167#-61.5#0#-4
+Trinidad Tobago#Caroni Savanna#10.55#-61.4167#0#-4
+Trinidad Tobago#Caroni Savannah#10.6#-61.45#0#-4
+Trinidad Tobago#Chaguanas#10.5167#-61.4167#0#-4
+Trinidad Tobago#Chaguanas Ward#10.5#-61.3833#0#-4
+Trinidad Tobago#Couva#10.4167#-61.45#0#-4
+Trinidad Tobago#Cumuto Village#10.5833#-61.2#0#-4
+Trinidad Tobago#Cunupia Village#10.55#-61.3667#0#-4
+Trinidad Tobago#Curepe#10.6333#-61.4#0#-4
+Trinidad Tobago#Dabadie#10.6167#-61.3167#0#-4
+Trinidad Tobago#Damian Bay#10.7667#-61.4167#0#-4
+Trinidad Tobago#Damien River#10.8#-61.3333#0#-4
+Trinidad Tobago#Darien Rock#10.5333#-60.5833#0#-4
+Trinidad Tobago#Defour Point#10.8333#-61#0#-4
+Trinidad Tobago#Dehert Bay#10.6833#-61.6833#0#-4
+Trinidad Tobago#Delaford#11.2667#-60.5667#0#-4
+Trinidad Tobago#Delaford Bay#11.25#-60.55#0#-4
+Trinidad Tobago#Delgada Point#10.6833#-61.6667#0#-4
+Trinidad Tobago#Demerara Shoal#10.0667#-61.95#0#-4
+Trinidad Tobago#Dibe#10.6833#-61.5333#0#-4
+Trinidad Tobago#Diego Martin#10.7#-61.5833#0#-4
+Trinidad Tobago#Dinsley#10.6333#-61.35#0#-4
+Trinidad Tobago#Dopsion Point#10.7833#-60.9333#0#-4
+Trinidad Tobago#Doubloon River#10.4667#-61.05#0#-4
+Trinidad Tobago#Douce Branche River#10.5#-61.1833#0#-4
+Trinidad Tobago#Dow Village#10.4#-61.45#0#-4
+Trinidad Tobago#Drachen Schlund#10.1667#-61.9667#0#-4
+Trinidad Tobago#Dragons Mouths#10.75#-61.7667#0#-4
+Trinidad Tobago#Drew Bank#11.0667#-60.8667#0#-4
+Trinidad Tobago#Duncan#10.25#-61.45#0#-4
+Trinidad Tobago#Dunmore Hill#10.2667#-61.3333#0#-4
+Trinidad Tobago#Durity River#10.1667#-61.3833#0#-4
+Trinidad Tobago#Earthigg#10.6667#-61.5#0#-4
+Trinidad Tobago#Easterfield#11.2167#-60.6833#0#-4
+Trinidad Tobago#Eau Claire River#10.1333#-61.0833#0#-4
+Trinidad Tobago#Ecclesville Village#10.3167#-61.1333#0#-4
+Trinidad Tobago#Eckel Ville#10.3167#-61.3833#0#-4
+Trinidad Tobago#Edith Falls#10.7167#-61.6333#0#-4
+Trinidad Tobago#El Cupan River#10.7167#-61.15#0#-4
+Trinidad Tobago#El Mamo River#10.6#-61.2333#0#-4
+Trinidad Tobago#El Manacal#10.7#-61.35#0#-4
+Trinidad Tobago#El Rincon River#10.4833#-61.1833#0#-4
+Trinidad Tobago#El Tucuche#10.7333#-61.4167#0#-4
+Trinidad Tobago#Embarcadere Corbeau#10.6667#-61.75#0#-4
+Trinidad Tobago#Entrada Point#10.7#-61.6667#0#-4
+Trinidad Tobago#Erasmus River#11.3#-60.6167#0#-4
+Trinidad Tobago#Erin#10.0833#-61.6333#0#-4
+Trinidad Tobago#Erin Bay#10.0667#-61.7167#0#-4
+Trinidad Tobago#Erin Bouffe#10.05#-61.6167#0#-4
+Trinidad Tobago#Erin Savanna#10.1#-61.65#0#-4
+Trinidad Tobago#Escondida Cove#10.6667#-61.6333#0#-4
+Trinidad Tobago#Espolon Point#10.6667#-61.6667#0#-4
+Trinidad Tobago#Felicity Hall#10.45#-61.4667#0#-4
+Trinidad Tobago#Fernando Ravine#10.8167#-61.05#0#-4
+Trinidad Tobago#Fourmi Bay#11.3167#-60.6167#0#-4
+Trinidad Tobago#Freeport#10.45#-61.4167#0#-4
+Trinidad Tobago#Fromager Bay#11.2333#-60.75#0#-4
+Trinidad Tobago#Fyzabad#10.1833#-61.55#0#-4
+Trinidad Tobago#Icacos#10.05#-61.9#0#-4
+Trinidad Tobago#Iere#10.2833#-61.3833#0#-4
+Trinidad Tobago#Iguane River#10.15#-61.0333#0#-4
+Trinidad Tobago#Inniss River#10.0833#-61.25#0#-4
+Trinidad Tobago#Irois#10.1333#-61.75#0#-4
+Trinidad Tobago#Irois Bay#10.15#-61.75#0#-4
+Trinidad Tobago#Islet a Bateau#10.7167#-60.9833#0#-4
+Trinidad Tobago#Islot Bay#10.0667#-61.8167#0#-4
+Trinidad Tobago#Isolote Point#10.0667#-61.7833#0#-4
+Trinidad Tobago#Jaraysingh#10.5333#-61.1333#0#-4
+Trinidad Tobago#Jerningham Junction#10.55#-61.3833#0#-4
+Trinidad Tobago#Kapur Ridge#10.15#-61.1333#0#-4
+Trinidad Tobago#Kilgwyn#11.15#-60.8167#0#-4
+Trinidad Tobago#Killdeer River#10.3667#-61.1167#0#-4
+Trinidad Tobago#Marabella#10.3#-61.45#0#-4
+Trinidad Tobago#Maraval#10.7#-61.5167#0#-4
+Trinidad Tobago#Montrose#10.5167#-61.4#0#-4
+Trinidad Tobago#Naranja#10.7333#-61.4#0#-4
+Trinidad Tobago#Naranjo River (Saint George)#10.7167#-61.4167#0#-4
+Trinidad Tobago#Naranjo River (Saint Andrew)#10.6667#-61.2167#0#-4
+Trinidad Tobago#Nariva#10.3667#-61.1667#0#-4
+Trinidad Tobago#Nariva Lagoon#10.4167#-61.0667#0#-4
+Trinidad Tobago#Nariva River#10.3833#-61.0167#0#-4
+Trinidad Tobago#Navaret River#10.4#-61.0833#0#-4
+Trinidad Tobago#Navet#10.35#-61.1667#0#-4
+Trinidad Tobago#Navet Dam#10.4#-61.2333#0#-4
+Trinidad Tobago#Navette#10.2#-61.0333#0#-4
+Trinidad Tobago#Neg River#10.2167#-61.5833#0#-4
+Trinidad Tobago#Nelson#10.65#-61.6#0#-4
+Trinidad Tobago#Neptune#10.8333#-60.9#0#-4
+Trinidad Tobago#Nestor#10.5167#-61.15#0#-4
+Trinidad Tobago#North Manzanilla#10.5167#-61.0333#0#-4
+Trinidad Tobago#Nutmeg Grove#11.2333#-60.7#0#-4
+Trinidad Tobago#O Brien Point#10.8333#-60.95#0#-4
+Trinidad Tobago#O Meara Savanna#10.6#-61.2833#0#-4
+Trinidad Tobago#Ogis#10.55#-61.1333#0#-4
+Trinidad Tobago#Omega#10.4#-61.0167#0#-4
+Trinidad Tobago#Oropuche (Saint Patrick)#10.2167#-61.5333#0#-4
+Trinidad Tobago#Oropuche (Saint Andrew)#10.6#-61.1#0#-4
+Trinidad Tobago#Oropuche Bank#10.25#-61.55#0#-4
+Trinidad Tobago#Oropuche Lagoon#10.2333#-61.5167#0#-4
+Trinidad Tobago#Oropuche River#10.2#-61.45#0#-4
+Trinidad Tobago#Oropuna River#10.6#-61.3667#0#-4
+Trinidad Tobago#Ortinola#10.7#-61.3167#0#-4
+Trinidad Tobago#Ortoire#10.2667#-61.3167#0#-4
+Trinidad Tobago#Ortoire Hill#10.3333#-61#0#-4
+Trinidad Tobago#Otaheite Bay#10.2333#-61.55#0#-4
+Trinidad Tobago#Othoe Point#10.0667#-61.3167#0#-4
+Trinidad Tobago#Ouplay#10.3833#-61.45#0#-4
+Trinidad Tobago#Palmiste Point#10.0667#-61.5167#0#-4
+Trinidad Tobago#Palo Seco#10.0833#-61.5833#0#-4
+Trinidad Tobago#Piarco#10.5833#-61.3333#0#-4
+Trinidad Tobago#Port-of-Spain#10.65#-61.5167#0#-4
+Trinidad Tobago#Princes Town#10.2667#-61.3833#0#-4
+Trinidad Tobago#Quarahoon River#10.0833#-61.7333#0#-4
+Trinidad Tobago#Quebrada River#10.1667#-61.4667#0#-4
+Trinidad Tobago#Quemada Point#10.0333#-61.8833#0#-4
+Trinidad Tobago#Quinam River#10.0667#-61.5#0#-4
+Trinidad Tobago#Quitasol Rock#10.7#-61.7167#0#-4
+Trinidad Tobago#Rio Claro#10.3#-61.1833#0#-4
+Trinidad Tobago#Saca Manteca#10.45#-61.3#0#-4
+Trinidad Tobago#San Fernando#10.2833#-61.4667#0#-4
+Trinidad Tobago#San Juan#10.65#-61.45#0#-4
+Trinidad Tobago#San Juan River#10.6167#-61.4333#0#-4
+Trinidad Tobago#Sangre Grande Town#10.5833#-61.1167#0#-4
+Trinidad Tobago#Scarborough#11.1833#-60.7333#0#-4
+Trinidad Tobago#Siparia Village#10.1333#-61.5#0#-4
+Trinidad Tobago#Tableland#10.2667#-61.2667#0#-4
+Trinidad Tobago#Trinidad#10.5#-61.25#0#-4
+Trinidad Tobago#Trinidad and Tobago#11#-61#0#-4
+Trinidad Tobago#Trinidad River#10.2167#-61.5#0#-4
+Trinidad Tobago#Tunapuna#10.6333#-61.3833#0#-4
+Trinidad Tobago#Valencia#10.65#-61.2#0#-4
+Trinidad Tobago#Valencia River#10.6333#-61.2#0#-4
+Trinidad Tobago#Valsayn#10.65#-61.4167#0#-4
+Trinidad Tobago#Vance River#10.2#-61.65#0#-4
+Trinidad Tobago#Vistabella River#10.2833#-61.45#0#-4
+Trinidad Tobago#Waller Field#10.6167#-61.2167#0#-4
+Trinidad Tobago#Ward of Charuma#10.3833#-61.2#0#-4
+Trinidad Tobago#Ward of Cocal#10.3667#-61.0833#0#-4
+Trinidad Tobago#Ward of La Brea#10.1667#-61.65#0#-4
+Trinidad Tobago#Ward of Montserrat#10.4167#-61.35#0#-4
+Trinidad Tobago#Ward of San Rafael#10.5333#-61.2667#0#-4
+Trinidad Tobago#Ward of Siparia#10.15#-61.4667#0#-4
+Trinidad Tobago#Ward of Tacarigua#10.6667#-61.3833#0#-4
+Trinidad Tobago#Ward of Toco#10.7833#-61.05#0#-4
+Trinidad Tobago#Ward of Valencia#10.6833#-61.1667#0#-4
+Trinidad Tobago#Warners Village#10.5667#-61.4167#0#-4
+Trinidad Tobago#Wasp Shoal#11.1#-60.8667#0#-4
+Trinidad Tobago#Waterloo#10.4667#-61.4667#0#-4
+Trinidad Tobago#West-Indie#20#-70#0#-4
+Trinidad Tobago#White Islets#10.1333#-61#0#-4
+Trinidad Tobago#Wild Cow River#11.3167#-60.6#0#-4
+Trinidad Tobago#Williamsville#10.3#-61.3833#0#-4
+Trinidad Tobago#Windbelt Reserve#10.6#-61.0333#0#-4
+Trinidad Tobago#Woodbrook#10.65#-61.5333#0#-4
+Trinidad Tobago#Woodland#10.2#-61.4833#0#-4
+Trinidad Tobago#Yarra Reserve#10.7667#-61.3333#0#-4
+Trinidad Tobago#Yarra River#10.8#-61.35#0#-4

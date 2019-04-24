@@ -1,0 +1,11 @@
+﻿
+Belize#Belize City#17.499518#-88.1975555#4#-6
+Belize#Belmopan#17.25#-88.7666702#63#-6
+Belize#Benque Viejo del Carmen#17.075#-89.1391678#130#-6
+Belize#Corozal#18.383333#-88.3833313#-9999#-6
+Belize#Dangriga#16.966667#-88.2166672#1#-6
+Belize#Orange Walk#18.066667#-88.5500031#32#-6
+Belize#Punta Gorda#16.1#-88.8000031#-9999#-6
+Belize#San Ignacio#17.156111#-89.0713882#127#-6
+Belize#San Pedro#17.916667#-87.9499969#-9999#-6
+Belize#Valley of Peace#17.334722#-88.8347244#57#-6

@@ -1,0 +1,94 @@
+﻿
+Mauritius#Albion#-20.2117#57.40083#147#4
+Mauritius#Amaury#-20.1308#57.65917#95#4
+Mauritius#Arsenal#-20.1056#57.53528#142#4
+Mauritius#Bambous Virieux#-20.3428#57.7575#117#4
+Mauritius#Bananes#-20.3467#57.58861#316#4
+Mauritius#Beau Vallon#-20.4189#57.69528#152#4
+Mauritius#Bel Air#-20.2542#57.74528#65#4
+Mauritius#Bois des Amourettes#-20.3631#57.73111#142#4
+Mauritius#Bon Accueil#-20.1708#57.65639#152#4
+Mauritius#Brisee Verdiere#-20.1639#57.64667#158#4
+Mauritius#Calebasses#-20.1117#57.55389#144#4
+Mauritius#Camp de Masque#-20.2369#57.66333#181#4
+Mauritius#Camp Diable#-20.4628#57.57889#163#4
+Mauritius#Camp Ithier#-20.2158#57.74556#36#4
+Mauritius#Camp Thorel#-20.2147#57.61611#310#4
+Mauritius#Cap Malheureux#-19.9842#57.61417#-9999#4
+Mauritius#Cascavelle#-20.2869#57.40722#152#4
+Mauritius#Centre de Flacq#-20.1897#57.71444#39#4
+Mauritius#Chamarel#-20.4225#57.38389#357#4
+Mauritius#Chamouny#-20.4822#57.46611#168#4
+Mauritius#Chemin Grenier#-20.4872#57.46556#149#4
+Mauritius#Clemencia#-20.2639#57.70611#137#4
+Mauritius#Cluny#-20.3669#57.60389#296#4
+Mauritius#Congomah#-20.1489#57.59083#160#4
+Mauritius#Cottage#-20.0597#57.62917#62#4
+Mauritius#Creve Coeur#-20.1911#57.55722#302#4
+Mauritius#Curepipe#-20.3147#57.52028#403#4
+Mauritius#Dubreuil#-20.2975#57.595#305#4
+Mauritius#Ecroignard#-20.2261#57.73611#65#4
+Mauritius#Esperance Trebuchet#-20.0697#57.64194#56#4
+Mauritius#Flic en Flac#-20.2742#57.36306#-9999#4
+Mauritius#Fond du Sac#-20.0431#57.57861#142#4
+Mauritius#Goodlands#-20.035#57.64306#40#4
+Mauritius#Grand Baie#-20.0136#57.57389#-9999#4
+Mauritius#Grand Bois#-20.4189#57.54417#325#4
+Mauritius#Grand Gaube#-20.0064#57.66083#29#4
+Mauritius#Grand Sable#-20.3142#57.76445#208#4
+Mauritius#Grande Pointe aux Piments#-20.0628#57.51305#-9999#4
+Mauritius#Grande Riviere Noire#-20.3603#57.36611#-9999#4
+Mauritius#Grande Riviere Sud Est#-20.2861#57.77583#56#4
+Mauritius#Gros Cailloux#-20.2072#57.43#141#4
+Mauritius#La Dagotiere#-20.2444#57.55416#301#4
+Mauritius#Lalmatie#-20.1897#57.66111#160#4
+Mauritius#Laventure#-20.1458#57.67667#89#4
+Mauritius#Le Hochet#-20.135#57.52111#130#4
+Mauritius#Long Mountain#-20.1431#57.56222#153#4
+Mauritius#Mahebourg#-20.4081#57.7#152#4
+Mauritius#Mapou#-20.0758#57.60139#120#4
+Mauritius#Mare La Chaux#-20.1981#57.74944#18#4
+Mauritius#Melrose#-20.2697#57.63194#313#4
+Mauritius#Midlands#-20.3325#57.55833#386#4
+Mauritius#Moka#-20.2189#57.49583#203#4
+Mauritius#Montagne Blanche#-20.2828#57.65445#309#4
+Mauritius#Morcellemont Saint Andre#-20.0731#57.55806#141#4
+Mauritius#New Grove#-20.4086#57.61361#181#4
+Mauritius#Notre Dame#-20.1406#57.55305#145#4
+Mauritius#Nouvelle France#-20.3706#57.56111#430#4
+Mauritius#Olivia#-20.2975#57.72556#93#4
+Mauritius#Pailles#-20.1856#57.47722#152#4
+Mauritius#Pamplemousses#-20.1039#57.57028#145#4
+Mauritius#Petit Raffray#-20.0133#57.61195#69#4
+Mauritius#Petite Case Noyale#-20.3931#57.365#-9999#4
+Mauritius#Petite Riviere#-20.1894#57.44528#136#4
+Mauritius#Piton#-20.0903#57.63028#105#4
+Mauritius#Plaine des Papayes#-20.065#57.5725#147#4
+Mauritius#Plaine Magnien#-20.4286#57.65306#150#4
+Mauritius#Plaines des Roches#-20.1117#57.69083#53#4
+Mauritius#Port Louis#-20.1619#57.49889#133#4
+Mauritius#Poste de Flacq#-20.1631#57.73056#15#4
+Mauritius#Providence#-20.2447#57.61222#331#4
+Mauritius#Quartier Militaire#-20.2439#57.58917#338#4
+Mauritius#Quatre Bornes#-20.2644#57.47194#313#4
+Mauritius#Quatre Cocos#-20.2078#57.7625#21#4
+Mauritius#Quatre Soeurs#-20.2992#57.77056#92#4
+Mauritius#Queen Victoria#-20.22#57.7075#110#4
+Mauritius#Riviere des Anguilles#-20.4853#57.55083#152#4
+Mauritius#Riviere du Rempart#-20.1031#57.68472#48#4
+Mauritius#Roche Terre#-20.0186#57.64472#39#4
+Mauritius#Roches Noire#-20.1111#57.71222#34#4
+Mauritius#Rose Belle#-20.4003#57.59667#243#4
+Mauritius#Saint Aubin#-20.4917#57.54139#150#4
+Mauritius#Saint Hubert#-20.3642#57.63833#153#4
+Mauritius#Saint Julien#-20.2264#57.63639#293#4
+Mauritius#Saint Pierre#-20.2175#57.52083#243#4
+Mauritius#Sebastopol#-20.2889#57.6875#204#4
+Mauritius#Souillac#-20.5167#57.51667#153#4
+Mauritius#Surinam#-20.5097#57.50528#149#4
+Mauritius#Tamarin#-20.3256#57.37056#-9999#4
+Mauritius#Terre Rouge#-20.1261#57.52444#134#4
+Mauritius#The Vale#-20.0283#57.58778#115#4
+Mauritius#Triolet#-20.0547#57.54528#134#4
+Mauritius#Vacoas#-20.2981#57.47833#369#4
+Mauritius#Verdun#-20.2283#57.54389#303#4

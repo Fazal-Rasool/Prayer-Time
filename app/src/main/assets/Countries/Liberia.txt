@@ -1,0 +1,11 @@
+﻿
+Liberia#Bensonville#6.446111#-10.6125#97#0
+Liberia#Buchanan#5.880833#-10.0467#78#0
+Liberia#Ganta#7.302222#-8.53083#498#0
+Liberia#Gbarnga#6.995556#-9.47222#275#0
+Liberia#Harper#4.375#-7.71694#-9999#0
+Liberia#Monrovia#6.310556#-10.8047#30#0
+Liberia#New Yekepa#7.579444#-8.53778#585#0
+Liberia#Robertsport#6.753333#-11.3686#149#0
+Liberia#Tubmanburg#6.870833#-10.8172#152#0
+Liberia#Zwedru#6.066667#-8.12806#275#0

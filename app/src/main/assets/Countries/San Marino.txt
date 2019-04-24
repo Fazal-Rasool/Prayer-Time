@@ -1,0 +1,10 @@
+﻿
+San Marino#Acquaviva#43.95#12.4167#0#1
+San Marino#Chiesanuova#43.9#12.4167#0#1
+San Marino#Falciano#43.9833#12.5#0#1
+San Marino#Fiorentino#43.9167#12.45#0#1
+San Marino#Fratta#43.95#12.45#0#1
+San Marino#Poggio di Chiesanuova#43.9167#12.4167#0#1
+San Marino#Repubblica di San Marino#43.9333#12.4167#0#1
+San Marino#San Marino#43.9167#12.4667#0#1
+San Marino#Serravalle#43.95#12.5#0#1

@@ -1,0 +1,13 @@
+﻿
+Ashmore Cartier Islands#Ashmore and Cartier Islands#-12.4167#123.3333#0#8
+Ashmore Cartier Islands#Ashmore Reef#-12.2333#123.0833#0#8
+Ashmore Cartier Islands#Cartier Islet#-12.5333#123.5333#0#8
+Ashmore Cartier Islands#East Islet#-12.2333#123.15#0#8
+Ashmore Cartier Islands#Hibernia Reef#-12#123.3833#0#8
+Ashmore Cartier Islands#Johnson Bank#-12.3833#123.2833#0#8
+Ashmore Cartier Islands#Marlin Bank#-12.1833#122.9833#0#8
+Ashmore Cartier Islands#Osborn Passage#-12.6667#124.05#0#8
+Ashmore Cartier Islands#Pasco Passage#-12.4833#123.5333#0#8
+Ashmore Cartier Islands#Wave Governor Bank#-12.5667#123.6#0#8
+Ashmore Cartier Islands#West Islet#-12.2167#123.0167#0#8
+Ashmore Cartier Islands#Woodbine Bank#-12.4#123.5#0#8

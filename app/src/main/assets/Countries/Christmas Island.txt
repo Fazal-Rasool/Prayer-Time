@@ -1,0 +1,41 @@
+﻿
+Christmas Island#Aldrich Hill#-10.4833#105.6333#0#7
+Christmas Island#Allan Point#-10.4667#105.75#0#7
+Christmas Island#Camp Hill#-10.4833#105.6#0#7
+Christmas Island#Christmas Island#-10.5#105.6667#0#7
+Christmas Island#Dolly Beach#-10.5167#105.7167#0#7
+Christmas Island#Douglas Point#-10.5#105.6#0#7
+Christmas Island#Egeria Point#-10.5#105.5667#0#7
+Christmas Island#Ethel Beach#-10.45#105.75#0#7
+Christmas Island#Ferguson Hill#-10.4667#105.6333#0#7
+Christmas Island#Flying Fish Cove#-10.4167#105.7167#0#7
+Christmas Island#Gannet Hill#-10.4667#105.7333#0#7
+Christmas Island#Grants Well#-10.4833#105.65#0#7
+Christmas Island#Grimes Cave#-10.4333#105.7#0#7
+Christmas Island#Hanitch Hill#-10.45#105.7#0#7
+Christmas Island#Hughs Dale#-10.45#105.5833#0#7
+Christmas Island#Irvine Hill#-10.4333#105.7167#0#7
+Christmas Island#Jacks Point#-10.4833#105.5833#0#7
+Christmas Island#Jackson Point#-10.4333#105.5833#0#7
+Christmas Island#Jones Point#-10.5#105.5833#0#7
+Christmas Island#Margaret Beaches#-10.4333#105.6833#0#7
+Christmas Island#Mc Pherson Point#-10.45#105.6167#0#7
+Christmas Island#Medwin Point#-10.5667#105.7167#0#7
+Christmas Island#Northern Plateau#-10.4667#105.7#0#7
+Christmas Island#Phosphate Hill#-10.4167#105.7333#0#7
+Christmas Island#Rhoda Beaches#-10.45#105.6667#0#7
+Christmas Island#Rocky Point#-10.4#105.7167#0#7
+Christmas Island#Ross Hill#-10.5#105.7167#0#7
+Christmas Island#Runaway Cave#-10.4167#105.75#0#7
+Christmas Island#Settlement#-10.4167#105.6667#0#7
+Christmas Island#Smithson Bight#-10.5167#105.6667#0#7
+Christmas Island#Southern Plateau#-10.5333#105.7#0#7
+Christmas Island#Stronach Knoll#-10.4833#105.7167#0#7
+Christmas Island#Stubbings Point#-10.5667#105.6833#0#7
+Christmas Island#Sydneys Dale#-10.4667#105.5833#0#7
+Christmas Island#Tait Point#-10.5333#105.6667#0#7
+Christmas Island#Toms Ridge#-10.45#105.6#0#7
+Christmas Island#Waddell Hill#-10.45#105.7333#0#7
+Christmas Island#Wharton Hill#-10.5#105.7#0#7
+Christmas Island#Winifred Beach#-10.4833#105.5667#0#7
+Christmas Island#Wright Point#-10.4833#105.7333#0#7

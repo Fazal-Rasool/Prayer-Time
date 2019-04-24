@@ -1,0 +1,130 @@
+﻿
+Palestine#Abasan al Kabir#31.3233#34.3461#0#2
+Palestine#Abwein#32.0369#35.2025#0#2
+Palestine#Ajjur#31.7833#34.6667#0#2
+Palestine#Akka#32.9236#35.0728#0#2
+Palestine#Ara#32.4886#35.1136#0#2
+Palestine#Araba#32.8486#35.3358#0#2
+Palestine#Arrabah#32.405#35.2019#0#2
+Palestine#As Salihiya#33.1667#35.6167#0#2
+Palestine#Asira ash Shamaliya#32.25#35.2667#0#2
+Palestine#Bal`a#32.3319#35.1069#0#2
+Palestine#Baqa el Gharbiya#32.4133#35.045#0#2
+Palestine#Bat Yam#32.0231#34.7503#0#2
+Palestine#Beersheba#31.2333#34.7833#0#2
+Palestine#Beit Hanina#31.8333#35.2#0#2
+Palestine#Beit Lehem Hagelilit#32.7339#35.1886#0#2
+Palestine#Beit Shean#32.5#35.5#0#2
+Palestine#Bethlehem#31.7167#35.2#0#2
+Palestine#Bethlehem-Waldheim#32.7294#35.1706#0#2
+Palestine#Bir Zeit#31.9667#35.2#0#2
+Palestine#Caesarea#32.4833#34.8833#0#2
+Palestine#Camp Tel Litwinsky#32.0539#34.8481#0#2
+Palestine#Cape Carmel#32.8333#34.9667#0#2
+Palestine#Carmelus#32.7286#35.0467#0#2
+Palestine#Carmiel#32.9172#35.3042#0#2
+Palestine#Castellum#31.8#35.15#0#2
+Palestine#Castrum Novum#33.2167#35.55#0#2
+Palestine#Cedron#31.6667#35.45#0#2
+Palestine#Cheikh Nattah#33.0333#35.5167#0#2
+Palestine#Chelomi#33.0667#35.1#0#2
+Palestine#Chivta#30.8833#34.6333#0#2
+Palestine#Choumra#33.0831#35.2844#0#2
+Palestine#Colonia#31.8#35.1667#0#2
+Palestine#Corozain#32.9#35.5667#0#2
+Palestine#Crocodile River#32.5386#34.8994#0#2
+Palestine#Dabburiya#32.6958#35.3722#0#2
+Palestine#Deir Dibwan#31.9167#35.2667#0#2
+Palestine#Deir el Assad#32.9333#35.2667#0#2
+Palestine#Dhahiriya#31.4167#34.9667#0#2
+Palestine#Dura#31.5#35.0333#0#2
+Palestine#Elat#29.5833#34.9167#0#2
+Palestine#Fa ra#32.3#35.35#0#2
+Palestine#Falah#32.7#34.9333#0#2
+Palestine#Fardis Nabulsi#32.3#34.95#0#2
+Palestine#Farsh#30.9833#35.3333#0#2
+Palestine#Fash-shat ed Darwish#31.2056#35.3694#0#2
+Palestine#Fawwar Camp#31.4833#35.0667#0#2
+Palestine#Fazir#31.0167#34.5#0#2
+Palestine#Furaydis#32.6#34.95#0#2
+Palestine#Gaza#31.5#34.4667#0#2
+Palestine#Gaza Strip#31.4167#34.3333#0#2
+Palestine#Haifa#32.8156#34.9892#0#2
+Palestine#Haifa Bay Area#32.8564#35.0697#0#2
+Palestine#Haifa District#32.5833#35#0#2
+Palestine#Haifa Harbor#32.8167#35#0#2
+Palestine#Haifa Sub-district#32.8333#35#0#2
+Palestine#Hebron#31.5333#35.1#0#2
+Palestine#Holon#32.0114#34.7722#0#2
+Palestine#Iksal#32.6786#35.3222#0#2
+Palestine#Jabalia#31.5333#34.5#0#2
+Palestine#Jabaliya#31.5333#34.4833#0#2
+Palestine#Jaljulia#31.85#35.4833#0#2
+Palestine#Jamma`in#32.1303#35.1997#0#2
+Palestine#Jatt (Hefa)#32.3983#35.0397#0#2
+Palestine#Jatt (HaZafon)#32.9722#35.2328#0#2
+Palestine#Jenin#32.4564#35.2958#0#2
+Palestine#Jenin Muquibila#32.5#35.2833#0#2
+Palestine#Jericho#31.8667#35.45#0#2
+Palestine#Jerusalem Airport#31.8667#35.2167#0#2
+Palestine#Jerusalem Corridor#31.7667#35.1667#0#2
+Palestine#Jerusalem Region#31.75#35#0#2
+Palestine#Kababir#32.8#34.9667#0#2
+Palestine#Kafer-Kama#32.7167#35.4417#0#2
+Palestine#Kafr Kanna#32.75#35.3417#0#2
+Palestine#Kafr Manda#32.8072#35.2603#0#2
+Palestine#Kafr Qari`#32.5017#35.0769#0#2
+Palestine#Kaukab Abu el Hija#32.8333#35.25#0#2
+Palestine#Khan Younes#31.3439#34.3025#0#2
+Palestine#Khan Younis camp#31.35#34.3167#0#2
+Palestine#Kufr Qasim#32.1142#34.9739#0#2
+Palestine#Lavi#32.7872#35.4417#0#2
+Palestine#Lod#31.9514#34.8953#0#2
+Palestine#Misilya#32.3833#35.2833#0#2
+Palestine#Mqeible#32.5167#35.2944#0#2
+Palestine#Mughr Habayil Salman#32.2#35.1667#0#2
+Palestine#Musmus#32.5397#35.1564#0#2
+Palestine#Nablus#32.2211#35.2544#0#2
+Palestine#Nazareth#32.7036#35.2956#0#2
+Palestine#Nazareth Illit#32.7097#35.3292#0#2
+Palestine#Nisanit#31.55#34.5167#0#2
+Palestine#Or `Aqiva#32.5072#34.9175#0#2
+Palestine#Orah#31.75#35.15#0#2
+Palestine#Otni el#31.4333#35.0167#0#2
+Palestine#Qabatiya#32.4086#35.28#0#2
+Palestine#Qalansuwa#32.2847#34.9797#0#2
+Palestine#Qalqiliya#32.1864#34.9631#0#2
+Palestine#Qiryat Ata#32.8006#35.1064#0#2
+Palestine#Rafah#31.2842#34.2508#0#2
+Palestine#Rafah Yam#31.3#34.2167#0#2
+Palestine#Ram Allah#31.9#35.2#0#2
+Palestine#Ramla#31.9253#34.8669#0#2
+Palestine#Ramla Sub-district#31.9167#34.9167#0#2
+Palestine#Ramlah Bet#31.9061#34.8731#0#2
+Palestine#Romeima Quarter#31.8#35.2#0#2
+Palestine#Sakhnin#32.8622#35.2933#0#2
+Palestine#Salfit#32.0808#35.1761#0#2
+Palestine#Sammu`i#32.9583#35.4583#0#2
+Palestine#Shafa `Amr#32.8031#35.1694#0#2
+Palestine#Silwad#31.9833#35.2667#0#2
+Palestine#Sir#32.3667#35.3167#0#2
+Palestine#Sulam#32.6083#35.3333#0#2
+Palestine#Taiyibah#32.6#35.45#0#2
+Palestine#Tammun#32.2825#35.3836#0#2
+Palestine#Tamra#32.8486#35.2047#0#2
+Palestine#Taybah#32.2647#35.0081#0#2
+Palestine#Tel Aviv#32.0667#34.7667#0#2
+Palestine#Tel Aviv-Yafo#32.0678#34.7647#0#2
+Palestine#Tira#32.2328#34.9503#0#2
+Palestine#Tuba#32.97#35.6003#0#2
+Palestine#Tulkarem#32.3167#35.0333#0#2
+Palestine#Tulkarm#32.3108#35.0258#0#2
+Palestine#Tur`an#32.7739#35.3694#0#2
+Palestine#Umm al Fahm#32.5158#35.1525#0#2
+Palestine#Valley of Kidron#31.7667#35.2333#0#2
+Palestine#Vardiya#32.8#35#0#2
+Palestine#Vered Yeriho#31.8167#35.4333#0#2
+Palestine#Villa Melchett#32.8333#35.5167#0#2
+Palestine#West Bank#31.6667#35.25#0#2
+Palestine#Yatta#31.45#35.0833#0#2
+Palestine#Yerushalayim#31.7833#35.1833#0#2

@@ -1,0 +1,100 @@
+﻿
+Gambia, The#Abuko#13.40417#-16.6558#27#0
+Gambia, The#Bajana#13.31667#-15.8833#46#0
+Gambia, The#Bakadagy#13.3#-14.3833#15#0
+Gambia, The#Bakau#13.47806#-16.6819#33#0
+Gambia, The#Bambali#13.48333#-15.3333#23#0
+Gambia, The#Banjul#13.45641#-16.5813#5#0
+Gambia, The#Bansang#13.43333#-14.65#5#0
+Gambia, The#Bantang Killing#13.58333#-15.7#39#0
+Gambia, The#Bantanto#13.41667#-14.65#23#0
+Gambia, The#Banto Nding#13.46667#-14.0833#22#0
+Gambia, The#Baro Kunda#13.48333#-15.2667#31#0
+Gambia, The#Barra#13.48278#-16.5456#1#0
+Gambia, The#Basse Santa Su#13.31667#-14.2167#23#0
+Gambia, The#Bati Ndar#13.7#-15.2#8#0
+Gambia, The#Brifu#13.5#-13.9333#54#0
+Gambia, The#Brikama#13.2675#-16.6461#33#0
+Gambia, The#Brikama Nding#13.53333#-14.9333#28#0
+Gambia, The#Buniadu#13.55#-15.3333#20#0
+Gambia, The#Bureng#13.41667#-15.2833#22#0
+Gambia, The#Cha Kunda#13.38333#-14.5333#9#0
+Gambia, The#Chilla#13.55#-16.2833#40#0
+Gambia, The#Daba Kunda#13.31667#-14.3#8#0
+Gambia, The#Dankunku#13.56667#-15.3167#25#0
+Gambia, The#Daru Rilwan#13.55#-15.9833#47#0
+Gambia, The#Demba Kunda#13.25#-14.2667#20#0
+Gambia, The#Denton#13.5#-14.9333#20#0
+Gambia, The#Diabugu#13.38333#-14.4#12#0
+Gambia, The#Diabugu Basilla#13.33333#-13.95#19#0
+Gambia, The#Diganteh#13.36667#-15.4333#41#0
+Gambia, The#Dobbo#13.46667#-14.6333#15#0
+Gambia, The#Dumbutu#13.35#-15.8333#39#0
+Gambia, The#Essau#13.48389#-16.5347#2#0
+Gambia, The#Farafenni#13.56667#-15.6#26#0
+Gambia, The#Fass#13.8#-15.0667#29#0
+Gambia, The#Galleh Manda#13.43333#-14.7833#49#0
+Gambia, The#Gambissara#13.23333#-14.3167#49#0
+Gambia, The#Georgetown#13.53333#-14.7667#6#0
+Gambia, The#Gunjur (Western)#13.20194#-16.7339#34#0
+Gambia, The#Gunjur (North Bank)#13.52278#-16.0278#30#0
+Gambia, The#Gunjur Kuta#13.53333#-14.1167#30#0
+Gambia, The#Jakaba#13.65#-14.8833#17#0
+Gambia, The#Jakhaly#13.55#-14.9667#20#0
+Gambia, The#Jali#13.35#-15.9667#38#0
+Gambia, The#Janneh Kunda#13.38028#-16.1383#12#0
+Gambia, The#Jarreng#13.61667#-15.1833#10#0
+Gambia, The#Jarrol#13.24412#-15.8455#36#0
+Gambia, The#Jassong#13.4#-15.3167#44#0
+Gambia, The#Jenoi#13.48333#-15.5667#2#0
+Gambia, The#Jifarong#13.3#-15.8667#8#0
+Gambia, The#Jiffin#13.41667#-15.5833#34#0
+Gambia, The#Kaiaf#13.4#-15.6167#52#0
+Gambia, The#Karantaba#13.43333#-15.5167#24#0
+Gambia, The#Kass Wollof#13.78333#-14.9333#36#0
+Gambia, The#Katchang#13.5#-15.75#26#0
+Gambia, The#Keneba#13.32889#-16.015#32#0
+Gambia, The#Kerewan#13.48944#-16.0911#7#0
+Gambia, The#Koina#13.48333#-13.8667#13#0
+Gambia, The#Kumbija#13.26667#-14.1833#26#0
+Gambia, The#Kuntaur#13.66667#-14.8833#1#0
+Gambia, The#Kunting#13.53333#-14.6667#6#0
+Gambia, The#Lamin#13.35222#-16.4339#27#0
+Gambia, The#Madina#13.7#-14.8833#12#0
+Gambia, The#Madina Tunjang#13.43333#-14.75#36#0
+Gambia, The#Mara Magai#13.51667#-14.9167#11#0
+Gambia, The#Massembe#13.41667#-15.6333#2#0
+Gambia, The#Medina Kanuma#13.49278#-16.5233#21#0
+Gambia, The#Nema Kunku#13.25#-15.8833#16#0
+Gambia, The#Nioro#13.35#-15.75#33#0
+Gambia, The#No Kunda#13.56667#-15.8333#33#0
+Gambia, The#Nyamanari#13.33333#-13.8667#37#0
+Gambia, The#Pateh Sam#13.61667#-15.0667#15#0
+Gambia, The#Perai#13.38333#-14.0333#16#0
+Gambia, The#Saba#13.51639#-16.0492#1#0
+Gambia, The#Sabi#13.23333#-14.2#30#0
+Gambia, The#Sambang#13.53333#-15.3333#2#0
+Gambia, The#Sami#13.58333#-15.2#22#0
+Gambia, The#Sankwia#13.46667#-15.5167#2#0
+Gambia, The#Sanunding#13.28333#-14.1167#8#0
+Gambia, The#Sara Kunda#13.53333#-15.4167#23#0
+Gambia, The#Saruja#13.55#-14.9167#25#0
+Gambia, The#Si Kunda#13.43333#-15.5667#38#0
+Gambia, The#Sibito#13.38333#-15.7333#42#0
+Gambia, The#Sintet#13.23333#-15.8167#6#0
+Gambia, The#Soma#13.43333#-15.5333#33#0
+Gambia, The#Somita#13.20583#-16.3056#41#0
+Gambia, The#Sudowol#13.36667#-13.9667#38#0
+Gambia, The#Sukuta (Western)#13.41139#-16.7089#22#0
+Gambia, The#Sukuta#13.61667#-14.9167#13#0
+Gambia, The#Sulolor#13.45#-14.6667#53#0
+Gambia, The#Sun Kunda#13.38333#-13.85#60#0
+Gambia, The#Sutukoba#13.5#-14.0167#21#0
+Gambia, The#Sutukung#13.46667#-15.2667#18#0
+Gambia, The#Tambana#13.50528#-16.1744#34#0
+Gambia, The#Tankular#13.41778#-16.0369#-9999#0
+Gambia, The#Toniataba#13.43333#-15.5833#22#0
+Gambia, The#Tuba Koto#13.63333#-14.9#27#0
+Gambia, The#Tuba-Wuli#13.43333#-14.25#8#0
+Gambia, The#Wassu#13.68333#-14.8833#1#0
+Gambia, The#Wellingara Ba#13.41667#-15.4#31#0

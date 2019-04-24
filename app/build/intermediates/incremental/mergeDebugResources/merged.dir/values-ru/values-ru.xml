@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="calc_methods_array">
+        <item>Джафари</item>
+        <item>Карачи</item>
+        <item>ИСНА</item>
+        <item>МЖЛ</item>
+        <item>Мекка</item>
+        <item>Египет</item>
+        <item>Тегеран</item>
+    </string-array>
+    <string-array name="islamic_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi-Al-Awwal</item>
+        <item>Rabi-Al-Thani</item>
+        <item>Jumada-Al-Awwal</item>
+        <item>Jumada-Al-Thani</item>
+        <item>Rajab</item>
+        <item>Sha\'aban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qa\'ida</item>
+        <item>Dhul Hijjah</item>
+    </string-array>
+    <string-array name="juristics_array">
+        <item>Шафии</item>
+        <item>Ханафи</item>
+        <item>Малаки</item>
+        <item>Ханбали</item>
+    </string-array>
+    <string-array name="language_array">
+        <item>английский</item>
+        <item>испанский</item>
+        <item>русский</item>
+        <item>французский</item>
+        <item>турецкий</item>
+        <item>арабский</item>
+        <item>китайский</item>
+    </string-array>
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Azan</item>
+        <item>Kalimas</item>
+        <item>Settings</item>
+        <item>MoreApps</item>
+    </string-array>
+    <array name="qalma_list">
+        <item>لَآ اِلٰهَ اِلَّا اللّٰهُ مُحَمَّدٌ رَّسُوْلُ اللّٰهِؕ</item>
+        <item>اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللہُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهٗ وَرَسُوْلُهٗ</item>
+        <item>سُبْحَان اللهِ وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِ الَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</item>
+        <item>لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ</item>
+        <item>اَسْتَغْفِرُ اللهَ رَبِّىْ مِنْ كُلِّ ذَنْۢبٍ اَذْنَبْتُهٗ عَمَدًا اَوْ خَطَا ًٔ سِرًّا اَوْ عَلَانِيَةً وَّاَتُوْبُ اِلَيْهِ مِنَ الذَّنْۢبِ الَّذِیْٓ اَعْلَمُ وَ مِنَ الذَّنْۢبِ الَّذِىْ لَآ اَعْلَمُ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوْبِ وَ سَتَّارُ الْعُيُوْبِ و َغَفَّارُ الذُّنُوْبِ وَ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ الْعَلِىِّ الْعَظِيْمِؕ</item>
+        <item>اَللّٰهُمَّّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ وَ الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ اللهِؕ</item>
+    </array>
+    <string-array name="qalma_list_trans">
+        <item>There is none worthy of worship but Allah, Muhammad [peace be upon him] is the messenger of Allah.</item>
+        <item>I bear witness that (there is) no god except Allah; One is He, no partner hath He, and I bear witness that Muhammad (Sall-Allahu Alayhi wa Sallam) is His Servant and Messenger.</item>
+        <item>Flawless is Allah and the Praise is of Allah, and (there is) no god except Allah, and Allah is the Greatest. And (there is) neither might nor power except with Allah, the Sublime, the Tremendous.</item>
+        <item>(There is) no god except Allah - One is He, no partners hath He. His is the Dominion, and His is the Praise. He gives life and causes death, and He is Living, who will not die, never. He of Majesty and Munificence. Within His Hand is (all) good. And He is, upon everything, Able (to exert His Will).</item>
+        <item>"I seek forgiveness from Allah, my Lord, from every sin I committed knowingly or unknowingly, secretly or openly, and I turn towards Him from the sin that I know and from the sin that I do not know. Certainly You, You (are) the knower of the hidden things and the Concealer (of) the mistakes and the Forgiver (of) the sins. And (there is) no power and no strength except from Allah, the Most High, the Most Great".</item>
+        <item>"O Allah! I seek protection in You from that I should not join any partner with You and I have knowledge of it. I seek Your forgiveness from that which I do not know. I repent from it (ignorance) and I reject disbelief (kufr) and joining partners with You (shirk) and of falsehood and slandering (gheebat) and innovation in religion (bid'at) and tell-tales (nameemat) and bad, evil deeds (fawahish) and the blame and the disobedience, all of them. I submit to Your will and I believe and I declare: There is none worthy of worship except Allah and Muhammad( Peace Be Upon On Him) is His Messenger."</item>
+    </string-array>
+    <array name="qalma_name_list">
+        <item>1st Kalma Tayyibah</item>
+        <item>2nd Kalma Shahaadat</item>
+        <item>3rd Kalma Tamjeed</item>
+        <item>4th Kalma Tawheed</item>
+        <item>5th Kalma Astaghfar</item>
+        <item>6th Kalma Radd Kufr</item>
+    </array>
+    <string-array name="state_names">
+        <item>Lahore</item>
+        <item>Ardabil</item>
+        <item>Orumiyeh</item>
+        <item>Esfehan</item>
+        <item>Ahvaz</item>
+        <item>Ilam</item>
+        <item>Bojnurd</item>
+        <item>Bandar Abbas</item>
+        <item>Bushehr</item>
+        <item>Birjand</item>
+        <item>Tabriz</item>
+        <item>Tehran</item>
+        <item>Khoram Abad</item>
+        <item>Rasht</item>
+        <item>Zahedan</item>
+        <item>Zanjan</item>
+        <item>Sari</item>
+        <item>Semnan</item>
+        <item>Sanandaj</item>
+        <item>Shahr-e-kord</item>
+        <item>Shiraz</item>
+        <item>Ghazvin</item>
+        <item>Qom</item>
+        <item>Karaj</item>
+        <item>Kerman</item>
+        <item>Kermanshah</item>
+        <item>Gorgan</item>
+        <item>Mashhad</item>
+        <item>Hamedan</item>
+        <item>Yasuj</item>
+        <item>Yazd</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_menu_title">около</string>
+    <string name="about_text">\nAll Rights Reserved</string>
+    <string name="about_title_text">\nоколо Универсальная Молитва времени</string>
+    <string name="action_settings">Параметры</string>
+    <string name="adhan_audio_string">АЗАН АУДИО</string>
+    <string name="after">спустя</string>
+    <string name="app_name">Универсальная Молитва времени</string>
+    <string name="asar">Аср</string>
+    <string name="at">в</string>
+    <string name="calc_method_string">МЕТОД</string>
+    <string name="city_string">ГОРОД</string>
+    <string name="clock_wise">261</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Доступность сервисов Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="country_string">СТРАНА</string>
+    <string name="custom">Пользовательские</string>
+    <string name="daylight_saving_string">ЛЕТНЕЕ ВРЕМЯ</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="egypt">Египет</string>
+    <string name="exit_message">Вы уверены, вы хотите выйти?</string>
+    <string name="fajar">Фаджр</string>
+    <string name="geo_location_info">Полученные данные о местоположении.</string>
+    <string name="google_play_services_version">a152a304f4d20ae</string>
+    <string name="gps_location_string">GPS</string>
+    <string name="gps_pref_key">GPS_LOCATION_PREF</string>
+    <string name="gps_prompt">Использование GPS</string>
+    <string name="gps_status">Use GPS</string>
+    <string name="gps_status_summary">Enables using GPS for getting your location.</string>
+    <string name="gps_summary">Позволяет использовать GPS для получения вашего местоположения.</string>
+    <string name="hanafi">Ханафи</string>
+    <string name="hanbali">Ханбали</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hours">часов</string>
+    <string name="isha">Иша</string>
+    <string name="isna">ИСНА</string>
+    <string name="its">это</string>
+    <string name="jafari">Джафари</string>
+    <string name="juristics_string">юридический</string>
+    <string name="karachi">Карачи</string>
+    <string name="lahore">Alaqehdari Deh-e Shu</string>
+    <string name="language_string">язык</string>
+    <string name="latitude_north">N</string>
+    <string name="latitude_south">S</string>
+    <string name="like_on_facebook">Как на facebook</string>
+    <string name="longitude_east">E</string>
+    <string name="longitude_west">W</string>
+    <string name="maghrib">Магриб</string>
+    <string name="makkah">Мекка</string>
+    <string name="malaki">Малаки</string>
+    <string name="minutes">протокол</string>
+    <string name="mwl">МЖЛ</string>
+    <string name="no_location_yet">Подождите. Определение вашего местоположения или вы можете выбрать свой город в настройках.</string>
+    <string name="no_string">НЕТ</string>
+    <string name="off_string">OFF</string>
+    <string name="ok_string">Да</string>
+    <string name="on_string">ON</string>
+    <string name="pakistan">Afghanistan</string>
+    <string name="prayer_time_now">Это время молитвы сейчас</string>
+    <string name="prayer_times">Время молитвы</string>
+    <string name="prefs_menu_title">Параметры</string>
+    <string name="qibla_directions">Направление киблы</string>
+    <string name="rate_us_string">Оцените нас</string>
+    <string name="release_date">March 30, 2011\n</string>
+    <string msgid="368094699078615544" name="s1">"Сохранить изображение"</string>
+    <string msgid="4550830452390689489" name="s2">"Разрешить объявлению сохранить изображение в галерее?"</string>
+    <string msgid="2435407834265420668" name="s3">"Разрешить"</string>
+    <string msgid="9167523597401839819" name="s4">"Отклонить"</string>
+    <string msgid="1566682516266724847" name="s5">"Создать мероприятие"</string>
+    <string msgid="5996672174517137271" name="s6">"Разрешить объявлению создать мероприятие в календаре?"</string>
+    <string msgid="7163549807207034258" name="s7">"Тестовое объявление"</string>
+    <string name="screen_down_text">Пожалуйста держите телефон горизонтально и к вверх так что это компас может работать. Не удается определить направление Север</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="search_title">поиск</string>
+    <string name="settings_label">Параметры</string>
+    <string name="shafii">Шафии</string>
+    <string name="shrooq">Ишрак</string>
+    <string name="state_location_pref_key">state_LOCATION_PREF</string>
+    <string name="state_location_summary">Выберите один из столицы провинции Ирана, если вы находитесь рядом с ними.</string>
+    <string name="state_location_title">Задать местоположение вручную</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tehran">Тегеран</string>
+    <string name="time">время.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_select_calc_method">Выберите метод расчета</string>
+    <string name="title_select_juristic">Выберите юридических</string>
+    <string name="title_select_lannguage">Выбор языка</string>
+    <string name="txtIftar">питание</string>
+    <string name="txtSehri">Pассвет</string>
+    <string name="version">Version 1.22</string>
+    <string name="zuhur">Зухр</string>
+</resources>

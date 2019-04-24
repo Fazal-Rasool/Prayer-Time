@@ -1,0 +1,96 @@
+﻿
+Czech Republic#Benesov#49.78163#14.68697#350#1
+Czech Republic#Beroun#49.96382#14.072#215#1
+Czech Republic#Bilina#50.54854#13.77535#371#1
+Czech Republic#Bilina Kyselka#50.55#13.76667#227#1
+Czech Republic#Blansko#49.36304#16.64446#323#1
+Czech Republic#Bohumin#49.90411#18.35755#216#1
+Czech Republic#Brandys nad Labem-Stara Boleslav#50.18709#14.66326#205#1
+Czech Republic#Branik#50.03597#14.41235#247#1
+Czech Republic#Breclav#48.75897#16.88203#158#1
+Czech Republic#Brno#49.19522#16.60796#226#1
+Czech Republic#Bruntal#49.98845#17.4647#582#1
+Czech Republic#Cerny Most#50.10475#14.57974#229#1
+Czech Republic#Ceska Lipa#50.68551#14.53764#245#1
+Czech Republic#Ceska Trebova#49.90437#16.44413#372#1
+Czech Republic#Ceske Budejovice#48.97447#14.47434#378#1
+Czech Republic#Cesky Tesin#49.74613#18.62613#298#1
+Czech Republic#Cheb#50.07964#12.37392#473#1
+Czech Republic#Chomutov#50.46048#13.41779#305#1
+Czech Republic#Chrudim#49.95109#15.79558#260#1
+Czech Republic#Decin#50.78215#14.21478#155#1
+Czech Republic#Dvur Kralove nad Labem#50.43172#15.81402#286#1
+Czech Republic#Frydek-Mistek#49.68537#18.34838#297#1
+Czech Republic#Frydek-Mistek#49.68333#18.35#304#1
+Czech Republic#Havirov#49.77985#18.43688#267#1
+Czech Republic#Havlickuv Brod#49.60785#15.58069#464#1
+Czech Republic#Hodonin#48.84893#17.13244#175#1
+Czech Republic#Hradec Kralove#50.20923#15.83277#222#1
+Czech Republic#Hranice#49.54796#17.73469#274#1
+Czech Republic#Jablonec nad Nisou#50.72431#15.17108#509#1
+Czech Republic#Jicin#50.43723#15.35162#266#1
+Czech Republic#Jihlava#49.3961#15.59124#520#1
+Czech Republic#Jindrichuv Hradec#49.14405#15.00301#440#1
+Czech Republic#Jirkov#50.49979#13.44769#289#1
+Czech Republic#Kadan#50.38333#13.26667#298#1
+Czech Republic#Karlovy Vary#50.23271#12.87117#399#1
+Czech Republic#Karvina#49.854#18.54169#274#1
+Czech Republic#Kladno#50.14734#14.10285#359#1
+Czech Republic#Klasterec nad Ohri#50.38445#13.17128#328#1
+Czech Republic#Klatovy#49.39552#13.29505#434#1
+Czech Republic#Kolin#50.02814#15.20057#194#1
+Czech Republic#Koprivnice#49.59947#18.1448#356#1
+Czech Republic#Kralupy nad Vltavou#50.24107#14.31149#179#1
+Czech Republic#Krnov#50.08967#17.70385#333#1
+Czech Republic#Kromeriz#49.29785#17.39312#215#1
+Czech Republic#Kutna Hora#49.94839#15.26816#230#1
+Czech Republic#Letnany#50.13333#14.51667#267#1
+Czech Republic#Liben#50.10819#14.47457#195#1
+Czech Republic#Liberec#50.76711#15.05619#386#1
+Czech Republic#Litomerice#50.53348#14.1318#131#1
+Czech Republic#Litvinov#50.6042#13.61812#300#1
+Czech Republic#Louny#50.35699#13.79667#228#1
+Czech Republic#Melnik#50.3505#14.47411#182#1
+Czech Republic#Mlada Boleslav#50.41135#14.90318#232#1
+Czech Republic#Modrany#50.01116#14.4096#244#1
+Czech Republic#Most#50.50301#13.63617#235#1
+Czech Republic#Nachod#50.41671#16.16289#358#1
+Czech Republic#Neratovice#50.25926#14.51759#147#1
+Czech Republic#Novy Jicin#49.59438#18.01027#315#1
+Czech Republic#Olomouc#49.59552#17.25175#253#1
+Czech Republic#Opava#49.93866#17.90257#273#1
+Czech Republic#Orlova#49.84527#18.43011#251#1
+Czech Republic#Ostrava#49.83465#18.28204#235#1
+Czech Republic#Ostrov#50.30593#12.93907#445#1
+Czech Republic#Otrokovice#49.20934#17.53944#219#1
+Czech Republic#Pardubice#50.04075#15.77659#219#1
+Czech Republic#Pelhrimov#49.43134#15.22336#534#1
+Czech Republic#Pisek#49.3088#14.1475#386#1
+Czech Republic#Plzen#49.74748#13.37759#315#1
+Czech Republic#Praha#50.08784#14.42413#245#1
+Czech Republic#Prerov#49.45511#17.4509#246#1
+Czech Republic#Pribram#49.68988#14.01043#539#1
+Czech Republic#Prosek#50.11667#14.5#272#1
+Czech Republic#Prostejov#49.47188#17.11184#229#1
+Czech Republic#Rakovnik#50.1037#13.7334#341#1
+Czech Republic#Roznov pod Radhostem#49.45853#18.14302#418#1
+Czech Republic#Sokolov#50.1813#12.6401#416#1
+Czech Republic#Stary Bohumin#49.91667#18.33333#205#1
+Czech Republic#Strakonice#49.26141#13.90237#403#1
+Czech Republic#Sumperk#49.96528#16.97061#336#1
+Czech Republic#Svitavy#49.75594#16.46829#426#1
+Czech Republic#Tabor#49.41441#14.6578#429#1
+Czech Republic#Teplice#50.6404#13.82451#240#1
+Czech Republic#Trebic#49.21492#15.88166#431#1
+Czech Republic#Trinec#49.67763#18.67078#328#1
+Czech Republic#Trutnov#50.56101#15.9127#419#1
+Czech Republic#Uherske Hradiste#49.06975#17.45969#198#1
+Czech Republic#Uhersky Brod#49.02513#17.64715#243#1
+Czech Republic#Usti nad Labem#50.6607#14.03227#230#1
+Czech Republic#Valasske Mezirici#49.47181#17.97113#325#1
+Czech Republic#Varnsdorf#50.91154#14.61823#367#1
+Czech Republic#Vsetin#49.33871#17.99619#440#1
+Czech Republic#Vyskov#49.27747#16.99897#263#1
+Czech Republic#Zatec#50.32717#13.54577#207#1
+Czech Republic#Zlin#49.21667#17.66667#317#1
+Czech Republic#Znojmo#48.8555#16.0488#224#1
